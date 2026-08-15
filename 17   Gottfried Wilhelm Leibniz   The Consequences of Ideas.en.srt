@@ -1,0 +1,4915 @@
+1
+00:00:07,799 --> 00:00:10,430
+
+the person who's thought we're going to
+
+2
+00:00:10,430 --> 00:00:10,440
+the person who's thought we're going to
+ 
+
+3
+00:00:10,440 --> 00:00:12,709
+the person who's thought we're going to
+examine today
+
+4
+00:00:12,709 --> 00:00:12,719
+examine today
+ 
+
+5
+00:00:12,719 --> 00:00:14,749
+examine today
+is usually considered one of the most
+
+6
+00:00:14,749 --> 00:00:14,759
+is usually considered one of the most
+ 
+
+7
+00:00:14,759 --> 00:00:17,029
+is usually considered one of the most
+important philosophers of the 17th
+
+8
+00:00:17,029 --> 00:00:17,039
+important philosophers of the 17th
+ 
+
+9
+00:00:17,039 --> 00:00:19,550
+important philosophers of the 17th
+century But the irony of that is this
+
+10
+00:00:19,550 --> 00:00:19,560
+century But the irony of that is this
+ 
+
+11
+00:00:19,560 --> 00:00:25,550
+century But the irony of that is this
+that by trade and by even desire
+
+12
+00:00:25,550 --> 00:00:25,560
+that by trade and by even desire
+ 
+
+13
+00:00:25,560 --> 00:00:28,070
+that by trade and by even desire
+he was not strictly speaking a
+
+14
+00:00:28,070 --> 00:00:28,080
+he was not strictly speaking a
+ 
+
+15
+00:00:28,080 --> 00:00:30,410
+he was not strictly speaking a
+philosopher philosophy was something of
+
+16
+00:00:30,410 --> 00:00:30,420
+philosopher philosophy was something of
+ 
+
+17
+00:00:30,420 --> 00:00:32,389
+philosopher philosophy was something of
+an avocation for him something he
+
+18
+00:00:32,389 --> 00:00:32,399
+an avocation for him something he
+ 
+
+19
+00:00:32,399 --> 00:00:35,209
+an avocation for him something he
+dabbled in more or less nevertheless he
+
+20
+00:00:35,209 --> 00:00:35,219
+dabbled in more or less nevertheless he
+ 
+
+21
+00:00:35,219 --> 00:00:38,270
+dabbled in more or less nevertheless he
+made some dramatic contributions to the
+
+22
+00:00:38,270 --> 00:00:38,280
+made some dramatic contributions to the
+ 
+
+23
+00:00:38,280 --> 00:00:40,430
+made some dramatic contributions to the
+history of theoretical thought
+
+24
+00:00:40,430 --> 00:00:40,440
+history of theoretical thought
+ 
+
+25
+00:00:40,440 --> 00:00:45,170
+history of theoretical thought
+his name is Gottfried Wilhelm leibniz
+
+26
+00:00:45,170 --> 00:00:45,180
+his name is Gottfried Wilhelm leibniz
+ 
+
+27
+00:00:45,180 --> 00:00:47,330
+his name is Gottfried Wilhelm leibniz
+and I'll write his name on the board
+
+28
+00:00:47,330 --> 00:00:47,340
+and I'll write his name on the board
+ 
+
+29
+00:00:47,340 --> 00:00:48,470
+and I'll write his name on the board
+because
+
+30
+00:00:48,470 --> 00:00:48,480
+because
+ 
+
+31
+00:00:48,480 --> 00:00:50,389
+because
+it's not one that you just automatically
+
+32
+00:00:50,389 --> 00:00:50,399
+it's not one that you just automatically
+ 
+
+33
+00:00:50,399 --> 00:00:53,029
+it's not one that you just automatically
+assume you can spell this is a z by the
+
+34
+00:00:53,029 --> 00:00:53,039
+assume you can spell this is a z by the
+ 
+
+35
+00:00:53,039 --> 00:00:56,869
+assume you can spell this is a z by the
+way l-e-i-b-n-i-z
+
+36
+00:00:56,869 --> 00:00:56,879
+
+ 
+
+37
+00:00:56,879 --> 00:00:59,450
+
+German philosopher who liked Descartes
+
+38
+00:00:59,450 --> 00:00:59,460
+German philosopher who liked Descartes
+ 
+
+39
+00:00:59,460 --> 00:01:02,450
+German philosopher who liked Descartes
+had been educated in the Scholastic
+
+40
+00:01:02,450 --> 00:01:02,460
+had been educated in the Scholastic
+ 
+
+41
+00:01:02,460 --> 00:01:05,890
+had been educated in the Scholastic
+tradition of the Roman Catholic Church
+
+42
+00:01:05,890 --> 00:01:05,900
+tradition of the Roman Catholic Church
+ 
+
+43
+00:01:05,900 --> 00:01:08,929
+tradition of the Roman Catholic Church
+one of his claims to fame historically
+
+44
+00:01:08,929 --> 00:01:08,939
+one of his claims to fame historically
+ 
+
+45
+00:01:08,939 --> 00:01:13,010
+one of his claims to fame historically
+is that he shares
+
+46
+00:01:13,010 --> 00:01:13,020
+is that he shares
+ 
+
+47
+00:01:13,020 --> 00:01:16,670
+is that he shares
+the historic Accolade for being the
+
+48
+00:01:16,670 --> 00:01:16,680
+the historic Accolade for being the
+ 
+
+49
+00:01:16,680 --> 00:01:20,990
+the historic Accolade for being the
+inventor of calculus with Newton
+
+50
+00:01:20,990 --> 00:01:21,000
+inventor of calculus with Newton
+ 
+
+51
+00:01:21,000 --> 00:01:24,490
+inventor of calculus with Newton
+but he was a first-rate world-class
+
+52
+00:01:24,490 --> 00:01:24,500
+but he was a first-rate world-class
+ 
+
+53
+00:01:24,500 --> 00:01:27,109
+but he was a first-rate world-class
+mathematician noticed that that was also
+
+54
+00:01:27,109 --> 00:01:27,119
+mathematician noticed that that was also
+ 
+
+55
+00:01:27,119 --> 00:01:29,690
+mathematician noticed that that was also
+true of Descartes and it was true of
+
+56
+00:01:29,690 --> 00:01:29,700
+true of Descartes and it was true of
+ 
+
+57
+00:01:29,700 --> 00:01:32,330
+true of Descartes and it was true of
+Pascal whom we'll look at later God
+
+58
+00:01:32,330 --> 00:01:32,340
+Pascal whom we'll look at later God
+ 
+
+59
+00:01:32,340 --> 00:01:35,530
+Pascal whom we'll look at later God
+willing but in any case
+
+60
+00:01:35,530 --> 00:01:35,540
+willing but in any case
+ 
+
+61
+00:01:35,540 --> 00:01:39,469
+willing but in any case
+leibniz is noted basically for three
+
+62
+00:01:39,469 --> 00:01:39,479
+leibniz is noted basically for three
+ 
+
+63
+00:01:39,479 --> 00:01:42,350
+leibniz is noted basically for three
+things in as a as a full as a
+
+64
+00:01:42,350 --> 00:01:42,360
+things in as a as a full as a
+ 
+
+65
+00:01:42,360 --> 00:01:43,789
+things in as a as a full as a
+mathematician
+
+66
+00:01:43,789 --> 00:01:43,799
+mathematician
+ 
+
+67
+00:01:43,799 --> 00:01:48,170
+mathematician
+he also became well enough known and was
+
+68
+00:01:48,170 --> 00:01:48,180
+he also became well enough known and was
+ 
+
+69
+00:01:48,180 --> 00:01:50,990
+he also became well enough known and was
+kind of a people person and was
+
+70
+00:01:50,990 --> 00:01:51,000
+kind of a people person and was
+ 
+
+71
+00:01:51,000 --> 00:01:54,050
+kind of a people person and was
+introduced into the world of diplomacy
+
+72
+00:01:54,050 --> 00:01:54,060
+introduced into the world of diplomacy
+ 
+
+73
+00:01:54,060 --> 00:01:57,889
+introduced into the world of diplomacy
+and he tried very hard to heal the
+
+74
+00:01:57,889 --> 00:01:57,899
+and he tried very hard to heal the
+ 
+
+75
+00:01:57,899 --> 00:02:00,889
+and he tried very hard to heal the
+breach between Roman Catholicism and
+
+76
+00:02:00,889 --> 00:02:00,899
+breach between Roman Catholicism and
+ 
+
+77
+00:02:00,899 --> 00:02:04,069
+breach between Roman Catholicism and
+protestantism he was a conciliatory
+
+78
+00:02:04,069 --> 00:02:04,079
+protestantism he was a conciliatory
+ 
+
+79
+00:02:04,079 --> 00:02:07,550
+protestantism he was a conciliatory
+person and he was looking for ways to
+
+80
+00:02:07,550 --> 00:02:07,560
+person and he was looking for ways to
+ 
+
+81
+00:02:07,560 --> 00:02:10,790
+person and he was looking for ways to
+bring Unity out of conflict and that was
+
+82
+00:02:10,790 --> 00:02:10,800
+bring Unity out of conflict and that was
+ 
+
+83
+00:02:10,800 --> 00:02:13,130
+bring Unity out of conflict and that was
+true not only at the political realm or
+
+84
+00:02:13,130 --> 00:02:13,140
+true not only at the political realm or
+ 
+
+85
+00:02:13,140 --> 00:02:15,830
+true not only at the political realm or
+in the ecclesiastical realm but also in
+
+86
+00:02:15,830 --> 00:02:15,840
+in the ecclesiastical realm but also in
+ 
+
+87
+00:02:15,840 --> 00:02:18,350
+in the ecclesiastical realm but also in
+the philosophical and mathematical
+
+88
+00:02:18,350 --> 00:02:18,360
+the philosophical and mathematical
+ 
+
+89
+00:02:18,360 --> 00:02:21,110
+the philosophical and mathematical
+sphere he kept coming back to his own
+
+90
+00:02:21,110 --> 00:02:21,120
+sphere he kept coming back to his own
+ 
+
+91
+00:02:21,120 --> 00:02:24,650
+sphere he kept coming back to his own
+mathematical paradigms in order to find
+
+92
+00:02:24,650 --> 00:02:24,660
+mathematical paradigms in order to find
+ 
+
+93
+00:02:24,660 --> 00:02:27,830
+mathematical paradigms in order to find
+rational solutions to problems that had
+
+94
+00:02:27,830 --> 00:02:27,840
+rational solutions to problems that had
+ 
+
+95
+00:02:27,840 --> 00:02:31,790
+rational solutions to problems that had
+become in many cases quite emotional and
+
+96
+00:02:31,790 --> 00:02:31,800
+become in many cases quite emotional and
+ 
+
+97
+00:02:31,800 --> 00:02:34,729
+become in many cases quite emotional and
+he also had the desire as car as the
+
+98
+00:02:34,729 --> 00:02:34,739
+he also had the desire as car as the
+ 
+
+99
+00:02:34,739 --> 00:02:37,369
+he also had the desire as car as the
+Disciples of Descartes did to
+
+100
+00:02:37,369 --> 00:02:37,379
+Disciples of Descartes did to
+ 
+
+101
+00:02:37,379 --> 00:02:40,250
+Disciples of Descartes did to
+reconstruct theology so that the new
+
+102
+00:02:40,250 --> 00:02:40,260
+reconstruct theology so that the new
+ 
+
+103
+00:02:40,260 --> 00:02:42,290
+reconstruct theology so that the new
+science
+
+104
+00:02:42,290 --> 00:02:42,300
+science
+ 
+
+105
+00:02:42,300 --> 00:02:44,570
+science
+which was more and more embracing a
+
+106
+00:02:44,570 --> 00:02:44,580
+which was more and more embracing a
+ 
+
+107
+00:02:44,580 --> 00:02:47,449
+which was more and more embracing a
+mechanistic view of the universe
+
+108
+00:02:47,449 --> 00:02:47,459
+mechanistic view of the universe
+ 
+
+109
+00:02:47,459 --> 00:02:51,770
+mechanistic view of the universe
+would not displace God
+
+110
+00:02:51,770 --> 00:02:51,780
+would not displace God
+ 
+
+111
+00:02:51,780 --> 00:02:55,250
+would not displace God
+and so he wanted to develop a way of
+
+112
+00:02:55,250 --> 00:02:55,260
+and so he wanted to develop a way of
+ 
+
+113
+00:02:55,260 --> 00:02:59,290
+and so he wanted to develop a way of
+making God necessary to the scientific
+
+114
+00:02:59,290 --> 00:02:59,300
+making God necessary to the scientific
+ 
+
+115
+00:02:59,300 --> 00:03:02,330
+making God necessary to the scientific
+theories of his day
+
+116
+00:03:02,330 --> 00:03:02,340
+theories of his day
+ 
+
+117
+00:03:02,340 --> 00:03:05,630
+theories of his day
+now he didn't embrace occasionalism
+
+118
+00:03:05,630 --> 00:03:05,640
+now he didn't embrace occasionalism
+ 
+
+119
+00:03:05,640 --> 00:03:09,770
+now he didn't embrace occasionalism
+as the French Disciples of Descartes did
+
+120
+00:03:09,770 --> 00:03:09,780
+as the French Disciples of Descartes did
+ 
+
+121
+00:03:09,780 --> 00:03:13,910
+as the French Disciples of Descartes did
+but he developed a very elaborate theory
+
+122
+00:03:13,910 --> 00:03:13,920
+but he developed a very elaborate theory
+ 
+
+123
+00:03:13,920 --> 00:03:15,649
+but he developed a very elaborate theory
+of metaphysics
+
+124
+00:03:15,649 --> 00:03:15,659
+of metaphysics
+ 
+
+125
+00:03:15,659 --> 00:03:18,890
+of metaphysics
+that is interesting virtually no one
+
+126
+00:03:18,890 --> 00:03:18,900
+that is interesting virtually no one
+ 
+
+127
+00:03:18,900 --> 00:03:21,589
+that is interesting virtually no one
+accepts it today but it's interesting
+
+128
+00:03:21,589 --> 00:03:21,599
+accepts it today but it's interesting
+ 
+
+129
+00:03:21,599 --> 00:03:25,430
+accepts it today but it's interesting
+and it's called his system of monad
+
+130
+00:03:25,430 --> 00:03:25,440
+and it's called his system of monad
+ 
+
+131
+00:03:25,440 --> 00:03:27,290
+and it's called his system of monad
+ology
+
+132
+00:03:27,290 --> 00:03:27,300
+ology
+ 
+
+133
+00:03:27,300 --> 00:03:30,110
+ology
+and that's one of the Innovations for
+
+134
+00:03:30,110 --> 00:03:30,120
+and that's one of the Innovations for
+ 
+
+135
+00:03:30,120 --> 00:03:31,850
+and that's one of the Innovations for
+which he is famous
+
+136
+00:03:31,850 --> 00:03:31,860
+which he is famous
+ 
+
+137
+00:03:31,860 --> 00:03:35,690
+which he is famous
+the second Innovation for which he is
+
+138
+00:03:35,690 --> 00:03:35,700
+the second Innovation for which he is
+ 
+
+139
+00:03:35,700 --> 00:03:36,710
+the second Innovation for which he is
+famous
+
+140
+00:03:36,710 --> 00:03:36,720
+famous
+ 
+
+141
+00:03:36,720 --> 00:03:39,890
+famous
+is the development of what is called the
+
+142
+00:03:39,890 --> 00:03:39,900
+is the development of what is called the
+ 
+
+143
+00:03:39,900 --> 00:03:40,910
+is the development of what is called the
+law
+
+144
+00:03:40,910 --> 00:03:40,920
+law
+ 
+
+145
+00:03:40,920 --> 00:03:44,390
+law
+of pre-established
+
+146
+00:03:44,390 --> 00:03:44,400
+of pre-established
+ 
+
+147
+00:03:44,400 --> 00:03:46,550
+of pre-established
+Harmony
+
+148
+00:03:46,550 --> 00:03:46,560
+Harmony
+ 
+
+149
+00:03:46,560 --> 00:03:49,190
+Harmony
+but that for which he's perhaps most
+
+150
+00:03:49,190 --> 00:03:49,200
+but that for which he's perhaps most
+ 
+
+151
+00:03:49,200 --> 00:03:55,130
+but that for which he's perhaps most
+famous is for his delicate theodicy
+
+152
+00:03:55,130 --> 00:03:55,140
+famous is for his delicate theodicy
+ 
+
+153
+00:03:55,140 --> 00:03:58,070
+famous is for his delicate theodicy
+I'm going to go over these quickly today
+
+154
+00:03:58,070 --> 00:03:58,080
+I'm going to go over these quickly today
+ 
+
+155
+00:03:58,080 --> 00:04:00,589
+I'm going to go over these quickly today
+and hope I don't cause you to swim in
+
+156
+00:04:00,589 --> 00:04:00,599
+and hope I don't cause you to swim in
+ 
+
+157
+00:04:00,599 --> 00:04:03,229
+and hope I don't cause you to swim in
+the soup of confusion I'm going to be
+
+158
+00:04:03,229 --> 00:04:03,239
+the soup of confusion I'm going to be
+ 
+
+159
+00:04:03,239 --> 00:04:04,910
+the soup of confusion I'm going to be
+very brief about this first point
+
+160
+00:04:04,910 --> 00:04:04,920
+very brief about this first point
+ 
+
+161
+00:04:04,920 --> 00:04:08,149
+very brief about this first point
+because of all of the aspects of leibniz
+
+162
+00:04:08,149 --> 00:04:08,159
+because of all of the aspects of leibniz
+ 
+
+163
+00:04:08,159 --> 00:04:11,030
+because of all of the aspects of leibniz
+thought the one that is most complex and
+
+164
+00:04:11,030 --> 00:04:11,040
+thought the one that is most complex and
+ 
+
+165
+00:04:11,040 --> 00:04:14,449
+thought the one that is most complex and
+most difficult to handle in brief is his
+
+166
+00:04:14,449 --> 00:04:14,459
+most difficult to handle in brief is his
+ 
+
+167
+00:04:14,459 --> 00:04:16,430
+most difficult to handle in brief is his
+whole system of thought called
+
+168
+00:04:16,430 --> 00:04:16,440
+whole system of thought called
+ 
+
+169
+00:04:16,440 --> 00:04:18,469
+whole system of thought called
+monadology
+
+170
+00:04:18,469 --> 00:04:18,479
+monadology
+ 
+
+171
+00:04:18,479 --> 00:04:22,430
+monadology
+in his understanding of reality
+
+172
+00:04:22,430 --> 00:04:22,440
+in his understanding of reality
+ 
+
+173
+00:04:22,440 --> 00:04:25,550
+in his understanding of reality
+he believed that the world was made up
+
+174
+00:04:25,550 --> 00:04:25,560
+he believed that the world was made up
+ 
+
+175
+00:04:25,560 --> 00:04:30,010
+he believed that the world was made up
+and all things were made up of tiny
+
+176
+00:04:30,010 --> 00:04:30,020
+and all things were made up of tiny
+ 
+
+177
+00:04:30,020 --> 00:04:33,650
+and all things were made up of tiny
+little units
+
+178
+00:04:33,650 --> 00:04:33,660
+little units
+ 
+
+179
+00:04:33,660 --> 00:04:35,210
+little units
+of
+
+180
+00:04:35,210 --> 00:04:35,220
+of
+ 
+
+181
+00:04:35,220 --> 00:04:38,810
+of
+life or of reality
+
+182
+00:04:38,810 --> 00:04:38,820
+life or of reality
+ 
+
+183
+00:04:38,820 --> 00:04:41,650
+life or of reality
+that again had very strange
+
+184
+00:04:41,650 --> 00:04:41,660
+that again had very strange
+ 
+
+185
+00:04:41,660 --> 00:04:43,909
+that again had very strange
+characteristics to them
+
+186
+00:04:43,909 --> 00:04:43,919
+characteristics to them
+ 
+
+187
+00:04:43,919 --> 00:04:46,189
+characteristics to them
+and as I said that's about all I'm going
+
+188
+00:04:46,189 --> 00:04:46,199
+and as I said that's about all I'm going
+ 
+
+189
+00:04:46,199 --> 00:04:49,070
+and as I said that's about all I'm going
+to say about it except that these
+
+190
+00:04:49,070 --> 00:04:49,080
+to say about it except that these
+ 
+
+191
+00:04:49,080 --> 00:04:54,110
+to say about it except that these
+individual units or monads about which
+
+192
+00:04:54,110 --> 00:04:54,120
+individual units or monads about which
+ 
+
+193
+00:04:54,120 --> 00:04:58,030
+individual units or monads about which
+he theorized had no
+
+194
+00:04:58,030 --> 00:04:58,040
+he theorized had no
+ 
+
+195
+00:04:58,040 --> 00:05:03,290
+he theorized had no
+secondary causality between them
+
+196
+00:05:03,290 --> 00:05:03,300
+
+ 
+
+197
+00:05:03,300 --> 00:05:06,230
+
+they had no secondary causality between
+
+198
+00:05:06,230 --> 00:05:06,240
+they had no secondary causality between
+ 
+
+199
+00:05:06,240 --> 00:05:07,670
+they had no secondary causality between
+them now remember what we mean by
+
+200
+00:05:07,670 --> 00:05:07,680
+them now remember what we mean by
+ 
+
+201
+00:05:07,680 --> 00:05:10,670
+them now remember what we mean by
+secondary causality the idea that one
+
+202
+00:05:10,670 --> 00:05:10,680
+secondary causality the idea that one
+ 
+
+203
+00:05:10,680 --> 00:05:13,490
+secondary causality the idea that one
+force imparts uh energy or Force to
+
+204
+00:05:13,490 --> 00:05:13,500
+force imparts uh energy or Force to
+ 
+
+205
+00:05:13,500 --> 00:05:14,930
+force imparts uh energy or Force to
+something else
+
+206
+00:05:14,930 --> 00:05:14,940
+something else
+ 
+
+207
+00:05:14,940 --> 00:05:18,050
+something else
+but these tiny little
+
+208
+00:05:18,050 --> 00:05:18,060
+but these tiny little
+ 
+
+209
+00:05:18,060 --> 00:05:20,930
+but these tiny little
+units of which everything is made or in
+
+210
+00:05:20,930 --> 00:05:20,940
+units of which everything is made or in
+ 
+
+211
+00:05:20,940 --> 00:05:23,270
+units of which everything is made or in
+each one was kind of a microcosm of the
+
+212
+00:05:23,270 --> 00:05:23,280
+each one was kind of a microcosm of the
+ 
+
+213
+00:05:23,280 --> 00:05:25,249
+each one was kind of a microcosm of the
+whole universe
+
+214
+00:05:25,249 --> 00:05:25,259
+whole universe
+ 
+
+215
+00:05:25,259 --> 00:05:29,450
+whole universe
+and each one had a kind of ability to be
+
+216
+00:05:29,450 --> 00:05:29,460
+and each one had a kind of ability to be
+ 
+
+217
+00:05:29,460 --> 00:05:33,469
+and each one had a kind of ability to be
+alive or to have what he called petite
+
+218
+00:05:33,469 --> 00:05:33,479
+alive or to have what he called petite
+ 
+
+219
+00:05:33,479 --> 00:05:38,270
+alive or to have what he called petite
+perceptions you are a perceiving being
+
+220
+00:05:38,270 --> 00:05:38,280
+perceptions you are a perceiving being
+ 
+
+221
+00:05:38,280 --> 00:05:41,510
+perceptions you are a perceiving being
+you think you see you taste you touch
+
+222
+00:05:41,510 --> 00:05:41,520
+you think you see you taste you touch
+ 
+
+223
+00:05:41,520 --> 00:05:43,909
+you think you see you taste you touch
+you smell and so on and you have a
+
+224
+00:05:43,909 --> 00:05:43,919
+you smell and so on and you have a
+ 
+
+225
+00:05:43,919 --> 00:05:45,770
+you smell and so on and you have a
+highly developed sense of Consciousness
+
+226
+00:05:45,770 --> 00:05:45,780
+highly developed sense of Consciousness
+ 
+
+227
+00:05:45,780 --> 00:05:48,350
+highly developed sense of Consciousness
+and your ability to think and reflect
+
+228
+00:05:48,350 --> 00:05:48,360
+and your ability to think and reflect
+ 
+
+229
+00:05:48,360 --> 00:05:51,170
+and your ability to think and reflect
+upon things but for aliveness the whole
+
+230
+00:05:51,170 --> 00:05:51,180
+upon things but for aliveness the whole
+ 
+
+231
+00:05:51,180 --> 00:05:53,510
+upon things but for aliveness the whole
+world is alive because the whole world
+
+232
+00:05:53,510 --> 00:05:53,520
+world is alive because the whole world
+ 
+
+233
+00:05:53,520 --> 00:05:56,150
+world is alive because the whole world
+is made up of these little monads each
+
+234
+00:05:56,150 --> 00:05:56,160
+is made up of these little monads each
+ 
+
+235
+00:05:56,160 --> 00:06:00,710
+is made up of these little monads each
+monad at least has vague simple basic
+
+236
+00:06:00,710 --> 00:06:00,720
+monad at least has vague simple basic
+ 
+
+237
+00:06:00,720 --> 00:06:02,629
+monad at least has vague simple basic
+perceptions
+
+238
+00:06:02,629 --> 00:06:02,639
+perceptions
+ 
+
+239
+00:06:02,639 --> 00:06:04,550
+perceptions
+of the world
+
+240
+00:06:04,550 --> 00:06:04,560
+of the world
+ 
+
+241
+00:06:04,560 --> 00:06:06,890
+of the world
+so it's not all that far from the
+
+242
+00:06:06,890 --> 00:06:06,900
+so it's not all that far from the
+ 
+
+243
+00:06:06,900 --> 00:06:10,189
+so it's not all that far from the
+American Indians idea that everything is
+
+244
+00:06:10,189 --> 00:06:10,199
+American Indians idea that everything is
+ 
+
+245
+00:06:10,199 --> 00:06:13,909
+American Indians idea that everything is
+alive including rocks and so on uh this
+
+246
+00:06:13,909 --> 00:06:13,919
+alive including rocks and so on uh this
+ 
+
+247
+00:06:13,919 --> 00:06:15,290
+alive including rocks and so on uh this
+is one of the things that prompted
+
+248
+00:06:15,290 --> 00:06:15,300
+is one of the things that prompted
+ 
+
+249
+00:06:15,300 --> 00:06:18,350
+is one of the things that prompted
+Edward's question uh later what do
+
+250
+00:06:18,350 --> 00:06:18,360
+Edward's question uh later what do
+ 
+
+251
+00:06:18,360 --> 00:06:21,650
+Edward's question uh later what do
+sleeping rocks dream of you know they
+
+252
+00:06:21,650 --> 00:06:21,660
+sleeping rocks dream of you know they
+ 
+
+253
+00:06:21,660 --> 00:06:24,230
+sleeping rocks dream of you know they
+were having their own petite perceptions
+
+254
+00:06:24,230 --> 00:06:24,240
+were having their own petite perceptions
+ 
+
+255
+00:06:24,240 --> 00:06:26,330
+were having their own petite perceptions
+but in any course his answer was nothing
+
+256
+00:06:26,330 --> 00:06:26,340
+but in any course his answer was nothing
+ 
+
+257
+00:06:26,340 --> 00:06:29,570
+but in any course his answer was nothing
+but in any case that where the
+
+258
+00:06:29,570 --> 00:06:29,580
+but in any case that where the
+ 
+
+259
+00:06:29,580 --> 00:06:32,150
+but in any case that where the
+monetology comes in to our consideration
+
+260
+00:06:32,150 --> 00:06:32,160
+monetology comes in to our consideration
+ 
+
+261
+00:06:32,160 --> 00:06:35,510
+monetology comes in to our consideration
+of this whole question of causality is
+
+262
+00:06:35,510 --> 00:06:35,520
+of this whole question of causality is
+ 
+
+263
+00:06:35,520 --> 00:06:36,950
+of this whole question of causality is
+at this point
+
+264
+00:06:36,950 --> 00:06:36,960
+at this point
+ 
+
+265
+00:06:36,960 --> 00:06:38,809
+at this point
+he believes
+
+266
+00:06:38,809 --> 00:06:38,819
+he believes
+ 
+
+267
+00:06:38,819 --> 00:06:41,990
+he believes
+that from all eternity
+
+268
+00:06:41,990 --> 00:06:42,000
+that from all eternity
+ 
+
+269
+00:06:42,000 --> 00:06:45,710
+that from all eternity
+God who creates everything on the basis
+
+270
+00:06:45,710 --> 00:06:45,720
+God who creates everything on the basis
+ 
+
+271
+00:06:45,720 --> 00:06:52,210
+God who creates everything on the basis
+of these units of being called monads
+
+272
+00:06:52,210 --> 00:06:52,220
+
+ 
+
+273
+00:06:52,220 --> 00:06:55,610
+
+programs each one of these individual
+
+274
+00:06:55,610 --> 00:06:55,620
+programs each one of these individual
+ 
+
+275
+00:06:55,620 --> 00:06:57,590
+programs each one of these individual
+units
+
+276
+00:06:57,590 --> 00:06:57,600
+units
+ 
+
+277
+00:06:57,600 --> 00:06:59,809
+units
+with their perceptions with their
+
+278
+00:06:59,809 --> 00:06:59,819
+with their perceptions with their
+ 
+
+279
+00:06:59,819 --> 00:07:02,450
+with their perceptions with their
+thoughts with whatever they had
+
+280
+00:07:02,450 --> 00:07:02,460
+thoughts with whatever they had
+ 
+
+281
+00:07:02,460 --> 00:07:05,330
+thoughts with whatever they had
+from all eternity
+
+282
+00:07:05,330 --> 00:07:05,340
+from all eternity
+ 
+
+283
+00:07:05,340 --> 00:07:09,290
+from all eternity
+so again though the each monad does not
+
+284
+00:07:09,290 --> 00:07:09,300
+so again though the each monad does not
+ 
+
+285
+00:07:09,300 --> 00:07:13,550
+so again though the each monad does not
+interact with each other monad by
+
+286
+00:07:13,550 --> 00:07:13,560
+interact with each other monad by
+ 
+
+287
+00:07:13,560 --> 00:07:15,710
+interact with each other monad by
+imparting any kind of secondary
+
+288
+00:07:15,710 --> 00:07:15,720
+imparting any kind of secondary
+ 
+
+289
+00:07:15,720 --> 00:07:18,710
+imparting any kind of secondary
+causality to them
+
+290
+00:07:18,710 --> 00:07:18,720
+causality to them
+ 
+
+291
+00:07:18,720 --> 00:07:21,469
+causality to them
+but nevertheless the Relationships by
+
+292
+00:07:21,469 --> 00:07:21,479
+but nevertheless the Relationships by
+ 
+
+293
+00:07:21,479 --> 00:07:24,409
+but nevertheless the Relationships by
+which these virtually infinite number of
+
+294
+00:07:24,409 --> 00:07:24,419
+which these virtually infinite number of
+ 
+
+295
+00:07:24,419 --> 00:07:27,890
+which these virtually infinite number of
+monads coalesce and operate together and
+
+296
+00:07:27,890 --> 00:07:27,900
+monads coalesce and operate together and
+ 
+
+297
+00:07:27,900 --> 00:07:30,650
+monads coalesce and operate together and
+make up reality as we see it are all
+
+298
+00:07:30,650 --> 00:07:30,660
+make up reality as we see it are all
+ 
+
+299
+00:07:30,660 --> 00:07:33,469
+make up reality as we see it are all
+done by a sort of computer chip that was
+
+300
+00:07:33,469 --> 00:07:33,479
+done by a sort of computer chip that was
+ 
+
+301
+00:07:33,479 --> 00:07:36,170
+done by a sort of computer chip that was
+put into each one of them by the Creator
+
+302
+00:07:36,170 --> 00:07:36,180
+put into each one of them by the Creator
+ 
+
+303
+00:07:36,180 --> 00:07:39,770
+put into each one of them by the Creator
+at the beginning of time
+
+304
+00:07:39,770 --> 00:07:39,780
+at the beginning of time
+ 
+
+305
+00:07:39,780 --> 00:07:42,830
+at the beginning of time
+so again the difference between this and
+
+306
+00:07:42,830 --> 00:07:42,840
+so again the difference between this and
+ 
+
+307
+00:07:42,840 --> 00:07:45,409
+so again the difference between this and
+the occasionalist was the occasionalists
+
+308
+00:07:45,409 --> 00:07:45,419
+the occasionalist was the occasionalists
+ 
+
+309
+00:07:45,419 --> 00:07:48,589
+the occasionalist was the occasionalists
+have God intervening at every second to
+
+310
+00:07:48,589 --> 00:07:48,599
+have God intervening at every second to
+ 
+
+311
+00:07:48,599 --> 00:07:52,670
+have God intervening at every second to
+exercise his divine power
+
+312
+00:07:52,670 --> 00:07:52,680
+exercise his divine power
+ 
+
+313
+00:07:52,680 --> 00:07:55,790
+exercise his divine power
+and they denied secondary causes
+
+314
+00:07:55,790 --> 00:07:55,800
+and they denied secondary causes
+ 
+
+315
+00:07:55,800 --> 00:07:58,070
+and they denied secondary causes
+well there's also a kind of denial of
+
+316
+00:07:58,070 --> 00:07:58,080
+well there's also a kind of denial of
+ 
+
+317
+00:07:58,080 --> 00:08:00,950
+well there's also a kind of denial of
+secondary causality here with leibniz
+
+318
+00:08:00,950 --> 00:08:00,960
+secondary causality here with leibniz
+ 
+
+319
+00:08:00,960 --> 00:08:04,909
+secondary causality here with leibniz
+and again putting back all power to God
+
+320
+00:08:04,909 --> 00:08:04,919
+and again putting back all power to God
+ 
+
+321
+00:08:04,919 --> 00:08:07,249
+and again putting back all power to God
+but it's not that God is intervening
+
+322
+00:08:07,249 --> 00:08:07,259
+but it's not that God is intervening
+ 
+
+323
+00:08:07,259 --> 00:08:09,770
+but it's not that God is intervening
+every second along the way but this was
+
+324
+00:08:09,770 --> 00:08:09,780
+every second along the way but this was
+ 
+
+325
+00:08:09,780 --> 00:08:14,210
+every second along the way but this was
+his form of scientific predestination
+
+326
+00:08:14,210 --> 00:08:14,220
+his form of scientific predestination
+ 
+
+327
+00:08:14,220 --> 00:08:16,969
+his form of scientific predestination
+not a blind determinism of blind
+
+328
+00:08:16,969 --> 00:08:16,979
+not a blind determinism of blind
+ 
+
+329
+00:08:16,979 --> 00:08:19,689
+not a blind determinism of blind
+impersonal forces but a theological
+
+330
+00:08:19,689 --> 00:08:19,699
+impersonal forces but a theological
+ 
+
+331
+00:08:19,699 --> 00:08:22,450
+impersonal forces but a theological
+predestination that's built into
+
+332
+00:08:22,450 --> 00:08:22,460
+predestination that's built into
+ 
+
+333
+00:08:22,460 --> 00:08:26,330
+predestination that's built into
+everything that takes place in the
+
+334
+00:08:26,330 --> 00:08:26,340
+everything that takes place in the
+ 
+
+335
+00:08:26,340 --> 00:08:27,650
+everything that takes place in the
+universe
+
+336
+00:08:27,650 --> 00:08:27,660
+universe
+ 
+
+337
+00:08:27,660 --> 00:08:30,409
+universe
+so that the Universe for him is not a
+
+338
+00:08:30,409 --> 00:08:30,419
+so that the Universe for him is not a
+ 
+
+339
+00:08:30,419 --> 00:08:33,110
+so that the Universe for him is not a
+mechanical system it's a theological
+
+340
+00:08:33,110 --> 00:08:33,120
+mechanical system it's a theological
+ 
+
+341
+00:08:33,120 --> 00:08:34,790
+mechanical system it's a theological
+system
+
+342
+00:08:34,790 --> 00:08:34,800
+system
+ 
+
+343
+00:08:34,800 --> 00:08:37,850
+system
+again he is trying to rescue God from
+
+344
+00:08:37,850 --> 00:08:37,860
+again he is trying to rescue God from
+ 
+
+345
+00:08:37,860 --> 00:08:38,769
+again he is trying to rescue God from
+being
+
+346
+00:08:38,769 --> 00:08:38,779
+being
+ 
+
+347
+00:08:38,779 --> 00:08:41,029
+being
+displaced by
+
+348
+00:08:41,029 --> 00:08:41,039
+displaced by
+ 
+
+349
+00:08:41,039 --> 00:08:44,930
+displaced by
+physical science now it's the third item
+
+350
+00:08:44,930 --> 00:08:44,940
+physical science now it's the third item
+ 
+
+351
+00:08:44,940 --> 00:08:47,269
+physical science now it's the third item
+that I'm most interested in speaking
+
+352
+00:08:47,269 --> 00:08:47,279
+that I'm most interested in speaking
+ 
+
+353
+00:08:47,279 --> 00:08:49,850
+that I'm most interested in speaking
+about today with respect to alignments
+
+354
+00:08:49,850 --> 00:08:49,860
+about today with respect to alignments
+ 
+
+355
+00:08:49,860 --> 00:08:52,790
+about today with respect to alignments
+because leibniz produces for us one of
+
+356
+00:08:52,790 --> 00:08:52,800
+because leibniz produces for us one of
+ 
+
+357
+00:08:52,800 --> 00:08:54,009
+because leibniz produces for us one of
+the most famous
+
+358
+00:08:54,009 --> 00:08:54,019
+the most famous
+ 
+
+359
+00:08:54,019 --> 00:08:58,610
+the most famous
+theological theodices of all time
+
+360
+00:08:58,610 --> 00:08:58,620
+theological theodices of all time
+ 
+
+361
+00:08:58,620 --> 00:09:02,750
+theological theodices of all time
+the term theodicy
+
+362
+00:09:02,750 --> 00:09:02,760
+
+ 
+
+363
+00:09:02,760 --> 00:09:05,750
+
+is a term that's made up of two Roots
+
+364
+00:09:05,750 --> 00:09:05,760
+is a term that's made up of two Roots
+ 
+
+365
+00:09:05,760 --> 00:09:09,170
+is a term that's made up of two Roots
+there is the Greek word Theos which
+
+366
+00:09:09,170 --> 00:09:09,180
+there is the Greek word Theos which
+ 
+
+367
+00:09:09,180 --> 00:09:10,130
+there is the Greek word Theos which
+means
+
+368
+00:09:10,130 --> 00:09:10,140
+means
+ 
+
+369
+00:09:10,140 --> 00:09:13,250
+means
+God which we get the word theology
+
+370
+00:09:13,250 --> 00:09:13,260
+God which we get the word theology
+ 
+
+371
+00:09:13,260 --> 00:09:17,269
+God which we get the word theology
+and the word dick iOS or dickasune which
+
+372
+00:09:17,269 --> 00:09:17,279
+and the word dick iOS or dickasune which
+ 
+
+373
+00:09:17,279 --> 00:09:20,389
+and the word dick iOS or dickasune which
+as the word for justness or
+
+374
+00:09:20,389 --> 00:09:20,399
+as the word for justness or
+ 
+
+375
+00:09:20,399 --> 00:09:22,850
+as the word for justness or
+righteousness in Greek
+
+376
+00:09:22,850 --> 00:09:22,860
+righteousness in Greek
+ 
+
+377
+00:09:22,860 --> 00:09:27,410
+righteousness in Greek
+and so a theodicy is an intellectual
+
+378
+00:09:27,410 --> 00:09:27,420
+and so a theodicy is an intellectual
+ 
+
+379
+00:09:27,420 --> 00:09:29,269
+and so a theodicy is an intellectual
+attempt
+
+380
+00:09:29,269 --> 00:09:29,279
+attempt
+ 
+
+381
+00:09:29,279 --> 00:09:32,030
+attempt
+to justify God
+
+382
+00:09:32,030 --> 00:09:32,040
+to justify God
+ 
+
+383
+00:09:32,040 --> 00:09:35,030
+to justify God
+or to State it in another way a theodicy
+
+384
+00:09:35,030 --> 00:09:35,040
+or to State it in another way a theodicy
+ 
+
+385
+00:09:35,040 --> 00:09:37,310
+or to State it in another way a theodicy
+is a justification of God
+
+386
+00:09:37,310 --> 00:09:37,320
+is a justification of God
+ 
+
+387
+00:09:37,320 --> 00:09:39,350
+is a justification of God
+well why would God ever need to be
+
+388
+00:09:39,350 --> 00:09:39,360
+well why would God ever need to be
+ 
+
+389
+00:09:39,360 --> 00:09:40,910
+well why would God ever need to be
+justified
+
+390
+00:09:40,910 --> 00:09:40,920
+justified
+ 
+
+391
+00:09:40,920 --> 00:09:44,930
+justified
+well the big problem in theology
+
+392
+00:09:44,930 --> 00:09:44,940
+well the big problem in theology
+ 
+
+393
+00:09:44,940 --> 00:09:49,310
+well the big problem in theology
+at and in philosophy is the problem of
+
+394
+00:09:49,310 --> 00:09:49,320
+at and in philosophy is the problem of
+ 
+
+395
+00:09:49,320 --> 00:09:50,870
+at and in philosophy is the problem of
+evil
+
+396
+00:09:50,870 --> 00:09:50,880
+evil
+ 
+
+397
+00:09:50,880 --> 00:09:53,570
+evil
+if one is going to affirm the existence
+
+398
+00:09:53,570 --> 00:09:53,580
+if one is going to affirm the existence
+ 
+
+399
+00:09:53,580 --> 00:09:56,570
+if one is going to affirm the existence
+of God and attribute to that God who is
+
+400
+00:09:56,570 --> 00:09:56,580
+of God and attribute to that God who is
+ 
+
+401
+00:09:56,580 --> 00:09:59,210
+of God and attribute to that God who is
+the creator of all things the attribute
+
+402
+00:09:59,210 --> 00:09:59,220
+the creator of all things the attribute
+ 
+
+403
+00:09:59,220 --> 00:10:01,130
+the creator of all things the attribute
+of goodness
+
+404
+00:10:01,130 --> 00:10:01,140
+of goodness
+ 
+
+405
+00:10:01,140 --> 00:10:04,550
+of goodness
+then the basic question is how can a
+
+406
+00:10:04,550 --> 00:10:04,560
+then the basic question is how can a
+ 
+
+407
+00:10:04,560 --> 00:10:06,110
+then the basic question is how can a
+good God
+
+408
+00:10:06,110 --> 00:10:06,120
+good God
+ 
+
+409
+00:10:06,120 --> 00:10:08,329
+good God
+have a world
+
+410
+00:10:08,329 --> 00:10:08,339
+have a world
+ 
+
+411
+00:10:08,339 --> 00:10:14,269
+have a world
+where evil exists if God is perfect why
+
+412
+00:10:14,269 --> 00:10:14,279
+where evil exists if God is perfect why
+ 
+
+413
+00:10:14,279 --> 00:10:19,190
+where evil exists if God is perfect why
+is his handiwork so imperfect I think
+
+414
+00:10:19,190 --> 00:10:19,200
+is his handiwork so imperfect I think
+ 
+
+415
+00:10:19,200 --> 00:10:22,310
+is his handiwork so imperfect I think
+we've all wrestled at some time over the
+
+416
+00:10:22,310 --> 00:10:22,320
+we've all wrestled at some time over the
+ 
+
+417
+00:10:22,320 --> 00:10:26,389
+we've all wrestled at some time over the
+question of the origin of evil where did
+
+418
+00:10:26,389 --> 00:10:26,399
+question of the origin of evil where did
+ 
+
+419
+00:10:26,399 --> 00:10:29,509
+question of the origin of evil where did
+Evil come from how did Evil
+
+420
+00:10:29,509 --> 00:10:29,519
+Evil come from how did Evil
+ 
+
+421
+00:10:29,519 --> 00:10:32,090
+Evil come from how did Evil
+begin in history
+
+422
+00:10:32,090 --> 00:10:32,100
+begin in history
+ 
+
+423
+00:10:32,100 --> 00:10:34,850
+begin in history
+I remember as a brand new Christian I
+
+424
+00:10:34,850 --> 00:10:34,860
+I remember as a brand new Christian I
+ 
+
+425
+00:10:34,860 --> 00:10:36,590
+I remember as a brand new Christian I
+hadn't thought about that at all and one
+
+426
+00:10:36,590 --> 00:10:36,600
+hadn't thought about that at all and one
+ 
+
+427
+00:10:36,600 --> 00:10:38,449
+hadn't thought about that at all and one
+day I was playing ping pong in the
+
+428
+00:10:38,449 --> 00:10:38,459
+day I was playing ping pong in the
+ 
+
+429
+00:10:38,459 --> 00:10:40,370
+day I was playing ping pong in the
+basement of the Freshman dormitory and I
+
+430
+00:10:40,370 --> 00:10:40,380
+basement of the Freshman dormitory and I
+ 
+
+431
+00:10:40,380 --> 00:10:42,710
+basement of the Freshman dormitory and I
+was playing my mind was engrossed in a
+
+432
+00:10:42,710 --> 00:10:42,720
+was playing my mind was engrossed in a
+ 
+
+433
+00:10:42,720 --> 00:10:44,990
+was playing my mind was engrossed in a
+ping-pong game and Oliver wants it hit
+
+434
+00:10:44,990 --> 00:10:45,000
+ping-pong game and Oliver wants it hit
+ 
+
+435
+00:10:45,000 --> 00:10:47,509
+ping-pong game and Oliver wants it hit
+me like a ton of bricks you believe in
+
+436
+00:10:47,509 --> 00:10:47,519
+me like a ton of bricks you believe in
+ 
+
+437
+00:10:47,519 --> 00:10:48,590
+me like a ton of bricks you believe in
+God but
+
+438
+00:10:48,590 --> 00:10:48,600
+God but
+ 
+
+439
+00:10:48,600 --> 00:10:50,210
+God but
+there's so much evil in the world
+
+440
+00:10:50,210 --> 00:10:50,220
+there's so much evil in the world
+ 
+
+441
+00:10:50,220 --> 00:10:52,370
+there's so much evil in the world
+there's so much wrong in the world how
+
+442
+00:10:52,370 --> 00:10:52,380
+there's so much wrong in the world how
+ 
+
+443
+00:10:52,380 --> 00:10:54,430
+there's so much wrong in the world how
+could that happen How could a good God
+
+444
+00:10:54,430 --> 00:10:54,440
+could that happen How could a good God
+ 
+
+445
+00:10:54,440 --> 00:10:59,930
+could that happen How could a good God
+allow bad things to coexist with him
+
+446
+00:10:59,930 --> 00:10:59,940
+allow bad things to coexist with him
+ 
+
+447
+00:10:59,940 --> 00:11:01,790
+allow bad things to coexist with him
+so as soon as you raise that question
+
+448
+00:11:01,790 --> 00:11:01,800
+so as soon as you raise that question
+ 
+
+449
+00:11:01,800 --> 00:11:05,389
+so as soon as you raise that question
+about evil
+
+450
+00:11:05,389 --> 00:11:05,399
+about evil
+ 
+
+451
+00:11:05,399 --> 00:11:07,670
+about evil
+you're then if you affirm the existence
+
+452
+00:11:07,670 --> 00:11:07,680
+you're then if you affirm the existence
+ 
+
+453
+00:11:07,680 --> 00:11:09,350
+you're then if you affirm the existence
+of God you're now faced with the
+
+454
+00:11:09,350 --> 00:11:09,360
+of God you're now faced with the
+ 
+
+455
+00:11:09,360 --> 00:11:13,730
+of God you're now faced with the
+question of justifying a good God for
+
+456
+00:11:13,730 --> 00:11:13,740
+question of justifying a good God for
+ 
+
+457
+00:11:13,740 --> 00:11:18,050
+question of justifying a good God for
+creating a universe that is Fallen
+
+458
+00:11:18,050 --> 00:11:18,060
+creating a universe that is Fallen
+ 
+
+459
+00:11:18,060 --> 00:11:20,509
+creating a universe that is Fallen
+some have called this the Achilles heel
+
+460
+00:11:20,509 --> 00:11:20,519
+some have called this the Achilles heel
+ 
+
+461
+00:11:20,519 --> 00:11:22,910
+some have called this the Achilles heel
+of the Christian faith and the most
+
+462
+00:11:22,910 --> 00:11:22,920
+of the Christian faith and the most
+ 
+
+463
+00:11:22,920 --> 00:11:26,030
+of the Christian faith and the most
+difficult theological problem we face
+
+464
+00:11:26,030 --> 00:11:26,040
+difficult theological problem we face
+ 
+
+465
+00:11:26,040 --> 00:11:29,410
+difficult theological problem we face
+all right well let's look at how leibniz
+
+466
+00:11:29,410 --> 00:11:29,420
+all right well let's look at how leibniz
+ 
+
+467
+00:11:29,420 --> 00:11:33,530
+all right well let's look at how leibniz
+approached this question in brief
+
+468
+00:11:33,530 --> 00:11:33,540
+approached this question in brief
+ 
+
+469
+00:11:33,540 --> 00:11:35,810
+approached this question in brief
+first of all in his approach to the
+
+470
+00:11:35,810 --> 00:11:35,820
+first of all in his approach to the
+ 
+
+471
+00:11:35,820 --> 00:11:38,690
+first of all in his approach to the
+question he made a distinction among
+
+472
+00:11:38,690 --> 00:11:38,700
+question he made a distinction among
+ 
+
+473
+00:11:38,700 --> 00:11:45,170
+question he made a distinction among
+three distinct types of evil
+
+474
+00:11:45,170 --> 00:11:45,180
+
+ 
+
+475
+00:11:45,180 --> 00:11:47,389
+
+first of all there is what he called
+
+476
+00:11:47,389 --> 00:11:47,399
+first of all there is what he called
+ 
+
+477
+00:11:47,399 --> 00:11:55,550
+first of all there is what he called
+metaphysical evil
+
+478
+00:11:55,550 --> 00:11:55,560
+
+ 
+
+479
+00:11:55,560 --> 00:11:57,490
+
+and I'll give a definition of that
+
+480
+00:11:57,490 --> 00:11:57,500
+and I'll give a definition of that
+ 
+
+481
+00:11:57,500 --> 00:12:00,530
+and I'll give a definition of that
+metaphysical evil is something akin to
+
+482
+00:12:00,530 --> 00:12:00,540
+metaphysical evil is something akin to
+ 
+
+483
+00:12:00,540 --> 00:12:03,009
+metaphysical evil is something akin to
+the way Plato thought
+
+484
+00:12:03,009 --> 00:12:03,019
+the way Plato thought
+ 
+
+485
+00:12:03,019 --> 00:12:05,690
+the way Plato thought
+metaphysical evil means some
+
+486
+00:12:05,690 --> 00:12:05,700
+metaphysical evil means some
+ 
+
+487
+00:12:05,700 --> 00:12:07,550
+metaphysical evil means some
+imperfection
+
+488
+00:12:07,550 --> 00:12:07,560
+imperfection
+ 
+
+489
+00:12:07,560 --> 00:12:11,230
+imperfection
+of being in the universe
+
+490
+00:12:11,230 --> 00:12:11,240
+of being in the universe
+ 
+
+491
+00:12:11,240 --> 00:12:14,530
+of being in the universe
+metaphysical evil would be
+
+492
+00:12:14,530 --> 00:12:14,540
+metaphysical evil would be
+ 
+
+493
+00:12:14,540 --> 00:12:21,370
+metaphysical evil would be
+the lack of pure perfect being
+
+494
+00:12:21,370 --> 00:12:21,380
+
+ 
+
+495
+00:12:21,380 --> 00:12:25,569
+
+that is basic to anything that is finite
+
+496
+00:12:25,569 --> 00:12:25,579
+that is basic to anything that is finite
+ 
+
+497
+00:12:25,579 --> 00:12:29,509
+that is basic to anything that is finite
+only an infinite being has metaphysical
+
+498
+00:12:29,509 --> 00:12:29,519
+only an infinite being has metaphysical
+ 
+
+499
+00:12:29,519 --> 00:12:31,790
+only an infinite being has metaphysical
+Perfection according to the philosophers
+
+500
+00:12:31,790 --> 00:12:31,800
+Perfection according to the philosophers
+ 
+
+501
+00:12:31,800 --> 00:12:34,730
+Perfection according to the philosophers
+anything that's finite anything that's
+
+502
+00:12:34,730 --> 00:12:34,740
+anything that's finite anything that's
+ 
+
+503
+00:12:34,740 --> 00:12:37,190
+anything that's finite anything that's
+changing anything that's in a state of
+
+504
+00:12:37,190 --> 00:12:37,200
+changing anything that's in a state of
+ 
+
+505
+00:12:37,200 --> 00:12:39,949
+changing anything that's in a state of
+flux anything that has the category that
+
+506
+00:12:39,949 --> 00:12:39,959
+flux anything that has the category that
+ 
+
+507
+00:12:39,959 --> 00:12:41,870
+flux anything that has the category that
+we've talked about many times already of
+
+508
+00:12:41,870 --> 00:12:41,880
+we've talked about many times already of
+ 
+
+509
+00:12:41,880 --> 00:12:43,449
+we've talked about many times already of
+becoming
+
+510
+00:12:43,449 --> 00:12:43,459
+becoming
+ 
+
+511
+00:12:43,459 --> 00:12:48,710
+becoming
+is not as high a level of being as pure
+
+512
+00:12:48,710 --> 00:12:48,720
+is not as high a level of being as pure
+ 
+
+513
+00:12:48,720 --> 00:12:52,670
+is not as high a level of being as pure
+being or as Supreme Being so that only
+
+514
+00:12:52,670 --> 00:12:52,680
+being or as Supreme Being so that only
+ 
+
+515
+00:12:52,680 --> 00:12:56,269
+being or as Supreme Being so that only
+pure being or Supreme Being
+
+516
+00:12:56,269 --> 00:12:56,279
+pure being or Supreme Being
+ 
+
+517
+00:12:56,279 --> 00:13:01,069
+pure being or Supreme Being
+Eternal perfect being would uh be
+
+518
+00:13:01,069 --> 00:13:01,079
+Eternal perfect being would uh be
+ 
+
+519
+00:13:01,079 --> 00:13:02,769
+Eternal perfect being would uh be
+perfectly
+
+520
+00:13:02,769 --> 00:13:02,779
+perfectly
+ 
+
+521
+00:13:02,779 --> 00:13:05,150
+perfectly
+metaphysically good
+
+522
+00:13:05,150 --> 00:13:05,160
+metaphysically good
+ 
+
+523
+00:13:05,160 --> 00:13:07,370
+metaphysically good
+and anything again that is changing
+
+524
+00:13:07,370 --> 00:13:07,380
+and anything again that is changing
+ 
+
+525
+00:13:07,380 --> 00:13:09,889
+and anything again that is changing
+finite derived dependent contingent and
+
+526
+00:13:09,889 --> 00:13:09,899
+finite derived dependent contingent and
+ 
+
+527
+00:13:09,899 --> 00:13:14,090
+finite derived dependent contingent and
+so on would be a lower level of being so
+
+528
+00:13:14,090 --> 00:13:14,100
+so on would be a lower level of being so
+ 
+
+529
+00:13:14,100 --> 00:13:17,090
+so on would be a lower level of being so
+it is called metaphysical evil now I'm
+
+530
+00:13:17,090 --> 00:13:17,100
+it is called metaphysical evil now I'm
+ 
+
+531
+00:13:17,100 --> 00:13:18,470
+it is called metaphysical evil now I'm
+going to put quotes around that word
+
+532
+00:13:18,470 --> 00:13:18,480
+going to put quotes around that word
+ 
+
+533
+00:13:18,480 --> 00:13:21,230
+going to put quotes around that word
+evil because what that means simply is
+
+534
+00:13:21,230 --> 00:13:21,240
+evil because what that means simply is
+ 
+
+535
+00:13:21,240 --> 00:13:24,470
+evil because what that means simply is
+that it is imperfect it is less in the
+
+536
+00:13:24,470 --> 00:13:24,480
+that it is imperfect it is less in the
+ 
+
+537
+00:13:24,480 --> 00:13:27,050
+that it is imperfect it is less in the
+fullness of being than God
+
+538
+00:13:27,050 --> 00:13:27,060
+fullness of being than God
+ 
+
+539
+00:13:27,060 --> 00:13:30,790
+fullness of being than God
+now the second kind of evil that leibniz
+
+540
+00:13:30,790 --> 00:13:30,800
+now the second kind of evil that leibniz
+ 
+
+541
+00:13:30,800 --> 00:13:34,009
+now the second kind of evil that leibniz
+delineated was what he calls physical
+
+542
+00:13:34,009 --> 00:13:34,019
+delineated was what he calls physical
+ 
+
+543
+00:13:34,019 --> 00:13:38,389
+delineated was what he calls physical
+evil
+
+544
+00:13:38,389 --> 00:13:38,399
+
+ 
+
+545
+00:13:38,399 --> 00:13:41,629
+
+now what he means by physical evil
+
+546
+00:13:41,629 --> 00:13:41,639
+now what he means by physical evil
+ 
+
+547
+00:13:41,639 --> 00:13:43,370
+now what he means by physical evil
+is
+
+548
+00:13:43,370 --> 00:13:43,380
+is
+ 
+
+549
+00:13:43,380 --> 00:13:46,430
+is
+disease
+
+550
+00:13:46,430 --> 00:13:46,440
+
+ 
+
+551
+00:13:46,440 --> 00:13:50,389
+
+natural catastrophes or calamities like
+
+552
+00:13:50,389 --> 00:13:50,399
+natural catastrophes or calamities like
+ 
+
+553
+00:13:50,399 --> 00:13:55,069
+natural catastrophes or calamities like
+earthquakes fires floods volcanic
+
+554
+00:13:55,069 --> 00:13:55,079
+earthquakes fires floods volcanic
+ 
+
+555
+00:13:55,079 --> 00:13:57,769
+earthquakes fires floods volcanic
+eruptions all of those things by which
+
+556
+00:13:57,769 --> 00:13:57,779
+eruptions all of those things by which
+ 
+
+557
+00:13:57,779 --> 00:14:02,030
+eruptions all of those things by which
+nature can wreak havoc on the inhabited
+
+558
+00:14:02,030 --> 00:14:02,040
+nature can wreak havoc on the inhabited
+ 
+
+559
+00:14:02,040 --> 00:14:06,050
+nature can wreak havoc on the inhabited
+people of this world those are called by
+
+560
+00:14:06,050 --> 00:14:06,060
+people of this world those are called by
+ 
+
+561
+00:14:06,060 --> 00:14:10,490
+people of this world those are called by
+him physical evil they bring harm
+
+562
+00:14:10,490 --> 00:14:10,500
+him physical evil they bring harm
+ 
+
+563
+00:14:10,500 --> 00:14:15,590
+him physical evil they bring harm
+physically to us and to the world
+
+564
+00:14:15,590 --> 00:14:15,600
+physically to us and to the world
+ 
+
+565
+00:14:15,600 --> 00:14:17,449
+physically to us and to the world
+so that's physical evil
+
+566
+00:14:17,449 --> 00:14:17,459
+so that's physical evil
+ 
+
+567
+00:14:17,459 --> 00:14:19,730
+so that's physical evil
+then the third category
+
+568
+00:14:19,730 --> 00:14:19,740
+then the third category
+ 
+
+569
+00:14:19,740 --> 00:14:22,069
+then the third category
+again I'm going to put quotes around the
+
+570
+00:14:22,069 --> 00:14:22,079
+again I'm going to put quotes around the
+ 
+
+571
+00:14:22,079 --> 00:14:23,389
+again I'm going to put quotes around the
+word evil
+
+572
+00:14:23,389 --> 00:14:23,399
+word evil
+ 
+
+573
+00:14:23,399 --> 00:14:26,569
+word evil
+the third category is the category of
+
+574
+00:14:26,569 --> 00:14:26,579
+the third category is the category of
+ 
+
+575
+00:14:26,579 --> 00:14:30,170
+the third category is the category of
+moral evil
+
+576
+00:14:30,170 --> 00:14:30,180
+moral evil
+ 
+
+577
+00:14:30,180 --> 00:14:33,949
+moral evil
+now remember when we started this
+
+578
+00:14:33,949 --> 00:14:33,959
+now remember when we started this
+ 
+
+579
+00:14:33,959 --> 00:14:37,370
+now remember when we started this
+and we said if God is good
+
+580
+00:14:37,370 --> 00:14:37,380
+and we said if God is good
+ 
+
+581
+00:14:37,380 --> 00:14:40,189
+and we said if God is good
+how could he create a world
+
+582
+00:14:40,189 --> 00:14:40,199
+how could he create a world
+ 
+
+583
+00:14:40,199 --> 00:14:43,189
+how could he create a world
+where there's so much evil usually what
+
+584
+00:14:43,189 --> 00:14:43,199
+where there's so much evil usually what
+ 
+
+585
+00:14:43,199 --> 00:14:44,870
+where there's so much evil usually what
+we're thinking about when we think about
+
+586
+00:14:44,870 --> 00:14:44,880
+we're thinking about when we think about
+ 
+
+587
+00:14:44,880 --> 00:14:48,650
+we're thinking about when we think about
+evil there is we're thinking about moral
+
+588
+00:14:48,650 --> 00:14:48,660
+evil there is we're thinking about moral
+ 
+
+589
+00:14:48,660 --> 00:14:50,810
+evil there is we're thinking about moral
+evil
+
+590
+00:14:50,810 --> 00:14:50,820
+evil
+ 
+
+591
+00:14:50,820 --> 00:14:53,689
+evil
+but we also worry about those
+
+592
+00:14:53,689 --> 00:14:53,699
+but we also worry about those
+ 
+
+593
+00:14:53,699 --> 00:14:55,790
+but we also worry about those
+catastrophic events that take place in
+
+594
+00:14:55,790 --> 00:14:55,800
+catastrophic events that take place in
+ 
+
+595
+00:14:55,800 --> 00:14:57,530
+catastrophic events that take place in
+this world that insurance companies are
+
+596
+00:14:57,530 --> 00:14:57,540
+this world that insurance companies are
+ 
+
+597
+00:14:57,540 --> 00:15:00,590
+this world that insurance companies are
+still fond of describing as quote acts
+
+598
+00:15:00,590 --> 00:15:00,600
+still fond of describing as quote acts
+ 
+
+599
+00:15:00,600 --> 00:15:02,030
+still fond of describing as quote acts
+of God
+
+600
+00:15:02,030 --> 00:15:02,040
+of God
+ 
+
+601
+00:15:02,040 --> 00:15:05,449
+of God
+the flood the tornado the earthquake and
+
+602
+00:15:05,449 --> 00:15:05,459
+the flood the tornado the earthquake and
+ 
+
+603
+00:15:05,459 --> 00:15:08,530
+the flood the tornado the earthquake and
+so on that bring
+
+604
+00:15:08,530 --> 00:15:08,540
+so on that bring
+ 
+
+605
+00:15:08,540 --> 00:15:11,750
+so on that bring
+unbelievable misery and pain to the
+
+606
+00:15:11,750 --> 00:15:11,760
+unbelievable misery and pain to the
+ 
+
+607
+00:15:11,760 --> 00:15:12,769
+unbelievable misery and pain to the
+world
+
+608
+00:15:12,769 --> 00:15:12,779
+world
+ 
+
+609
+00:15:12,779 --> 00:15:15,230
+world
+and so you also even if we
+
+610
+00:15:15,230 --> 00:15:15,240
+and so you also even if we
+ 
+
+611
+00:15:15,240 --> 00:15:17,389
+and so you also even if we
+didn't have such a thing as moral evil
+
+612
+00:15:17,389 --> 00:15:17,399
+didn't have such a thing as moral evil
+ 
+
+613
+00:15:17,399 --> 00:15:19,610
+didn't have such a thing as moral evil
+among ourselves we would still ask the
+
+614
+00:15:19,610 --> 00:15:19,620
+among ourselves we would still ask the
+ 
+
+615
+00:15:19,620 --> 00:15:21,829
+among ourselves we would still ask the
+question about God's character about
+
+616
+00:15:21,829 --> 00:15:21,839
+question about God's character about
+ 
+
+617
+00:15:21,839 --> 00:15:24,290
+question about God's character about
+creating a universe where all these bad
+
+618
+00:15:24,290 --> 00:15:24,300
+creating a universe where all these bad
+ 
+
+619
+00:15:24,300 --> 00:15:26,750
+creating a universe where all these bad
+things happen
+
+620
+00:15:26,750 --> 00:15:26,760
+things happen
+ 
+
+621
+00:15:26,760 --> 00:15:28,490
+things happen
+remember this was one of the basic
+
+622
+00:15:28,490 --> 00:15:28,500
+remember this was one of the basic
+ 
+
+623
+00:15:28,500 --> 00:15:30,230
+remember this was one of the basic
+questions that the disciples came to
+
+624
+00:15:30,230 --> 00:15:30,240
+questions that the disciples came to
+ 
+
+625
+00:15:30,240 --> 00:15:32,930
+questions that the disciples came to
+Jesus about during his Earthly Ministry
+
+626
+00:15:32,930 --> 00:15:32,940
+Jesus about during his Earthly Ministry
+ 
+
+627
+00:15:32,940 --> 00:15:35,090
+Jesus about during his Earthly Ministry
+when the word had come out about the
+
+628
+00:15:35,090 --> 00:15:35,100
+when the word had come out about the
+ 
+
+629
+00:15:35,100 --> 00:15:36,530
+when the word had come out about the
+Temple of had been under construction
+
+630
+00:15:36,530 --> 00:15:36,540
+Temple of had been under construction
+ 
+
+631
+00:15:36,540 --> 00:15:39,949
+Temple of had been under construction
+that it fell on these innocent people
+
+632
+00:15:39,949 --> 00:15:39,959
+that it fell on these innocent people
+ 
+
+633
+00:15:39,959 --> 00:15:41,509
+that it fell on these innocent people
+and then the pilate had mingled the
+
+634
+00:15:41,509 --> 00:15:41,519
+and then the pilate had mingled the
+ 
+
+635
+00:15:41,519 --> 00:15:44,389
+and then the pilate had mingled the
+blood of the uh worship blood of the
+
+636
+00:15:44,389 --> 00:15:44,399
+blood of the uh worship blood of the
+ 
+
+637
+00:15:44,399 --> 00:15:46,310
+blood of the uh worship blood of the
+sacrifices with of the worshipers with
+
+638
+00:15:46,310 --> 00:15:46,320
+sacrifices with of the worshipers with
+ 
+
+639
+00:15:46,320 --> 00:15:47,810
+sacrifices with of the worshipers with
+the blood of the sacrifice and the
+
+640
+00:15:47,810 --> 00:15:47,820
+the blood of the sacrifice and the
+ 
+
+641
+00:15:47,820 --> 00:15:50,389
+the blood of the sacrifice and the
+slaughter that we hear of only in that
+
+642
+00:15:50,389 --> 00:15:50,399
+slaughter that we hear of only in that
+ 
+
+643
+00:15:50,399 --> 00:15:52,790
+slaughter that we hear of only in that
+instance in the New Testament and
+
+644
+00:15:52,790 --> 00:15:52,800
+instance in the New Testament and
+ 
+
+645
+00:15:52,800 --> 00:15:54,769
+instance in the New Testament and
+basically the question that the
+
+646
+00:15:54,769 --> 00:15:54,779
+basically the question that the
+ 
+
+647
+00:15:54,779 --> 00:15:56,990
+basically the question that the
+disciples are raising is
+
+648
+00:15:56,990 --> 00:15:57,000
+disciples are raising is
+ 
+
+649
+00:15:57,000 --> 00:15:58,850
+disciples are raising is
+how could God allow these things to
+
+650
+00:15:58,850 --> 00:15:58,860
+how could God allow these things to
+ 
+
+651
+00:15:58,860 --> 00:15:59,930
+how could God allow these things to
+happen I mean here are these people
+
+652
+00:15:59,930 --> 00:15:59,940
+happen I mean here are these people
+ 
+
+653
+00:15:59,940 --> 00:16:01,730
+happen I mean here are these people
+minding their own business walking down
+
+654
+00:16:01,730 --> 00:16:01,740
+minding their own business walking down
+ 
+
+655
+00:16:01,740 --> 00:16:02,750
+minding their own business walking down
+the street
+
+656
+00:16:02,750 --> 00:16:02,760
+the street
+ 
+
+657
+00:16:02,760 --> 00:16:04,370
+the street
+and all of a sudden this Temple Falls
+
+658
+00:16:04,370 --> 00:16:04,380
+and all of a sudden this Temple Falls
+ 
+
+659
+00:16:04,380 --> 00:16:06,769
+and all of a sudden this Temple Falls
+over and it crushes him to death it was
+
+660
+00:16:06,769 --> 00:16:06,779
+over and it crushes him to death it was
+ 
+
+661
+00:16:06,779 --> 00:16:09,290
+over and it crushes him to death it was
+a physical accident
+
+662
+00:16:09,290 --> 00:16:09,300
+a physical accident
+ 
+
+663
+00:16:09,300 --> 00:16:12,949
+a physical accident
+nobody intended for the temple to fall
+
+664
+00:16:12,949 --> 00:16:12,959
+nobody intended for the temple to fall
+ 
+
+665
+00:16:12,959 --> 00:16:15,590
+nobody intended for the temple to fall
+or the tower to fall
+
+666
+00:16:15,590 --> 00:16:15,600
+or the tower to fall
+ 
+
+667
+00:16:15,600 --> 00:16:18,170
+or the tower to fall
+it was an act of nature or a physical
+
+668
+00:16:18,170 --> 00:16:18,180
+it was an act of nature or a physical
+ 
+
+669
+00:16:18,180 --> 00:16:21,050
+it was an act of nature or a physical
+consequences where
+
+670
+00:16:21,050 --> 00:16:21,060
+consequences where
+ 
+
+671
+00:16:21,060 --> 00:16:23,449
+consequences where
+uh nobody
+
+672
+00:16:23,449 --> 00:16:23,459
+uh nobody
+ 
+
+673
+00:16:23,459 --> 00:16:26,449
+uh nobody
+pushed the tower over on top of these
+
+674
+00:16:26,449 --> 00:16:26,459
+pushed the tower over on top of these
+ 
+
+675
+00:16:26,459 --> 00:16:30,050
+pushed the tower over on top of these
+people
+
+676
+00:16:30,050 --> 00:16:30,060
+
+ 
+
+677
+00:16:30,060 --> 00:16:31,069
+
+so
+
+678
+00:16:31,069 --> 00:16:31,079
+so
+ 
+
+679
+00:16:31,079 --> 00:16:34,009
+so
+how can a good God allow
+
+680
+00:16:34,009 --> 00:16:34,019
+how can a good God allow
+ 
+
+681
+00:16:34,019 --> 00:16:37,310
+how can a good God allow
+Vesuvius to erupt and bury the city of
+
+682
+00:16:37,310 --> 00:16:37,320
+Vesuvius to erupt and bury the city of
+ 
+
+683
+00:16:37,320 --> 00:16:39,889
+Vesuvius to erupt and bury the city of
+Pompeii in volcanic ash
+
+684
+00:16:39,889 --> 00:16:39,899
+Pompeii in volcanic ash
+ 
+
+685
+00:16:39,899 --> 00:16:42,230
+Pompeii in volcanic ash
+Where's God in all of this
+
+686
+00:16:42,230 --> 00:16:42,240
+Where's God in all of this
+ 
+
+687
+00:16:42,240 --> 00:16:45,230
+Where's God in all of this
+of course Jesus answers the question
+
+688
+00:16:45,230 --> 00:16:45,240
+of course Jesus answers the question
+ 
+
+689
+00:16:45,240 --> 00:16:48,230
+of course Jesus answers the question
+unless you repent you shall all likewise
+
+690
+00:16:48,230 --> 00:16:48,240
+unless you repent you shall all likewise
+ 
+
+691
+00:16:48,240 --> 00:16:49,670
+unless you repent you shall all likewise
+perish
+
+692
+00:16:49,670 --> 00:16:49,680
+perish
+ 
+
+693
+00:16:49,680 --> 00:16:52,490
+perish
+because following the Old Testament the
+
+694
+00:16:52,490 --> 00:16:52,500
+because following the Old Testament the
+ 
+
+695
+00:16:52,500 --> 00:16:54,590
+because following the Old Testament the
+presence of physical evil the presence
+
+696
+00:16:54,590 --> 00:16:54,600
+presence of physical evil the presence
+ 
+
+697
+00:16:54,600 --> 00:16:56,509
+presence of physical evil the presence
+of death the presence of disease the
+
+698
+00:16:56,509 --> 00:16:56,519
+of death the presence of disease the
+ 
+
+699
+00:16:56,519 --> 00:17:00,170
+of death the presence of disease the
+presence of conflict in the creation is
+
+700
+00:17:00,170 --> 00:17:00,180
+presence of conflict in the creation is
+ 
+
+701
+00:17:00,180 --> 00:17:04,069
+presence of conflict in the creation is
+all tied into the moral evil of human
+
+702
+00:17:04,069 --> 00:17:04,079
+all tied into the moral evil of human
+ 
+
+703
+00:17:04,079 --> 00:17:05,929
+all tied into the moral evil of human
+beings that is part of the consequences
+
+704
+00:17:05,929 --> 00:17:05,939
+beings that is part of the consequences
+ 
+
+705
+00:17:05,939 --> 00:17:09,049
+beings that is part of the consequences
+of the fall but that's another approach
+
+706
+00:17:09,049 --> 00:17:09,059
+of the fall but that's another approach
+ 
+
+707
+00:17:09,059 --> 00:17:11,630
+of the fall but that's another approach
+because if we say that we still have to
+
+708
+00:17:11,630 --> 00:17:11,640
+because if we say that we still have to
+ 
+
+709
+00:17:11,640 --> 00:17:14,090
+because if we say that we still have to
+ask where does this come from where does
+
+710
+00:17:14,090 --> 00:17:14,100
+ask where does this come from where does
+ 
+
+711
+00:17:14,100 --> 00:17:15,770
+ask where does this come from where does
+the moral evil come
+
+712
+00:17:15,770 --> 00:17:15,780
+the moral evil come
+ 
+
+713
+00:17:15,780 --> 00:17:17,630
+the moral evil come
+well the way
+
+714
+00:17:17,630 --> 00:17:17,640
+well the way
+ 
+
+715
+00:17:17,640 --> 00:17:20,150
+well the way
+that leibniz approach this
+
+716
+00:17:20,150 --> 00:17:20,160
+that leibniz approach this
+ 
+
+717
+00:17:20,160 --> 00:17:22,429
+that leibniz approach this
+as I said was first he distinguished
+
+718
+00:17:22,429 --> 00:17:22,439
+as I said was first he distinguished
+ 
+
+719
+00:17:22,439 --> 00:17:24,169
+as I said was first he distinguished
+among the three different types of evil
+
+720
+00:17:24,169 --> 00:17:24,179
+among the three different types of evil
+ 
+
+721
+00:17:24,179 --> 00:17:28,429
+among the three different types of evil
+and then tried to posit a relationship
+
+722
+00:17:28,429 --> 00:17:28,439
+and then tried to posit a relationship
+ 
+
+723
+00:17:28,439 --> 00:17:31,190
+and then tried to posit a relationship
+between each one of these
+
+724
+00:17:31,190 --> 00:17:31,200
+between each one of these
+ 
+
+725
+00:17:31,200 --> 00:17:33,289
+between each one of these
+that is to say
+
+726
+00:17:33,289 --> 00:17:33,299
+that is to say
+ 
+
+727
+00:17:33,299 --> 00:17:36,049
+that is to say
+again he still has his monetology theory
+
+728
+00:17:36,049 --> 00:17:36,059
+again he still has his monetology theory
+ 
+
+729
+00:17:36,059 --> 00:17:38,409
+again he still has his monetology theory
+is that
+
+730
+00:17:38,409 --> 00:17:38,419
+is that
+ 
+
+731
+00:17:38,419 --> 00:17:44,450
+is that
+moral evil flows out of physical evil
+
+732
+00:17:44,450 --> 00:17:44,460
+moral evil flows out of physical evil
+ 
+
+733
+00:17:44,460 --> 00:17:46,430
+moral evil flows out of physical evil
+and
+
+734
+00:17:46,430 --> 00:17:46,440
+and
+ 
+
+735
+00:17:46,440 --> 00:17:49,549
+and
+physical evil and moral evil both flow
+
+736
+00:17:49,549 --> 00:17:49,559
+physical evil and moral evil both flow
+ 
+
+737
+00:17:49,559 --> 00:17:52,570
+physical evil and moral evil both flow
+out of metaphysical evil that is to say
+
+738
+00:17:52,570 --> 00:17:52,580
+out of metaphysical evil that is to say
+ 
+
+739
+00:17:52,580 --> 00:17:58,370
+out of metaphysical evil that is to say
+they are necessary consequences of a
+
+740
+00:17:58,370 --> 00:17:58,380
+they are necessary consequences of a
+ 
+
+741
+00:17:58,380 --> 00:18:03,470
+they are necessary consequences of a
+metaphysically imperfect creation
+
+742
+00:18:03,470 --> 00:18:03,480
+
+ 
+
+743
+00:18:03,480 --> 00:18:08,210
+
+that is since we are finite
+
+744
+00:18:08,210 --> 00:18:08,220
+that is since we are finite
+ 
+
+745
+00:18:08,220 --> 00:18:11,029
+that is since we are finite
+out of our finitude comes physical
+
+746
+00:18:11,029 --> 00:18:11,039
+out of our finitude comes physical
+ 
+
+747
+00:18:11,039 --> 00:18:12,650
+out of our finitude comes physical
+weaknesses
+
+748
+00:18:12,650 --> 00:18:12,660
+weaknesses
+ 
+
+749
+00:18:12,660 --> 00:18:15,890
+weaknesses
+and out of both our finite status and
+
+750
+00:18:15,890 --> 00:18:15,900
+and out of both our finite status and
+ 
+
+751
+00:18:15,900 --> 00:18:19,430
+and out of both our finite status and
+our physical weaknesses come our moral
+
+752
+00:18:19,430 --> 00:18:19,440
+our physical weaknesses come our moral
+ 
+
+753
+00:18:19,440 --> 00:18:24,409
+our physical weaknesses come our moral
+failures
+
+754
+00:18:24,409 --> 00:18:24,419
+
+ 
+
+755
+00:18:24,419 --> 00:18:26,690
+
+and then he went on to say
+
+756
+00:18:26,690 --> 00:18:26,700
+and then he went on to say
+ 
+
+757
+00:18:26,700 --> 00:18:30,529
+and then he went on to say
+that God is absolved in all absolved in
+
+758
+00:18:30,529 --> 00:18:30,539
+that God is absolved in all absolved in
+ 
+
+759
+00:18:30,539 --> 00:18:32,690
+that God is absolved in all absolved in
+all of this because
+
+760
+00:18:32,690 --> 00:18:32,700
+all of this because
+ 
+
+761
+00:18:32,700 --> 00:18:36,049
+all of this because
+when God created the universe
+
+762
+00:18:36,049 --> 00:18:36,059
+when God created the universe
+ 
+
+763
+00:18:36,059 --> 00:18:37,730
+when God created the universe
+he had
+
+764
+00:18:37,730 --> 00:18:37,740
+he had
+ 
+
+765
+00:18:37,740 --> 00:18:40,730
+he had
+a virtually I say virtually infinite
+
+766
+00:18:40,730 --> 00:18:40,740
+a virtually I say virtually infinite
+ 
+
+767
+00:18:40,740 --> 00:18:43,909
+a virtually I say virtually infinite
+number of possible worlds he could have
+
+768
+00:18:43,909 --> 00:18:43,919
+number of possible worlds he could have
+ 
+
+769
+00:18:43,919 --> 00:18:46,010
+number of possible worlds he could have
+created
+
+770
+00:18:46,010 --> 00:18:46,020
+created
+ 
+
+771
+00:18:46,020 --> 00:18:48,230
+created
+I say virtually because there's one kind
+
+772
+00:18:48,230 --> 00:18:48,240
+I say virtually because there's one kind
+ 
+
+773
+00:18:48,240 --> 00:18:50,510
+I say virtually because there's one kind
+of world God even God could not have
+
+774
+00:18:50,510 --> 00:18:50,520
+of world God even God could not have
+ 
+
+775
+00:18:50,520 --> 00:18:51,950
+of world God even God could not have
+created
+
+776
+00:18:51,950 --> 00:18:51,960
+created
+ 
+
+777
+00:18:51,960 --> 00:18:55,310
+created
+God would not have been able to create a
+
+778
+00:18:55,310 --> 00:18:55,320
+God would not have been able to create a
+ 
+
+779
+00:18:55,320 --> 00:18:59,450
+God would not have been able to create a
+metaphysically perfect God
+
+780
+00:18:59,450 --> 00:18:59,460
+
+ 
+
+781
+00:18:59,460 --> 00:19:01,250
+
+because for God to create a
+
+782
+00:19:01,250 --> 00:19:01,260
+because for God to create a
+ 
+
+783
+00:19:01,260 --> 00:19:03,590
+because for God to create a
+metaphysically perfect God
+
+784
+00:19:03,590 --> 00:19:03,600
+metaphysically perfect God
+ 
+
+785
+00:19:03,600 --> 00:19:06,890
+metaphysically perfect God
+he would have to create another God
+
+786
+00:19:06,890 --> 00:19:06,900
+he would have to create another God
+ 
+
+787
+00:19:06,900 --> 00:19:09,110
+he would have to create another God
+but that even God can't create another
+
+788
+00:19:09,110 --> 00:19:09,120
+but that even God can't create another
+ 
+
+789
+00:19:09,120 --> 00:19:10,070
+but that even God can't create another
+God
+
+790
+00:19:10,070 --> 00:19:10,080
+God
+ 
+
+791
+00:19:10,080 --> 00:19:13,310
+God
+why not because the second God would
+
+792
+00:19:13,310 --> 00:19:13,320
+why not because the second God would
+ 
+
+793
+00:19:13,320 --> 00:19:15,710
+why not because the second God would
+still be a creature the second God would
+
+794
+00:19:15,710 --> 00:19:15,720
+still be a creature the second God would
+ 
+
+795
+00:19:15,720 --> 00:19:19,010
+still be a creature the second God would
+be dependent on the first God for its
+
+796
+00:19:19,010 --> 00:19:19,020
+be dependent on the first God for its
+ 
+
+797
+00:19:19,020 --> 00:19:21,049
+be dependent on the first God for its
+very existence
+
+798
+00:19:21,049 --> 00:19:21,059
+very existence
+ 
+
+799
+00:19:21,059 --> 00:19:23,390
+very existence
+so that you can't have God creating
+
+800
+00:19:23,390 --> 00:19:23,400
+so that you can't have God creating
+ 
+
+801
+00:19:23,400 --> 00:19:26,750
+so that you can't have God creating
+another God all God can create are
+
+802
+00:19:26,750 --> 00:19:26,760
+another God all God can create are
+ 
+
+803
+00:19:26,760 --> 00:19:30,590
+another God all God can create are
+creatures that's the nature of creation
+
+804
+00:19:30,590 --> 00:19:30,600
+creatures that's the nature of creation
+ 
+
+805
+00:19:30,600 --> 00:19:34,850
+creatures that's the nature of creation
+so God cannot impart to his creature his
+
+806
+00:19:34,850 --> 00:19:34,860
+so God cannot impart to his creature his
+ 
+
+807
+00:19:34,860 --> 00:19:37,430
+so God cannot impart to his creature his
+own self-existent
+
+808
+00:19:37,430 --> 00:19:37,440
+own self-existent
+ 
+
+809
+00:19:37,440 --> 00:19:38,870
+own self-existent
+Eternal being
+
+810
+00:19:38,870 --> 00:19:38,880
+Eternal being
+ 
+
+811
+00:19:38,880 --> 00:19:41,690
+Eternal being
+now with that given
+
+812
+00:19:41,690 --> 00:19:41,700
+now with that given
+ 
+
+813
+00:19:41,700 --> 00:19:44,690
+now with that given
+and if God is going to create he knows
+
+814
+00:19:44,690 --> 00:19:44,700
+and if God is going to create he knows
+ 
+
+815
+00:19:44,700 --> 00:19:46,070
+and if God is going to create he knows
+at the beginning that he can't create
+
+816
+00:19:46,070 --> 00:19:46,080
+at the beginning that he can't create
+ 
+
+817
+00:19:46,080 --> 00:19:49,490
+at the beginning that he can't create
+another God so he can create various
+
+818
+00:19:49,490 --> 00:19:49,500
+another God so he can create various
+ 
+
+819
+00:19:49,500 --> 00:19:52,669
+another God so he can create various
+different types of universes and he has
+
+820
+00:19:52,669 --> 00:19:52,679
+different types of universes and he has
+ 
+
+821
+00:19:52,679 --> 00:19:55,490
+different types of universes and he has
+again a virtually infinite number of
+
+822
+00:19:55,490 --> 00:19:55,500
+again a virtually infinite number of
+ 
+
+823
+00:19:55,500 --> 00:19:59,090
+again a virtually infinite number of
+types of finite universes he creates
+
+824
+00:19:59,090 --> 00:19:59,100
+types of finite universes he creates
+ 
+
+825
+00:19:59,100 --> 00:20:03,169
+types of finite universes he creates
+now God being good is naturally
+
+826
+00:20:03,169 --> 00:20:03,179
+now God being good is naturally
+ 
+
+827
+00:20:03,179 --> 00:20:05,270
+now God being good is naturally
+going to create
+
+828
+00:20:05,270 --> 00:20:05,280
+going to create
+ 
+
+829
+00:20:05,280 --> 00:20:07,010
+going to create
+the best
+
+830
+00:20:07,010 --> 00:20:07,020
+the best
+ 
+
+831
+00:20:07,020 --> 00:20:10,549
+the best
+model that he could possibly create
+
+832
+00:20:10,549 --> 00:20:10,559
+model that he could possibly create
+ 
+
+833
+00:20:10,559 --> 00:20:13,250
+model that he could possibly create
+because if he has the option of creating
+
+834
+00:20:13,250 --> 00:20:13,260
+because if he has the option of creating
+ 
+
+835
+00:20:13,260 --> 00:20:18,350
+because if he has the option of creating
+Model A or model B and model A is more
+
+836
+00:20:18,350 --> 00:20:18,360
+Model A or model B and model A is more
+ 
+
+837
+00:20:18,360 --> 00:20:20,270
+Model A or model B and model A is more
+perfect than model B or to put it the
+
+838
+00:20:20,270 --> 00:20:20,280
+perfect than model B or to put it the
+ 
+
+839
+00:20:20,280 --> 00:20:23,270
+perfect than model B or to put it the
+other way model B is more imperfect or
+
+840
+00:20:23,270 --> 00:20:23,280
+other way model B is more imperfect or
+ 
+
+841
+00:20:23,280 --> 00:20:27,470
+other way model B is more imperfect or
+evil than Model A God would not be good
+
+842
+00:20:27,470 --> 00:20:27,480
+evil than Model A God would not be good
+ 
+
+843
+00:20:27,480 --> 00:20:30,230
+evil than Model A God would not be good
+to choose the second model and if he
+
+844
+00:20:30,230 --> 00:20:30,240
+to choose the second model and if he
+ 
+
+845
+00:20:30,240 --> 00:20:32,450
+to choose the second model and if he
+were really good he would choose the
+
+846
+00:20:32,450 --> 00:20:32,460
+were really good he would choose the
+ 
+
+847
+00:20:32,460 --> 00:20:34,070
+were really good he would choose the
+first model
+
+848
+00:20:34,070 --> 00:20:34,080
+first model
+ 
+
+849
+00:20:34,080 --> 00:20:38,090
+first model
+and so obviously being all wise and all
+
+850
+00:20:38,090 --> 00:20:38,100
+and so obviously being all wise and all
+ 
+
+851
+00:20:38,100 --> 00:20:43,669
+and so obviously being all wise and all
+righteous God selected the best world he
+
+852
+00:20:43,669 --> 00:20:43,679
+righteous God selected the best world he
+ 
+
+853
+00:20:43,679 --> 00:20:46,010
+righteous God selected the best world he
+could possibly create
+
+854
+00:20:46,010 --> 00:20:46,020
+could possibly create
+ 
+
+855
+00:20:46,020 --> 00:20:50,330
+could possibly create
+an ideal world as it were
+
+856
+00:20:50,330 --> 00:20:50,340
+an ideal world as it were
+ 
+
+857
+00:20:50,340 --> 00:20:52,909
+an ideal world as it were
+now you've probably heard the expression
+
+858
+00:20:52,909 --> 00:20:52,919
+now you've probably heard the expression
+ 
+
+859
+00:20:52,919 --> 00:20:56,930
+now you've probably heard the expression
+that we are living in the best of all
+
+860
+00:20:56,930 --> 00:20:56,940
+that we are living in the best of all
+ 
+
+861
+00:20:56,940 --> 00:20:59,690
+that we are living in the best of all
+possible worlds
+
+862
+00:20:59,690 --> 00:20:59,700
+possible worlds
+ 
+
+863
+00:20:59,700 --> 00:21:02,390
+possible worlds
+that sentiment that idea the best of all
+
+864
+00:21:02,390 --> 00:21:02,400
+that sentiment that idea the best of all
+ 
+
+865
+00:21:02,400 --> 00:21:06,010
+that sentiment that idea the best of all
+possible worlds finds its roots in this
+
+866
+00:21:06,010 --> 00:21:06,020
+possible worlds finds its roots in this
+ 
+
+867
+00:21:06,020 --> 00:21:10,490
+possible worlds finds its roots in this
+theodicy of leibniz now
+
+868
+00:21:10,490 --> 00:21:10,500
+theodicy of leibniz now
+ 
+
+869
+00:21:10,500 --> 00:21:14,090
+theodicy of leibniz now
+you've also probably heard of voltaire's
+
+870
+00:21:14,090 --> 00:21:14,100
+you've also probably heard of voltaire's
+ 
+
+871
+00:21:14,100 --> 00:21:16,850
+you've also probably heard of voltaire's
+famous little work Candide many of you
+
+872
+00:21:16,850 --> 00:21:16,860
+famous little work Candide many of you
+ 
+
+873
+00:21:16,860 --> 00:21:18,490
+famous little work Candide many of you
+had to read it when you were in college
+
+874
+00:21:18,490 --> 00:21:18,500
+had to read it when you were in college
+ 
+
+875
+00:21:18,500 --> 00:21:23,330
+had to read it when you were in college
+and it tells the story of this Dr pan
+
+876
+00:21:23,330 --> 00:21:23,340
+and it tells the story of this Dr pan
+ 
+
+877
+00:21:23,340 --> 00:21:25,789
+and it tells the story of this Dr pan
+gloss who seems to be a bumbling idiot
+
+878
+00:21:25,789 --> 00:21:25,799
+gloss who seems to be a bumbling idiot
+ 
+
+879
+00:21:25,799 --> 00:21:29,029
+gloss who seems to be a bumbling idiot
+because he naively assumes that he's
+
+880
+00:21:29,029 --> 00:21:29,039
+because he naively assumes that he's
+ 
+
+881
+00:21:29,039 --> 00:21:31,130
+because he naively assumes that he's
+living in a world that is the best of
+
+882
+00:21:31,130 --> 00:21:31,140
+living in a world that is the best of
+ 
+
+883
+00:21:31,140 --> 00:21:33,169
+living in a world that is the best of
+all possible worlds and this was written
+
+884
+00:21:33,169 --> 00:21:33,179
+all possible worlds and this was written
+ 
+
+885
+00:21:33,179 --> 00:21:36,110
+all possible worlds and this was written
+after a major
+
+886
+00:21:36,110 --> 00:21:36,120
+after a major
+ 
+
+887
+00:21:36,120 --> 00:21:39,890
+after a major
+Calamity beset Europe the Lisbon
+
+888
+00:21:39,890 --> 00:21:39,900
+Calamity beset Europe the Lisbon
+ 
+
+889
+00:21:39,900 --> 00:21:42,710
+Calamity beset Europe the Lisbon
+earthquake of that time was more
+
+890
+00:21:42,710 --> 00:21:42,720
+earthquake of that time was more
+ 
+
+891
+00:21:42,720 --> 00:21:44,330
+earthquake of that time was more
+devastating I guess than the San
+
+892
+00:21:44,330 --> 00:21:44,340
+devastating I guess than the San
+ 
+
+893
+00:21:44,340 --> 00:21:47,330
+devastating I guess than the San
+Francisco earthquake in our own day
+
+894
+00:21:47,330 --> 00:21:47,340
+Francisco earthquake in our own day
+ 
+
+895
+00:21:47,340 --> 00:21:49,610
+Francisco earthquake in our own day
+and again people because of the
+
+896
+00:21:49,610 --> 00:21:49,620
+and again people because of the
+ 
+
+897
+00:21:49,620 --> 00:21:51,409
+and again people because of the
+devastation of the Lisbon earthquake
+
+898
+00:21:51,409 --> 00:21:51,419
+devastation of the Lisbon earthquake
+ 
+
+899
+00:21:51,419 --> 00:21:53,930
+devastation of the Lisbon earthquake
+we're asking this question afresh
+
+900
+00:21:53,930 --> 00:21:53,940
+we're asking this question afresh
+ 
+
+901
+00:21:53,940 --> 00:21:56,590
+we're asking this question afresh
+Where's God in all of this how could God
+
+902
+00:21:56,590 --> 00:21:56,600
+Where's God in all of this how could God
+ 
+
+903
+00:21:56,600 --> 00:21:59,870
+Where's God in all of this how could God
+allow this to happen and
+
+904
+00:21:59,870 --> 00:21:59,880
+allow this to happen and
+ 
+
+905
+00:21:59,880 --> 00:22:03,169
+allow this to happen and
+Voltaire cynically looked at the work of
+
+906
+00:22:03,169 --> 00:22:03,179
+Voltaire cynically looked at the work of
+ 
+
+907
+00:22:03,179 --> 00:22:06,169
+Voltaire cynically looked at the work of
+uh of of leibniz and said you know he's
+
+908
+00:22:06,169 --> 00:22:06,179
+uh of of leibniz and said you know he's
+ 
+
+909
+00:22:06,179 --> 00:22:09,049
+uh of of leibniz and said you know he's
+as an idiot Dr pangloss here walking
+
+910
+00:22:09,049 --> 00:22:09,059
+as an idiot Dr pangloss here walking
+ 
+
+911
+00:22:09,059 --> 00:22:10,909
+as an idiot Dr pangloss here walking
+around with his head in the clouds
+
+912
+00:22:10,909 --> 00:22:10,919
+around with his head in the clouds
+ 
+
+913
+00:22:10,919 --> 00:22:12,529
+around with his head in the clouds
+thinking that this is the best of all
+
+914
+00:22:12,529 --> 00:22:12,539
+thinking that this is the best of all
+ 
+
+915
+00:22:12,539 --> 00:22:14,450
+thinking that this is the best of all
+possible worlds and that even though
+
+916
+00:22:14,450 --> 00:22:14,460
+possible worlds and that even though
+ 
+
+917
+00:22:14,460 --> 00:22:17,270
+possible worlds and that even though
+we're not Gods we can conceive of a much
+
+918
+00:22:17,270 --> 00:22:17,280
+we're not Gods we can conceive of a much
+ 
+
+919
+00:22:17,280 --> 00:22:20,330
+we're not Gods we can conceive of a much
+better world than we're presently living
+
+920
+00:22:20,330 --> 00:22:20,340
+better world than we're presently living
+ 
+
+921
+00:22:20,340 --> 00:22:21,350
+better world than we're presently living
+in
+
+922
+00:22:21,350 --> 00:22:21,360
+in
+ 
+
+923
+00:22:21,360 --> 00:22:23,029
+in
+and not only that the scriptures
+
+924
+00:22:23,029 --> 00:22:23,039
+and not only that the scriptures
+ 
+
+925
+00:22:23,039 --> 00:22:25,909
+and not only that the scriptures
+themselves talk about a world that will
+
+926
+00:22:25,909 --> 00:22:25,919
+themselves talk about a world that will
+ 
+
+927
+00:22:25,919 --> 00:22:28,070
+themselves talk about a world that will
+be better in the renovations and that's
+
+928
+00:22:28,070 --> 00:22:28,080
+be better in the renovations and that's
+ 
+
+929
+00:22:28,080 --> 00:22:29,990
+be better in the renovations and that's
+the Fatal problem from the Christian
+
+930
+00:22:29,990 --> 00:22:30,000
+the Fatal problem from the Christian
+ 
+
+931
+00:22:30,000 --> 00:22:33,110
+the Fatal problem from the Christian
+perspective of this theodicy is that
+
+932
+00:22:33,110 --> 00:22:33,120
+perspective of this theodicy is that
+ 
+
+933
+00:22:33,120 --> 00:22:34,789
+perspective of this theodicy is that
+it's on a collision course with the
+
+934
+00:22:34,789 --> 00:22:34,799
+it's on a collision course with the
+ 
+
+935
+00:22:34,799 --> 00:22:38,450
+it's on a collision course with the
+biblical story of creation and a fall
+
+936
+00:22:38,450 --> 00:22:38,460
+biblical story of creation and a fall
+ 
+
+937
+00:22:38,460 --> 00:22:40,549
+biblical story of creation and a fall
+and of renovation
+
+938
+00:22:40,549 --> 00:22:40,559
+and of renovation
+ 
+
+939
+00:22:40,559 --> 00:22:43,490
+and of renovation
+and it does the the the New Testament or
+
+940
+00:22:43,490 --> 00:22:43,500
+and it does the the the New Testament or
+ 
+
+941
+00:22:43,500 --> 00:22:45,890
+and it does the the the New Testament or
+the Old Testament does not look at moral
+
+942
+00:22:45,890 --> 00:22:45,900
+the Old Testament does not look at moral
+ 
+
+943
+00:22:45,900 --> 00:22:49,370
+the Old Testament does not look at moral
+evil as a necessary consequence of
+
+944
+00:22:49,370 --> 00:22:49,380
+evil as a necessary consequence of
+ 
+
+945
+00:22:49,380 --> 00:22:50,690
+evil as a necessary consequence of
+finitude
+
+946
+00:22:50,690 --> 00:22:50,700
+finitude
+ 
+
+947
+00:22:50,700 --> 00:22:53,870
+finitude
+that's the critical point because in our
+
+948
+00:22:53,870 --> 00:22:53,880
+that's the critical point because in our
+ 
+
+949
+00:22:53,880 --> 00:22:55,669
+that's the critical point because in our
+modern day
+
+950
+00:22:55,669 --> 00:22:55,679
+modern day
+ 
+
+951
+00:22:55,679 --> 00:22:58,310
+modern day
+there are many many theologians and
+
+952
+00:22:58,310 --> 00:22:58,320
+there are many many theologians and
+ 
+
+953
+00:22:58,320 --> 00:23:01,690
+there are many many theologians and
+psychologists who
+
+954
+00:23:01,690 --> 00:23:01,700
+psychologists who
+ 
+
+955
+00:23:01,700 --> 00:23:03,310
+psychologists who
+eliminate
+
+956
+00:23:03,310 --> 00:23:03,320
+eliminate
+ 
+
+957
+00:23:03,320 --> 00:23:06,770
+eliminate
+responsibility of real moral evil
+
+958
+00:23:06,770 --> 00:23:06,780
+responsibility of real moral evil
+ 
+
+959
+00:23:06,780 --> 00:23:10,490
+responsibility of real moral evil
+saying that we just do what comes
+
+960
+00:23:10,490 --> 00:23:10,500
+saying that we just do what comes
+ 
+
+961
+00:23:10,500 --> 00:23:14,029
+saying that we just do what comes
+naturally that sin is a necessary
+
+962
+00:23:14,029 --> 00:23:14,039
+naturally that sin is a necessary
+ 
+
+963
+00:23:14,039 --> 00:23:15,710
+naturally that sin is a necessary
+consequence
+
+964
+00:23:15,710 --> 00:23:15,720
+consequence
+ 
+
+965
+00:23:15,720 --> 00:23:18,710
+consequence
+of being a finite creature we are Human
+
+966
+00:23:18,710 --> 00:23:18,720
+of being a finite creature we are Human
+ 
+
+967
+00:23:18,720 --> 00:23:23,210
+of being a finite creature we are Human
+After All to ER is human to forgive is
+
+968
+00:23:23,210 --> 00:23:23,220
+After All to ER is human to forgive is
+ 
+
+969
+00:23:23,220 --> 00:23:24,830
+After All to ER is human to forgive is
+divine
+
+970
+00:23:24,830 --> 00:23:24,840
+divine
+ 
+
+971
+00:23:24,840 --> 00:23:28,450
+divine
+and so from a Christian Viewpoint this
+
+972
+00:23:28,450 --> 00:23:28,460
+and so from a Christian Viewpoint this
+ 
+
+973
+00:23:28,460 --> 00:23:31,610
+and so from a Christian Viewpoint this
+attempt to justify God
+
+974
+00:23:31,610 --> 00:23:31,620
+attempt to justify God
+ 
+
+975
+00:23:31,620 --> 00:23:34,669
+attempt to justify God
+fails because it first of all doesn't
+
+976
+00:23:34,669 --> 00:23:34,679
+fails because it first of all doesn't
+ 
+
+977
+00:23:34,679 --> 00:23:37,130
+fails because it first of all doesn't
+justify God and second of all doesn't
+
+978
+00:23:37,130 --> 00:23:37,140
+justify God and second of all doesn't
+ 
+
+979
+00:23:37,140 --> 00:23:40,970
+justify God and second of all doesn't
+square at all with the view of moral
+
+980
+00:23:40,970 --> 00:23:40,980
+square at all with the view of moral
+ 
+
+981
+00:23:40,980 --> 00:23:43,970
+square at all with the view of moral
+evil that we find In classical
+
+982
+00:23:43,970 --> 00:23:43,980
+evil that we find In classical
+ 
+
+983
+00:23:43,980 --> 00:23:46,940
+evil that we find In classical
+Christianity
+

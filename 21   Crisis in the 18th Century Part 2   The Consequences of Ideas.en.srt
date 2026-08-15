@@ -1,0 +1,4025 @@
+1
+00:00:07,919 --> 00:00:11,150
+
+in our last session we saw how the whole
+
+2
+00:00:11,150 --> 00:00:11,160
+in our last session we saw how the whole
+ 
+
+3
+00:00:11,160 --> 00:00:12,950
+in our last session we saw how the whole
+question of metaphysics is
+
+4
+00:00:12,950 --> 00:00:12,960
+question of metaphysics is
+ 
+
+5
+00:00:12,960 --> 00:00:15,470
+question of metaphysics is
+interconnected with the science of
+
+6
+00:00:15,470 --> 00:00:15,480
+interconnected with the science of
+ 
+
+7
+00:00:15,480 --> 00:00:17,150
+interconnected with the science of
+epistemology
+
+8
+00:00:17,150 --> 00:00:17,160
+epistemology
+ 
+
+9
+00:00:17,160 --> 00:00:21,529
+epistemology
+how do we know what's really out there
+
+10
+00:00:21,529 --> 00:00:21,539
+how do we know what's really out there
+ 
+
+11
+00:00:21,539 --> 00:00:24,470
+how do we know what's really out there
+and I show the strengths and weaknesses
+
+12
+00:00:24,470 --> 00:00:24,480
+and I show the strengths and weaknesses
+ 
+
+13
+00:00:24,480 --> 00:00:27,470
+and I show the strengths and weaknesses
+of deduction and induction
+
+14
+00:00:27,470 --> 00:00:27,480
+of deduction and induction
+ 
+
+15
+00:00:27,480 --> 00:00:29,750
+of deduction and induction
+and we ended up by looking at another
+
+16
+00:00:29,750 --> 00:00:29,760
+and we ended up by looking at another
+ 
+
+17
+00:00:29,760 --> 00:00:32,510
+and we ended up by looking at another
+problem that the philosophers of the
+
+18
+00:00:32,510 --> 00:00:32,520
+problem that the philosophers of the
+ 
+
+19
+00:00:32,520 --> 00:00:34,549
+problem that the philosophers of the
+18th century and the scientists of the
+
+20
+00:00:34,549 --> 00:00:34,559
+18th century and the scientists of the
+ 
+
+21
+00:00:34,559 --> 00:00:37,910
+18th century and the scientists of the
+same era were encountering namely the
+
+22
+00:00:37,910 --> 00:00:37,920
+same era were encountering namely the
+ 
+
+23
+00:00:37,920 --> 00:00:40,910
+same era were encountering namely the
+world was growing bigger and yet of a
+
+24
+00:00:40,910 --> 00:00:40,920
+world was growing bigger and yet of a
+ 
+
+25
+00:00:40,920 --> 00:00:43,069
+world was growing bigger and yet of a
+different perspective the world was
+
+26
+00:00:43,069 --> 00:00:43,079
+different perspective the world was
+ 
+
+27
+00:00:43,079 --> 00:00:46,010
+different perspective the world was
+growing smaller
+
+28
+00:00:46,010 --> 00:00:46,020
+growing smaller
+ 
+
+29
+00:00:46,020 --> 00:00:48,830
+growing smaller
+I think about this sometimes on the golf
+
+30
+00:00:48,830 --> 00:00:48,840
+I think about this sometimes on the golf
+ 
+
+31
+00:00:48,840 --> 00:00:52,610
+I think about this sometimes on the golf
+course I've had many experiences
+
+32
+00:00:52,610 --> 00:00:52,620
+course I've had many experiences
+ 
+
+33
+00:00:52,620 --> 00:00:55,850
+course I've had many experiences
+where I've hit my tee shot where you're
+
+34
+00:00:55,850 --> 00:00:55,860
+where I've hit my tee shot where you're
+ 
+
+35
+00:00:55,860 --> 00:00:58,729
+where I've hit my tee shot where you're
+not supposed to hit your tee shot in the
+
+36
+00:00:58,729 --> 00:00:58,739
+not supposed to hit your tee shot in the
+ 
+
+37
+00:00:58,739 --> 00:01:01,670
+not supposed to hit your tee shot in the
+rough and I'll find my ball and I'll see
+
+38
+00:01:01,670 --> 00:01:01,680
+rough and I'll find my ball and I'll see
+ 
+
+39
+00:01:01,680 --> 00:01:04,850
+rough and I'll find my ball and I'll see
+that in order to advance from where I am
+
+40
+00:01:04,850 --> 00:01:04,860
+that in order to advance from where I am
+ 
+
+41
+00:01:04,860 --> 00:01:08,690
+that in order to advance from where I am
+to the green I have to negotiate a great
+
+42
+00:01:08,690 --> 00:01:08,700
+to the green I have to negotiate a great
+ 
+
+43
+00:01:08,700 --> 00:01:13,730
+to the green I have to negotiate a great
+big tree that's blocking my Avenue to
+
+44
+00:01:13,730 --> 00:01:13,740
+big tree that's blocking my Avenue to
+ 
+
+45
+00:01:13,740 --> 00:01:14,750
+big tree that's blocking my Avenue to
+the green
+
+46
+00:01:14,750 --> 00:01:14,760
+the green
+ 
+
+47
+00:01:14,760 --> 00:01:16,550
+the green
+and I don't know how many times I've
+
+48
+00:01:16,550 --> 00:01:16,560
+and I don't know how many times I've
+ 
+
+49
+00:01:16,560 --> 00:01:18,649
+and I don't know how many times I've
+been playing golf and and I'll look at
+
+50
+00:01:18,649 --> 00:01:18,659
+been playing golf and and I'll look at
+ 
+
+51
+00:01:18,659 --> 00:01:20,570
+been playing golf and and I'll look at
+my situation I'm trying to figure out
+
+52
+00:01:20,570 --> 00:01:20,580
+my situation I'm trying to figure out
+ 
+
+53
+00:01:20,580 --> 00:01:22,730
+my situation I'm trying to figure out
+how to invent a shot to go around the
+
+54
+00:01:22,730 --> 00:01:22,740
+how to invent a shot to go around the
+ 
+
+55
+00:01:22,740 --> 00:01:25,130
+how to invent a shot to go around the
+tree either this way or that way or cut
+
+56
+00:01:25,130 --> 00:01:25,140
+tree either this way or that way or cut
+ 
+
+57
+00:01:25,140 --> 00:01:26,570
+tree either this way or that way or cut
+the ball and hit it over the tree
+
+58
+00:01:26,570 --> 00:01:26,580
+the ball and hit it over the tree
+ 
+
+59
+00:01:26,580 --> 00:01:29,210
+the ball and hit it over the tree
+because I know I can't hit it under the
+
+60
+00:01:29,210 --> 00:01:29,220
+because I know I can't hit it under the
+ 
+
+61
+00:01:29,220 --> 00:01:31,249
+because I know I can't hit it under the
+tree although I can hit it under the
+
+62
+00:01:31,249 --> 00:01:31,259
+tree although I can hit it under the
+ 
+
+63
+00:01:31,259 --> 00:01:34,370
+tree although I can hit it under the
+branches if I Hood the club face and get
+
+64
+00:01:34,370 --> 00:01:34,380
+branches if I Hood the club face and get
+ 
+
+65
+00:01:34,380 --> 00:01:37,069
+branches if I Hood the club face and get
+a low shot I mean do that sort of thing
+
+66
+00:01:37,069 --> 00:01:37,079
+a low shot I mean do that sort of thing
+ 
+
+67
+00:01:37,079 --> 00:01:39,890
+a low shot I mean do that sort of thing
+but as I'm sitting there you know
+
+68
+00:01:39,890 --> 00:01:39,900
+but as I'm sitting there you know
+ 
+
+69
+00:01:39,900 --> 00:01:43,010
+but as I'm sitting there you know
+pondering my problem invariably who's
+
+70
+00:01:43,010 --> 00:01:43,020
+pondering my problem invariably who's
+ 
+
+71
+00:01:43,020 --> 00:01:46,130
+pondering my problem invariably who's
+ever playing golf with me will say oh RC
+
+72
+00:01:46,130 --> 00:01:46,140
+ever playing golf with me will say oh RC
+ 
+
+73
+00:01:46,140 --> 00:01:49,490
+ever playing golf with me will say oh RC
+go ahead just hit it trees are 90
+
+74
+00:01:49,490 --> 00:01:49,500
+go ahead just hit it trees are 90
+ 
+
+75
+00:01:49,500 --> 00:01:52,429
+go ahead just hit it trees are 90
+percent air anyway have you ever heard
+
+76
+00:01:52,429 --> 00:01:52,439
+percent air anyway have you ever heard
+ 
+
+77
+00:01:52,439 --> 00:01:55,069
+percent air anyway have you ever heard
+that expression trees are 90 air I don't
+
+78
+00:01:55,069 --> 00:01:55,079
+that expression trees are 90 air I don't
+ 
+
+79
+00:01:55,079 --> 00:01:57,710
+that expression trees are 90 air I don't
+know whoever did the percentage analysis
+
+80
+00:01:57,710 --> 00:01:57,720
+know whoever did the percentage analysis
+ 
+
+81
+00:01:57,720 --> 00:01:59,929
+know whoever did the percentage analysis
+of the makeup and composition of trees
+
+82
+00:01:59,929 --> 00:01:59,939
+of the makeup and composition of trees
+ 
+
+83
+00:01:59,939 --> 00:02:02,810
+of the makeup and composition of trees
+that are in the rough at the golf course
+
+84
+00:02:02,810 --> 00:02:02,820
+that are in the rough at the golf course
+ 
+
+85
+00:02:02,820 --> 00:02:05,030
+that are in the rough at the golf course
+but I hear this actually all the time
+
+86
+00:02:05,030 --> 00:02:05,040
+but I hear this actually all the time
+ 
+
+87
+00:02:05,040 --> 00:02:07,670
+but I hear this actually all the time
+they're 90 air and then I have my
+
+88
+00:02:07,670 --> 00:02:07,680
+they're 90 air and then I have my
+ 
+
+89
+00:02:07,680 --> 00:02:09,529
+they're 90 air and then I have my
+Colombo routine and I said well just a
+
+90
+00:02:09,529 --> 00:02:09,539
+Colombo routine and I said well just a
+ 
+
+91
+00:02:09,539 --> 00:02:10,669
+Colombo routine and I said well just a
+minute there's one thing I don't
+
+92
+00:02:10,669 --> 00:02:10,679
+minute there's one thing I don't
+ 
+
+93
+00:02:10,679 --> 00:02:14,089
+minute there's one thing I don't
+understand here and that is housecom I
+
+94
+00:02:14,089 --> 00:02:14,099
+understand here and that is housecom I
+ 
+
+95
+00:02:14,099 --> 00:02:16,030
+understand here and that is housecom I
+can't hit the ball from here
+
+96
+00:02:16,030 --> 00:02:16,040
+can't hit the ball from here
+ 
+
+97
+00:02:16,040 --> 00:02:18,350
+can't hit the ball from here
+towards that tree
+
+98
+00:02:18,350 --> 00:02:18,360
+towards that tree
+ 
+
+99
+00:02:18,360 --> 00:02:22,910
+towards that tree
+and get through it 90 of the time it
+
+100
+00:02:22,910 --> 00:02:22,920
+and get through it 90 of the time it
+ 
+
+101
+00:02:22,920 --> 00:02:25,610
+and get through it 90 of the time it
+doesn't sure doesn't seem like 90
+
+102
+00:02:25,610 --> 00:02:25,620
+doesn't sure doesn't seem like 90
+ 
+
+103
+00:02:25,620 --> 00:02:28,490
+doesn't sure doesn't seem like 90
+percent of that tree is air
+
+104
+00:02:28,490 --> 00:02:28,500
+percent of that tree is air
+ 
+
+105
+00:02:28,500 --> 00:02:30,530
+percent of that tree is air
+well actually if we got technical about
+
+106
+00:02:30,530 --> 00:02:30,540
+well actually if we got technical about
+ 
+
+107
+00:02:30,540 --> 00:02:31,309
+well actually if we got technical about
+it
+
+108
+00:02:31,309 --> 00:02:31,319
+it
+ 
+
+109
+00:02:31,319 --> 00:02:33,890
+it
+we would have to conclude that the
+
+110
+00:02:33,890 --> 00:02:33,900
+we would have to conclude that the
+ 
+
+111
+00:02:33,900 --> 00:02:36,830
+we would have to conclude that the
+figure 90 percent is really not an
+
+112
+00:02:36,830 --> 00:02:36,840
+figure 90 percent is really not an
+ 
+
+113
+00:02:36,840 --> 00:02:40,910
+figure 90 percent is really not an
+accurate estimate of the substance of
+
+114
+00:02:40,910 --> 00:02:40,920
+accurate estimate of the substance of
+ 
+
+115
+00:02:40,920 --> 00:02:42,589
+accurate estimate of the substance of
+that tree
+
+116
+00:02:42,589 --> 00:02:42,599
+that tree
+ 
+
+117
+00:02:42,599 --> 00:02:45,770
+that tree
+in fact it would be
+
+118
+00:02:45,770 --> 00:02:45,780
+in fact it would be
+ 
+
+119
+00:02:45,780 --> 00:02:48,229
+in fact it would be
+way too small
+
+120
+00:02:48,229 --> 00:02:48,239
+way too small
+ 
+
+121
+00:02:48,239 --> 00:02:50,509
+way too small
+did I say too small
+
+122
+00:02:50,509 --> 00:02:50,519
+did I say too small
+ 
+
+123
+00:02:50,519 --> 00:02:53,270
+did I say too small
+or did I mean too high
+
+124
+00:02:53,270 --> 00:02:53,280
+or did I mean too high
+ 
+
+125
+00:02:53,280 --> 00:02:56,210
+or did I mean too high
+no I mean too low
+
+126
+00:02:56,210 --> 00:02:56,220
+no I mean too low
+ 
+
+127
+00:02:56,220 --> 00:02:59,869
+no I mean too low
+at least in terms of modern theories of
+
+128
+00:02:59,869 --> 00:02:59,879
+at least in terms of modern theories of
+ 
+
+129
+00:02:59,879 --> 00:03:01,070
+at least in terms of modern theories of
+matter
+
+130
+00:03:01,070 --> 00:03:01,080
+matter
+ 
+
+131
+00:03:01,080 --> 00:03:02,869
+matter
+and of substance
+
+132
+00:03:02,869 --> 00:03:02,879
+and of substance
+ 
+
+133
+00:03:02,879 --> 00:03:05,990
+and of substance
+we have what we call the atomic theory
+
+134
+00:03:05,990 --> 00:03:06,000
+we have what we call the atomic theory
+ 
+
+135
+00:03:06,000 --> 00:03:07,850
+we have what we call the atomic theory
+of reality
+
+136
+00:03:07,850 --> 00:03:07,860
+of reality
+ 
+
+137
+00:03:07,860 --> 00:03:09,770
+of reality
+and we say that all these things
+
+138
+00:03:09,770 --> 00:03:09,780
+and we say that all these things
+ 
+
+139
+00:03:09,780 --> 00:03:12,770
+and we say that all these things
+including the trees are made up of these
+
+140
+00:03:12,770 --> 00:03:12,780
+including the trees are made up of these
+ 
+
+141
+00:03:12,780 --> 00:03:15,170
+including the trees are made up of these
+tiny little bits of atoms which have put
+
+142
+00:03:15,170 --> 00:03:15,180
+tiny little bits of atoms which have put
+ 
+
+143
+00:03:15,180 --> 00:03:17,030
+tiny little bits of atoms which have put
+the atoms together and they'll make
+
+144
+00:03:17,030 --> 00:03:17,040
+the atoms together and they'll make
+ 
+
+145
+00:03:17,040 --> 00:03:20,750
+the atoms together and they'll make
+molecules and so on
+
+146
+00:03:20,750 --> 00:03:20,760
+
+ 
+
+147
+00:03:20,760 --> 00:03:23,750
+
+but recently I read a book on on physics
+
+148
+00:03:23,750 --> 00:03:23,760
+but recently I read a book on on physics
+ 
+
+149
+00:03:23,760 --> 00:03:27,170
+but recently I read a book on on physics
+which was trying to give us some idea
+
+150
+00:03:27,170 --> 00:03:27,180
+which was trying to give us some idea
+ 
+
+151
+00:03:27,180 --> 00:03:28,550
+which was trying to give us some idea
+of what
+
+152
+00:03:28,550 --> 00:03:28,560
+of what
+ 
+
+153
+00:03:28,560 --> 00:03:31,550
+of what
+an atom looks like and you've all seen
+
+154
+00:03:31,550 --> 00:03:31,560
+an atom looks like and you've all seen
+ 
+
+155
+00:03:31,560 --> 00:03:33,410
+an atom looks like and you've all seen
+the models of atoms that look like
+
+156
+00:03:33,410 --> 00:03:33,420
+the models of atoms that look like
+ 
+
+157
+00:03:33,420 --> 00:03:36,170
+the models of atoms that look like
+little tops spinning and at the center
+
+158
+00:03:36,170 --> 00:03:36,180
+little tops spinning and at the center
+ 
+
+159
+00:03:36,180 --> 00:03:39,830
+little tops spinning and at the center
+of the atom is a nucleus and then
+
+160
+00:03:39,830 --> 00:03:39,840
+of the atom is a nucleus and then
+ 
+
+161
+00:03:39,840 --> 00:03:42,229
+of the atom is a nucleus and then
+spinning around in orbit around there
+
+162
+00:03:42,229 --> 00:03:42,239
+spinning around in orbit around there
+ 
+
+163
+00:03:42,239 --> 00:03:44,869
+spinning around in orbit around there
+are these electrons or protons or
+
+164
+00:03:44,869 --> 00:03:44,879
+are these electrons or protons or
+ 
+
+165
+00:03:44,879 --> 00:03:47,110
+are these electrons or protons or
+whatever they are that are flying around
+
+166
+00:03:47,110 --> 00:03:47,120
+whatever they are that are flying around
+ 
+
+167
+00:03:47,120 --> 00:03:52,369
+whatever they are that are flying around
+outside from the nucleus and presumably
+
+168
+00:03:52,369 --> 00:03:52,379
+outside from the nucleus and presumably
+ 
+
+169
+00:03:52,379 --> 00:03:54,229
+outside from the nucleus and presumably
+what's in between
+
+170
+00:03:54,229 --> 00:03:54,239
+what's in between
+ 
+
+171
+00:03:54,239 --> 00:03:56,690
+what's in between
+is what space
+
+172
+00:03:56,690 --> 00:03:56,700
+is what space
+ 
+
+173
+00:03:56,700 --> 00:03:58,430
+is what space
+not even air
+
+174
+00:03:58,430 --> 00:03:58,440
+not even air
+ 
+
+175
+00:03:58,440 --> 00:03:59,930
+not even air
+less dense
+
+176
+00:03:59,930 --> 00:03:59,940
+less dense
+ 
+
+177
+00:03:59,940 --> 00:04:02,570
+less dense
+than air
+
+178
+00:04:02,570 --> 00:04:02,580
+than air
+ 
+
+179
+00:04:02,580 --> 00:04:05,630
+than air
+and the model I saw was of
+
+180
+00:04:05,630 --> 00:04:05,640
+and the model I saw was of
+ 
+
+181
+00:04:05,640 --> 00:04:09,050
+and the model I saw was of
+the area of metropolitan
+
+182
+00:04:09,050 --> 00:04:09,060
+the area of metropolitan
+ 
+
+183
+00:04:09,060 --> 00:04:11,449
+the area of metropolitan
+Los Angeles
+
+184
+00:04:11,449 --> 00:04:11,459
+Los Angeles
+ 
+
+185
+00:04:11,459 --> 00:04:16,189
+Los Angeles
+they took the huge Outer Perimeter
+
+186
+00:04:16,189 --> 00:04:16,199
+they took the huge Outer Perimeter
+ 
+
+187
+00:04:16,199 --> 00:04:18,590
+they took the huge Outer Perimeter
+of the city of Los Angeles and they said
+
+188
+00:04:18,590 --> 00:04:18,600
+of the city of Los Angeles and they said
+ 
+
+189
+00:04:18,600 --> 00:04:23,930
+of the city of Los Angeles and they said
+imagine having an old VW
+
+190
+00:04:23,930 --> 00:04:23,940
+imagine having an old VW
+ 
+
+191
+00:04:23,940 --> 00:04:25,670
+imagine having an old VW
+bug
+
+192
+00:04:25,670 --> 00:04:25,680
+bug
+ 
+
+193
+00:04:25,680 --> 00:04:27,650
+bug
+that was parked
+
+194
+00:04:27,650 --> 00:04:27,660
+that was parked
+ 
+
+195
+00:04:27,660 --> 00:04:31,550
+that was parked
+in this very center of downtown Los
+
+196
+00:04:31,550 --> 00:04:31,560
+in this very center of downtown Los
+ 
+
+197
+00:04:31,560 --> 00:04:33,950
+in this very center of downtown Los
+Angeles
+
+198
+00:04:33,950 --> 00:04:33,960
+
+ 
+
+199
+00:04:33,960 --> 00:04:37,850
+
+and there was nothing else in the city
+
+200
+00:04:37,850 --> 00:04:37,860
+and there was nothing else in the city
+ 
+
+201
+00:04:37,860 --> 00:04:41,270
+and there was nothing else in the city
+no cars no buildings no people no trees
+
+202
+00:04:41,270 --> 00:04:41,280
+no cars no buildings no people no trees
+ 
+
+203
+00:04:41,280 --> 00:04:45,230
+no cars no buildings no people no trees
+nothing just this single lone little VW
+
+204
+00:04:45,230 --> 00:04:45,240
+nothing just this single lone little VW
+ 
+
+205
+00:04:45,240 --> 00:04:46,909
+nothing just this single lone little VW
+Bug
+
+206
+00:04:46,909 --> 00:04:46,919
+Bug
+ 
+
+207
+00:04:46,919 --> 00:04:51,249
+Bug
+and you don't get to anything solid or
+
+208
+00:04:51,249 --> 00:04:51,259
+and you don't get to anything solid or
+ 
+
+209
+00:04:51,259 --> 00:04:54,650
+and you don't get to anything solid or
+material until you get out to the outer
+
+210
+00:04:54,650 --> 00:04:54,660
+material until you get out to the outer
+ 
+
+211
+00:04:54,660 --> 00:04:57,050
+material until you get out to the outer
+limits of the city
+
+212
+00:04:57,050 --> 00:04:57,060
+limits of the city
+ 
+
+213
+00:04:57,060 --> 00:04:59,570
+limits of the city
+but everything in between the outer
+
+214
+00:04:59,570 --> 00:04:59,580
+but everything in between the outer
+ 
+
+215
+00:04:59,580 --> 00:05:02,689
+but everything in between the outer
+limits of Los Angeles and the VW bug in
+
+216
+00:05:02,689 --> 00:05:02,699
+limits of Los Angeles and the VW bug in
+ 
+
+217
+00:05:02,699 --> 00:05:03,590
+limits of Los Angeles and the VW bug in
+the middle
+
+218
+00:05:03,590 --> 00:05:03,600
+the middle
+ 
+
+219
+00:05:03,600 --> 00:05:06,550
+the middle
+is space
+
+220
+00:05:06,550 --> 00:05:06,560
+is space
+ 
+
+221
+00:05:06,560 --> 00:05:10,129
+is space
+that was the image that was used to
+
+222
+00:05:10,129 --> 00:05:10,139
+that was the image that was used to
+ 
+
+223
+00:05:10,139 --> 00:05:14,870
+that was the image that was used to
+describe the composition of an atom
+
+224
+00:05:14,870 --> 00:05:14,880
+describe the composition of an atom
+ 
+
+225
+00:05:14,880 --> 00:05:19,070
+describe the composition of an atom
+so obviously this represents far less
+
+226
+00:05:19,070 --> 00:05:19,080
+so obviously this represents far less
+ 
+
+227
+00:05:19,080 --> 00:05:22,969
+so obviously this represents far less
+than one percent of all of this
+
+228
+00:05:22,969 --> 00:05:22,979
+than one percent of all of this
+ 
+
+229
+00:05:22,979 --> 00:05:26,330
+than one percent of all of this
+and so if trees are 90 air
+
+230
+00:05:26,330 --> 00:05:26,340
+and so if trees are 90 air
+ 
+
+231
+00:05:26,340 --> 00:05:28,730
+and so if trees are 90 air
+by this kind of reasoning the city of
+
+232
+00:05:28,730 --> 00:05:28,740
+by this kind of reasoning the city of
+ 
+
+233
+00:05:28,740 --> 00:05:32,210
+by this kind of reasoning the city of
+Los Angeles is 99.9 percent
+
+234
+00:05:32,210 --> 00:05:32,220
+Los Angeles is 99.9 percent
+ 
+
+235
+00:05:32,220 --> 00:05:34,370
+Los Angeles is 99.9 percent
+space
+
+236
+00:05:34,370 --> 00:05:34,380
+space
+ 
+
+237
+00:05:34,380 --> 00:05:36,830
+space
+because it's simply made up
+
+238
+00:05:36,830 --> 00:05:36,840
+because it's simply made up
+ 
+
+239
+00:05:36,840 --> 00:05:39,950
+because it's simply made up
+of atoms this is what I meant when I
+
+240
+00:05:39,950 --> 00:05:39,960
+of atoms this is what I meant when I
+ 
+
+241
+00:05:39,960 --> 00:05:43,490
+of atoms this is what I meant when I
+said the world is getting smaller and
+
+242
+00:05:43,490 --> 00:05:43,500
+said the world is getting smaller and
+ 
+
+243
+00:05:43,500 --> 00:05:48,770
+said the world is getting smaller and
+smaller and smaller to us
+
+244
+00:05:48,770 --> 00:05:48,780
+
+ 
+
+245
+00:05:48,780 --> 00:05:52,249
+
+and this compounds the problem of
+
+246
+00:05:52,249 --> 00:05:52,259
+and this compounds the problem of
+ 
+
+247
+00:05:52,259 --> 00:05:54,710
+and this compounds the problem of
+metaphysics
+
+248
+00:05:54,710 --> 00:05:54,720
+metaphysics
+ 
+
+249
+00:05:54,720 --> 00:05:59,210
+metaphysics
+because if I say to you that 99 of what
+
+250
+00:05:59,210 --> 00:05:59,220
+because if I say to you that 99 of what
+ 
+
+251
+00:05:59,220 --> 00:06:01,969
+because if I say to you that 99 of what
+you perceive
+
+252
+00:06:01,969 --> 00:06:01,979
+you perceive
+ 
+
+253
+00:06:01,979 --> 00:06:04,550
+you perceive
+is empty space
+
+254
+00:06:04,550 --> 00:06:04,560
+is empty space
+ 
+
+255
+00:06:04,560 --> 00:06:08,270
+is empty space
+not a whole lot really there
+
+256
+00:06:08,270 --> 00:06:08,280
+not a whole lot really there
+ 
+
+257
+00:06:08,280 --> 00:06:10,370
+not a whole lot really there
+because it seems when I look at a person
+
+258
+00:06:10,370 --> 00:06:10,380
+because it seems when I look at a person
+ 
+
+259
+00:06:10,380 --> 00:06:12,950
+because it seems when I look at a person
+or I look at a an object a physical
+
+260
+00:06:12,950 --> 00:06:12,960
+or I look at a an object a physical
+ 
+
+261
+00:06:12,960 --> 00:06:15,770
+or I look at a an object a physical
+object it seems to me to be a hundred
+
+262
+00:06:15,770 --> 00:06:15,780
+object it seems to me to be a hundred
+ 
+
+263
+00:06:15,780 --> 00:06:18,230
+object it seems to me to be a hundred
+percent solid
+
+264
+00:06:18,230 --> 00:06:18,240
+percent solid
+ 
+
+265
+00:06:18,240 --> 00:06:20,150
+percent solid
+but when we look at it under a
+
+266
+00:06:20,150 --> 00:06:20,160
+but when we look at it under a
+ 
+
+267
+00:06:20,160 --> 00:06:21,770
+but when we look at it under a
+microscope
+
+268
+00:06:21,770 --> 00:06:21,780
+microscope
+ 
+
+269
+00:06:21,780 --> 00:06:24,409
+microscope
+and an atomic microscope
+
+270
+00:06:24,409 --> 00:06:24,419
+and an atomic microscope
+ 
+
+271
+00:06:24,419 --> 00:06:27,790
+and an atomic microscope
+we find that there is precious little
+
+272
+00:06:27,790 --> 00:06:27,800
+we find that there is precious little
+ 
+
+273
+00:06:27,800 --> 00:06:31,730
+we find that there is precious little
+extension to use Descartes term
+
+274
+00:06:31,730 --> 00:06:31,740
+extension to use Descartes term
+ 
+
+275
+00:06:31,740 --> 00:06:33,830
+extension to use Descartes term
+or solidity
+
+276
+00:06:33,830 --> 00:06:33,840
+or solidity
+ 
+
+277
+00:06:33,840 --> 00:06:37,129
+or solidity
+that's really there
+
+278
+00:06:37,129 --> 00:06:37,139
+that's really there
+ 
+
+279
+00:06:37,139 --> 00:06:39,969
+that's really there
+now let's make the problem even more
+
+280
+00:06:39,969 --> 00:06:39,979
+now let's make the problem even more
+ 
+
+281
+00:06:39,979 --> 00:06:43,189
+now let's make the problem even more
+egregious I need some help now to give
+
+282
+00:06:43,189 --> 00:06:43,199
+egregious I need some help now to give
+ 
+
+283
+00:06:43,199 --> 00:06:45,050
+egregious I need some help now to give
+this following illustration Roger can
+
+284
+00:06:45,050 --> 00:06:45,060
+this following illustration Roger can
+ 
+
+285
+00:06:45,060 --> 00:06:46,790
+this following illustration Roger can
+you come up here and help me for just a
+
+286
+00:06:46,790 --> 00:06:46,800
+you come up here and help me for just a
+ 
+
+287
+00:06:46,800 --> 00:06:48,890
+you come up here and help me for just a
+second I'm not going to do anything you
+
+288
+00:06:48,890 --> 00:06:48,900
+second I'm not going to do anything you
+ 
+
+289
+00:06:48,900 --> 00:06:50,930
+second I'm not going to do anything you
+know I'm not going to hurt you I just
+
+290
+00:06:50,930 --> 00:06:50,940
+know I'm not going to hurt you I just
+ 
+
+291
+00:06:50,940 --> 00:06:52,430
+know I'm not going to hurt you I just
+want you to stand here and be my partner
+
+292
+00:06:52,430 --> 00:06:52,440
+want you to stand here and be my partner
+ 
+
+293
+00:06:52,440 --> 00:06:55,909
+want you to stand here and be my partner
+for a second everybody now can see my
+
+294
+00:06:55,909 --> 00:06:55,919
+for a second everybody now can see my
+ 
+
+295
+00:06:55,919 --> 00:06:58,969
+for a second everybody now can see my
+buddy Roger amundsen he's one of my star
+
+296
+00:06:58,969 --> 00:06:58,979
+buddy Roger amundsen he's one of my star
+ 
+
+297
+00:06:58,979 --> 00:07:01,969
+buddy Roger amundsen he's one of my star
+students in this course in philosophy
+
+298
+00:07:01,969 --> 00:07:01,979
+students in this course in philosophy
+ 
+
+299
+00:07:01,979 --> 00:07:04,309
+students in this course in philosophy
+now I would like the audience that is
+
+300
+00:07:04,309 --> 00:07:04,319
+now I would like the audience that is
+ 
+
+301
+00:07:04,319 --> 00:07:05,990
+now I would like the audience that is
+here to tell me
+
+302
+00:07:05,990 --> 00:07:06,000
+here to tell me
+ 
+
+303
+00:07:06,000 --> 00:07:08,409
+here to tell me
+what color
+
+304
+00:07:08,409 --> 00:07:08,419
+what color
+ 
+
+305
+00:07:08,419 --> 00:07:16,249
+what color
+Roger's shirt is
+
+306
+00:07:16,249 --> 00:07:16,259
+
+ 
+
+307
+00:07:16,259 --> 00:07:18,830
+
+how many think it's blue you all said
+
+308
+00:07:18,830 --> 00:07:18,840
+how many think it's blue you all said
+ 
+
+309
+00:07:18,840 --> 00:07:20,990
+how many think it's blue you all said
+it's blue Roger they all said you had a
+
+310
+00:07:20,990 --> 00:07:21,000
+it's blue Roger they all said you had a
+ 
+
+311
+00:07:21,000 --> 00:07:23,450
+it's blue Roger they all said you had a
+blue shirt you like his blue shirt it's
+
+312
+00:07:23,450 --> 00:07:23,460
+blue shirt you like his blue shirt it's
+ 
+
+313
+00:07:23,460 --> 00:07:25,550
+blue shirt you like his blue shirt it's
+a nice blue shirt okay see that wasn't
+
+314
+00:07:25,550 --> 00:07:25,560
+a nice blue shirt okay see that wasn't
+ 
+
+315
+00:07:25,560 --> 00:07:28,010
+a nice blue shirt okay see that wasn't
+hard wasn't Rush thank you buddy okay
+
+316
+00:07:28,010 --> 00:07:28,020
+hard wasn't Rush thank you buddy okay
+ 
+
+317
+00:07:28,020 --> 00:07:31,010
+hard wasn't Rush thank you buddy okay
+we've all had the experience now of
+
+318
+00:07:31,010 --> 00:07:31,020
+we've all had the experience now of
+ 
+
+319
+00:07:31,020 --> 00:07:33,409
+we've all had the experience now of
+seeing Roger's shirt and we all
+
+320
+00:07:33,409 --> 00:07:33,419
+seeing Roger's shirt and we all
+ 
+
+321
+00:07:33,419 --> 00:07:35,390
+seeing Roger's shirt and we all
+identified
+
+322
+00:07:35,390 --> 00:07:35,400
+identified
+ 
+
+323
+00:07:35,400 --> 00:07:40,670
+identified
+his shirt as being blue
+
+324
+00:07:40,670 --> 00:07:40,680
+his shirt as being blue
+ 
+
+325
+00:07:40,680 --> 00:07:44,870
+his shirt as being blue
+now I can ask the question very simply
+
+326
+00:07:44,870 --> 00:07:44,880
+now I can ask the question very simply
+ 
+
+327
+00:07:44,880 --> 00:07:49,070
+now I can ask the question very simply
+is Roger's shirt blue
+
+328
+00:07:49,070 --> 00:07:49,080
+is Roger's shirt blue
+ 
+
+329
+00:07:49,080 --> 00:07:52,249
+is Roger's shirt blue
+yes okay
+
+330
+00:07:52,249 --> 00:07:52,259
+yes okay
+ 
+
+331
+00:07:52,259 --> 00:07:54,170
+yes okay
+well
+
+332
+00:07:54,170 --> 00:07:54,180
+well
+ 
+
+333
+00:07:54,180 --> 00:07:55,969
+well
+this is what
+
+334
+00:07:55,969 --> 00:07:55,979
+this is what
+ 
+
+335
+00:07:55,979 --> 00:07:59,270
+this is what
+the philosophers of the 18th century
+
+336
+00:07:59,270 --> 00:07:59,280
+the philosophers of the 18th century
+ 
+
+337
+00:07:59,280 --> 00:08:02,089
+the philosophers of the 18th century
+were very much concerned about
+
+338
+00:08:02,089 --> 00:08:02,099
+were very much concerned about
+ 
+
+339
+00:08:02,099 --> 00:08:09,290
+were very much concerned about
+if I say Roger's shirt is blue
+
+340
+00:08:09,290 --> 00:08:09,300
+
+ 
+
+341
+00:08:09,300 --> 00:08:12,350
+
+as soon as I use the word is
+
+342
+00:08:12,350 --> 00:08:12,360
+as soon as I use the word is
+ 
+
+343
+00:08:12,360 --> 00:08:17,689
+as soon as I use the word is
+I'm using a form of the verb to be
+
+344
+00:08:17,689 --> 00:08:17,699
+I'm using a form of the verb to be
+ 
+
+345
+00:08:17,699 --> 00:08:22,550
+I'm using a form of the verb to be
+I am predicating to his shirt something
+
+346
+00:08:22,550 --> 00:08:22,560
+I am predicating to his shirt something
+ 
+
+347
+00:08:22,560 --> 00:08:25,369
+I am predicating to his shirt something
+about its being
+
+348
+00:08:25,369 --> 00:08:25,379
+about its being
+ 
+
+349
+00:08:25,379 --> 00:08:28,570
+about its being
+I'm saying that the being or the essence
+
+350
+00:08:28,570 --> 00:08:28,580
+I'm saying that the being or the essence
+ 
+
+351
+00:08:28,580 --> 00:08:31,149
+I'm saying that the being or the essence
+of this shirt
+
+352
+00:08:31,149 --> 00:08:31,159
+of this shirt
+ 
+
+353
+00:08:31,159 --> 00:08:35,089
+of this shirt
+includes whatever else it includes the
+
+354
+00:08:35,089 --> 00:08:35,099
+includes whatever else it includes the
+ 
+
+355
+00:08:35,099 --> 00:08:36,370
+includes whatever else it includes the
+quality
+
+356
+00:08:36,370 --> 00:08:36,380
+quality
+ 
+
+357
+00:08:36,380 --> 00:08:41,449
+quality
+of blueness or color
+
+358
+00:08:41,449 --> 00:08:41,459
+of blueness or color
+ 
+
+359
+00:08:41,459 --> 00:08:44,690
+of blueness or color
+now suppose we turned out all the lights
+
+360
+00:08:44,690 --> 00:08:44,700
+now suppose we turned out all the lights
+ 
+
+361
+00:08:44,700 --> 00:08:48,110
+now suppose we turned out all the lights
+in here
+
+362
+00:08:48,110 --> 00:08:48,120
+
+ 
+
+363
+00:08:48,120 --> 00:08:50,630
+
+and and added to that
+
+364
+00:08:50,630 --> 00:08:50,640
+and and added to that
+ 
+
+365
+00:08:50,640 --> 00:08:53,210
+and and added to that
+we shut it our we shut it
+
+366
+00:08:53,210 --> 00:08:53,220
+we shut it our we shut it
+ 
+
+367
+00:08:53,220 --> 00:08:57,290
+we shut it our we shut it
+add to that that we shut our eyes
+
+368
+00:08:57,290 --> 00:08:57,300
+add to that that we shut our eyes
+ 
+
+369
+00:08:57,300 --> 00:09:00,829
+add to that that we shut our eyes
+would Roger's shirt
+
+370
+00:09:00,829 --> 00:09:00,839
+would Roger's shirt
+ 
+
+371
+00:09:00,839 --> 00:09:04,970
+would Roger's shirt
+still be blue
+
+372
+00:09:04,970 --> 00:09:04,980
+
+ 
+
+373
+00:09:04,980 --> 00:09:07,610
+
+or to put it another way is the blueness
+
+374
+00:09:07,610 --> 00:09:07,620
+or to put it another way is the blueness
+ 
+
+375
+00:09:07,620 --> 00:09:10,310
+or to put it another way is the blueness
+of the shirt
+
+376
+00:09:10,310 --> 00:09:10,320
+of the shirt
+ 
+
+377
+00:09:10,320 --> 00:09:15,230
+of the shirt
+something that is in the shirt
+
+378
+00:09:15,230 --> 00:09:15,240
+something that is in the shirt
+ 
+
+379
+00:09:15,240 --> 00:09:21,290
+something that is in the shirt
+or is it something that I see as blue
+
+380
+00:09:21,290 --> 00:09:21,300
+or is it something that I see as blue
+ 
+
+381
+00:09:21,300 --> 00:09:25,670
+or is it something that I see as blue
+because when light hits that object that
+
+382
+00:09:25,670 --> 00:09:25,680
+because when light hits that object that
+ 
+
+383
+00:09:25,680 --> 00:09:27,949
+because when light hits that object that
+he's wearing
+
+384
+00:09:27,949 --> 00:09:27,959
+he's wearing
+ 
+
+385
+00:09:27,959 --> 00:09:32,030
+he's wearing
+certain aspects of the spectrum of light
+
+386
+00:09:32,030 --> 00:09:32,040
+certain aspects of the spectrum of light
+ 
+
+387
+00:09:32,040 --> 00:09:35,930
+certain aspects of the spectrum of light
+are absorbed by the material
+
+388
+00:09:35,930 --> 00:09:35,940
+are absorbed by the material
+ 
+
+389
+00:09:35,940 --> 00:09:40,850
+are absorbed by the material
+and another aspect is reflected by the
+
+390
+00:09:40,850 --> 00:09:40,860
+and another aspect is reflected by the
+ 
+
+391
+00:09:40,860 --> 00:09:42,829
+and another aspect is reflected by the
+material
+
+392
+00:09:42,829 --> 00:09:42,839
+material
+ 
+
+393
+00:09:42,839 --> 00:09:46,190
+material
+and I only see
+
+394
+00:09:46,190 --> 00:09:46,200
+and I only see
+ 
+
+395
+00:09:46,200 --> 00:09:50,509
+and I only see
+that element of the spectrum of light
+
+396
+00:09:50,509 --> 00:09:50,519
+that element of the spectrum of light
+ 
+
+397
+00:09:50,519 --> 00:09:52,910
+that element of the spectrum of light
+that is blue
+
+398
+00:09:52,910 --> 00:09:52,920
+that is blue
+ 
+
+399
+00:09:52,920 --> 00:09:55,670
+that is blue
+but without the source of the light
+
+400
+00:09:55,670 --> 00:09:55,680
+but without the source of the light
+ 
+
+401
+00:09:55,680 --> 00:09:57,829
+but without the source of the light
+shining
+
+402
+00:09:57,829 --> 00:09:57,839
+shining
+ 
+
+403
+00:09:57,839 --> 00:10:00,590
+shining
+there wouldn't be any color
+
+404
+00:10:00,590 --> 00:10:00,600
+there wouldn't be any color
+ 
+
+405
+00:10:00,600 --> 00:10:03,949
+there wouldn't be any color
+because the color's not in the shirt
+
+406
+00:10:03,949 --> 00:10:03,959
+because the color's not in the shirt
+ 
+
+407
+00:10:03,959 --> 00:10:07,550
+because the color's not in the shirt
+the colors in the light
+
+408
+00:10:07,550 --> 00:10:07,560
+
+ 
+
+409
+00:10:07,560 --> 00:10:11,150
+
+now I look at the shirt and it looks
+
+410
+00:10:11,150 --> 00:10:11,160
+now I look at the shirt and it looks
+ 
+
+411
+00:10:11,160 --> 00:10:14,990
+now I look at the shirt and it looks
+like the shirt has this quality of
+
+412
+00:10:14,990 --> 00:10:15,000
+like the shirt has this quality of
+ 
+
+413
+00:10:15,000 --> 00:10:16,790
+like the shirt has this quality of
+blueness
+
+414
+00:10:16,790 --> 00:10:16,800
+blueness
+ 
+
+415
+00:10:16,800 --> 00:10:21,050
+blueness
+when in fact the blue Nest is not part
+
+416
+00:10:21,050 --> 00:10:21,060
+when in fact the blue Nest is not part
+ 
+
+417
+00:10:21,060 --> 00:10:23,150
+when in fact the blue Nest is not part
+of the essence of the shirt
+
+418
+00:10:23,150 --> 00:10:23,160
+of the essence of the shirt
+ 
+
+419
+00:10:23,160 --> 00:10:26,750
+of the essence of the shirt
+and when we said the shirt is blue
+
+420
+00:10:26,750 --> 00:10:26,760
+and when we said the shirt is blue
+ 
+
+421
+00:10:26,760 --> 00:10:29,690
+and when we said the shirt is blue
+at the metaphysical level
+
+422
+00:10:29,690 --> 00:10:29,700
+at the metaphysical level
+ 
+
+423
+00:10:29,700 --> 00:10:31,910
+at the metaphysical level
+we made a mistake
+
+424
+00:10:31,910 --> 00:10:31,920
+we made a mistake
+ 
+
+425
+00:10:31,920 --> 00:10:34,070
+we made a mistake
+now this is the kind of thing that John
+
+426
+00:10:34,070 --> 00:10:34,080
+now this is the kind of thing that John
+ 
+
+427
+00:10:34,080 --> 00:10:37,610
+now this is the kind of thing that John
+Locke and his successors
+
+428
+00:10:37,610 --> 00:10:37,620
+Locke and his successors
+ 
+
+429
+00:10:37,620 --> 00:10:39,769
+Locke and his successors
+were wrestling with that the more we
+
+430
+00:10:39,769 --> 00:10:39,779
+were wrestling with that the more we
+ 
+
+431
+00:10:39,779 --> 00:10:41,030
+were wrestling with that the more we
+understood
+
+432
+00:10:41,030 --> 00:10:41,040
+understood
+ 
+
+433
+00:10:41,040 --> 00:10:43,910
+understood
+about the world outside of us things
+
+434
+00:10:43,910 --> 00:10:43,920
+about the world outside of us things
+ 
+
+435
+00:10:43,920 --> 00:10:45,769
+about the world outside of us things
+like light
+
+436
+00:10:45,769 --> 00:10:45,779
+like light
+ 
+
+437
+00:10:45,779 --> 00:10:49,430
+like light
+and the secrets of the minute that we
+
+438
+00:10:49,430 --> 00:10:49,440
+and the secrets of the minute that we
+ 
+
+439
+00:10:49,440 --> 00:10:51,769
+and the secrets of the minute that we
+discover microscopically
+
+440
+00:10:51,769 --> 00:10:51,779
+discover microscopically
+ 
+
+441
+00:10:51,779 --> 00:10:56,290
+discover microscopically
+it changes our thinking of what we
+
+442
+00:10:56,290 --> 00:10:56,300
+it changes our thinking of what we
+ 
+
+443
+00:10:56,300 --> 00:11:00,050
+it changes our thinking of what we
+believe really is out there
+
+444
+00:11:00,050 --> 00:11:00,060
+believe really is out there
+ 
+
+445
+00:11:00,060 --> 00:11:02,690
+believe really is out there
+oh I'm not denying that there is such a
+
+446
+00:11:02,690 --> 00:11:02,700
+oh I'm not denying that there is such a
+ 
+
+447
+00:11:02,700 --> 00:11:04,190
+oh I'm not denying that there is such a
+thing as light
+
+448
+00:11:04,190 --> 00:11:04,200
+thing as light
+ 
+
+449
+00:11:04,200 --> 00:11:07,190
+thing as light
+or I'm nor am I denying that that shirt
+
+450
+00:11:07,190 --> 00:11:07,200
+or I'm nor am I denying that that shirt
+ 
+
+451
+00:11:07,200 --> 00:11:09,550
+or I'm nor am I denying that that shirt
+and when I look at it
+
+452
+00:11:09,550 --> 00:11:09,560
+and when I look at it
+ 
+
+453
+00:11:09,560 --> 00:11:12,470
+and when I look at it
+manifest the quality of blueness now
+
+454
+00:11:12,470 --> 00:11:12,480
+manifest the quality of blueness now
+ 
+
+455
+00:11:12,480 --> 00:11:15,530
+manifest the quality of blueness now
+again we turn back the lecture clock a
+
+456
+00:11:15,530 --> 00:11:15,540
+again we turn back the lecture clock a
+ 
+
+457
+00:11:15,540 --> 00:11:17,930
+again we turn back the lecture clock a
+few lectures back to when we looked at
+
+458
+00:11:17,930 --> 00:11:17,940
+few lectures back to when we looked at
+ 
+
+459
+00:11:17,940 --> 00:11:19,790
+few lectures back to when we looked at
+Thomas Aquinas
+
+460
+00:11:19,790 --> 00:11:19,800
+Thomas Aquinas
+ 
+
+461
+00:11:19,800 --> 00:11:22,550
+Thomas Aquinas
+and we looked at Thomas aquinas's view
+
+462
+00:11:22,550 --> 00:11:22,560
+and we looked at Thomas aquinas's view
+ 
+
+463
+00:11:22,560 --> 00:11:26,750
+and we looked at Thomas aquinas's view
+of metaphysics and we said at that time
+
+464
+00:11:26,750 --> 00:11:26,760
+of metaphysics and we said at that time
+ 
+
+465
+00:11:26,760 --> 00:11:29,449
+of metaphysics and we said at that time
+that according to Saint Thomas
+
+466
+00:11:29,449 --> 00:11:29,459
+that according to Saint Thomas
+ 
+
+467
+00:11:29,459 --> 00:11:31,370
+that according to Saint Thomas
+every object
+
+468
+00:11:31,370 --> 00:11:31,380
+every object
+ 
+
+469
+00:11:31,380 --> 00:11:35,690
+every object
+is made up of its substance
+
+470
+00:11:35,690 --> 00:11:35,700
+is made up of its substance
+ 
+
+471
+00:11:35,700 --> 00:11:39,110
+is made up of its substance
+or its essence
+
+472
+00:11:39,110 --> 00:11:39,120
+
+ 
+
+473
+00:11:39,120 --> 00:11:45,110
+
+and its accidents
+
+474
+00:11:45,110 --> 00:11:45,120
+
+ 
+
+475
+00:11:45,120 --> 00:11:47,930
+
+and the accidents we said were the
+
+476
+00:11:47,930 --> 00:11:47,940
+and the accidents we said were the
+ 
+
+477
+00:11:47,940 --> 00:11:50,690
+and the accidents we said were the
+external perceivable
+
+478
+00:11:50,690 --> 00:11:50,700
+external perceivable
+ 
+
+479
+00:11:50,700 --> 00:11:54,290
+external perceivable
+qualities do you remember that
+
+480
+00:11:54,290 --> 00:11:54,300
+qualities do you remember that
+ 
+
+481
+00:11:54,300 --> 00:11:57,350
+qualities do you remember that
+the qualities that we observe
+
+482
+00:11:57,350 --> 00:11:57,360
+the qualities that we observe
+ 
+
+483
+00:11:57,360 --> 00:12:02,389
+the qualities that we observe
+or that we meet with our senses
+
+484
+00:12:02,389 --> 00:12:02,399
+or that we meet with our senses
+ 
+
+485
+00:12:02,399 --> 00:12:06,350
+or that we meet with our senses
+now of course Thomas assumed
+
+486
+00:12:06,350 --> 00:12:06,360
+now of course Thomas assumed
+ 
+
+487
+00:12:06,360 --> 00:12:09,710
+now of course Thomas assumed
+that the accidents of a thing are
+
+488
+00:12:09,710 --> 00:12:09,720
+that the accidents of a thing are
+ 
+
+489
+00:12:09,720 --> 00:12:12,650
+that the accidents of a thing are
+inseparably related though distinguished
+
+490
+00:12:12,650 --> 00:12:12,660
+inseparably related though distinguished
+ 
+
+491
+00:12:12,660 --> 00:12:15,470
+inseparably related though distinguished
+from its substance
+
+492
+00:12:15,470 --> 00:12:15,480
+from its substance
+ 
+
+493
+00:12:15,480 --> 00:12:18,650
+from its substance
+now when John Locke was working on this
+
+494
+00:12:18,650 --> 00:12:18,660
+now when John Locke was working on this
+ 
+
+495
+00:12:18,660 --> 00:12:19,610
+now when John Locke was working on this
+question
+
+496
+00:12:19,610 --> 00:12:19,620
+question
+ 
+
+497
+00:12:19,620 --> 00:12:23,690
+question
+of perception and learning through the
+
+498
+00:12:23,690 --> 00:12:23,700
+of perception and learning through the
+ 
+
+499
+00:12:23,700 --> 00:12:24,829
+of perception and learning through the
+senses
+
+500
+00:12:24,829 --> 00:12:24,839
+senses
+ 
+
+501
+00:12:24,839 --> 00:12:27,050
+senses
+he made a distinction
+
+502
+00:12:27,050 --> 00:12:27,060
+he made a distinction
+ 
+
+503
+00:12:27,060 --> 00:12:36,410
+he made a distinction
+between what he called primary qualities
+
+504
+00:12:36,410 --> 00:12:36,420
+
+ 
+
+505
+00:12:36,420 --> 00:12:42,829
+
+and secondary qualities
+
+506
+00:12:42,829 --> 00:12:42,839
+
+ 
+
+507
+00:12:42,839 --> 00:12:46,129
+
+and the distinction was this
+
+508
+00:12:46,129 --> 00:12:46,139
+and the distinction was this
+ 
+
+509
+00:12:46,139 --> 00:12:48,590
+and the distinction was this
+primary qualities
+
+510
+00:12:48,590 --> 00:12:48,600
+primary qualities
+ 
+
+511
+00:12:48,600 --> 00:12:50,990
+primary qualities
+are those qualities
+
+512
+00:12:50,990 --> 00:12:51,000
+are those qualities
+ 
+
+513
+00:12:51,000 --> 00:12:53,170
+are those qualities
+that are really there
+
+514
+00:12:53,170 --> 00:12:53,180
+that are really there
+ 
+
+515
+00:12:53,180 --> 00:12:57,650
+that are really there
+objectively inherent in the substance of
+
+516
+00:12:57,650 --> 00:12:57,660
+objectively inherent in the substance of
+ 
+
+517
+00:12:57,660 --> 00:12:59,389
+objectively inherent in the substance of
+a thing
+
+518
+00:12:59,389 --> 00:12:59,399
+a thing
+ 
+
+519
+00:12:59,399 --> 00:13:02,750
+a thing
+that there are certain qualities that
+
+520
+00:13:02,750 --> 00:13:02,760
+that there are certain qualities that
+ 
+
+521
+00:13:02,760 --> 00:13:07,430
+that there are certain qualities that
+are found in shirts or in chalk or in
+
+522
+00:13:07,430 --> 00:13:07,440
+are found in shirts or in chalk or in
+ 
+
+523
+00:13:07,440 --> 00:13:10,069
+are found in shirts or in chalk or in
+books or in people
+
+524
+00:13:10,069 --> 00:13:10,079
+books or in people
+ 
+
+525
+00:13:10,079 --> 00:13:12,889
+books or in people
+one such inherent quality going back to
+
+526
+00:13:12,889 --> 00:13:12,899
+one such inherent quality going back to
+ 
+
+527
+00:13:12,899 --> 00:13:14,509
+one such inherent quality going back to
+uh
+
+528
+00:13:14,509 --> 00:13:14,519
+uh
+ 
+
+529
+00:13:14,519 --> 00:13:18,889
+uh
+Descartes was the quality of extension
+
+530
+00:13:18,889 --> 00:13:18,899
+Descartes was the quality of extension
+ 
+
+531
+00:13:18,899 --> 00:13:23,449
+Descartes was the quality of extension
+that all material things are extended so
+
+532
+00:13:23,449 --> 00:13:23,459
+that all material things are extended so
+ 
+
+533
+00:13:23,459 --> 00:13:27,230
+that all material things are extended so
+all material things have the primary
+
+534
+00:13:27,230 --> 00:13:27,240
+all material things have the primary
+ 
+
+535
+00:13:27,240 --> 00:13:31,490
+all material things have the primary
+quality of extension
+
+536
+00:13:31,490 --> 00:13:31,500
+
+ 
+
+537
+00:13:31,500 --> 00:13:34,370
+
+or we can speak of hardness but then
+
+538
+00:13:34,370 --> 00:13:34,380
+or we can speak of hardness but then
+ 
+
+539
+00:13:34,380 --> 00:13:37,370
+or we can speak of hardness but then
+when you get to the level of color
+
+540
+00:13:37,370 --> 00:13:37,380
+when you get to the level of color
+ 
+
+541
+00:13:37,380 --> 00:13:39,829
+when you get to the level of color
+or taste
+
+542
+00:13:39,829 --> 00:13:39,839
+or taste
+ 
+
+543
+00:13:39,839 --> 00:13:42,350
+or taste
+or aroma
+
+544
+00:13:42,350 --> 00:13:42,360
+or aroma
+ 
+
+545
+00:13:42,360 --> 00:13:45,530
+or aroma
+these other aspects that we encounter
+
+546
+00:13:45,530 --> 00:13:45,540
+these other aspects that we encounter
+ 
+
+547
+00:13:45,540 --> 00:13:48,590
+these other aspects that we encounter
+with our five senses whenever we see
+
+548
+00:13:48,590 --> 00:13:48,600
+with our five senses whenever we see
+ 
+
+549
+00:13:48,600 --> 00:13:50,990
+with our five senses whenever we see
+something or perceive something in the
+
+550
+00:13:50,990 --> 00:13:51,000
+something or perceive something in the
+ 
+
+551
+00:13:51,000 --> 00:13:52,430
+something or perceive something in the
+external world
+
+552
+00:13:52,430 --> 00:13:52,440
+external world
+ 
+
+553
+00:13:52,440 --> 00:13:56,810
+external world
+some of those things are added
+
+554
+00:13:56,810 --> 00:13:56,820
+some of those things are added
+ 
+
+555
+00:13:56,820 --> 00:14:00,889
+some of those things are added
+by our mind or by the presence of light
+
+556
+00:14:00,889 --> 00:14:00,899
+by our mind or by the presence of light
+ 
+
+557
+00:14:00,899 --> 00:14:03,230
+by our mind or by the presence of light
+or whatever
+
+558
+00:14:03,230 --> 00:14:03,240
+or whatever
+ 
+
+559
+00:14:03,240 --> 00:14:06,650
+or whatever
+those would be what Locke called
+
+560
+00:14:06,650 --> 00:14:06,660
+those would be what Locke called
+ 
+
+561
+00:14:06,660 --> 00:14:08,990
+those would be what Locke called
+secondary qualities
+
+562
+00:14:08,990 --> 00:14:09,000
+secondary qualities
+ 
+
+563
+00:14:09,000 --> 00:14:14,329
+secondary qualities
+qualities that are not essential to the
+
+564
+00:14:14,329 --> 00:14:14,339
+qualities that are not essential to the
+ 
+
+565
+00:14:14,339 --> 00:14:15,710
+qualities that are not essential to the
+reality
+
+566
+00:14:15,710 --> 00:14:15,720
+reality
+ 
+
+567
+00:14:15,720 --> 00:14:18,350
+reality
+let me say it again qualities that
+
+568
+00:14:18,350 --> 00:14:18,360
+let me say it again qualities that
+ 
+
+569
+00:14:18,360 --> 00:14:20,990
+let me say it again qualities that
+aren't part of the essence just as I've
+
+570
+00:14:20,990 --> 00:14:21,000
+aren't part of the essence just as I've
+ 
+
+571
+00:14:21,000 --> 00:14:25,269
+aren't part of the essence just as I've
+said blueness is not an inherent
+
+572
+00:14:25,269 --> 00:14:25,279
+said blueness is not an inherent
+ 
+
+573
+00:14:25,279 --> 00:14:28,430
+said blueness is not an inherent
+attribute of that shirt
+
+574
+00:14:28,430 --> 00:14:28,440
+attribute of that shirt
+ 
+
+575
+00:14:28,440 --> 00:14:31,670
+attribute of that shirt
+blueness is something that is added by
+
+576
+00:14:31,670 --> 00:14:31,680
+blueness is something that is added by
+ 
+
+577
+00:14:31,680 --> 00:14:37,090
+blueness is something that is added by
+my eye when I look at the shirt with the
+
+578
+00:14:37,090 --> 00:14:37,100
+my eye when I look at the shirt with the
+ 
+
+579
+00:14:37,100 --> 00:14:40,129
+my eye when I look at the shirt with the
+addition of light is everybody follow
+
+580
+00:14:40,129 --> 00:14:40,139
+addition of light is everybody follow
+ 
+
+581
+00:14:40,139 --> 00:14:42,470
+addition of light is everybody follow
+that okay
+
+582
+00:14:42,470 --> 00:14:42,480
+that okay
+ 
+
+583
+00:14:42,480 --> 00:14:46,370
+that okay
+now with that Discovery or with that
+
+584
+00:14:46,370 --> 00:14:46,380
+now with that Discovery or with that
+ 
+
+585
+00:14:46,380 --> 00:14:50,030
+now with that Discovery or with that
+distinction
+
+586
+00:14:50,030 --> 00:14:50,040
+
+ 
+
+587
+00:14:50,040 --> 00:14:53,150
+
+what Locke was saying is
+
+588
+00:14:53,150 --> 00:14:53,160
+what Locke was saying is
+ 
+
+589
+00:14:53,160 --> 00:14:55,870
+what Locke was saying is
+that there are real Essences there
+
+590
+00:14:55,870 --> 00:14:55,880
+that there are real Essences there
+ 
+
+591
+00:14:55,880 --> 00:14:59,210
+that there are real Essences there
+metaphysical realities
+
+592
+00:14:59,210 --> 00:14:59,220
+metaphysical realities
+ 
+
+593
+00:14:59,220 --> 00:15:03,949
+metaphysical realities
+and we perceive the substratum
+
+594
+00:15:03,949 --> 00:15:03,959
+and we perceive the substratum
+ 
+
+595
+00:15:03,959 --> 00:15:06,889
+and we perceive the substratum
+of being
+
+596
+00:15:06,889 --> 00:15:06,899
+
+ 
+
+597
+00:15:06,899 --> 00:15:09,769
+
+we have a perception of objective
+
+598
+00:15:09,769 --> 00:15:09,779
+we have a perception of objective
+ 
+
+599
+00:15:09,779 --> 00:15:11,810
+we have a perception of objective
+reality
+
+600
+00:15:11,810 --> 00:15:11,820
+reality
+ 
+
+601
+00:15:11,820 --> 00:15:14,210
+reality
+but that perception that we have is
+
+602
+00:15:14,210 --> 00:15:14,220
+but that perception that we have is
+ 
+
+603
+00:15:14,220 --> 00:15:17,569
+but that perception that we have is
+mixed between our perception of
+
+604
+00:15:17,569 --> 00:15:17,579
+mixed between our perception of
+ 
+
+605
+00:15:17,579 --> 00:15:20,629
+mixed between our perception of
+qualities that are really inherently in
+
+606
+00:15:20,629 --> 00:15:20,639
+qualities that are really inherently in
+ 
+
+607
+00:15:20,639 --> 00:15:22,490
+qualities that are really inherently in
+the object
+
+608
+00:15:22,490 --> 00:15:22,500
+the object
+ 
+
+609
+00:15:22,500 --> 00:15:24,370
+the object
+plus those
+
+610
+00:15:24,370 --> 00:15:24,380
+plus those
+ 
+
+611
+00:15:24,380 --> 00:15:28,430
+plus those
+qualities that are added by the mind
+
+612
+00:15:28,430 --> 00:15:28,440
+qualities that are added by the mind
+ 
+
+613
+00:15:28,440 --> 00:15:32,389
+qualities that are added by the mind
+or by the eyes or by the senses as we
+
+614
+00:15:32,389 --> 00:15:32,399
+or by the eyes or by the senses as we
+ 
+
+615
+00:15:32,399 --> 00:15:33,769
+or by the eyes or by the senses as we
+perceive you've heard the old adage
+
+616
+00:15:33,769 --> 00:15:33,779
+perceive you've heard the old adage
+ 
+
+617
+00:15:33,779 --> 00:15:35,569
+perceive you've heard the old adage
+Beauty
+
+618
+00:15:35,569 --> 00:15:35,579
+Beauty
+ 
+
+619
+00:15:35,579 --> 00:15:37,370
+Beauty
+is in the eye
+
+620
+00:15:37,370 --> 00:15:37,380
+is in the eye
+ 
+
+621
+00:15:37,380 --> 00:15:40,189
+is in the eye
+of the beholder
+
+622
+00:15:40,189 --> 00:15:40,199
+of the beholder
+ 
+
+623
+00:15:40,199 --> 00:15:43,250
+of the beholder
+that is those who argue that point say
+
+624
+00:15:43,250 --> 00:15:43,260
+that is those who argue that point say
+ 
+
+625
+00:15:43,260 --> 00:15:46,490
+that is those who argue that point say
+that there's no such thing as objective
+
+626
+00:15:46,490 --> 00:15:46,500
+that there's no such thing as objective
+ 
+
+627
+00:15:46,500 --> 00:15:48,230
+that there's no such thing as objective
+Beauty
+
+628
+00:15:48,230 --> 00:15:48,240
+Beauty
+ 
+
+629
+00:15:48,240 --> 00:15:50,650
+Beauty
+there may be something that is an object
+
+630
+00:15:50,650 --> 00:15:50,660
+there may be something that is an object
+ 
+
+631
+00:15:50,660 --> 00:15:54,949
+there may be something that is an object
+that I look at and you look at and I say
+
+632
+00:15:54,949 --> 00:15:54,959
+that I look at and you look at and I say
+ 
+
+633
+00:15:54,959 --> 00:15:59,329
+that I look at and you look at and I say
+is beautiful and you say is ugly
+
+634
+00:15:59,329 --> 00:15:59,339
+is beautiful and you say is ugly
+ 
+
+635
+00:15:59,339 --> 00:16:02,750
+is beautiful and you say is ugly
+because the quality of beauty is
+
+636
+00:16:02,750 --> 00:16:02,760
+because the quality of beauty is
+ 
+
+637
+00:16:02,760 --> 00:16:05,990
+because the quality of beauty is
+something that I am bringing to the
+
+638
+00:16:05,990 --> 00:16:06,000
+something that I am bringing to the
+ 
+
+639
+00:16:06,000 --> 00:16:09,370
+something that I am bringing to the
+experience and I'm making a subjective
+
+640
+00:16:09,370 --> 00:16:09,380
+experience and I'm making a subjective
+ 
+
+641
+00:16:09,380 --> 00:16:13,730
+experience and I'm making a subjective
+judgment or evaluation about something's
+
+642
+00:16:13,730 --> 00:16:13,740
+judgment or evaluation about something's
+ 
+
+643
+00:16:13,740 --> 00:16:14,750
+judgment or evaluation about something's
+Beauty
+
+644
+00:16:14,750 --> 00:16:14,760
+Beauty
+ 
+
+645
+00:16:14,760 --> 00:16:18,530
+Beauty
+or ugliness now that's the realm of
+
+646
+00:16:18,530 --> 00:16:18,540
+or ugliness now that's the realm of
+ 
+
+647
+00:16:18,540 --> 00:16:21,650
+or ugliness now that's the realm of
+normal daily life where we meet up with
+
+648
+00:16:21,650 --> 00:16:21,660
+normal daily life where we meet up with
+ 
+
+649
+00:16:21,660 --> 00:16:24,829
+normal daily life where we meet up with
+this kind of philosophical problem
+
+650
+00:16:24,829 --> 00:16:24,839
+this kind of philosophical problem
+ 
+
+651
+00:16:24,839 --> 00:16:26,590
+this kind of philosophical problem
+no
+
+652
+00:16:26,590 --> 00:16:26,600
+no
+ 
+
+653
+00:16:26,600 --> 00:16:30,650
+no
+following John Locke's work as a Pioneer
+
+654
+00:16:30,650 --> 00:16:30,660
+following John Locke's work as a Pioneer
+ 
+
+655
+00:16:30,660 --> 00:16:31,970
+following John Locke's work as a Pioneer
+here
+
+656
+00:16:31,970 --> 00:16:31,980
+here
+ 
+
+657
+00:16:31,980 --> 00:16:35,650
+here
+there came a very strange
+
+658
+00:16:35,650 --> 00:16:35,660
+there came a very strange
+ 
+
+659
+00:16:35,660 --> 00:16:38,210
+there came a very strange
+philosopher strange in the sense of the
+
+660
+00:16:38,210 --> 00:16:38,220
+philosopher strange in the sense of the
+ 
+
+661
+00:16:38,220 --> 00:16:40,850
+philosopher strange in the sense of the
+ideas that he represented
+
+662
+00:16:40,850 --> 00:16:40,860
+ideas that he represented
+ 
+
+663
+00:16:40,860 --> 00:16:45,590
+ideas that he represented
+who was very much concerned about the
+
+664
+00:16:45,590 --> 00:16:45,600
+who was very much concerned about the
+ 
+
+665
+00:16:45,600 --> 00:16:48,829
+who was very much concerned about the
+growing view of people in the 17th and
+
+666
+00:16:48,829 --> 00:16:48,839
+growing view of people in the 17th and
+ 
+
+667
+00:16:48,839 --> 00:16:53,269
+growing view of people in the 17th and
+18th century towards materialism
+
+668
+00:16:53,269 --> 00:16:53,279
+18th century towards materialism
+ 
+
+669
+00:16:53,279 --> 00:16:58,129
+18th century towards materialism
+and consequently toward atheism
+
+670
+00:16:58,129 --> 00:16:58,139
+and consequently toward atheism
+ 
+
+671
+00:16:58,139 --> 00:17:00,650
+and consequently toward atheism
+and the man I'm talking about was a man
+
+672
+00:17:00,650 --> 00:17:00,660
+and the man I'm talking about was a man
+ 
+
+673
+00:17:00,660 --> 00:17:02,449
+and the man I'm talking about was a man
+who was a bishop
+
+674
+00:17:02,449 --> 00:17:02,459
+who was a bishop
+ 
+
+675
+00:17:02,459 --> 00:17:04,850
+who was a bishop
+of the Anglican Church
+
+676
+00:17:04,850 --> 00:17:04,860
+of the Anglican Church
+ 
+
+677
+00:17:04,860 --> 00:17:08,270
+of the Anglican Church
+and his name was George Barkley is how
+
+678
+00:17:08,270 --> 00:17:08,280
+and his name was George Barkley is how
+ 
+
+679
+00:17:08,280 --> 00:17:10,189
+and his name was George Barkley is how
+it's pronounced
+
+680
+00:17:10,189 --> 00:17:10,199
+it's pronounced
+ 
+
+681
+00:17:10,199 --> 00:17:14,750
+it's pronounced
+oh I I never spell it right
+
+682
+00:17:14,750 --> 00:17:14,760
+
+ 
+
+683
+00:17:14,760 --> 00:17:17,329
+
+but if you look at it you think it reads
+
+684
+00:17:17,329 --> 00:17:17,339
+but if you look at it you think it reads
+ 
+
+685
+00:17:17,339 --> 00:17:20,030
+but if you look at it you think it reads
+Berkeley because it's spelled like the
+
+686
+00:17:20,030 --> 00:17:20,040
+Berkeley because it's spelled like the
+ 
+
+687
+00:17:20,040 --> 00:17:21,890
+Berkeley because it's spelled like the
+University campus that we have in
+
+688
+00:17:21,890 --> 00:17:21,900
+University campus that we have in
+ 
+
+689
+00:17:21,900 --> 00:17:23,630
+University campus that we have in
+California that we pronounce Berkeley
+
+690
+00:17:23,630 --> 00:17:23,640
+California that we pronounce Berkeley
+ 
+
+691
+00:17:23,640 --> 00:17:26,390
+California that we pronounce Berkeley
+but the pronunciation of his name is
+
+692
+00:17:26,390 --> 00:17:26,400
+but the pronunciation of his name is
+ 
+
+693
+00:17:26,400 --> 00:17:30,049
+but the pronunciation of his name is
+Barkley and he was born in 1685
+
+694
+00:17:30,049 --> 00:17:30,059
+Barkley and he was born in 1685
+ 
+
+695
+00:17:30,059 --> 00:17:33,890
+Barkley and he was born in 1685
+and he died in 1753.
+
+696
+00:17:33,890 --> 00:17:33,900
+and he died in 1753.
+ 
+
+697
+00:17:33,900 --> 00:17:36,770
+and he died in 1753.
+so his work really takes us into the
+
+698
+00:17:36,770 --> 00:17:36,780
+so his work really takes us into the
+ 
+
+699
+00:17:36,780 --> 00:17:39,289
+so his work really takes us into the
+middle of the 18th century there are
+
+700
+00:17:39,289 --> 00:17:39,299
+middle of the 18th century there are
+ 
+
+701
+00:17:39,299 --> 00:17:41,690
+middle of the 18th century there are
+those for example who believe that
+
+702
+00:17:41,690 --> 00:17:41,700
+those for example who believe that
+ 
+
+703
+00:17:41,700 --> 00:17:43,909
+those for example who believe that
+Bishop Barkley's philosophy had a
+
+704
+00:17:43,909 --> 00:17:43,919
+Bishop Barkley's philosophy had a
+ 
+
+705
+00:17:43,919 --> 00:17:46,250
+Bishop Barkley's philosophy had a
+profound influence on America's greatest
+
+706
+00:17:46,250 --> 00:17:46,260
+profound influence on America's greatest
+ 
+
+707
+00:17:46,260 --> 00:17:48,830
+profound influence on America's greatest
+philosopher who of course
+
+708
+00:17:48,830 --> 00:17:48,840
+philosopher who of course
+ 
+
+709
+00:17:48,840 --> 00:17:51,230
+philosopher who of course
+was Jonathan Edwards
+
+710
+00:17:51,230 --> 00:17:51,240
+was Jonathan Edwards
+ 
+
+711
+00:17:51,240 --> 00:17:54,650
+was Jonathan Edwards
+but in any case Barclay's concern
+
+712
+00:17:54,650 --> 00:17:54,660
+but in any case Barclay's concern
+ 
+
+713
+00:17:54,660 --> 00:17:56,690
+but in any case Barclay's concern
+remember we said if we're going to
+
+714
+00:17:56,690 --> 00:17:56,700
+remember we said if we're going to
+ 
+
+715
+00:17:56,700 --> 00:17:59,210
+remember we said if we're going to
+understand a philosopher we have to ask
+
+716
+00:17:59,210 --> 00:17:59,220
+understand a philosopher we have to ask
+ 
+
+717
+00:17:59,220 --> 00:18:01,610
+understand a philosopher we have to ask
+what problem is he trying to solve
+
+718
+00:18:01,610 --> 00:18:01,620
+what problem is he trying to solve
+ 
+
+719
+00:18:01,620 --> 00:18:04,490
+what problem is he trying to solve
+what concern is he wrestling with
+
+720
+00:18:04,490 --> 00:18:04,500
+what concern is he wrestling with
+ 
+
+721
+00:18:04,500 --> 00:18:08,210
+what concern is he wrestling with
+well being a bishop of the church
+
+722
+00:18:08,210 --> 00:18:08,220
+well being a bishop of the church
+ 
+
+723
+00:18:08,220 --> 00:18:11,630
+well being a bishop of the church
+Barkley was concerned that science was
+
+724
+00:18:11,630 --> 00:18:11,640
+Barkley was concerned that science was
+ 
+
+725
+00:18:11,640 --> 00:18:14,270
+Barkley was concerned that science was
+moving more and more and more away from
+
+726
+00:18:14,270 --> 00:18:14,280
+moving more and more and more away from
+ 
+
+727
+00:18:14,280 --> 00:18:15,650
+moving more and more and more away from
+God
+
+728
+00:18:15,650 --> 00:18:15,660
+God
+ 
+
+729
+00:18:15,660 --> 00:18:18,049
+God
+and more and more and more towards a
+
+730
+00:18:18,049 --> 00:18:18,059
+and more and more and more towards a
+ 
+
+731
+00:18:18,059 --> 00:18:20,930
+and more and more and more towards a
+metaphysical view that said what is
+
+732
+00:18:20,930 --> 00:18:20,940
+metaphysical view that said what is
+ 
+
+733
+00:18:20,940 --> 00:18:24,110
+metaphysical view that said what is
+ultimately real is not God
+
+734
+00:18:24,110 --> 00:18:24,120
+ultimately real is not God
+ 
+
+735
+00:18:24,120 --> 00:18:27,529
+ultimately real is not God
+but matter itself
+
+736
+00:18:27,529 --> 00:18:27,539
+but matter itself
+ 
+
+737
+00:18:27,539 --> 00:18:29,990
+but matter itself
+and that the universe is nothing more
+
+738
+00:18:29,990 --> 00:18:30,000
+and that the universe is nothing more
+ 
+
+739
+00:18:30,000 --> 00:18:33,409
+and that the universe is nothing more
+and nothing less than a some experience
+
+740
+00:18:33,409 --> 00:18:33,419
+and nothing less than a some experience
+ 
+
+741
+00:18:33,419 --> 00:18:36,650
+and nothing less than a some experience
+of material things
+
+742
+00:18:36,650 --> 00:18:36,660
+of material things
+ 
+
+743
+00:18:36,660 --> 00:18:37,970
+of material things
+and
+
+744
+00:18:37,970 --> 00:18:37,980
+and
+ 
+
+745
+00:18:37,980 --> 00:18:41,270
+and
+this became the bridge
+
+746
+00:18:41,270 --> 00:18:41,280
+this became the bridge
+ 
+
+747
+00:18:41,280 --> 00:18:45,830
+this became the bridge
+in Barclays day for the whole kind of
+
+748
+00:18:45,830 --> 00:18:45,840
+in Barclays day for the whole kind of
+ 
+
+749
+00:18:45,840 --> 00:18:48,770
+in Barclays day for the whole kind of
+Revival of atheism
+
+750
+00:18:48,770 --> 00:18:48,780
+Revival of atheism
+ 
+
+751
+00:18:48,780 --> 00:18:50,810
+Revival of atheism
+and the atheist said we don't need to
+
+752
+00:18:50,810 --> 00:18:50,820
+and the atheist said we don't need to
+ 
+
+753
+00:18:50,820 --> 00:18:54,049
+and the atheist said we don't need to
+postulate some Supernatural spiritual
+
+754
+00:18:54,049 --> 00:18:54,059
+postulate some Supernatural spiritual
+ 
+
+755
+00:18:54,059 --> 00:18:57,470
+postulate some Supernatural spiritual
+being to explain the universe and to
+
+756
+00:18:57,470 --> 00:18:57,480
+being to explain the universe and to
+ 
+
+757
+00:18:57,480 --> 00:19:00,289
+being to explain the universe and to
+explain our significance
+
+758
+00:19:00,289 --> 00:19:00,299
+explain our significance
+ 
+
+759
+00:19:00,299 --> 00:19:03,049
+explain our significance
+the only thing that is real
+
+760
+00:19:03,049 --> 00:19:03,059
+the only thing that is real
+ 
+
+761
+00:19:03,059 --> 00:19:06,169
+the only thing that is real
+is matter
+
+762
+00:19:06,169 --> 00:19:06,179
+
+ 
+
+763
+00:19:06,179 --> 00:19:08,990
+
+there is no spirit and if there is no
+
+764
+00:19:08,990 --> 00:19:09,000
+there is no spirit and if there is no
+ 
+
+765
+00:19:09,000 --> 00:19:12,470
+there is no spirit and if there is no
+Spirit realm then there is no room for
+
+766
+00:19:12,470 --> 00:19:12,480
+Spirit realm then there is no room for
+ 
+
+767
+00:19:12,480 --> 00:19:13,549
+Spirit realm then there is no room for
+God
+
+768
+00:19:13,549 --> 00:19:13,559
+God
+ 
+
+769
+00:19:13,559 --> 00:19:19,010
+God
+so Barkley is concerned not only as a a
+
+770
+00:19:19,010 --> 00:19:19,020
+so Barkley is concerned not only as a a
+ 
+
+771
+00:19:19,020 --> 00:19:22,970
+so Barkley is concerned not only as a a
+philosopher but chiefly as a theologian
+
+772
+00:19:22,970 --> 00:19:22,980
+philosopher but chiefly as a theologian
+ 
+
+773
+00:19:22,980 --> 00:19:26,570
+philosopher but chiefly as a theologian
+to rescue modern civilization
+
+774
+00:19:26,570 --> 00:19:26,580
+to rescue modern civilization
+ 
+
+775
+00:19:26,580 --> 00:19:31,909
+to rescue modern civilization
+from this rushing tide of materialism
+
+776
+00:19:31,909 --> 00:19:31,919
+from this rushing tide of materialism
+ 
+
+777
+00:19:31,919 --> 00:19:34,070
+from this rushing tide of materialism
+which brings in its wake
+
+778
+00:19:34,070 --> 00:19:34,080
+which brings in its wake
+ 
+
+779
+00:19:34,080 --> 00:19:35,870
+which brings in its wake
+atheism
+
+780
+00:19:35,870 --> 00:19:35,880
+atheism
+ 
+
+781
+00:19:35,880 --> 00:19:38,390
+atheism
+and he wants to see a scientific
+
+782
+00:19:38,390 --> 00:19:38,400
+and he wants to see a scientific
+ 
+
+783
+00:19:38,400 --> 00:19:43,190
+and he wants to see a scientific
+Paradigm or model that has a real place
+
+784
+00:19:43,190 --> 00:19:43,200
+Paradigm or model that has a real place
+ 
+
+785
+00:19:43,200 --> 00:19:46,010
+Paradigm or model that has a real place
+for God
+
+786
+00:19:46,010 --> 00:19:46,020
+for God
+ 
+
+787
+00:19:46,020 --> 00:19:49,130
+for God
+now we will see in our next session how
+
+788
+00:19:49,130 --> 00:19:49,140
+now we will see in our next session how
+ 
+
+789
+00:19:49,140 --> 00:19:52,310
+now we will see in our next session how
+Barkley approaches this problem and how
+
+790
+00:19:52,310 --> 00:19:52,320
+Barkley approaches this problem and how
+ 
+
+791
+00:19:52,320 --> 00:19:55,130
+Barkley approaches this problem and how
+he looks at the distinction that Locke
+
+792
+00:19:55,130 --> 00:19:55,140
+he looks at the distinction that Locke
+ 
+
+793
+00:19:55,140 --> 00:19:57,049
+he looks at the distinction that Locke
+made between primary and secondary
+
+794
+00:19:57,049 --> 00:19:57,059
+made between primary and secondary
+ 
+
+795
+00:19:57,059 --> 00:19:59,870
+made between primary and secondary
+qualities and how the bishop would
+
+796
+00:19:59,870 --> 00:19:59,880
+qualities and how the bishop would
+ 
+
+797
+00:19:59,880 --> 00:20:04,250
+qualities and how the bishop would
+wrestle with the question of Rogers blue
+
+798
+00:20:04,250 --> 00:20:04,260
+wrestle with the question of Rogers blue
+ 
+
+799
+00:20:04,260 --> 00:20:08,630
+wrestle with the question of Rogers blue
+shirt or my problem was the tree that is
+
+800
+00:20:08,630 --> 00:20:08,640
+shirt or my problem was the tree that is
+ 
+
+801
+00:20:08,640 --> 00:20:12,890
+shirt or my problem was the tree that is
+90 percent air that I encounter on the
+
+802
+00:20:12,890 --> 00:20:12,900
+90 percent air that I encounter on the
+ 
+
+803
+00:20:12,900 --> 00:20:15,590
+90 percent air that I encounter on the
+golf course but we'll look at that in
+
+804
+00:20:15,590 --> 00:20:15,600
+golf course but we'll look at that in
+ 
+
+805
+00:20:15,600 --> 00:20:18,260
+golf course but we'll look at that in
+our next session
+

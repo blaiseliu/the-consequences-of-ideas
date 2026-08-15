@@ -1,0 +1,4875 @@
+1
+00:00:07,680 --> 00:00:11,509
+
+in our last session we looked briefly at
+
+2
+00:00:11,509 --> 00:00:11,519
+in our last session we looked briefly at
+ 
+
+3
+00:00:11,519 --> 00:00:13,789
+in our last session we looked briefly at
+the Theology and philosophy of Thomas
+
+4
+00:00:13,789 --> 00:00:13,799
+the Theology and philosophy of Thomas
+ 
+
+5
+00:00:13,799 --> 00:00:16,730
+the Theology and philosophy of Thomas
+Aquinas and you will recall he's known
+
+6
+00:00:16,730 --> 00:00:16,740
+Aquinas and you will recall he's known
+ 
+
+7
+00:00:16,740 --> 00:00:18,590
+Aquinas and you will recall he's known
+in the Roman Catholic Church as the
+
+8
+00:00:18,590 --> 00:00:18,600
+in the Roman Catholic Church as the
+ 
+
+9
+00:00:18,600 --> 00:00:22,010
+in the Roman Catholic Church as the
+Angelic doctor and has been the most
+
+10
+00:00:22,010 --> 00:00:22,020
+Angelic doctor and has been the most
+ 
+
+11
+00:00:22,020 --> 00:00:25,310
+Angelic doctor and has been the most
+important Theologian I think in in the
+
+12
+00:00:25,310 --> 00:00:25,320
+important Theologian I think in in the
+ 
+
+13
+00:00:25,320 --> 00:00:27,710
+important Theologian I think in in the
+second Millennium certainly in terms of
+
+14
+00:00:27,710 --> 00:00:27,720
+second Millennium certainly in terms of
+ 
+
+15
+00:00:27,720 --> 00:00:30,170
+second Millennium certainly in terms of
+Roman Catholic development but his
+
+16
+00:00:30,170 --> 00:00:30,180
+Roman Catholic development but his
+ 
+
+17
+00:00:30,180 --> 00:00:32,810
+Roman Catholic development but his
+thinking at the philosophical level has
+
+18
+00:00:32,810 --> 00:00:32,820
+thinking at the philosophical level has
+ 
+
+19
+00:00:32,820 --> 00:00:34,970
+thinking at the philosophical level has
+impacted not only Roman Catholic thought
+
+20
+00:00:34,970 --> 00:00:34,980
+impacted not only Roman Catholic thought
+ 
+
+21
+00:00:34,980 --> 00:00:38,270
+impacted not only Roman Catholic thought
+but also classical Protestant thought
+
+22
+00:00:38,270 --> 00:00:38,280
+but also classical Protestant thought
+ 
+
+23
+00:00:38,280 --> 00:00:41,869
+but also classical Protestant thought
+although in our day there's often a
+
+24
+00:00:41,869 --> 00:00:41,879
+although in our day there's often a
+ 
+
+25
+00:00:41,879 --> 00:00:45,790
+although in our day there's often a
+strong negative reactions against Thomas
+
+26
+00:00:45,790 --> 00:00:45,800
+strong negative reactions against Thomas
+ 
+
+27
+00:00:45,800 --> 00:00:49,610
+strong negative reactions against Thomas
+I don't share in that negativity with
+
+28
+00:00:49,610 --> 00:00:49,620
+I don't share in that negativity with
+ 
+
+29
+00:00:49,620 --> 00:00:50,990
+I don't share in that negativity with
+respect to his philosophical
+
+30
+00:00:50,990 --> 00:00:51,000
+respect to his philosophical
+ 
+
+31
+00:00:51,000 --> 00:00:54,170
+respect to his philosophical
+contributions and we looked a lot at in
+
+32
+00:00:54,170 --> 00:00:54,180
+contributions and we looked a lot at in
+ 
+
+33
+00:00:54,180 --> 00:00:56,450
+contributions and we looked a lot at in
+our last session at the charge against
+
+34
+00:00:56,450 --> 00:00:56,460
+our last session at the charge against
+ 
+
+35
+00:00:56,460 --> 00:01:01,130
+our last session at the charge against
+Thomas of separating nature and Grace
+
+36
+00:01:01,130 --> 00:01:01,140
+Thomas of separating nature and Grace
+ 
+
+37
+00:01:01,140 --> 00:01:04,250
+Thomas of separating nature and Grace
+and of his development of the concept of
+
+38
+00:01:04,250 --> 00:01:04,260
+and of his development of the concept of
+ 
+
+39
+00:01:04,260 --> 00:01:06,649
+and of his development of the concept of
+natural theology
+
+40
+00:01:06,649 --> 00:01:06,659
+natural theology
+ 
+
+41
+00:01:06,659 --> 00:01:08,810
+natural theology
+and I'd like to review that a little bit
+
+42
+00:01:08,810 --> 00:01:08,820
+and I'd like to review that a little bit
+ 
+
+43
+00:01:08,820 --> 00:01:11,810
+and I'd like to review that a little bit
+more and expand upon it today
+
+44
+00:01:11,810 --> 00:01:11,820
+more and expand upon it today
+ 
+
+45
+00:01:11,820 --> 00:01:15,410
+more and expand upon it today
+the idea of natural theology is a
+
+46
+00:01:15,410 --> 00:01:15,420
+the idea of natural theology is a
+ 
+
+47
+00:01:15,420 --> 00:01:17,950
+the idea of natural theology is a
+concept that has been much under attack
+
+48
+00:01:17,950 --> 00:01:17,960
+concept that has been much under attack
+ 
+
+49
+00:01:17,960 --> 00:01:20,990
+concept that has been much under attack
+in the 20th century particularly from
+
+50
+00:01:20,990 --> 00:01:21,000
+in the 20th century particularly from
+ 
+
+51
+00:01:21,000 --> 00:01:23,870
+in the 20th century particularly from
+Protestant theologians
+
+52
+00:01:23,870 --> 00:01:23,880
+Protestant theologians
+ 
+
+53
+00:01:23,880 --> 00:01:27,770
+Protestant theologians
+because they have a tendency to see in
+
+54
+00:01:27,770 --> 00:01:27,780
+because they have a tendency to see in
+ 
+
+55
+00:01:27,780 --> 00:01:31,429
+because they have a tendency to see in
+natural theology a departure from the
+
+56
+00:01:31,429 --> 00:01:31,439
+natural theology a departure from the
+ 
+
+57
+00:01:31,439 --> 00:01:35,569
+natural theology a departure from the
+purity of biblical Revelation and too
+
+58
+00:01:35,569 --> 00:01:35,579
+purity of biblical Revelation and too
+ 
+
+59
+00:01:35,579 --> 00:01:40,249
+purity of biblical Revelation and too
+much of a dependence upon man's unaided
+
+60
+00:01:40,249 --> 00:01:40,259
+much of a dependence upon man's unaided
+ 
+
+61
+00:01:40,259 --> 00:01:44,090
+much of a dependence upon man's unaided
+intellect by which he in by
+
+62
+00:01:44,090 --> 00:01:44,100
+intellect by which he in by
+ 
+
+63
+00:01:44,100 --> 00:01:47,569
+intellect by which he in by
+philosophical speculation develops his
+
+64
+00:01:47,569 --> 00:01:47,579
+philosophical speculation develops his
+ 
+
+65
+00:01:47,579 --> 00:01:50,389
+philosophical speculation develops his
+ideas of God and so on
+
+66
+00:01:50,389 --> 00:01:50,399
+ideas of God and so on
+ 
+
+67
+00:01:50,399 --> 00:01:54,289
+ideas of God and so on
+but again for Thomas Aquinas he based
+
+68
+00:01:54,289 --> 00:01:54,299
+but again for Thomas Aquinas he based
+ 
+
+69
+00:01:54,299 --> 00:01:57,710
+but again for Thomas Aquinas he based
+his view of natural theology on the
+
+70
+00:01:57,710 --> 00:01:57,720
+his view of natural theology on the
+ 
+
+71
+00:01:57,720 --> 00:02:00,410
+his view of natural theology on the
+plain teaching of the Apostle Paul in
+
+72
+00:02:00,410 --> 00:02:00,420
+plain teaching of the Apostle Paul in
+ 
+
+73
+00:02:00,420 --> 00:02:02,090
+plain teaching of the Apostle Paul in
+the first chapter of Romans in which
+
+74
+00:02:02,090 --> 00:02:02,100
+the first chapter of Romans in which
+ 
+
+75
+00:02:02,100 --> 00:02:05,630
+the first chapter of Romans in which
+Paul speaks about a knowledge of God
+
+76
+00:02:05,630 --> 00:02:05,640
+Paul speaks about a knowledge of God
+ 
+
+77
+00:02:05,640 --> 00:02:10,430
+Paul speaks about a knowledge of God
+that is derived through nature
+
+78
+00:02:10,430 --> 00:02:10,440
+that is derived through nature
+ 
+
+79
+00:02:10,440 --> 00:02:14,809
+that is derived through nature
+now for Aquinas Aquinas qualified his
+
+80
+00:02:14,809 --> 00:02:14,819
+now for Aquinas Aquinas qualified his
+ 
+
+81
+00:02:14,819 --> 00:02:19,729
+now for Aquinas Aquinas qualified his
+understanding of the natural theology
+
+82
+00:02:19,729 --> 00:02:19,739
+understanding of the natural theology
+ 
+
+83
+00:02:19,739 --> 00:02:22,850
+understanding of the natural theology
+that is available to us by reflecting
+
+84
+00:02:22,850 --> 00:02:22,860
+that is available to us by reflecting
+ 
+
+85
+00:02:22,860 --> 00:02:26,630
+that is available to us by reflecting
+upon the cosmos he said that the
+
+86
+00:02:26,630 --> 00:02:26,640
+upon the cosmos he said that the
+ 
+
+87
+00:02:26,640 --> 00:02:30,589
+upon the cosmos he said that the
+knowledge of God that we gain through
+
+88
+00:02:30,589 --> 00:02:30,599
+knowledge of God that we gain through
+ 
+
+89
+00:02:30,599 --> 00:02:33,470
+knowledge of God that we gain through
+nature
+
+90
+00:02:33,470 --> 00:02:33,480
+nature
+ 
+
+91
+00:02:33,480 --> 00:02:34,970
+nature
+is
+
+92
+00:02:34,970 --> 00:02:34,980
+is
+ 
+
+93
+00:02:34,980 --> 00:02:37,130
+is
+what he called
+
+94
+00:02:37,130 --> 00:02:37,140
+what he called
+ 
+
+95
+00:02:37,140 --> 00:02:38,809
+what he called
+uh
+
+96
+00:02:38,809 --> 00:02:38,819
+uh
+ 
+
+97
+00:02:38,819 --> 00:02:43,130
+uh
+incomplete
+
+98
+00:02:43,130 --> 00:02:43,140
+
+ 
+
+99
+00:02:43,140 --> 00:02:47,930
+
+mediate
+
+100
+00:02:47,930 --> 00:02:47,940
+
+ 
+
+101
+00:02:47,940 --> 00:02:53,930
+
+and it is analogical
+
+102
+00:02:53,930 --> 00:02:53,940
+
+ 
+
+103
+00:02:53,940 --> 00:02:56,390
+
+but true
+
+104
+00:02:56,390 --> 00:02:56,400
+but true
+ 
+
+105
+00:02:56,400 --> 00:02:58,250
+but true
+now let's just take a few moments to
+
+106
+00:02:58,250 --> 00:02:58,260
+now let's just take a few moments to
+ 
+
+107
+00:02:58,260 --> 00:02:59,869
+now let's just take a few moments to
+look at what he meant by these
+
+108
+00:02:59,869 --> 00:02:59,879
+look at what he meant by these
+ 
+
+109
+00:02:59,879 --> 00:03:02,330
+look at what he meant by these
+qualifying terms I'll leave the
+
+110
+00:03:02,330 --> 00:03:02,340
+qualifying terms I'll leave the
+ 
+
+111
+00:03:02,340 --> 00:03:04,790
+qualifying terms I'll leave the
+incomplete till it's a little bit later
+
+112
+00:03:04,790 --> 00:03:04,800
+incomplete till it's a little bit later
+ 
+
+113
+00:03:04,800 --> 00:03:08,150
+incomplete till it's a little bit later
+he argued for what is called immediate
+
+114
+00:03:08,150 --> 00:03:08,160
+he argued for what is called immediate
+ 
+
+115
+00:03:08,160 --> 00:03:10,850
+he argued for what is called immediate
+natural theology
+
+116
+00:03:10,850 --> 00:03:10,860
+natural theology
+ 
+
+117
+00:03:10,860 --> 00:03:14,149
+natural theology
+meaning by that that the knowledge that
+
+118
+00:03:14,149 --> 00:03:14,159
+meaning by that that the knowledge that
+ 
+
+119
+00:03:14,159 --> 00:03:16,850
+meaning by that that the knowledge that
+we gain from nature about God
+
+120
+00:03:16,850 --> 00:03:16,860
+we gain from nature about God
+ 
+
+121
+00:03:16,860 --> 00:03:18,470
+we gain from nature about God
+is not
+
+122
+00:03:18,470 --> 00:03:18,480
+is not
+ 
+
+123
+00:03:18,480 --> 00:03:20,290
+is not
+a direct
+
+124
+00:03:20,290 --> 00:03:20,300
+a direct
+ 
+
+125
+00:03:20,300 --> 00:03:24,050
+a direct
+immediate knowledge by which we would
+
+126
+00:03:24,050 --> 00:03:24,060
+immediate knowledge by which we would
+ 
+
+127
+00:03:24,060 --> 00:03:25,309
+immediate knowledge by which we would
+know God
+
+128
+00:03:25,309 --> 00:03:25,319
+know God
+ 
+
+129
+00:03:25,319 --> 00:03:27,949
+know God
+directly when he talks about immediate
+
+130
+00:03:27,949 --> 00:03:27,959
+directly when he talks about immediate
+ 
+
+131
+00:03:27,959 --> 00:03:29,570
+directly when he talks about immediate
+he's not talking about something that
+
+132
+00:03:29,570 --> 00:03:29,580
+he's not talking about something that
+ 
+
+133
+00:03:29,580 --> 00:03:30,910
+he's not talking about something that
+happens
+
+134
+00:03:30,910 --> 00:03:30,920
+happens
+ 
+
+135
+00:03:30,920 --> 00:03:35,089
+happens
+instantly with respect to time but he
+
+136
+00:03:35,089 --> 00:03:35,099
+instantly with respect to time but he
+ 
+
+137
+00:03:35,099 --> 00:03:38,930
+instantly with respect to time but he
+means by it the term immediate means
+
+138
+00:03:38,930 --> 00:03:38,940
+means by it the term immediate means
+ 
+
+139
+00:03:38,940 --> 00:03:40,250
+means by it the term immediate means
+without
+
+140
+00:03:40,250 --> 00:03:40,260
+without
+ 
+
+141
+00:03:40,260 --> 00:03:42,850
+without
+a medium
+
+142
+00:03:42,850 --> 00:03:42,860
+a medium
+ 
+
+143
+00:03:42,860 --> 00:03:46,789
+a medium
+we use the term media today to refer to
+
+144
+00:03:46,789 --> 00:03:46,799
+we use the term media today to refer to
+ 
+
+145
+00:03:46,799 --> 00:03:49,550
+we use the term media today to refer to
+the press to television to radio and so
+
+146
+00:03:49,550 --> 00:03:49,560
+the press to television to radio and so
+ 
+
+147
+00:03:49,560 --> 00:03:53,570
+the press to television to radio and so
+on because those are mediums or media
+
+148
+00:03:53,570 --> 00:03:53,580
+on because those are mediums or media
+ 
+
+149
+00:03:53,580 --> 00:03:58,070
+on because those are mediums or media
+through which we learn things and so the
+
+150
+00:03:58,070 --> 00:03:58,080
+through which we learn things and so the
+ 
+
+151
+00:03:58,080 --> 00:04:01,250
+through which we learn things and so the
+term mediate and immediate here has no
+
+152
+00:04:01,250 --> 00:04:01,260
+term mediate and immediate here has no
+ 
+
+153
+00:04:01,260 --> 00:04:04,250
+term mediate and immediate here has no
+reference to time it is a reference to
+
+154
+00:04:04,250 --> 00:04:04,260
+reference to time it is a reference to
+ 
+
+155
+00:04:04,260 --> 00:04:07,190
+reference to time it is a reference to
+whether there's an intervening mediator
+
+156
+00:04:07,190 --> 00:04:07,200
+whether there's an intervening mediator
+ 
+
+157
+00:04:07,200 --> 00:04:10,910
+whether there's an intervening mediator
+by which the knowledge is acquired and
+
+158
+00:04:10,910 --> 00:04:10,920
+by which the knowledge is acquired and
+ 
+
+159
+00:04:10,920 --> 00:04:13,250
+by which the knowledge is acquired and
+so when he speaks of natural theology he
+
+160
+00:04:13,250 --> 00:04:13,260
+so when he speaks of natural theology he
+ 
+
+161
+00:04:13,260 --> 00:04:17,030
+so when he speaks of natural theology he
+says it's mediate that is we don't get
+
+162
+00:04:17,030 --> 00:04:17,040
+says it's mediate that is we don't get
+ 
+
+163
+00:04:17,040 --> 00:04:20,930
+says it's mediate that is we don't get
+it directly from God but rather
+
+164
+00:04:20,930 --> 00:04:20,940
+it directly from God but rather
+ 
+
+165
+00:04:20,940 --> 00:04:25,210
+it directly from God but rather
+indirectly that God reveals himself
+
+166
+00:04:25,210 --> 00:04:25,220
+indirectly that God reveals himself
+ 
+
+167
+00:04:25,220 --> 00:04:29,629
+indirectly that God reveals himself
+in and through the creation the psalmist
+
+168
+00:04:29,629 --> 00:04:29,639
+in and through the creation the psalmist
+ 
+
+169
+00:04:29,639 --> 00:04:31,610
+in and through the creation the psalmist
+says the heavens declare the glory of
+
+170
+00:04:31,610 --> 00:04:31,620
+says the heavens declare the glory of
+ 
+
+171
+00:04:31,620 --> 00:04:34,610
+says the heavens declare the glory of
+God the firmament shows forth is Handy
+
+172
+00:04:34,610 --> 00:04:34,620
+God the firmament shows forth is Handy
+ 
+
+173
+00:04:34,620 --> 00:04:37,670
+God the firmament shows forth is Handy
+handiwork Paul in Romans 1 speaks of the
+
+174
+00:04:37,670 --> 00:04:37,680
+handiwork Paul in Romans 1 speaks of the
+ 
+
+175
+00:04:37,680 --> 00:04:40,129
+handiwork Paul in Romans 1 speaks of the
+knowledge of God that comes through the
+
+176
+00:04:40,129 --> 00:04:40,139
+knowledge of God that comes through the
+ 
+
+177
+00:04:40,139 --> 00:04:42,530
+knowledge of God that comes through the
+things that are made that is through the
+
+178
+00:04:42,530 --> 00:04:42,540
+things that are made that is through the
+ 
+
+179
+00:04:42,540 --> 00:04:45,409
+things that are made that is through the
+creation through the creature
+
+180
+00:04:45,409 --> 00:04:45,419
+creation through the creature
+ 
+
+181
+00:04:45,419 --> 00:04:47,749
+creation through the creature
+so whatever knowledge of God we have
+
+182
+00:04:47,749 --> 00:04:47,759
+so whatever knowledge of God we have
+ 
+
+183
+00:04:47,759 --> 00:04:51,530
+so whatever knowledge of God we have
+from nature is a mediated knowledge it
+
+184
+00:04:51,530 --> 00:04:51,540
+from nature is a mediated knowledge it
+ 
+
+185
+00:04:51,540 --> 00:04:55,550
+from nature is a mediated knowledge it
+comes through nature itself
+
+186
+00:04:55,550 --> 00:04:55,560
+comes through nature itself
+ 
+
+187
+00:04:55,560 --> 00:04:59,270
+comes through nature itself
+uh second of all it is analogical and
+
+188
+00:04:59,270 --> 00:04:59,280
+uh second of all it is analogical and
+ 
+
+189
+00:04:59,280 --> 00:05:01,210
+uh second of all it is analogical and
+I'm going to pass over that for a second
+
+190
+00:05:01,210 --> 00:05:01,220
+I'm going to pass over that for a second
+ 
+
+191
+00:05:01,220 --> 00:05:04,310
+I'm going to pass over that for a second
+because I want to explore that more
+
+192
+00:05:04,310 --> 00:05:04,320
+because I want to explore that more
+ 
+
+193
+00:05:04,320 --> 00:05:05,390
+because I want to explore that more
+deeply
+
+194
+00:05:05,390 --> 00:05:05,400
+deeply
+ 
+
+195
+00:05:05,400 --> 00:05:08,230
+deeply
+he says it's immediate
+
+196
+00:05:08,230 --> 00:05:08,240
+he says it's immediate
+ 
+
+197
+00:05:08,240 --> 00:05:11,689
+he says it's immediate
+incomplete and analogical and let's look
+
+198
+00:05:11,689 --> 00:05:11,699
+incomplete and analogical and let's look
+ 
+
+199
+00:05:11,699 --> 00:05:14,030
+incomplete and analogical and let's look
+at the word now incomplete what he means
+
+200
+00:05:14,030 --> 00:05:14,040
+at the word now incomplete what he means
+ 
+
+201
+00:05:14,040 --> 00:05:16,670
+at the word now incomplete what he means
+by that is that the knowledge of God
+
+202
+00:05:16,670 --> 00:05:16,680
+by that is that the knowledge of God
+ 
+
+203
+00:05:16,680 --> 00:05:19,310
+by that is that the knowledge of God
+that we gain through the creation
+
+204
+00:05:19,310 --> 00:05:19,320
+that we gain through the creation
+ 
+
+205
+00:05:19,320 --> 00:05:22,189
+that we gain through the creation
+is not a complete and comprehensive
+
+206
+00:05:22,189 --> 00:05:22,199
+is not a complete and comprehensive
+ 
+
+207
+00:05:22,199 --> 00:05:24,350
+is not a complete and comprehensive
+knowledge of God
+
+208
+00:05:24,350 --> 00:05:24,360
+knowledge of God
+ 
+
+209
+00:05:24,360 --> 00:05:27,830
+knowledge of God
+it is incomplete
+
+210
+00:05:27,830 --> 00:05:27,840
+it is incomplete
+ 
+
+211
+00:05:27,840 --> 00:05:30,290
+it is incomplete
+nevertheless
+
+212
+00:05:30,290 --> 00:05:30,300
+nevertheless
+ 
+
+213
+00:05:30,300 --> 00:05:33,050
+nevertheless
+it's true and this was the point he was
+
+214
+00:05:33,050 --> 00:05:33,060
+it's true and this was the point he was
+ 
+
+215
+00:05:33,060 --> 00:05:35,210
+it's true and this was the point he was
+trying to make that the knowledge of God
+
+216
+00:05:35,210 --> 00:05:35,220
+trying to make that the knowledge of God
+ 
+
+217
+00:05:35,220 --> 00:05:37,490
+trying to make that the knowledge of God
+that we gain from nature
+
+218
+00:05:37,490 --> 00:05:37,500
+that we gain from nature
+ 
+
+219
+00:05:37,500 --> 00:05:41,210
+that we gain from nature
+though it is not as vast or as deep as
+
+220
+00:05:41,210 --> 00:05:41,220
+though it is not as vast or as deep as
+ 
+
+221
+00:05:41,220 --> 00:05:42,950
+though it is not as vast or as deep as
+the knowledge of God we get from
+
+222
+00:05:42,950 --> 00:05:42,960
+the knowledge of God we get from
+ 
+
+223
+00:05:42,960 --> 00:05:45,950
+the knowledge of God we get from
+scripture
+
+224
+00:05:45,950 --> 00:05:45,960
+
+ 
+
+225
+00:05:45,960 --> 00:05:50,210
+
+nevertheless it is true as far as it
+
+226
+00:05:50,210 --> 00:05:50,220
+nevertheless it is true as far as it
+ 
+
+227
+00:05:50,220 --> 00:05:51,830
+nevertheless it is true as far as it
+goes
+
+228
+00:05:51,830 --> 00:05:51,840
+goes
+ 
+
+229
+00:05:51,840 --> 00:05:54,110
+goes
+now why is that significant
+
+230
+00:05:54,110 --> 00:05:54,120
+now why is that significant
+ 
+
+231
+00:05:54,120 --> 00:05:56,390
+now why is that significant
+well it's significant particularly in
+
+232
+00:05:56,390 --> 00:05:56,400
+well it's significant particularly in
+ 
+
+233
+00:05:56,400 --> 00:05:58,550
+well it's significant particularly in
+light of today's debates about natural
+
+234
+00:05:58,550 --> 00:05:58,560
+light of today's debates about natural
+ 
+
+235
+00:05:58,560 --> 00:06:00,890
+light of today's debates about natural
+theology many of the things that are
+
+236
+00:06:00,890 --> 00:06:00,900
+theology many of the things that are
+ 
+
+237
+00:06:00,900 --> 00:06:03,050
+theology many of the things that are
+said about natural theology is that not
+
+238
+00:06:03,050 --> 00:06:03,060
+said about natural theology is that not
+ 
+
+239
+00:06:03,060 --> 00:06:06,409
+said about natural theology is that not
+only is it inadequate and worthless but
+
+240
+00:06:06,409 --> 00:06:06,419
+only is it inadequate and worthless but
+ 
+
+241
+00:06:06,419 --> 00:06:08,570
+only is it inadequate and worthless but
+many see it as positively harmful
+
+242
+00:06:08,570 --> 00:06:08,580
+many see it as positively harmful
+ 
+
+243
+00:06:08,580 --> 00:06:11,210
+many see it as positively harmful
+because any knowledge of God that is
+
+244
+00:06:11,210 --> 00:06:11,220
+because any knowledge of God that is
+ 
+
+245
+00:06:11,220 --> 00:06:16,969
+because any knowledge of God that is
+gleaned from nature remains stripped of
+
+246
+00:06:16,969 --> 00:06:16,979
+gleaned from nature remains stripped of
+ 
+
+247
+00:06:16,979 --> 00:06:20,810
+gleaned from nature remains stripped of
+so much of the important content of our
+
+248
+00:06:20,810 --> 00:06:20,820
+so much of the important content of our
+ 
+
+249
+00:06:20,820 --> 00:06:23,330
+so much of the important content of our
+understanding of God that is given to us
+
+250
+00:06:23,330 --> 00:06:23,340
+understanding of God that is given to us
+ 
+
+251
+00:06:23,340 --> 00:06:25,370
+understanding of God that is given to us
+in the Bible
+
+252
+00:06:25,370 --> 00:06:25,380
+in the Bible
+ 
+
+253
+00:06:25,380 --> 00:06:27,730
+in the Bible
+and so it can give us perhaps
+
+254
+00:06:27,730 --> 00:06:27,740
+and so it can give us perhaps
+ 
+
+255
+00:06:27,740 --> 00:06:31,370
+and so it can give us perhaps
+Aristotle's first cause but there's a
+
+256
+00:06:31,370 --> 00:06:31,380
+Aristotle's first cause but there's a
+ 
+
+257
+00:06:31,380 --> 00:06:35,210
+Aristotle's first cause but there's a
+long way from an abstract first cause to
+
+258
+00:06:35,210 --> 00:06:35,220
+long way from an abstract first cause to
+ 
+
+259
+00:06:35,220 --> 00:06:39,170
+long way from an abstract first cause to
+the personal redeeming father of Jesus
+
+260
+00:06:39,170 --> 00:06:39,180
+the personal redeeming father of Jesus
+ 
+
+261
+00:06:39,180 --> 00:06:41,510
+the personal redeeming father of Jesus
+Christ who is revealed in Scripture
+
+262
+00:06:41,510 --> 00:06:41,520
+Christ who is revealed in Scripture
+ 
+
+263
+00:06:41,520 --> 00:06:43,909
+Christ who is revealed in Scripture
+but as I've already mentioned
+
+264
+00:06:43,909 --> 00:06:43,919
+but as I've already mentioned
+ 
+
+265
+00:06:43,919 --> 00:06:47,230
+but as I've already mentioned
+what was significant for Thomas was
+
+266
+00:06:47,230 --> 00:06:47,240
+what was significant for Thomas was
+ 
+
+267
+00:06:47,240 --> 00:06:51,050
+what was significant for Thomas was
+those who had attacked the Christian
+
+268
+00:06:51,050 --> 00:06:51,060
+those who had attacked the Christian
+ 
+
+269
+00:06:51,060 --> 00:06:53,350
+those who had attacked the Christian
+view of God
+
+270
+00:06:53,350 --> 00:06:53,360
+view of God
+ 
+
+271
+00:06:53,360 --> 00:06:57,950
+view of God
+leveled their attack chiefly at the
+
+272
+00:06:57,950 --> 00:06:57,960
+leveled their attack chiefly at the
+ 
+
+273
+00:06:57,960 --> 00:07:02,210
+leveled their attack chiefly at the
+doctrine of creation
+
+274
+00:07:02,210 --> 00:07:02,220
+
+ 
+
+275
+00:07:02,220 --> 00:07:05,210
+
+and that's true today that if one is an
+
+276
+00:07:05,210 --> 00:07:05,220
+and that's true today that if one is an
+ 
+
+277
+00:07:05,220 --> 00:07:08,930
+and that's true today that if one is an
+atheist the most important item of
+
+278
+00:07:08,930 --> 00:07:08,940
+atheist the most important item of
+ 
+
+279
+00:07:08,940 --> 00:07:11,570
+atheist the most important item of
+Christian doctrine that needs to be
+
+280
+00:07:11,570 --> 00:07:11,580
+Christian doctrine that needs to be
+ 
+
+281
+00:07:11,580 --> 00:07:14,629
+Christian doctrine that needs to be
+demolished is this item of creation
+
+282
+00:07:14,629 --> 00:07:14,639
+demolished is this item of creation
+ 
+
+283
+00:07:14,639 --> 00:07:18,230
+demolished is this item of creation
+because if creation can be denied then
+
+284
+00:07:18,230 --> 00:07:18,240
+because if creation can be denied then
+ 
+
+285
+00:07:18,240 --> 00:07:21,409
+because if creation can be denied then
+the very first teachings of the bib the
+
+286
+00:07:21,409 --> 00:07:21,419
+the very first teachings of the bib the
+ 
+
+287
+00:07:21,419 --> 00:07:23,150
+the very first teachings of the bib the
+biblical record with respect to the
+
+288
+00:07:23,150 --> 00:07:23,160
+biblical record with respect to the
+ 
+
+289
+00:07:23,160 --> 00:07:25,189
+biblical record with respect to the
+character of God would fall with it
+
+290
+00:07:25,189 --> 00:07:25,199
+character of God would fall with it
+ 
+
+291
+00:07:25,199 --> 00:07:28,189
+character of God would fall with it
+Genesis 1 begins with the affirmation in
+
+292
+00:07:28,189 --> 00:07:28,199
+Genesis 1 begins with the affirmation in
+ 
+
+293
+00:07:28,199 --> 00:07:31,010
+Genesis 1 begins with the affirmation in
+the beginning God created the heavens
+
+294
+00:07:31,010 --> 00:07:31,020
+the beginning God created the heavens
+ 
+
+295
+00:07:31,020 --> 00:07:34,070
+the beginning God created the heavens
+and the Earth so that if you can attack
+
+296
+00:07:34,070 --> 00:07:34,080
+and the Earth so that if you can attack
+ 
+
+297
+00:07:34,080 --> 00:07:37,909
+and the Earth so that if you can attack
+the idea of a first cause or of a
+
+298
+00:07:37,909 --> 00:07:37,919
+the idea of a first cause or of a
+ 
+
+299
+00:07:37,919 --> 00:07:40,909
+the idea of a first cause or of a
+creation altogether
+
+300
+00:07:40,909 --> 00:07:40,919
+creation altogether
+ 
+
+301
+00:07:40,919 --> 00:07:45,110
+creation altogether
+then you demolish the very Foundation of
+
+302
+00:07:45,110 --> 00:07:45,120
+then you demolish the very Foundation of
+ 
+
+303
+00:07:45,120 --> 00:07:46,730
+then you demolish the very Foundation of
+Christian thought
+
+304
+00:07:46,730 --> 00:07:46,740
+Christian thought
+ 
+
+305
+00:07:46,740 --> 00:07:49,790
+Christian thought
+so what Aquinas is saying is simply this
+
+306
+00:07:49,790 --> 00:07:49,800
+so what Aquinas is saying is simply this
+ 
+
+307
+00:07:49,800 --> 00:07:54,550
+so what Aquinas is saying is simply this
+yes nature may not prove the full
+
+308
+00:07:54,550 --> 00:07:54,560
+yes nature may not prove the full
+ 
+
+309
+00:07:54,560 --> 00:07:58,070
+yes nature may not prove the full
+content of God that we get from sacred
+
+310
+00:07:58,070 --> 00:07:58,080
+content of God that we get from sacred
+ 
+
+311
+00:07:58,080 --> 00:08:01,430
+content of God that we get from sacred
+scripture at least what nature does
+
+312
+00:08:01,430 --> 00:08:01,440
+scripture at least what nature does
+ 
+
+313
+00:08:01,440 --> 00:08:03,350
+scripture at least what nature does
+yield us
+
+314
+00:08:03,350 --> 00:08:03,360
+yield us
+ 
+
+315
+00:08:03,360 --> 00:08:05,710
+yield us
+through a rational
+
+316
+00:08:05,710 --> 00:08:05,720
+through a rational
+ 
+
+317
+00:08:05,720 --> 00:08:09,950
+through a rational
+treatment of the created realm is enough
+
+318
+00:08:09,950 --> 00:08:09,960
+treatment of the created realm is enough
+ 
+
+319
+00:08:09,960 --> 00:08:13,969
+treatment of the created realm is enough
+truth to stop the mouths of the atheists
+
+320
+00:08:13,969 --> 00:08:13,979
+truth to stop the mouths of the atheists
+ 
+
+321
+00:08:13,979 --> 00:08:16,550
+truth to stop the mouths of the atheists
+and of the Skeptics because natural
+
+322
+00:08:16,550 --> 00:08:16,560
+and of the Skeptics because natural
+ 
+
+323
+00:08:16,560 --> 00:08:20,210
+and of the Skeptics because natural
+theology according to Aquinas clearly
+
+324
+00:08:20,210 --> 00:08:20,220
+theology according to Aquinas clearly
+ 
+
+325
+00:08:20,220 --> 00:08:23,809
+theology according to Aquinas clearly
+demonstrates that God is the author of
+
+326
+00:08:23,809 --> 00:08:23,819
+demonstrates that God is the author of
+ 
+
+327
+00:08:23,819 --> 00:08:25,490
+demonstrates that God is the author of
+the universe
+
+328
+00:08:25,490 --> 00:08:25,500
+the universe
+ 
+
+329
+00:08:25,500 --> 00:08:26,930
+the universe
+and though that doesn't tell us
+
+330
+00:08:26,930 --> 00:08:26,940
+and though that doesn't tell us
+ 
+
+331
+00:08:26,940 --> 00:08:29,270
+and though that doesn't tell us
+everything there is to know about God it
+
+332
+00:08:29,270 --> 00:08:29,280
+everything there is to know about God it
+ 
+
+333
+00:08:29,280 --> 00:08:32,510
+everything there is to know about God it
+tells us something that is true as far
+
+334
+00:08:32,510 --> 00:08:32,520
+tells us something that is true as far
+ 
+
+335
+00:08:32,520 --> 00:08:34,730
+tells us something that is true as far
+as it goes that's what he means when he
+
+336
+00:08:34,730 --> 00:08:34,740
+as it goes that's what he means when he
+ 
+
+337
+00:08:34,740 --> 00:08:38,389
+as it goes that's what he means when he
+says natural theology is incomplete
+
+338
+00:08:38,389 --> 00:08:38,399
+says natural theology is incomplete
+ 
+
+339
+00:08:38,399 --> 00:08:39,829
+says natural theology is incomplete
+but
+
+340
+00:08:39,829 --> 00:08:39,839
+but
+ 
+
+341
+00:08:39,839 --> 00:08:41,510
+but
+true
+
+342
+00:08:41,510 --> 00:08:41,520
+true
+ 
+
+343
+00:08:41,520 --> 00:08:45,290
+true
+and that true as far as it goes is vital
+
+344
+00:08:45,290 --> 00:08:45,300
+and that true as far as it goes is vital
+ 
+
+345
+00:08:45,300 --> 00:08:47,990
+and that true as far as it goes is vital
+to the historic philosophical debates
+
+346
+00:08:47,990 --> 00:08:48,000
+to the historic philosophical debates
+ 
+
+347
+00:08:48,000 --> 00:08:50,630
+to the historic philosophical debates
+that have gone on between various forms
+
+348
+00:08:50,630 --> 00:08:50,640
+that have gone on between various forms
+ 
+
+349
+00:08:50,640 --> 00:08:55,250
+that have gone on between various forms
+of theism and various kinds of atheism
+
+350
+00:08:55,250 --> 00:08:55,260
+of theism and various kinds of atheism
+ 
+
+351
+00:08:55,260 --> 00:08:56,930
+of theism and various kinds of atheism
+now
+
+352
+00:08:56,930 --> 00:08:56,940
+now
+ 
+
+353
+00:08:56,940 --> 00:08:59,810
+now
+before I come back to the analogical one
+
+354
+00:08:59,810 --> 00:08:59,820
+before I come back to the analogical one
+ 
+
+355
+00:08:59,820 --> 00:09:02,870
+before I come back to the analogical one
+let me remind you again what I covered
+
+356
+00:09:02,870 --> 00:09:02,880
+let me remind you again what I covered
+ 
+
+357
+00:09:02,880 --> 00:09:06,050
+let me remind you again what I covered
+briefly in our last session
+
+358
+00:09:06,050 --> 00:09:06,060
+briefly in our last session
+ 
+
+359
+00:09:06,060 --> 00:09:09,889
+briefly in our last session
+namely that in aquinas's Arguments for
+
+360
+00:09:09,889 --> 00:09:09,899
+namely that in aquinas's Arguments for
+ 
+
+361
+00:09:09,899 --> 00:09:12,829
+namely that in aquinas's Arguments for
+the existence of God the five classic
+
+362
+00:09:12,829 --> 00:09:12,839
+the existence of God the five classic
+ 
+
+363
+00:09:12,839 --> 00:09:16,250
+the existence of God the five classic
+arguments that he gives he talked in
+
+364
+00:09:16,250 --> 00:09:16,260
+arguments that he gives he talked in
+ 
+
+365
+00:09:16,260 --> 00:09:19,389
+arguments that he gives he talked in
+part about God's being
+
+366
+00:09:19,389 --> 00:09:19,399
+part about God's being
+ 
+
+367
+00:09:19,399 --> 00:09:21,769
+part about God's being
+necessary being and I didn't have a
+
+368
+00:09:21,769 --> 00:09:21,779
+necessary being and I didn't have a
+ 
+
+369
+00:09:21,779 --> 00:09:23,509
+necessary being and I didn't have a
+whole lot of time to develop that but
+
+370
+00:09:23,509 --> 00:09:23,519
+whole lot of time to develop that but
+ 
+
+371
+00:09:23,519 --> 00:09:25,790
+whole lot of time to develop that but
+the technical phrase that was used by
+
+372
+00:09:25,790 --> 00:09:25,800
+the technical phrase that was used by
+ 
+
+373
+00:09:25,800 --> 00:09:27,530
+the technical phrase that was used by
+the theologians in the Middle Middle
+
+374
+00:09:27,530 --> 00:09:27,540
+the theologians in the Middle Middle
+ 
+
+375
+00:09:27,540 --> 00:09:32,210
+the theologians in the Middle Middle
+Ages was the phrase ends necessarium now
+
+376
+00:09:32,210 --> 00:09:32,220
+Ages was the phrase ends necessarium now
+ 
+
+377
+00:09:32,220 --> 00:09:35,530
+Ages was the phrase ends necessarium now
+that just is a fancy way to say
+
+378
+00:09:35,530 --> 00:09:35,540
+that just is a fancy way to say
+ 
+
+379
+00:09:35,540 --> 00:09:38,030
+that just is a fancy way to say
+necessary being
+
+380
+00:09:38,030 --> 00:09:38,040
+necessary being
+ 
+
+381
+00:09:38,040 --> 00:09:42,050
+necessary being
+but if you recall
+
+382
+00:09:42,050 --> 00:09:42,060
+
+ 
+
+383
+00:09:42,060 --> 00:09:46,190
+
+from Anselm and Aquinas there are two
+
+384
+00:09:46,190 --> 00:09:46,200
+from Anselm and Aquinas there are two
+ 
+
+385
+00:09:46,200 --> 00:09:49,910
+from Anselm and Aquinas there are two
+ways in which God is said to be a
+
+386
+00:09:49,910 --> 00:09:49,920
+ways in which God is said to be a
+ 
+
+387
+00:09:49,920 --> 00:09:52,009
+ways in which God is said to be a
+necessary being and we need to keep that
+
+388
+00:09:52,009 --> 00:09:52,019
+necessary being and we need to keep that
+ 
+
+389
+00:09:52,019 --> 00:09:55,370
+necessary being and we need to keep that
+in mind because sometimes these two ways
+
+390
+00:09:55,370 --> 00:09:55,380
+in mind because sometimes these two ways
+ 
+
+391
+00:09:55,380 --> 00:09:59,630
+in mind because sometimes these two ways
+of necessity are confused among people
+
+392
+00:09:59,630 --> 00:09:59,640
+of necessity are confused among people
+ 
+
+393
+00:09:59,640 --> 00:10:02,389
+of necessity are confused among people
+God is a necessary being
+
+394
+00:10:02,389 --> 00:10:02,399
+God is a necessary being
+ 
+
+395
+00:10:02,399 --> 00:10:05,630
+God is a necessary being
+ontologically
+
+396
+00:10:05,630 --> 00:10:05,640
+
+ 
+
+397
+00:10:05,640 --> 00:10:08,030
+
+according to Aquinas
+
+398
+00:10:08,030 --> 00:10:08,040
+according to Aquinas
+ 
+
+399
+00:10:08,040 --> 00:10:09,530
+according to Aquinas
+and
+
+400
+00:10:09,530 --> 00:10:09,540
+and
+ 
+
+401
+00:10:09,540 --> 00:10:14,810
+and
+logically
+
+402
+00:10:14,810 --> 00:10:14,820
+
+ 
+
+403
+00:10:14,820 --> 00:10:17,509
+
+what does that mean to say that God
+
+404
+00:10:17,509 --> 00:10:17,519
+what does that mean to say that God
+ 
+
+405
+00:10:17,519 --> 00:10:22,730
+what does that mean to say that God
+it has ontological necessary being
+
+406
+00:10:22,730 --> 00:10:22,740
+it has ontological necessary being
+ 
+
+407
+00:10:22,740 --> 00:10:27,470
+it has ontological necessary being
+is almost the redundancy ontology is the
+
+408
+00:10:27,470 --> 00:10:27,480
+is almost the redundancy ontology is the
+ 
+
+409
+00:10:27,480 --> 00:10:30,829
+is almost the redundancy ontology is the
+study of being we've mentioned that from
+
+410
+00:10:30,829 --> 00:10:30,839
+study of being we've mentioned that from
+ 
+
+411
+00:10:30,839 --> 00:10:32,509
+study of being we've mentioned that from
+the very beginning when we looked at the
+
+412
+00:10:32,509 --> 00:10:32,519
+the very beginning when we looked at the
+ 
+
+413
+00:10:32,519 --> 00:10:35,449
+the very beginning when we looked at the
+struggle for understanding reality that
+
+414
+00:10:35,449 --> 00:10:35,459
+struggle for understanding reality that
+ 
+
+415
+00:10:35,459 --> 00:10:37,130
+struggle for understanding reality that
+began with thales and through the
+
+416
+00:10:37,130 --> 00:10:37,140
+began with thales and through the
+ 
+
+417
+00:10:37,140 --> 00:10:38,870
+began with thales and through the
+pre-socratics and the struggle over
+
+418
+00:10:38,870 --> 00:10:38,880
+pre-socratics and the struggle over
+ 
+
+419
+00:10:38,880 --> 00:10:41,750
+pre-socratics and the struggle over
+being and becoming that we found in
+
+420
+00:10:41,750 --> 00:10:41,760
+being and becoming that we found in
+ 
+
+421
+00:10:41,760 --> 00:10:45,050
+being and becoming that we found in
+Plato and Aristotle and so on
+
+422
+00:10:45,050 --> 00:10:45,060
+Plato and Aristotle and so on
+ 
+
+423
+00:10:45,060 --> 00:10:48,050
+Plato and Aristotle and so on
+so that ontology focuses attention on
+
+424
+00:10:48,050 --> 00:10:48,060
+so that ontology focuses attention on
+ 
+
+425
+00:10:48,060 --> 00:10:50,750
+so that ontology focuses attention on
+the question of being
+
+426
+00:10:50,750 --> 00:10:50,760
+the question of being
+ 
+
+427
+00:10:50,760 --> 00:10:53,630
+the question of being
+now what Aquinas and others meant by
+
+428
+00:10:53,630 --> 00:10:53,640
+now what Aquinas and others meant by
+ 
+
+429
+00:10:53,640 --> 00:10:55,250
+now what Aquinas and others meant by
+necessary being
+
+430
+00:10:55,250 --> 00:10:55,260
+necessary being
+ 
+
+431
+00:10:55,260 --> 00:10:58,430
+necessary being
+was to describe a being
+
+432
+00:10:58,430 --> 00:10:58,440
+was to describe a being
+ 
+
+433
+00:10:58,440 --> 00:11:02,710
+was to describe a being
+whose being is not dependent
+
+434
+00:11:02,710 --> 00:11:02,720
+whose being is not dependent
+ 
+
+435
+00:11:02,720 --> 00:11:06,410
+whose being is not dependent
+derived or contingent
+
+436
+00:11:06,410 --> 00:11:06,420
+derived or contingent
+ 
+
+437
+00:11:06,420 --> 00:11:08,150
+derived or contingent
+and remember I mentioned the difference
+
+438
+00:11:08,150 --> 00:11:08,160
+and remember I mentioned the difference
+ 
+
+439
+00:11:08,160 --> 00:11:12,170
+and remember I mentioned the difference
+between Supreme Being and human beings
+
+440
+00:11:12,170 --> 00:11:12,180
+between Supreme Being and human beings
+ 
+
+441
+00:11:12,180 --> 00:11:14,269
+between Supreme Being and human beings
+the difference between the Supreme Being
+
+442
+00:11:14,269 --> 00:11:14,279
+the difference between the Supreme Being
+ 
+
+443
+00:11:14,279 --> 00:11:16,850
+the difference between the Supreme Being
+and the human being is a difference in
+
+444
+00:11:16,850 --> 00:11:16,860
+and the human being is a difference in
+ 
+
+445
+00:11:16,860 --> 00:11:17,930
+and the human being is a difference in
+being
+
+446
+00:11:17,930 --> 00:11:17,940
+being
+ 
+
+447
+00:11:17,940 --> 00:11:21,590
+being
+that a human being is dependent
+
+448
+00:11:21,590 --> 00:11:21,600
+that a human being is dependent
+ 
+
+449
+00:11:21,600 --> 00:11:24,230
+that a human being is dependent
+you can't live for very long without
+
+450
+00:11:24,230 --> 00:11:24,240
+you can't live for very long without
+ 
+
+451
+00:11:24,240 --> 00:11:26,810
+you can't live for very long without
+oxygen and without water and without
+
+452
+00:11:26,810 --> 00:11:26,820
+oxygen and without water and without
+ 
+
+453
+00:11:26,820 --> 00:11:30,290
+oxygen and without water and without
+food and so on so that you have certain
+
+454
+00:11:30,290 --> 00:11:30,300
+food and so on so that you have certain
+ 
+
+455
+00:11:30,300 --> 00:11:34,190
+food and so on so that you have certain
+needs that you must have met for you to
+
+456
+00:11:34,190 --> 00:11:34,200
+needs that you must have met for you to
+ 
+
+457
+00:11:34,200 --> 00:11:37,790
+needs that you must have met for you to
+continue to be not only that you are not
+
+458
+00:11:37,790 --> 00:11:37,800
+continue to be not only that you are not
+ 
+
+459
+00:11:37,800 --> 00:11:40,730
+continue to be not only that you are not
+the cause of your own being
+
+460
+00:11:40,730 --> 00:11:40,740
+the cause of your own being
+ 
+
+461
+00:11:40,740 --> 00:11:43,910
+the cause of your own being
+you are derived through the normal
+
+462
+00:11:43,910 --> 00:11:43,920
+you are derived through the normal
+ 
+
+463
+00:11:43,920 --> 00:11:47,810
+you are derived through the normal
+process of procreation you were born you
+
+464
+00:11:47,810 --> 00:11:47,820
+process of procreation you were born you
+ 
+
+465
+00:11:47,820 --> 00:11:50,329
+process of procreation you were born you
+have a birthday
+
+466
+00:11:50,329 --> 00:11:50,339
+have a birthday
+ 
+
+467
+00:11:50,339 --> 00:11:52,670
+have a birthday
+and you are contingent being meaning
+
+468
+00:11:52,670 --> 00:11:52,680
+and you are contingent being meaning
+ 
+
+469
+00:11:52,680 --> 00:11:54,889
+and you are contingent being meaning
+that it's possible at least
+
+470
+00:11:54,889 --> 00:11:54,899
+that it's possible at least
+ 
+
+471
+00:11:54,899 --> 00:11:57,710
+that it's possible at least
+theoretically that you didn't exist
+
+472
+00:11:57,710 --> 00:11:57,720
+theoretically that you didn't exist
+ 
+
+473
+00:11:57,720 --> 00:12:00,290
+theoretically that you didn't exist
+there was a time when you were not and
+
+474
+00:12:00,290 --> 00:12:00,300
+there was a time when you were not and
+ 
+
+475
+00:12:00,300 --> 00:12:02,569
+there was a time when you were not and
+there's a time when you will die and in
+
+476
+00:12:02,569 --> 00:12:02,579
+there's a time when you will die and in
+ 
+
+477
+00:12:02,579 --> 00:12:04,930
+there's a time when you will die and in
+between those two polls you will undergo
+
+478
+00:12:04,930 --> 00:12:04,940
+between those two polls you will undergo
+ 
+
+479
+00:12:04,940 --> 00:12:08,690
+between those two polls you will undergo
+changes which are all indicators of
+
+480
+00:12:08,690 --> 00:12:08,700
+changes which are all indicators of
+ 
+
+481
+00:12:08,700 --> 00:12:10,790
+changes which are all indicators of
+contingent being
+
+482
+00:12:10,790 --> 00:12:10,800
+contingent being
+ 
+
+483
+00:12:10,800 --> 00:12:13,430
+contingent being
+now when Aquinas speaks about God's
+
+484
+00:12:13,430 --> 00:12:13,440
+now when Aquinas speaks about God's
+ 
+
+485
+00:12:13,440 --> 00:12:16,310
+now when Aquinas speaks about God's
+being necessary being he means that God
+
+486
+00:12:16,310 --> 00:12:16,320
+being necessary being he means that God
+ 
+
+487
+00:12:16,320 --> 00:12:20,750
+being necessary being he means that God
+is Not derived not dependent none can
+
+488
+00:12:20,750 --> 00:12:20,760
+is Not derived not dependent none can
+ 
+
+489
+00:12:20,760 --> 00:12:24,790
+is Not derived not dependent none can
+not uh contingent he is the
+
+490
+00:12:24,790 --> 00:12:24,800
+not uh contingent he is the
+ 
+
+491
+00:12:24,800 --> 00:12:28,610
+not uh contingent he is the
+unconditional one who has the power of
+
+492
+00:12:28,610 --> 00:12:28,620
+unconditional one who has the power of
+ 
+
+493
+00:12:28,620 --> 00:12:31,430
+unconditional one who has the power of
+being within himself
+
+494
+00:12:31,430 --> 00:12:31,440
+being within himself
+ 
+
+495
+00:12:31,440 --> 00:12:32,870
+being within himself
+eternally
+
+496
+00:12:32,870 --> 00:12:32,880
+eternally
+ 
+
+497
+00:12:32,880 --> 00:12:34,850
+eternally
+he didn't get his being from someone
+
+498
+00:12:34,850 --> 00:12:34,860
+he didn't get his being from someone
+ 
+
+499
+00:12:34,860 --> 00:12:36,829
+he didn't get his being from someone
+else or something else
+
+500
+00:12:36,829 --> 00:12:36,839
+else or something else
+ 
+
+501
+00:12:36,839 --> 00:12:39,110
+else or something else
+and since he has the power of being
+
+502
+00:12:39,110 --> 00:12:39,120
+and since he has the power of being
+ 
+
+503
+00:12:39,120 --> 00:12:41,690
+and since he has the power of being
+within himself it is said that he is
+
+504
+00:12:41,690 --> 00:12:41,700
+within himself it is said that he is
+ 
+
+505
+00:12:41,700 --> 00:12:43,850
+within himself it is said that he is
+self-existing
+
+506
+00:12:43,850 --> 00:12:43,860
+self-existing
+ 
+
+507
+00:12:43,860 --> 00:12:46,430
+self-existing
+I often talk about the two children that
+
+508
+00:12:46,430 --> 00:12:46,440
+I often talk about the two children that
+ 
+
+509
+00:12:46,440 --> 00:12:49,610
+I often talk about the two children that
+were having a dispute about these
+
+510
+00:12:49,610 --> 00:12:49,620
+were having a dispute about these
+ 
+
+511
+00:12:49,620 --> 00:12:52,490
+were having a dispute about these
+questions and one little boy said to the
+
+512
+00:12:52,490 --> 00:12:52,500
+questions and one little boy said to the
+ 
+
+513
+00:12:52,500 --> 00:12:55,310
+questions and one little boy said to the
+other little boy where did that tree
+
+514
+00:12:55,310 --> 00:12:55,320
+other little boy where did that tree
+ 
+
+515
+00:12:55,320 --> 00:12:57,050
+other little boy where did that tree
+come from
+
+516
+00:12:57,050 --> 00:12:57,060
+come from
+ 
+
+517
+00:12:57,060 --> 00:13:00,110
+come from
+and the other boy said well God made the
+
+518
+00:13:00,110 --> 00:13:00,120
+and the other boy said well God made the
+ 
+
+519
+00:13:00,120 --> 00:13:01,129
+and the other boy said well God made the
+tree
+
+520
+00:13:01,129 --> 00:13:01,139
+tree
+ 
+
+521
+00:13:01,139 --> 00:13:04,550
+tree
+well where did that fish come from God
+
+522
+00:13:04,550 --> 00:13:04,560
+well where did that fish come from God
+ 
+
+523
+00:13:04,560 --> 00:13:07,129
+well where did that fish come from God
+made the fish well where did we come
+
+524
+00:13:07,129 --> 00:13:07,139
+made the fish well where did we come
+ 
+
+525
+00:13:07,139 --> 00:13:09,350
+made the fish well where did we come
+from well God made us
+
+526
+00:13:09,350 --> 00:13:09,360
+from well God made us
+ 
+
+527
+00:13:09,360 --> 00:13:11,810
+from well God made us
+until finally after this discussion
+
+528
+00:13:11,810 --> 00:13:11,820
+until finally after this discussion
+ 
+
+529
+00:13:11,820 --> 00:13:14,090
+until finally after this discussion
+reached the breaking point the one child
+
+530
+00:13:14,090 --> 00:13:14,100
+reached the breaking point the one child
+ 
+
+531
+00:13:14,100 --> 00:13:15,590
+reached the breaking point the one child
+said to the other well where did God
+
+532
+00:13:15,590 --> 00:13:15,600
+said to the other well where did God
+ 
+
+533
+00:13:15,600 --> 00:13:16,910
+said to the other well where did God
+come from
+
+534
+00:13:16,910 --> 00:13:16,920
+come from
+ 
+
+535
+00:13:16,920 --> 00:13:19,430
+come from
+and the other child said God made
+
+536
+00:13:19,430 --> 00:13:19,440
+and the other child said God made
+ 
+
+537
+00:13:19,440 --> 00:13:20,810
+and the other child said God made
+himself
+
+538
+00:13:20,810 --> 00:13:20,820
+himself
+ 
+
+539
+00:13:20,820 --> 00:13:23,389
+himself
+and that's supposed to communicate to us
+
+540
+00:13:23,389 --> 00:13:23,399
+and that's supposed to communicate to us
+ 
+
+541
+00:13:23,399 --> 00:13:26,449
+and that's supposed to communicate to us
+a profound level of insight from a small
+
+542
+00:13:26,449 --> 00:13:26,459
+a profound level of insight from a small
+ 
+
+543
+00:13:26,459 --> 00:13:28,310
+a profound level of insight from a small
+child unfortunately
+
+544
+00:13:28,310 --> 00:13:28,320
+child unfortunately
+ 
+
+545
+00:13:28,320 --> 00:13:31,790
+child unfortunately
+it's an erroneous thought
+
+546
+00:13:31,790 --> 00:13:31,800
+it's an erroneous thought
+ 
+
+547
+00:13:31,800 --> 00:13:35,030
+it's an erroneous thought
+God did not make himself
+
+548
+00:13:35,030 --> 00:13:35,040
+God did not make himself
+ 
+
+549
+00:13:35,040 --> 00:13:37,910
+God did not make himself
+nothing makes itself again for something
+
+550
+00:13:37,910 --> 00:13:37,920
+nothing makes itself again for something
+ 
+
+551
+00:13:37,920 --> 00:13:40,790
+nothing makes itself again for something
+to create itself would require that it
+
+552
+00:13:40,790 --> 00:13:40,800
+to create itself would require that it
+ 
+
+553
+00:13:40,800 --> 00:13:42,710
+to create itself would require that it
+existed before it was it would have to
+
+554
+00:13:42,710 --> 00:13:42,720
+existed before it was it would have to
+ 
+
+555
+00:13:42,720 --> 00:13:45,230
+existed before it was it would have to
+be and not be at the same time and even
+
+556
+00:13:45,230 --> 00:13:45,240
+be and not be at the same time and even
+ 
+
+557
+00:13:45,240 --> 00:13:47,030
+be and not be at the same time and even
+God cannot
+
+558
+00:13:47,030 --> 00:13:47,040
+God cannot
+ 
+
+559
+00:13:47,040 --> 00:13:50,990
+God cannot
+bring himself into being from nothing
+
+560
+00:13:50,990 --> 00:13:51,000
+bring himself into being from nothing
+ 
+
+561
+00:13:51,000 --> 00:13:56,930
+bring himself into being from nothing
+the answer is that God is not caused
+
+562
+00:13:56,930 --> 00:13:56,940
+the answer is that God is not caused
+ 
+
+563
+00:13:56,940 --> 00:14:00,430
+the answer is that God is not caused
+that in order for us to apply
+
+564
+00:14:00,430 --> 00:14:00,440
+that in order for us to apply
+ 
+
+565
+00:14:00,440 --> 00:14:04,310
+that in order for us to apply
+causal links or a causal chain we do
+
+566
+00:14:04,310 --> 00:14:04,320
+causal links or a causal chain we do
+ 
+
+567
+00:14:04,320 --> 00:14:07,129
+causal links or a causal chain we do
+that routinely when we're trying to
+
+568
+00:14:07,129 --> 00:14:07,139
+that routinely when we're trying to
+ 
+
+569
+00:14:07,139 --> 00:14:09,470
+that routinely when we're trying to
+trace the origins of various things in
+
+570
+00:14:09,470 --> 00:14:09,480
+trace the origins of various things in
+ 
+
+571
+00:14:09,480 --> 00:14:12,170
+trace the origins of various things in
+the world in which we live but sooner or
+
+572
+00:14:12,170 --> 00:14:12,180
+the world in which we live but sooner or
+ 
+
+573
+00:14:12,180 --> 00:14:14,629
+the world in which we live but sooner or
+later you're going to have to come to
+
+574
+00:14:14,629 --> 00:14:14,639
+later you're going to have to come to
+ 
+
+575
+00:14:14,639 --> 00:14:18,410
+later you're going to have to come to
+that which is uncaused that which has
+
+576
+00:14:18,410 --> 00:14:18,420
+that which is uncaused that which has
+ 
+
+577
+00:14:18,420 --> 00:14:21,290
+that which is uncaused that which has
+the power of being in and of itself and
+
+578
+00:14:21,290 --> 00:14:21,300
+the power of being in and of itself and
+ 
+
+579
+00:14:21,300 --> 00:14:23,329
+the power of being in and of itself and
+if it has the power of being eternally
+
+580
+00:14:23,329 --> 00:14:23,339
+if it has the power of being eternally
+ 
+
+581
+00:14:23,339 --> 00:14:28,670
+if it has the power of being eternally
+in and of itself it cannot not be
+
+582
+00:14:28,670 --> 00:14:28,680
+in and of itself it cannot not be
+ 
+
+583
+00:14:28,680 --> 00:14:33,430
+in and of itself it cannot not be
+that is it's being is of
+
+584
+00:14:33,430 --> 00:14:33,440
+that is it's being is of
+ 
+
+585
+00:14:33,440 --> 00:14:36,170
+that is it's being is of
+ontological necessity
+
+586
+00:14:36,170 --> 00:14:36,180
+ontological necessity
+ 
+
+587
+00:14:36,180 --> 00:14:39,769
+ontological necessity
+and ontologically necessary being is a
+
+588
+00:14:39,769 --> 00:14:39,779
+and ontologically necessary being is a
+ 
+
+589
+00:14:39,779 --> 00:14:44,090
+and ontologically necessary being is a
+being who cannot not be that's the
+
+590
+00:14:44,090 --> 00:14:44,100
+being who cannot not be that's the
+ 
+
+591
+00:14:44,100 --> 00:14:47,509
+being who cannot not be that's the
+simple uh explanation for what Aquinas
+
+592
+00:14:47,509 --> 00:14:47,519
+simple uh explanation for what Aquinas
+ 
+
+593
+00:14:47,519 --> 00:14:49,430
+simple uh explanation for what Aquinas
+is getting at now the second way in
+
+594
+00:14:49,430 --> 00:14:49,440
+is getting at now the second way in
+ 
+
+595
+00:14:49,440 --> 00:14:52,250
+is getting at now the second way in
+which he speaks of necessary being is
+
+596
+00:14:52,250 --> 00:14:52,260
+which he speaks of necessary being is
+ 
+
+597
+00:14:52,260 --> 00:14:53,870
+which he speaks of necessary being is
+logically
+
+598
+00:14:53,870 --> 00:14:53,880
+logically
+ 
+
+599
+00:14:53,880 --> 00:14:56,269
+logically
+through his Arguments for the existence
+
+600
+00:14:56,269 --> 00:14:56,279
+through his Arguments for the existence
+ 
+
+601
+00:14:56,279 --> 00:15:00,230
+through his Arguments for the existence
+of God Aquinas was trying to show
+
+602
+00:15:00,230 --> 00:15:00,240
+of God Aquinas was trying to show
+ 
+
+603
+00:15:00,240 --> 00:15:03,110
+of God Aquinas was trying to show
+that not only is God ontologically
+
+604
+00:15:03,110 --> 00:15:03,120
+that not only is God ontologically
+ 
+
+605
+00:15:03,120 --> 00:15:06,590
+that not only is God ontologically
+necessary but it is logically necessary
+
+606
+00:15:06,590 --> 00:15:06,600
+necessary but it is logically necessary
+ 
+
+607
+00:15:06,600 --> 00:15:09,889
+necessary but it is logically necessary
+that there be an ontologically necessary
+
+608
+00:15:09,889 --> 00:15:09,899
+that there be an ontologically necessary
+ 
+
+609
+00:15:09,899 --> 00:15:11,389
+that there be an ontologically necessary
+being
+
+610
+00:15:11,389 --> 00:15:11,399
+being
+ 
+
+611
+00:15:11,399 --> 00:15:13,310
+being
+because without an ontologically
+
+612
+00:15:13,310 --> 00:15:13,320
+because without an ontologically
+ 
+
+613
+00:15:13,320 --> 00:15:15,170
+because without an ontologically
+necessary being
+
+614
+00:15:15,170 --> 00:15:15,180
+necessary being
+ 
+
+615
+00:15:15,180 --> 00:15:18,350
+necessary being
+nothing could possibly be now this
+
+616
+00:15:18,350 --> 00:15:18,360
+nothing could possibly be now this
+ 
+
+617
+00:15:18,360 --> 00:15:21,350
+nothing could possibly be now this
+presupposes one assumption and that
+
+618
+00:15:21,350 --> 00:15:21,360
+presupposes one assumption and that
+ 
+
+619
+00:15:21,360 --> 00:15:22,970
+presupposes one assumption and that
+assumption is
+
+620
+00:15:22,970 --> 00:15:22,980
+assumption is
+ 
+
+621
+00:15:22,980 --> 00:15:25,730
+assumption is
+that something exists
+
+622
+00:15:25,730 --> 00:15:25,740
+that something exists
+ 
+
+623
+00:15:25,740 --> 00:15:27,769
+that something exists
+that there is something rather than
+
+624
+00:15:27,769 --> 00:15:27,779
+that there is something rather than
+ 
+
+625
+00:15:27,779 --> 00:15:29,090
+that there is something rather than
+nothing
+
+626
+00:15:29,090 --> 00:15:29,100
+nothing
+ 
+
+627
+00:15:29,100 --> 00:15:31,329
+nothing
+so that if something exists anything
+
+628
+00:15:31,329 --> 00:15:31,339
+so that if something exists anything
+ 
+
+629
+00:15:31,339 --> 00:15:34,430
+so that if something exists anything
+exists right now then there never could
+
+630
+00:15:34,430 --> 00:15:34,440
+exists right now then there never could
+ 
+
+631
+00:15:34,440 --> 00:15:35,689
+exists right now then there never could
+have been a time when there was
+
+632
+00:15:35,689 --> 00:15:35,699
+have been a time when there was
+ 
+
+633
+00:15:35,699 --> 00:15:38,210
+have been a time when there was
+absolutely nothing because if ever there
+
+634
+00:15:38,210 --> 00:15:38,220
+absolutely nothing because if ever there
+ 
+
+635
+00:15:38,220 --> 00:15:40,430
+absolutely nothing because if ever there
+was absolutely nothing what could
+
+636
+00:15:40,430 --> 00:15:40,440
+was absolutely nothing what could
+ 
+
+637
+00:15:40,440 --> 00:15:43,329
+was absolutely nothing what could
+logically possibly be now
+
+638
+00:15:43,329 --> 00:15:43,339
+logically possibly be now
+ 
+
+639
+00:15:43,339 --> 00:15:46,189
+logically possibly be now
+absolutely nothing nice notice I said
+
+640
+00:15:46,189 --> 00:15:46,199
+absolutely nothing nice notice I said
+ 
+
+641
+00:15:46,199 --> 00:15:49,790
+absolutely nothing nice notice I said
+what could logically possibly be now I
+
+642
+00:15:49,790 --> 00:15:49,800
+what could logically possibly be now I
+ 
+
+643
+00:15:49,800 --> 00:15:51,949
+what could logically possibly be now I
+said absolutely nothing and that's for
+
+644
+00:15:51,949 --> 00:15:51,959
+said absolutely nothing and that's for
+ 
+
+645
+00:15:51,959 --> 00:15:53,750
+said absolutely nothing and that's for
+this simple reason that if ever there
+
+646
+00:15:53,750 --> 00:15:53,760
+this simple reason that if ever there
+ 
+
+647
+00:15:53,760 --> 00:15:55,189
+this simple reason that if ever there
+was a time when there was absolutely
+
+648
+00:15:55,189 --> 00:15:55,199
+was a time when there was absolutely
+ 
+
+649
+00:15:55,199 --> 00:15:56,509
+was a time when there was absolutely
+nothing
+
+650
+00:15:56,509 --> 00:15:56,519
+nothing
+ 
+
+651
+00:15:56,519 --> 00:15:58,370
+nothing
+and now there is something somewhere
+
+652
+00:15:58,370 --> 00:15:58,380
+and now there is something somewhere
+ 
+
+653
+00:15:58,380 --> 00:16:00,530
+and now there is something somewhere
+along the line something would have had
+
+654
+00:16:00,530 --> 00:16:00,540
+along the line something would have had
+ 
+
+655
+00:16:00,540 --> 00:16:05,990
+along the line something would have had
+to pop into existence by its own power
+
+656
+00:16:05,990 --> 00:16:06,000
+
+ 
+
+657
+00:16:06,000 --> 00:16:08,629
+
+and for something to create itself as we
+
+658
+00:16:08,629 --> 00:16:08,639
+and for something to create itself as we
+ 
+
+659
+00:16:08,639 --> 00:16:12,170
+and for something to create itself as we
+said is rationally impossible it's a
+
+660
+00:16:12,170 --> 00:16:12,180
+said is rationally impossible it's a
+ 
+
+661
+00:16:12,180 --> 00:16:14,150
+said is rationally impossible it's a
+logical impossibility I know people
+
+662
+00:16:14,150 --> 00:16:14,160
+logical impossibility I know people
+ 
+
+663
+00:16:14,160 --> 00:16:16,850
+logical impossibility I know people
+speak that way I talked about the
+
+664
+00:16:16,850 --> 00:16:16,860
+speak that way I talked about the
+ 
+
+665
+00:16:16,860 --> 00:16:18,949
+speak that way I talked about the
+launching of the Hubble telescope and
+
+666
+00:16:18,949 --> 00:16:18,959
+launching of the Hubble telescope and
+ 
+
+667
+00:16:18,959 --> 00:16:21,110
+launching of the Hubble telescope and
+listening to a very respected physicist
+
+668
+00:16:21,110 --> 00:16:21,120
+listening to a very respected physicist
+ 
+
+669
+00:16:21,120 --> 00:16:25,129
+listening to a very respected physicist
+on the radio who said 15 to 12 to 15
+
+670
+00:16:25,129 --> 00:16:25,139
+on the radio who said 15 to 12 to 15
+ 
+
+671
+00:16:25,139 --> 00:16:28,370
+on the radio who said 15 to 12 to 15
+billion years ago the universe exploded
+
+672
+00:16:28,370 --> 00:16:28,380
+billion years ago the universe exploded
+ 
+
+673
+00:16:28,380 --> 00:16:30,170
+billion years ago the universe exploded
+into being
+
+674
+00:16:30,170 --> 00:16:30,180
+into being
+ 
+
+675
+00:16:30,180 --> 00:16:32,329
+into being
+and I said whoops
+
+676
+00:16:32,329 --> 00:16:32,339
+and I said whoops
+ 
+
+677
+00:16:32,339 --> 00:16:35,569
+and I said whoops
+if it exploded into being from what did
+
+678
+00:16:35,569 --> 00:16:35,579
+if it exploded into being from what did
+ 
+
+679
+00:16:35,579 --> 00:16:36,970
+if it exploded into being from what did
+it explode
+
+680
+00:16:36,970 --> 00:16:36,980
+it explode
+ 
+
+681
+00:16:36,980 --> 00:16:38,749
+it explode
+non-being
+
+682
+00:16:38,749 --> 00:16:38,759
+non-being
+ 
+
+683
+00:16:38,759 --> 00:16:41,210
+non-being
+is this respectable philosopher attract
+
+684
+00:16:41,210 --> 00:16:41,220
+is this respectable philosopher attract
+ 
+
+685
+00:16:41,220 --> 00:16:45,170
+is this respectable philosopher attract
+or physicist trying to pass off the idea
+
+686
+00:16:45,170 --> 00:16:45,180
+or physicist trying to pass off the idea
+ 
+
+687
+00:16:45,180 --> 00:16:48,590
+or physicist trying to pass off the idea
+that something came absolutely from
+
+688
+00:16:48,590 --> 00:16:48,600
+that something came absolutely from
+ 
+
+689
+00:16:48,600 --> 00:16:49,610
+that something came absolutely from
+nothing
+
+690
+00:16:49,610 --> 00:16:49,620
+nothing
+ 
+
+691
+00:16:49,620 --> 00:16:51,550
+nothing
+that would destroy the most important
+
+692
+00:16:51,550 --> 00:16:51,560
+that would destroy the most important
+ 
+
+693
+00:16:51,560 --> 00:16:54,230
+that would destroy the most important
+logical Axiom we have actually he'll
+
+694
+00:16:54,230 --> 00:16:54,240
+logical Axiom we have actually he'll
+ 
+
+695
+00:16:54,240 --> 00:16:55,850
+logical Axiom we have actually he'll
+only he'll fit out of nothing nothing
+
+696
+00:16:55,850 --> 00:16:55,860
+only he'll fit out of nothing nothing
+ 
+
+697
+00:16:55,860 --> 00:16:59,269
+only he'll fit out of nothing nothing
+comes but if something is here
+
+698
+00:16:59,269 --> 00:16:59,279
+comes but if something is here
+ 
+
+699
+00:16:59,279 --> 00:17:01,490
+comes but if something is here
+then logic demands that something
+
+700
+00:17:01,490 --> 00:17:01,500
+then logic demands that something
+ 
+
+701
+00:17:01,500 --> 00:17:03,170
+then logic demands that something
+somewhere
+
+702
+00:17:03,170 --> 00:17:03,180
+somewhere
+ 
+
+703
+00:17:03,180 --> 00:17:06,650
+somewhere
+has this power of being within itself
+
+704
+00:17:06,650 --> 00:17:06,660
+has this power of being within itself
+ 
+
+705
+00:17:06,660 --> 00:17:09,470
+has this power of being within itself
+or nothing could possibly be
+
+706
+00:17:09,470 --> 00:17:09,480
+or nothing could possibly be
+ 
+
+707
+00:17:09,480 --> 00:17:12,230
+or nothing could possibly be
+so for Aquinas he argues that from
+
+708
+00:17:12,230 --> 00:17:12,240
+so for Aquinas he argues that from
+ 
+
+709
+00:17:12,240 --> 00:17:14,870
+so for Aquinas he argues that from
+reflecting on nature we come to the
+
+710
+00:17:14,870 --> 00:17:14,880
+reflecting on nature we come to the
+ 
+
+711
+00:17:14,880 --> 00:17:17,090
+reflecting on nature we come to the
+conclusion that there is both a
+
+712
+00:17:17,090 --> 00:17:17,100
+conclusion that there is both a
+ 
+
+713
+00:17:17,100 --> 00:17:20,449
+conclusion that there is both a
+ontologically necessary being whose
+
+714
+00:17:20,449 --> 00:17:20,459
+ontologically necessary being whose
+ 
+
+715
+00:17:20,459 --> 00:17:23,289
+ontologically necessary being whose
+necessary being is
+
+716
+00:17:23,289 --> 00:17:23,299
+necessary being is
+ 
+
+717
+00:17:23,299 --> 00:17:27,829
+necessary being is
+logically necessary postulate all right
+
+718
+00:17:27,829 --> 00:17:27,839
+logically necessary postulate all right
+ 
+
+719
+00:17:27,839 --> 00:17:30,850
+logically necessary postulate all right
+now let's go then to this word
+
+720
+00:17:30,850 --> 00:17:30,860
+now let's go then to this word
+ 
+
+721
+00:17:30,860 --> 00:17:33,710
+now let's go then to this word
+analogical this is so important
+
+722
+00:17:33,710 --> 00:17:33,720
+analogical this is so important
+ 
+
+723
+00:17:33,720 --> 00:17:35,529
+analogical this is so important
+to understand
+
+724
+00:17:35,529 --> 00:17:35,539
+to understand
+ 
+
+725
+00:17:35,539 --> 00:17:38,570
+to understand
+aquinas's contribution
+
+726
+00:17:38,570 --> 00:17:38,580
+aquinas's contribution
+ 
+
+727
+00:17:38,580 --> 00:17:42,590
+aquinas's contribution
+to the history of theological and
+
+728
+00:17:42,590 --> 00:17:42,600
+to the history of theological and
+ 
+
+729
+00:17:42,600 --> 00:17:44,810
+to the history of theological and
+philosophical thought
+
+730
+00:17:44,810 --> 00:17:44,820
+philosophical thought
+ 
+
+731
+00:17:44,820 --> 00:17:47,390
+philosophical thought
+when he talks about the knowledge of God
+
+732
+00:17:47,390 --> 00:17:47,400
+when he talks about the knowledge of God
+ 
+
+733
+00:17:47,400 --> 00:17:50,090
+when he talks about the knowledge of God
+that we have as being analogical of
+
+734
+00:17:50,090 --> 00:17:50,100
+that we have as being analogical of
+ 
+
+735
+00:17:50,100 --> 00:17:52,130
+that we have as being analogical of
+course the word that he has in view
+
+736
+00:17:52,130 --> 00:17:52,140
+course the word that he has in view
+ 
+
+737
+00:17:52,140 --> 00:17:55,130
+course the word that he has in view
+there this is the adjectival form of the
+
+738
+00:17:55,130 --> 00:17:55,140
+there this is the adjectival form of the
+ 
+
+739
+00:17:55,140 --> 00:17:57,110
+there this is the adjectival form of the
+word analogy
+
+740
+00:17:57,110 --> 00:17:57,120
+word analogy
+ 
+
+741
+00:17:57,120 --> 00:17:59,510
+word analogy
+now when we talk about analogies we talk
+
+742
+00:17:59,510 --> 00:17:59,520
+now when we talk about analogies we talk
+ 
+
+743
+00:17:59,520 --> 00:18:02,810
+now when we talk about analogies we talk
+about things that have similarities to
+
+744
+00:18:02,810 --> 00:18:02,820
+about things that have similarities to
+ 
+
+745
+00:18:02,820 --> 00:18:04,610
+about things that have similarities to
+other things
+
+746
+00:18:04,610 --> 00:18:04,620
+other things
+ 
+
+747
+00:18:04,620 --> 00:18:07,190
+other things
+such and such as analogous to something
+
+748
+00:18:07,190 --> 00:18:07,200
+such and such as analogous to something
+ 
+
+749
+00:18:07,200 --> 00:18:10,250
+such and such as analogous to something
+that means it's like it participates in
+
+750
+00:18:10,250 --> 00:18:10,260
+that means it's like it participates in
+ 
+
+751
+00:18:10,260 --> 00:18:12,350
+that means it's like it participates in
+certain similarities it's not identical
+
+752
+00:18:12,350 --> 00:18:12,360
+certain similarities it's not identical
+ 
+
+753
+00:18:12,360 --> 00:18:16,070
+certain similarities it's not identical
+with it but it's similar to it
+
+754
+00:18:16,070 --> 00:18:16,080
+with it but it's similar to it
+ 
+
+755
+00:18:16,080 --> 00:18:19,430
+with it but it's similar to it
+Al Aquinas distinguished among three
+
+756
+00:18:19,430 --> 00:18:19,440
+Al Aquinas distinguished among three
+ 
+
+757
+00:18:19,440 --> 00:18:22,909
+Al Aquinas distinguished among three
+different ways of speaking
+
+758
+00:18:22,909 --> 00:18:22,919
+different ways of speaking
+ 
+
+759
+00:18:22,919 --> 00:18:25,250
+different ways of speaking
+descriptively
+
+760
+00:18:25,250 --> 00:18:25,260
+descriptively
+ 
+
+761
+00:18:25,260 --> 00:18:27,890
+descriptively
+what's called first of all the univical
+
+762
+00:18:27,890 --> 00:18:27,900
+what's called first of all the univical
+ 
+
+763
+00:18:27,900 --> 00:18:30,650
+what's called first of all the univical
+or sometimes pronounced univocal
+
+764
+00:18:30,650 --> 00:18:30,660
+or sometimes pronounced univocal
+ 
+
+765
+00:18:30,660 --> 00:18:34,310
+or sometimes pronounced univocal
+the second is the equivocal
+
+766
+00:18:34,310 --> 00:18:34,320
+the second is the equivocal
+ 
+
+767
+00:18:34,320 --> 00:18:42,610
+the second is the equivocal
+and the third is the analogical
+
+768
+00:18:42,610 --> 00:18:42,620
+
+ 
+
+769
+00:18:42,620 --> 00:18:46,250
+
+univiko or univocal language is when a
+
+770
+00:18:46,250 --> 00:18:46,260
+univiko or univocal language is when a
+ 
+
+771
+00:18:46,260 --> 00:18:49,130
+univiko or univocal language is when a
+word is used to describe two different
+
+772
+00:18:49,130 --> 00:18:49,140
+word is used to describe two different
+ 
+
+773
+00:18:49,140 --> 00:18:51,650
+word is used to describe two different
+beings
+
+774
+00:18:51,650 --> 00:18:51,660
+beings
+ 
+
+775
+00:18:51,660 --> 00:18:55,090
+beings
+and the meaning of the term remains
+
+776
+00:18:55,090 --> 00:18:55,100
+and the meaning of the term remains
+ 
+
+777
+00:18:55,100 --> 00:18:57,710
+and the meaning of the term remains
+exactly the same
+
+778
+00:18:57,710 --> 00:18:57,720
+exactly the same
+ 
+
+779
+00:18:57,720 --> 00:18:59,990
+exactly the same
+I like to use the illustration of the
+
+780
+00:18:59,990 --> 00:19:00,000
+I like to use the illustration of the
+ 
+
+781
+00:19:00,000 --> 00:19:04,190
+I like to use the illustration of the
+word God I'm sorry the word good
+
+782
+00:19:04,190 --> 00:19:04,200
+word God I'm sorry the word good
+ 
+
+783
+00:19:04,200 --> 00:19:06,470
+word God I'm sorry the word good
+we talk about good people
+
+784
+00:19:06,470 --> 00:19:06,480
+we talk about good people
+ 
+
+785
+00:19:06,480 --> 00:19:09,110
+we talk about good people
+we say that God is good
+
+786
+00:19:09,110 --> 00:19:09,120
+we say that God is good
+ 
+
+787
+00:19:09,120 --> 00:19:12,650
+we say that God is good
+and we say that our dogs are good
+
+788
+00:19:12,650 --> 00:19:12,660
+and we say that our dogs are good
+ 
+
+789
+00:19:12,660 --> 00:19:16,010
+and we say that our dogs are good
+do you have a dog Roger no sir you don't
+
+790
+00:19:16,010 --> 00:19:16,020
+do you have a dog Roger no sir you don't
+ 
+
+791
+00:19:16,020 --> 00:19:17,450
+do you have a dog Roger no sir you don't
+so you can't help me with my
+
+792
+00:19:17,450 --> 00:19:17,460
+so you can't help me with my
+ 
+
+793
+00:19:17,460 --> 00:19:20,210
+so you can't help me with my
+illustration does anybody have a dog
+
+794
+00:19:20,210 --> 00:19:20,220
+illustration does anybody have a dog
+ 
+
+795
+00:19:20,220 --> 00:19:21,830
+illustration does anybody have a dog
+anyone
+
+796
+00:19:21,830 --> 00:19:21,840
+anyone
+ 
+
+797
+00:19:21,840 --> 00:19:26,810
+anyone
+I have a dog and my dog's a good dog and
+
+798
+00:19:26,810 --> 00:19:26,820
+I have a dog and my dog's a good dog and
+ 
+
+799
+00:19:26,820 --> 00:19:29,510
+I have a dog and my dog's a good dog and
+I tell them that every day I see a good
+
+800
+00:19:29,510 --> 00:19:29,520
+I tell them that every day I see a good
+ 
+
+801
+00:19:29,520 --> 00:19:32,090
+I tell them that every day I see a good
+dog and what I what do I mean by that
+
+802
+00:19:32,090 --> 00:19:32,100
+dog and what I what do I mean by that
+ 
+
+803
+00:19:32,100 --> 00:19:34,190
+dog and what I what do I mean by that
+he's a good dog that he has a highly
+
+804
+00:19:34,190 --> 00:19:34,200
+he's a good dog that he has a highly
+ 
+
+805
+00:19:34,200 --> 00:19:36,830
+he's a good dog that he has a highly
+Advanced ethical sense
+
+806
+00:19:36,830 --> 00:19:36,840
+Advanced ethical sense
+ 
+
+807
+00:19:36,840 --> 00:19:40,430
+Advanced ethical sense
+whereby he is impeccable in his morality
+
+808
+00:19:40,430 --> 00:19:40,440
+whereby he is impeccable in his morality
+ 
+
+809
+00:19:40,440 --> 00:19:43,490
+whereby he is impeccable in his morality
+no I mean by when I say that my dog is
+
+810
+00:19:43,490 --> 00:19:43,500
+no I mean by when I say that my dog is
+ 
+
+811
+00:19:43,500 --> 00:19:47,570
+no I mean by when I say that my dog is
+good I mean by that that
+
+812
+00:19:47,570 --> 00:19:47,580
+good I mean by that that
+ 
+
+813
+00:19:47,580 --> 00:19:50,630
+good I mean by that that
+he comes when I call him sometimes
+
+814
+00:19:50,630 --> 00:19:50,640
+he comes when I call him sometimes
+ 
+
+815
+00:19:50,640 --> 00:19:52,730
+he comes when I call him sometimes
+he's house broken he doesn't bite the
+
+816
+00:19:52,730 --> 00:19:52,740
+he's house broken he doesn't bite the
+ 
+
+817
+00:19:52,740 --> 00:19:55,430
+he's house broken he doesn't bite the
+mailman on the lake
+
+818
+00:19:55,430 --> 00:19:55,440
+mailman on the lake
+ 
+
+819
+00:19:55,440 --> 00:19:58,850
+mailman on the lake
+now when I say that that Fred back here
+
+820
+00:19:58,850 --> 00:19:58,860
+now when I say that that Fred back here
+ 
+
+821
+00:19:58,860 --> 00:20:00,950
+now when I say that that Fred back here
+is a good man
+
+822
+00:20:00,950 --> 00:20:00,960
+is a good man
+ 
+
+823
+00:20:00,960 --> 00:20:03,770
+is a good man
+do I mean by that simply that he comes
+
+824
+00:20:03,770 --> 00:20:03,780
+do I mean by that simply that he comes
+ 
+
+825
+00:20:03,780 --> 00:20:05,330
+do I mean by that simply that he comes
+when I call him
+
+826
+00:20:05,330 --> 00:20:05,340
+when I call him
+ 
+
+827
+00:20:05,340 --> 00:20:07,730
+when I call him
+or that he's housebroken whether he
+
+828
+00:20:07,730 --> 00:20:07,740
+or that he's housebroken whether he
+ 
+
+829
+00:20:07,740 --> 00:20:09,370
+or that he's housebroken whether he
+doesn't bite the mailman on the leg
+
+830
+00:20:09,370 --> 00:20:09,380
+doesn't bite the mailman on the leg
+ 
+
+831
+00:20:09,380 --> 00:20:12,409
+doesn't bite the mailman on the leg
+obviously not so that when I describe
+
+832
+00:20:12,409 --> 00:20:12,419
+obviously not so that when I describe
+ 
+
+833
+00:20:12,419 --> 00:20:14,390
+obviously not so that when I describe
+two different beings a dog and a human
+
+834
+00:20:14,390 --> 00:20:14,400
+two different beings a dog and a human
+ 
+
+835
+00:20:14,400 --> 00:20:17,150
+two different beings a dog and a human
+being and use the same word good I am
+
+836
+00:20:17,150 --> 00:20:17,160
+being and use the same word good I am
+ 
+
+837
+00:20:17,160 --> 00:20:20,270
+being and use the same word good I am
+not using it in a univitical sense
+
+838
+00:20:20,270 --> 00:20:20,280
+not using it in a univitical sense
+ 
+
+839
+00:20:20,280 --> 00:20:23,690
+not using it in a univitical sense
+I don't mean exactly the same thing in
+
+840
+00:20:23,690 --> 00:20:23,700
+I don't mean exactly the same thing in
+ 
+
+841
+00:20:23,700 --> 00:20:25,730
+I don't mean exactly the same thing in
+both circumstances
+
+842
+00:20:25,730 --> 00:20:25,740
+both circumstances
+ 
+
+843
+00:20:25,740 --> 00:20:29,630
+both circumstances
+now the term equivocal is where the
+
+844
+00:20:29,630 --> 00:20:29,640
+now the term equivocal is where the
+ 
+
+845
+00:20:29,640 --> 00:20:32,090
+now the term equivocal is where the
+meaning of the word
+
+846
+00:20:32,090 --> 00:20:32,100
+meaning of the word
+ 
+
+847
+00:20:32,100 --> 00:20:34,490
+meaning of the word
+is vastly different
+
+848
+00:20:34,490 --> 00:20:34,500
+is vastly different
+ 
+
+849
+00:20:34,500 --> 00:20:36,950
+is vastly different
+from the beings being described for
+
+850
+00:20:36,950 --> 00:20:36,960
+from the beings being described for
+ 
+
+851
+00:20:36,960 --> 00:20:39,529
+from the beings being described for
+example if I said I went to a dramatic
+
+852
+00:20:39,529 --> 00:20:39,539
+example if I said I went to a dramatic
+ 
+
+853
+00:20:39,539 --> 00:20:41,750
+example if I said I went to a dramatic
+reading the other night and I came back
+
+854
+00:20:41,750 --> 00:20:41,760
+reading the other night and I came back
+ 
+
+855
+00:20:41,760 --> 00:20:43,909
+reading the other night and I came back
+and said that the narrative was bald
+
+856
+00:20:43,909 --> 00:20:43,919
+and said that the narrative was bald
+ 
+
+857
+00:20:43,919 --> 00:20:46,850
+and said that the narrative was bald
+what I mean by that that the story
+
+858
+00:20:46,850 --> 00:20:46,860
+what I mean by that that the story
+ 
+
+859
+00:20:46,860 --> 00:20:49,430
+what I mean by that that the story
+didn't have hair on its head
+
+860
+00:20:49,430 --> 00:20:49,440
+didn't have hair on its head
+ 
+
+861
+00:20:49,440 --> 00:20:50,930
+didn't have hair on its head
+of course not
+
+862
+00:20:50,930 --> 00:20:50,940
+of course not
+ 
+
+863
+00:20:50,940 --> 00:20:54,470
+of course not
+I would mean that something is lacking
+
+864
+00:20:54,470 --> 00:20:54,480
+I would mean that something is lacking
+ 
+
+865
+00:20:54,480 --> 00:20:56,750
+I would mean that something is lacking
+just as hair is lacking on a bald head
+
+866
+00:20:56,750 --> 00:20:56,760
+just as hair is lacking on a bald head
+ 
+
+867
+00:20:56,760 --> 00:21:02,029
+just as hair is lacking on a bald head
+so drama or Pizzazz was locking lacking
+
+868
+00:21:02,029 --> 00:21:02,039
+so drama or Pizzazz was locking lacking
+ 
+
+869
+00:21:02,039 --> 00:21:05,210
+so drama or Pizzazz was locking lacking
+from this dramatic reading so in that
+
+870
+00:21:05,210 --> 00:21:05,220
+from this dramatic reading so in that
+ 
+
+871
+00:21:05,220 --> 00:21:09,409
+from this dramatic reading so in that
+case here the terms differ radically
+
+872
+00:21:09,409 --> 00:21:09,419
+case here the terms differ radically
+ 
+
+873
+00:21:09,419 --> 00:21:13,610
+case here the terms differ radically
+when applied to two different beings
+
+874
+00:21:13,610 --> 00:21:13,620
+when applied to two different beings
+ 
+
+875
+00:21:13,620 --> 00:21:18,230
+when applied to two different beings
+so you have radical discontinuity with
+
+876
+00:21:18,230 --> 00:21:18,240
+so you have radical discontinuity with
+ 
+
+877
+00:21:18,240 --> 00:21:21,890
+so you have radical discontinuity with
+the equivocal language and radical Unity
+
+878
+00:21:21,890 --> 00:21:21,900
+the equivocal language and radical Unity
+ 
+
+879
+00:21:21,900 --> 00:21:24,230
+the equivocal language and radical Unity
+with univocal language
+
+880
+00:21:24,230 --> 00:21:24,240
+with univocal language
+ 
+
+881
+00:21:24,240 --> 00:21:28,250
+with univocal language
+and in between those two extremes exists
+
+882
+00:21:28,250 --> 00:21:28,260
+and in between those two extremes exists
+ 
+
+883
+00:21:28,260 --> 00:21:29,990
+and in between those two extremes exists
+what
+
+884
+00:21:29,990 --> 00:21:30,000
+what
+ 
+
+885
+00:21:30,000 --> 00:21:33,710
+what
+Aquinas calls analogical language
+
+886
+00:21:33,710 --> 00:21:33,720
+Aquinas calls analogical language
+ 
+
+887
+00:21:33,720 --> 00:21:37,970
+Aquinas calls analogical language
+that is language of analogy
+
+888
+00:21:37,970 --> 00:21:37,980
+that is language of analogy
+ 
+
+889
+00:21:37,980 --> 00:21:40,310
+that is language of analogy
+and that's the basis upon which we can
+
+890
+00:21:40,310 --> 00:21:40,320
+and that's the basis upon which we can
+ 
+
+891
+00:21:40,320 --> 00:21:42,289
+and that's the basis upon which we can
+communicate with each other and it's
+
+892
+00:21:42,289 --> 00:21:42,299
+communicate with each other and it's
+ 
+
+893
+00:21:42,299 --> 00:21:46,310
+communicate with each other and it's
+even because though we are all human
+
+894
+00:21:46,310 --> 00:21:46,320
+even because though we are all human
+ 
+
+895
+00:21:46,320 --> 00:21:49,310
+even because though we are all human
+all of our experiences of certain
+
+896
+00:21:49,310 --> 00:21:49,320
+all of our experiences of certain
+ 
+
+897
+00:21:49,320 --> 00:21:51,409
+all of our experiences of certain
+realities in this world do not match
+
+898
+00:21:51,409 --> 00:21:51,419
+realities in this world do not match
+ 
+
+899
+00:21:51,419 --> 00:21:53,330
+realities in this world do not match
+exactly
+
+900
+00:21:53,330 --> 00:21:53,340
+exactly
+ 
+
+901
+00:21:53,340 --> 00:21:55,669
+exactly
+the same nevertheless there's enough
+
+902
+00:21:55,669 --> 00:21:55,679
+the same nevertheless there's enough
+ 
+
+903
+00:21:55,679 --> 00:21:58,669
+the same nevertheless there's enough
+similarity to your experience and to my
+
+904
+00:21:58,669 --> 00:21:58,679
+similarity to your experience and to my
+ 
+
+905
+00:21:58,679 --> 00:22:01,490
+similarity to your experience and to my
+experience that we can communicate in a
+
+906
+00:22:01,490 --> 00:22:01,500
+experience that we can communicate in a
+ 
+
+907
+00:22:01,500 --> 00:22:04,610
+experience that we can communicate in a
+meaningful intelligible way
+
+908
+00:22:04,610 --> 00:22:04,620
+meaningful intelligible way
+ 
+
+909
+00:22:04,620 --> 00:22:07,610
+meaningful intelligible way
+well what Aquinas is saying is that the
+
+910
+00:22:07,610 --> 00:22:07,620
+well what Aquinas is saying is that the
+ 
+
+911
+00:22:07,620 --> 00:22:10,130
+well what Aquinas is saying is that the
+language we use about God
+
+912
+00:22:10,130 --> 00:22:10,140
+language we use about God
+ 
+
+913
+00:22:10,140 --> 00:22:13,730
+language we use about God
+is the language of analogy
+
+914
+00:22:13,730 --> 00:22:13,740
+is the language of analogy
+ 
+
+915
+00:22:13,740 --> 00:22:16,610
+is the language of analogy
+when the Bible calls God the Father
+
+916
+00:22:16,610 --> 00:22:16,620
+when the Bible calls God the Father
+ 
+
+917
+00:22:16,620 --> 00:22:19,070
+when the Bible calls God the Father
+it doesn't mean by that that he's
+
+918
+00:22:19,070 --> 00:22:19,080
+it doesn't mean by that that he's
+ 
+
+919
+00:22:19,080 --> 00:22:21,770
+it doesn't mean by that that he's
+exactly the same as an Earthly father
+
+920
+00:22:21,770 --> 00:22:21,780
+exactly the same as an Earthly father
+ 
+
+921
+00:22:21,780 --> 00:22:23,870
+exactly the same as an Earthly father
+but nor does it mean that the
+
+922
+00:22:23,870 --> 00:22:23,880
+but nor does it mean that the
+ 
+
+923
+00:22:23,880 --> 00:22:26,210
+but nor does it mean that the
+differences are so vast that the
+
+924
+00:22:26,210 --> 00:22:26,220
+differences are so vast that the
+ 
+
+925
+00:22:26,220 --> 00:22:29,090
+differences are so vast that the
+language is worthless and equivocal and
+
+926
+00:22:29,090 --> 00:22:29,100
+language is worthless and equivocal and
+ 
+
+927
+00:22:29,100 --> 00:22:30,950
+language is worthless and equivocal and
+inadequate
+
+928
+00:22:30,950 --> 00:22:30,960
+inadequate
+ 
+
+929
+00:22:30,960 --> 00:22:33,950
+inadequate
+but rather that there are similarities
+
+930
+00:22:33,950 --> 00:22:33,960
+but rather that there are similarities
+ 
+
+931
+00:22:33,960 --> 00:22:36,710
+but rather that there are similarities
+between God's fatherhood and human
+
+932
+00:22:36,710 --> 00:22:36,720
+between God's fatherhood and human
+ 
+
+933
+00:22:36,720 --> 00:22:40,010
+between God's fatherhood and human
+fatherhood and enough similarities to
+
+934
+00:22:40,010 --> 00:22:40,020
+fatherhood and enough similarities to
+ 
+
+935
+00:22:40,020 --> 00:22:44,390
+fatherhood and enough similarities to
+make discussions and language meaningful
+
+936
+00:22:44,390 --> 00:22:44,400
+make discussions and language meaningful
+ 
+
+937
+00:22:44,400 --> 00:22:46,370
+make discussions and language meaningful
+now that's very important because in our
+
+938
+00:22:46,370 --> 00:22:46,380
+now that's very important because in our
+ 
+
+939
+00:22:46,380 --> 00:22:47,990
+now that's very important because in our
+day we're living in a time when some
+
+940
+00:22:47,990 --> 00:22:48,000
+day we're living in a time when some
+ 
+
+941
+00:22:48,000 --> 00:22:50,149
+day we're living in a time when some
+critics have argued that all language
+
+942
+00:22:50,149 --> 00:22:50,159
+critics have argued that all language
+ 
+
+943
+00:22:50,159 --> 00:22:53,870
+critics have argued that all language
+about God is meaningless
+
+944
+00:22:53,870 --> 00:22:53,880
+about God is meaningless
+ 
+
+945
+00:22:53,880 --> 00:22:56,930
+about God is meaningless
+and this is all based on what Aquinas
+
+946
+00:22:56,930 --> 00:22:56,940
+and this is all based on what Aquinas
+ 
+
+947
+00:22:56,940 --> 00:23:00,350
+and this is all based on what Aquinas
+called the analogy of being
+
+948
+00:23:00,350 --> 00:23:00,360
+called the analogy of being
+ 
+
+949
+00:23:00,360 --> 00:23:03,710
+called the analogy of being
+looking to scripture that says we are
+
+950
+00:23:03,710 --> 00:23:03,720
+looking to scripture that says we are
+ 
+
+951
+00:23:03,720 --> 00:23:05,450
+looking to scripture that says we are
+created in the image of God we are not
+
+952
+00:23:05,450 --> 00:23:05,460
+created in the image of God we are not
+ 
+
+953
+00:23:05,460 --> 00:23:08,870
+created in the image of God we are not
+Gods God is not exactly like we are but
+
+954
+00:23:08,870 --> 00:23:08,880
+Gods God is not exactly like we are but
+ 
+
+955
+00:23:08,880 --> 00:23:11,210
+Gods God is not exactly like we are but
+we have some point of contact some point
+
+956
+00:23:11,210 --> 00:23:11,220
+we have some point of contact some point
+ 
+
+957
+00:23:11,220 --> 00:23:13,370
+we have some point of contact some point
+of similarity with God
+
+958
+00:23:13,370 --> 00:23:13,380
+of similarity with God
+ 
+
+959
+00:23:13,380 --> 00:23:15,950
+of similarity with God
+or we would not be able to speak
+
+960
+00:23:15,950 --> 00:23:15,960
+or we would not be able to speak
+ 
+
+961
+00:23:15,960 --> 00:23:19,549
+or we would not be able to speak
+meaningfully at all about God and so
+
+962
+00:23:19,549 --> 00:23:19,559
+meaningfully at all about God and so
+ 
+
+963
+00:23:19,559 --> 00:23:22,430
+meaningfully at all about God and so
+that point has been critical in the
+
+964
+00:23:22,430 --> 00:23:22,440
+that point has been critical in the
+ 
+
+965
+00:23:22,440 --> 00:23:25,430
+that point has been critical in the
+history of philosophy that because there
+
+966
+00:23:25,430 --> 00:23:25,440
+history of philosophy that because there
+ 
+
+967
+00:23:25,440 --> 00:23:27,649
+history of philosophy that because there
+is some similarity between human
+
+968
+00:23:27,649 --> 00:23:27,659
+is some similarity between human
+ 
+
+969
+00:23:27,659 --> 00:23:32,570
+is some similarity between human
+beingness and divine beingness there is
+
+970
+00:23:32,570 --> 00:23:32,580
+beingness and divine beingness there is
+ 
+
+971
+00:23:32,580 --> 00:23:36,370
+beingness and divine beingness there is
+some ground there for Meaningful
+
+972
+00:23:36,370 --> 00:23:36,380
+some ground there for Meaningful
+ 
+
+973
+00:23:36,380 --> 00:23:39,890
+some ground there for Meaningful
+conversation and communication between
+
+974
+00:23:39,890 --> 00:23:39,900
+conversation and communication between
+ 
+
+975
+00:23:39,900 --> 00:23:42,440
+conversation and communication between
+the two
+

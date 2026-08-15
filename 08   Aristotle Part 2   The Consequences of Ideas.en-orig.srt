@@ -1,0 +1,4805 @@
+1
+00:00:08,160 --> 00:00:10,070
+
+in our last session when we looked at
+
+2
+00:00:10,070 --> 00:00:10,080
+in our last session when we looked at
+ 
+
+3
+00:00:10,080 --> 00:00:12,890
+in our last session when we looked at
+Aristotle's notion of substance I talked
+
+4
+00:00:12,890 --> 00:00:12,900
+Aristotle's notion of substance I talked
+ 
+
+5
+00:00:12,900 --> 00:00:15,350
+Aristotle's notion of substance I talked
+about his distinction between form and
+
+6
+00:00:15,350 --> 00:00:15,360
+about his distinction between form and
+ 
+
+7
+00:00:15,360 --> 00:00:16,250
+about his distinction between form and
+matter
+
+8
+00:00:16,250 --> 00:00:16,260
+matter
+ 
+
+9
+00:00:16,260 --> 00:00:18,529
+matter
+the distinction that corresponds to the
+
+10
+00:00:18,529 --> 00:00:18,539
+the distinction that corresponds to the
+ 
+
+11
+00:00:18,539 --> 00:00:20,689
+the distinction that corresponds to the
+difference between being and becoming
+
+12
+00:00:20,689 --> 00:00:20,699
+difference between being and becoming
+ 
+
+13
+00:00:20,699 --> 00:00:24,590
+difference between being and becoming
+between actuality and potentiality
+
+14
+00:00:24,590 --> 00:00:24,600
+between actuality and potentiality
+ 
+
+15
+00:00:24,600 --> 00:00:27,470
+between actuality and potentiality
+but then when we look at the Zenith of
+
+16
+00:00:27,470 --> 00:00:27,480
+but then when we look at the Zenith of
+ 
+
+17
+00:00:27,480 --> 00:00:29,630
+but then when we look at the Zenith of
+his thinking we see him
+
+18
+00:00:29,630 --> 00:00:29,640
+his thinking we see him
+ 
+
+19
+00:00:29,640 --> 00:00:33,830
+his thinking we see him
+speaking of his concept of God which is
+
+20
+00:00:33,830 --> 00:00:33,840
+speaking of his concept of God which is
+ 
+
+21
+00:00:33,840 --> 00:00:38,770
+speaking of his concept of God which is
+that of pure form or of absolute
+
+22
+00:00:38,770 --> 00:00:38,780
+that of pure form or of absolute
+ 
+
+23
+00:00:38,780 --> 00:00:42,950
+that of pure form or of absolute
+actuality that which has being but no
+
+24
+00:00:42,950 --> 00:00:42,960
+actuality that which has being but no
+ 
+
+25
+00:00:42,960 --> 00:00:44,229
+actuality that which has being but no
+becoming
+
+26
+00:00:44,229 --> 00:00:44,239
+becoming
+ 
+
+27
+00:00:44,239 --> 00:00:48,790
+becoming
+actuality without potentiality
+
+28
+00:00:48,790 --> 00:00:48,800
+actuality without potentiality
+ 
+
+29
+00:00:48,800 --> 00:00:53,990
+actuality without potentiality
+and popularly his definition of God is
+
+30
+00:00:53,990 --> 00:00:54,000
+and popularly his definition of God is
+ 
+
+31
+00:00:54,000 --> 00:00:57,590
+and popularly his definition of God is
+defined as the UN
+
+32
+00:00:57,590 --> 00:00:57,600
+defined as the UN
+ 
+
+33
+00:00:57,600 --> 00:00:59,990
+defined as the UN
+moved
+
+34
+00:00:59,990 --> 00:01:00,000
+moved
+ 
+
+35
+00:01:00,000 --> 00:01:02,510
+moved
+mover
+
+36
+00:01:02,510 --> 00:01:02,520
+mover
+ 
+
+37
+00:01:02,520 --> 00:01:06,170
+mover
+or the uncaused cause
+
+38
+00:01:06,170 --> 00:01:06,180
+or the uncaused cause
+ 
+
+39
+00:01:06,180 --> 00:01:09,649
+or the uncaused cause
+the formal first cause of everything
+
+40
+00:01:09,649 --> 00:01:09,659
+the formal first cause of everything
+ 
+
+41
+00:01:09,659 --> 00:01:13,429
+the formal first cause of everything
+else that exists in the world
+
+42
+00:01:13,429 --> 00:01:13,439
+else that exists in the world
+ 
+
+43
+00:01:13,439 --> 00:01:18,230
+else that exists in the world
+now remember when he had his idea of
+
+44
+00:01:18,230 --> 00:01:18,240
+now remember when he had his idea of
+ 
+
+45
+00:01:18,240 --> 00:01:21,109
+now remember when he had his idea of
+each entity being made up every
+
+46
+00:01:21,109 --> 00:01:21,119
+each entity being made up every
+ 
+
+47
+00:01:21,119 --> 00:01:23,149
+each entity being made up every
+substance being made up of form and
+
+48
+00:01:23,149 --> 00:01:23,159
+substance being made up of form and
+ 
+
+49
+00:01:23,159 --> 00:01:26,390
+substance being made up of form and
+matter except for the pure form that it
+
+50
+00:01:26,390 --> 00:01:26,400
+matter except for the pure form that it
+ 
+
+51
+00:01:26,400 --> 00:01:29,450
+matter except for the pure form that it
+is the form within something that
+
+52
+00:01:29,450 --> 00:01:29,460
+is the form within something that
+ 
+
+53
+00:01:29,460 --> 00:01:32,570
+is the form within something that
+controls the development of that thing's
+
+54
+00:01:32,570 --> 00:01:32,580
+controls the development of that thing's
+ 
+
+55
+00:01:32,580 --> 00:01:33,770
+controls the development of that thing's
+potential
+
+56
+00:01:33,770 --> 00:01:33,780
+potential
+ 
+
+57
+00:01:33,780 --> 00:01:37,010
+potential
+that's the form within the eight Acorn
+
+58
+00:01:37,010 --> 00:01:37,020
+that's the form within the eight Acorn
+ 
+
+59
+00:01:37,020 --> 00:01:41,630
+that's the form within the eight Acorn
+that moves the acorn to become an oak
+
+60
+00:01:41,630 --> 00:01:41,640
+that moves the acorn to become an oak
+ 
+
+61
+00:01:41,640 --> 00:01:45,469
+that moves the acorn to become an oak
+tree we've already established that
+
+62
+00:01:45,469 --> 00:01:45,479
+tree we've already established that
+ 
+
+63
+00:01:45,479 --> 00:01:48,649
+tree we've already established that
+and so we now are left with the question
+
+64
+00:01:48,649 --> 00:01:48,659
+and so we now are left with the question
+ 
+
+65
+00:01:48,659 --> 00:01:51,050
+and so we now are left with the question
+well if you have all these individual
+
+66
+00:01:51,050 --> 00:01:51,060
+well if you have all these individual
+ 
+
+67
+00:01:51,060 --> 00:01:53,749
+well if you have all these individual
+entities running about with their
+
+68
+00:01:53,749 --> 00:01:53,759
+entities running about with their
+ 
+
+69
+00:01:53,759 --> 00:01:56,569
+entities running about with their
+independent forms and matters
+
+70
+00:01:56,569 --> 00:01:56,579
+independent forms and matters
+ 
+
+71
+00:01:56,579 --> 00:01:58,429
+independent forms and matters
+how does it all fit together and we're
+
+72
+00:01:58,429 --> 00:01:58,439
+how does it all fit together and we're
+ 
+
+73
+00:01:58,439 --> 00:02:00,170
+how does it all fit together and we're
+right back to the question the thales
+
+74
+00:02:00,170 --> 00:02:00,180
+right back to the question the thales
+ 
+
+75
+00:02:00,180 --> 00:02:03,830
+right back to the question the thales
+was asking originally of the one and the
+
+76
+00:02:03,830 --> 00:02:03,840
+was asking originally of the one and the
+ 
+
+77
+00:02:03,840 --> 00:02:04,550
+was asking originally of the one and the
+many
+
+78
+00:02:04,550 --> 00:02:04,560
+many
+ 
+
+79
+00:02:04,560 --> 00:02:07,789
+many
+of unity and diversity
+
+80
+00:02:07,789 --> 00:02:07,799
+of unity and diversity
+ 
+
+81
+00:02:07,799 --> 00:02:11,990
+of unity and diversity
+so over all the individual substances
+
+82
+00:02:11,990 --> 00:02:12,000
+so over all the individual substances
+ 
+
+83
+00:02:12,000 --> 00:02:15,410
+so over all the individual substances
+that we encounter in the real world
+
+84
+00:02:15,410 --> 00:02:15,420
+that we encounter in the real world
+ 
+
+85
+00:02:15,420 --> 00:02:19,070
+that we encounter in the real world
+there stands Aristotle's God
+
+86
+00:02:19,070 --> 00:02:19,080
+there stands Aristotle's God
+ 
+
+87
+00:02:19,080 --> 00:02:22,130
+there stands Aristotle's God
+who is pure form
+
+88
+00:02:22,130 --> 00:02:22,140
+who is pure form
+ 
+
+89
+00:02:22,140 --> 00:02:25,130
+who is pure form
+he has Eternal being
+
+90
+00:02:25,130 --> 00:02:25,140
+he has Eternal being
+ 
+
+91
+00:02:25,140 --> 00:02:29,690
+he has Eternal being
+and he also must have the power
+
+92
+00:02:29,690 --> 00:02:29,700
+and he also must have the power
+ 
+
+93
+00:02:29,700 --> 00:02:33,650
+and he also must have the power
+to organize and generate and move
+
+94
+00:02:33,650 --> 00:02:33,660
+to organize and generate and move
+ 
+
+95
+00:02:33,660 --> 00:02:37,309
+to organize and generate and move
+everything else that moves remember the
+
+96
+00:02:37,309 --> 00:02:37,319
+everything else that moves remember the
+ 
+
+97
+00:02:37,319 --> 00:02:39,530
+everything else that moves remember the
+ancient Greeks were looking for the
+
+98
+00:02:39,530 --> 00:02:39,540
+ancient Greeks were looking for the
+ 
+
+99
+00:02:39,540 --> 00:02:42,890
+ancient Greeks were looking for the
+answer to being and to the answer of
+
+100
+00:02:42,890 --> 00:02:42,900
+answer to being and to the answer of
+ 
+
+101
+00:02:42,900 --> 00:02:45,050
+answer to being and to the answer of
+motion
+
+102
+00:02:45,050 --> 00:02:45,060
+motion
+ 
+
+103
+00:02:45,060 --> 00:02:48,050
+motion
+and so he said that the ultimate source
+
+104
+00:02:48,050 --> 00:02:48,060
+and so he said that the ultimate source
+ 
+
+105
+00:02:48,060 --> 00:02:50,809
+and so he said that the ultimate source
+of all motion
+
+106
+00:02:50,809 --> 00:02:50,819
+of all motion
+ 
+
+107
+00:02:50,819 --> 00:02:55,850
+of all motion
+is pure form this absolute form directs
+
+108
+00:02:55,850 --> 00:02:55,860
+is pure form this absolute form directs
+ 
+
+109
+00:02:55,860 --> 00:02:59,930
+is pure form this absolute form directs
+the individual forms that are moving in
+
+110
+00:02:59,930 --> 00:02:59,940
+the individual forms that are moving in
+ 
+
+111
+00:02:59,940 --> 00:03:01,490
+the individual forms that are moving in
+this world
+
+112
+00:03:01,490 --> 00:03:01,500
+this world
+ 
+
+113
+00:03:01,500 --> 00:03:02,750
+this world
+now
+
+114
+00:03:02,750 --> 00:03:02,760
+now
+ 
+
+115
+00:03:02,760 --> 00:03:04,610
+now
+how does he do it
+
+116
+00:03:04,610 --> 00:03:04,620
+how does he do it
+ 
+
+117
+00:03:04,620 --> 00:03:07,970
+how does he do it
+or for Aristotle the pure form is
+
+118
+00:03:07,970 --> 00:03:07,980
+or for Aristotle the pure form is
+ 
+
+119
+00:03:07,980 --> 00:03:09,530
+or for Aristotle the pure form is
+himself
+
+120
+00:03:09,530 --> 00:03:09,540
+himself
+ 
+
+121
+00:03:09,540 --> 00:03:14,390
+himself
+not moving or itself not moving
+
+122
+00:03:14,390 --> 00:03:14,400
+not moving or itself not moving
+ 
+
+123
+00:03:14,400 --> 00:03:17,630
+not moving or itself not moving
+yet it is the Mover
+
+124
+00:03:17,630 --> 00:03:17,640
+yet it is the Mover
+ 
+
+125
+00:03:17,640 --> 00:03:19,610
+yet it is the Mover
+how does it move
+
+126
+00:03:19,610 --> 00:03:19,620
+how does it move
+ 
+
+127
+00:03:19,620 --> 00:03:21,830
+how does it move
+other things well it moves everything
+
+128
+00:03:21,830 --> 00:03:21,840
+other things well it moves everything
+ 
+
+129
+00:03:21,840 --> 00:03:25,309
+other things well it moves everything
+all the other forms by attraction and
+
+130
+00:03:25,309 --> 00:03:25,319
+all the other forms by attraction and
+ 
+
+131
+00:03:25,319 --> 00:03:29,570
+all the other forms by attraction and
+the analogy is the moth and the flame
+
+132
+00:03:29,570 --> 00:03:29,580
+the analogy is the moth and the flame
+ 
+
+133
+00:03:29,580 --> 00:03:34,009
+the analogy is the moth and the flame
+the flame stays in the same place but it
+
+134
+00:03:34,009 --> 00:03:34,019
+the flame stays in the same place but it
+ 
+
+135
+00:03:34,019 --> 00:03:38,089
+the flame stays in the same place but it
+moves the moth by attracting The Moth
+
+136
+00:03:38,089 --> 00:03:38,099
+moves the moth by attracting The Moth
+ 
+
+137
+00:03:38,099 --> 00:03:40,910
+moves the moth by attracting The Moth
+it's almost like a primitive sense of
+
+138
+00:03:40,910 --> 00:03:40,920
+it's almost like a primitive sense of
+ 
+
+139
+00:03:40,920 --> 00:03:44,990
+it's almost like a primitive sense of
+magnetism or of gravity if you will
+
+140
+00:03:44,990 --> 00:03:45,000
+magnetism or of gravity if you will
+ 
+
+141
+00:03:45,000 --> 00:03:48,649
+magnetism or of gravity if you will
+now again Aristotle's God is not a
+
+142
+00:03:48,649 --> 00:03:48,659
+now again Aristotle's God is not a
+ 
+
+143
+00:03:48,659 --> 00:03:53,270
+now again Aristotle's God is not a
+personal uh God like judeo-christianity
+
+144
+00:03:53,270 --> 00:03:53,280
+personal uh God like judeo-christianity
+ 
+
+145
+00:03:53,280 --> 00:03:57,170
+personal uh God like judeo-christianity
+has he is this uh or it is this ultimate
+
+146
+00:03:57,170 --> 00:03:57,180
+has he is this uh or it is this ultimate
+ 
+
+147
+00:03:57,180 --> 00:04:01,850
+has he is this uh or it is this ultimate
+pure being of force and Power
+
+148
+00:04:01,850 --> 00:04:01,860
+pure being of force and Power
+ 
+
+149
+00:04:01,860 --> 00:04:04,670
+pure being of force and Power
+from which everything else comes and of
+
+150
+00:04:04,670 --> 00:04:04,680
+from which everything else comes and of
+ 
+
+151
+00:04:04,680 --> 00:04:07,910
+from which everything else comes and of
+course this being is eternal
+
+152
+00:04:07,910 --> 00:04:07,920
+course this being is eternal
+ 
+
+153
+00:04:07,920 --> 00:04:11,330
+course this being is eternal
+and exists by necessity as I said ideas
+
+154
+00:04:11,330 --> 00:04:11,340
+and exists by necessity as I said ideas
+ 
+
+155
+00:04:11,340 --> 00:04:14,270
+and exists by necessity as I said ideas
+have consequences the greatness of
+
+156
+00:04:14,270 --> 00:04:14,280
+have consequences the greatness of
+ 
+
+157
+00:04:14,280 --> 00:04:16,189
+have consequences the greatness of
+Augustine who is considered the greatest
+
+158
+00:04:16,189 --> 00:04:16,199
+Augustine who is considered the greatest
+ 
+
+159
+00:04:16,199 --> 00:04:18,349
+Augustine who is considered the greatest
+Theologian of the first Millennium of
+
+160
+00:04:18,349 --> 00:04:18,359
+Theologian of the first Millennium of
+ 
+
+161
+00:04:18,359 --> 00:04:21,409
+Theologian of the first Millennium of
+Christianity was that he was able to
+
+162
+00:04:21,409 --> 00:04:21,419
+Christianity was that he was able to
+ 
+
+163
+00:04:21,419 --> 00:04:23,689
+Christianity was that he was able to
+create a kind of synthesis between
+
+164
+00:04:23,689 --> 00:04:23,699
+create a kind of synthesis between
+ 
+
+165
+00:04:23,699 --> 00:04:26,930
+create a kind of synthesis between
+biblical Christianity and platonic
+
+166
+00:04:26,930 --> 00:04:26,940
+biblical Christianity and platonic
+ 
+
+167
+00:04:26,940 --> 00:04:29,930
+biblical Christianity and platonic
+philosophy likewise and this is a bit of
+
+168
+00:04:29,930 --> 00:04:29,940
+philosophy likewise and this is a bit of
+ 
+
+169
+00:04:29,940 --> 00:04:32,090
+philosophy likewise and this is a bit of
+an oversimplification in my opinion but
+
+170
+00:04:32,090 --> 00:04:32,100
+an oversimplification in my opinion but
+ 
+
+171
+00:04:32,100 --> 00:04:35,749
+an oversimplification in my opinion but
+nevertheless it's the standard rap that
+
+172
+00:04:35,749 --> 00:04:35,759
+nevertheless it's the standard rap that
+ 
+
+173
+00:04:35,759 --> 00:04:38,990
+nevertheless it's the standard rap that
+the greatness of Aquinas Thomas Aquinas
+
+174
+00:04:38,990 --> 00:04:39,000
+the greatness of Aquinas Thomas Aquinas
+ 
+
+175
+00:04:39,000 --> 00:04:42,050
+the greatness of Aquinas Thomas Aquinas
+was his ability to create a synthesis
+
+176
+00:04:42,050 --> 00:04:42,060
+was his ability to create a synthesis
+ 
+
+177
+00:04:42,060 --> 00:04:45,010
+was his ability to create a synthesis
+between
+
+178
+00:04:45,010 --> 00:04:45,020
+between
+ 
+
+179
+00:04:45,020 --> 00:04:49,010
+between
+Christianity and Aristotelian philosophy
+
+180
+00:04:49,010 --> 00:04:49,020
+Christianity and Aristotelian philosophy
+ 
+
+181
+00:04:49,020 --> 00:04:50,749
+Christianity and Aristotelian philosophy
+now as I said that's oversimplified
+
+182
+00:04:50,749 --> 00:04:50,759
+now as I said that's oversimplified
+ 
+
+183
+00:04:50,759 --> 00:04:53,090
+now as I said that's oversimplified
+because there were many elements of
+
+184
+00:04:53,090 --> 00:04:53,100
+because there were many elements of
+ 
+
+185
+00:04:53,100 --> 00:04:55,310
+because there were many elements of
+Aristotle's philosophy particularly with
+
+186
+00:04:55,310 --> 00:04:55,320
+Aristotle's philosophy particularly with
+ 
+
+187
+00:04:55,320 --> 00:04:56,629
+Aristotle's philosophy particularly with
+respect to his understanding of the
+
+188
+00:04:56,629 --> 00:04:56,639
+respect to his understanding of the
+ 
+
+189
+00:04:56,639 --> 00:04:57,950
+respect to his understanding of the
+relationship between God and the world
+
+190
+00:04:57,950 --> 00:04:57,960
+relationship between God and the world
+ 
+
+191
+00:04:57,960 --> 00:05:00,310
+relationship between God and the world
+that Aquinas
+
+192
+00:05:00,310 --> 00:05:00,320
+that Aquinas
+ 
+
+193
+00:05:00,320 --> 00:05:03,290
+that Aquinas
+comprehensively rejected but we'll wait
+
+194
+00:05:03,290 --> 00:05:03,300
+comprehensively rejected but we'll wait
+ 
+
+195
+00:05:03,300 --> 00:05:05,450
+comprehensively rejected but we'll wait
+until we get to Aquinas before we see
+
+196
+00:05:05,450 --> 00:05:05,460
+until we get to Aquinas before we see
+ 
+
+197
+00:05:05,460 --> 00:05:09,129
+until we get to Aquinas before we see
+that but for now we have the rudimentary
+
+198
+00:05:09,129 --> 00:05:09,139
+that but for now we have the rudimentary
+ 
+
+199
+00:05:09,139 --> 00:05:12,469
+that but for now we have the rudimentary
+concepts of an eternal self-existing
+
+200
+00:05:12,469 --> 00:05:12,479
+concepts of an eternal self-existing
+ 
+
+201
+00:05:12,479 --> 00:05:17,629
+concepts of an eternal self-existing
+being that must be for anything else to
+
+202
+00:05:17,629 --> 00:05:17,639
+being that must be for anything else to
+ 
+
+203
+00:05:17,639 --> 00:05:19,310
+being that must be for anything else to
+exist
+
+204
+00:05:19,310 --> 00:05:19,320
+exist
+ 
+
+205
+00:05:19,320 --> 00:05:22,670
+exist
+a necessary being as it were
+
+206
+00:05:22,670 --> 00:05:22,680
+a necessary being as it were
+ 
+
+207
+00:05:22,680 --> 00:05:25,490
+a necessary being as it were
+but there is no concept of conscious
+
+208
+00:05:25,490 --> 00:05:25,500
+but there is no concept of conscious
+ 
+
+209
+00:05:25,500 --> 00:05:26,710
+but there is no concept of conscious
+personal
+
+210
+00:05:26,710 --> 00:05:26,720
+personal
+ 
+
+211
+00:05:26,720 --> 00:05:29,330
+personal
+Divine Providence
+
+212
+00:05:29,330 --> 00:05:29,340
+Divine Providence
+ 
+
+213
+00:05:29,340 --> 00:05:32,469
+Divine Providence
+or of a voluntary creation
+
+214
+00:05:32,469 --> 00:05:32,479
+or of a voluntary creation
+ 
+
+215
+00:05:32,479 --> 00:05:36,409
+or of a voluntary creation
+in Aristotle's view of God
+
+216
+00:05:36,409 --> 00:05:36,419
+in Aristotle's view of God
+ 
+
+217
+00:05:36,419 --> 00:05:38,950
+in Aristotle's view of God
+he's his view of God will Durant
+
+218
+00:05:38,950 --> 00:05:38,960
+he's his view of God will Durant
+ 
+
+219
+00:05:38,960 --> 00:05:42,290
+he's his view of God will Durant
+referred to Aristotle's God as being
+
+220
+00:05:42,290 --> 00:05:42,300
+referred to Aristotle's God as being
+ 
+
+221
+00:05:42,300 --> 00:05:44,930
+referred to Aristotle's God as being
+somewhat similar to the king of England
+
+222
+00:05:44,930 --> 00:05:44,940
+somewhat similar to the king of England
+ 
+
+223
+00:05:44,940 --> 00:05:48,770
+somewhat similar to the king of England
+He reigns but he doesn't rule he's more
+
+224
+00:05:48,770 --> 00:05:48,780
+He reigns but he doesn't rule he's more
+ 
+
+225
+00:05:48,780 --> 00:05:51,590
+He reigns but he doesn't rule he's more
+or less a figurehead there that's a
+
+226
+00:05:51,590 --> 00:05:51,600
+or less a figurehead there that's a
+ 
+
+227
+00:05:51,600 --> 00:05:55,070
+or less a figurehead there that's a
+philosophical necessity to explain the
+
+228
+00:05:55,070 --> 00:05:55,080
+philosophical necessity to explain the
+ 
+
+229
+00:05:55,080 --> 00:05:56,450
+philosophical necessity to explain the
+things that are
+
+230
+00:05:56,450 --> 00:05:56,460
+things that are
+ 
+
+231
+00:05:56,460 --> 00:05:59,810
+things that are
+now since we've seen already the
+
+232
+00:05:59,810 --> 00:05:59,820
+now since we've seen already the
+ 
+
+233
+00:05:59,820 --> 00:06:01,790
+now since we've seen already the
+significant difference between Aristotle
+
+234
+00:06:01,790 --> 00:06:01,800
+significant difference between Aristotle
+ 
+
+235
+00:06:01,800 --> 00:06:03,350
+significant difference between Aristotle
+and Plato with respect to their
+
+236
+00:06:03,350 --> 00:06:03,360
+and Plato with respect to their
+ 
+
+237
+00:06:03,360 --> 00:06:05,870
+and Plato with respect to their
+metaphysics their doctrines of being in
+
+238
+00:06:05,870 --> 00:06:05,880
+metaphysics their doctrines of being in
+ 
+
+239
+00:06:05,880 --> 00:06:07,070
+metaphysics their doctrines of being in
+becoming
+
+240
+00:06:07,070 --> 00:06:07,080
+becoming
+ 
+
+241
+00:06:07,080 --> 00:06:11,150
+becoming
+that also falls over into the realm of
+
+242
+00:06:11,150 --> 00:06:11,160
+that also falls over into the realm of
+ 
+
+243
+00:06:11,160 --> 00:06:14,330
+that also falls over into the realm of
+epistemology where Aristotle also
+
+244
+00:06:14,330 --> 00:06:14,340
+epistemology where Aristotle also
+ 
+
+245
+00:06:14,340 --> 00:06:17,450
+epistemology where Aristotle also
+differed sharply from his mentor with
+
+246
+00:06:17,450 --> 00:06:17,460
+differed sharply from his mentor with
+ 
+
+247
+00:06:17,460 --> 00:06:20,090
+differed sharply from his mentor with
+respect to the idea of how we know what
+
+248
+00:06:20,090 --> 00:06:20,100
+respect to the idea of how we know what
+ 
+
+249
+00:06:20,100 --> 00:06:22,430
+respect to the idea of how we know what
+we know remember Plato had his theory of
+
+250
+00:06:22,430 --> 00:06:22,440
+we know remember Plato had his theory of
+ 
+
+251
+00:06:22,440 --> 00:06:24,830
+we know remember Plato had his theory of
+recollection where the ideas are
+
+252
+00:06:24,830 --> 00:06:24,840
+recollection where the ideas are
+ 
+
+253
+00:06:24,840 --> 00:06:27,350
+recollection where the ideas are
+embedded in The Souls of all people and
+
+254
+00:06:27,350 --> 00:06:27,360
+embedded in The Souls of all people and
+ 
+
+255
+00:06:27,360 --> 00:06:29,450
+embedded in The Souls of all people and
+it's just a matter of getting that
+
+256
+00:06:29,450 --> 00:06:29,460
+it's just a matter of getting that
+ 
+
+257
+00:06:29,460 --> 00:06:32,390
+it's just a matter of getting that
+knowledge out that's already there so
+
+258
+00:06:32,390 --> 00:06:32,400
+knowledge out that's already there so
+ 
+
+259
+00:06:32,400 --> 00:06:34,850
+knowledge out that's already there so
+that knowledge is if you remember the
+
+260
+00:06:34,850 --> 00:06:34,860
+that knowledge is if you remember the
+ 
+
+261
+00:06:34,860 --> 00:06:38,390
+that knowledge is if you remember the
+technical term off priori
+
+262
+00:06:38,390 --> 00:06:38,400
+technical term off priori
+ 
+
+263
+00:06:38,400 --> 00:06:44,330
+technical term off priori
+for Aristotle knowledge is a posteriori
+
+264
+00:06:44,330 --> 00:06:44,340
+for Aristotle knowledge is a posteriori
+ 
+
+265
+00:06:44,340 --> 00:06:48,170
+for Aristotle knowledge is a posteriori
+that is it comes from experience
+
+266
+00:06:48,170 --> 00:06:48,180
+that is it comes from experience
+ 
+
+267
+00:06:48,180 --> 00:06:51,890
+that is it comes from experience
+it comes initially through sense
+
+268
+00:06:51,890 --> 00:06:51,900
+it comes initially through sense
+ 
+
+269
+00:06:51,900 --> 00:06:53,390
+it comes initially through sense
+perception
+
+270
+00:06:53,390 --> 00:06:53,400
+perception
+ 
+
+271
+00:06:53,400 --> 00:06:56,570
+perception
+a sense perception is an impression that
+
+272
+00:06:56,570 --> 00:06:56,580
+a sense perception is an impression that
+ 
+
+273
+00:06:56,580 --> 00:06:58,550
+a sense perception is an impression that
+we have through one of the five senses
+
+274
+00:06:58,550 --> 00:06:58,560
+we have through one of the five senses
+ 
+
+275
+00:06:58,560 --> 00:07:01,670
+we have through one of the five senses
+an experience of seeing or hearing or
+
+276
+00:07:01,670 --> 00:07:01,680
+an experience of seeing or hearing or
+ 
+
+277
+00:07:01,680 --> 00:07:04,249
+an experience of seeing or hearing or
+tasting or touching or smelling those
+
+278
+00:07:04,249 --> 00:07:04,259
+tasting or touching or smelling those
+ 
+
+279
+00:07:04,259 --> 00:07:07,210
+tasting or touching or smelling those
+are the senses and we perceive things
+
+280
+00:07:07,210 --> 00:07:07,220
+are the senses and we perceive things
+ 
+
+281
+00:07:07,220 --> 00:07:12,230
+are the senses and we perceive things
+through those five senses and from sense
+
+282
+00:07:12,230 --> 00:07:12,240
+through those five senses and from sense
+ 
+
+283
+00:07:12,240 --> 00:07:16,610
+through those five senses and from sense
+perception comes an image in the brain
+
+284
+00:07:16,610 --> 00:07:16,620
+perception comes an image in the brain
+ 
+
+285
+00:07:16,620 --> 00:07:18,469
+perception comes an image in the brain
+or in the mind
+
+286
+00:07:18,469 --> 00:07:18,479
+or in the mind
+ 
+
+287
+00:07:18,479 --> 00:07:20,930
+or in the mind
+you see something and you have an image
+
+288
+00:07:20,930 --> 00:07:20,940
+you see something and you have an image
+ 
+
+289
+00:07:20,940 --> 00:07:24,830
+you see something and you have an image
+of what you see in the mind and then out
+
+290
+00:07:24,830 --> 00:07:24,840
+of what you see in the mind and then out
+ 
+
+291
+00:07:24,840 --> 00:07:29,689
+of what you see in the mind and then out
+of these images come ideas
+
+292
+00:07:29,689 --> 00:07:29,699
+of these images come ideas
+ 
+
+293
+00:07:29,699 --> 00:07:33,230
+of these images come ideas
+so that knowledge or ideas are dependent
+
+294
+00:07:33,230 --> 00:07:33,240
+so that knowledge or ideas are dependent
+ 
+
+295
+00:07:33,240 --> 00:07:36,409
+so that knowledge or ideas are dependent
+not upon recalling information you're
+
+296
+00:07:36,409 --> 00:07:36,419
+not upon recalling information you're
+ 
+
+297
+00:07:36,419 --> 00:07:40,730
+not upon recalling information you're
+born with but from learning things
+
+298
+00:07:40,730 --> 00:07:40,740
+born with but from learning things
+ 
+
+299
+00:07:40,740 --> 00:07:44,150
+born with but from learning things
+through this process of using the senses
+
+300
+00:07:44,150 --> 00:07:44,160
+through this process of using the senses
+ 
+
+301
+00:07:44,160 --> 00:07:46,909
+through this process of using the senses
+with the mind working with the senses
+
+302
+00:07:46,909 --> 00:07:46,919
+with the mind working with the senses
+ 
+
+303
+00:07:46,919 --> 00:07:49,730
+with the mind working with the senses
+now the Mind does have a priori
+
+304
+00:07:49,730 --> 00:07:49,740
+now the Mind does have a priori
+ 
+
+305
+00:07:49,740 --> 00:07:51,529
+now the Mind does have a priori
+abilities
+
+306
+00:07:51,529 --> 00:07:51,539
+abilities
+ 
+
+307
+00:07:51,539 --> 00:07:55,490
+abilities
+no knowledge but abilities the mind is
+
+308
+00:07:55,490 --> 00:07:55,500
+no knowledge but abilities the mind is
+ 
+
+309
+00:07:55,500 --> 00:07:58,309
+no knowledge but abilities the mind is
+that organ in the body or in the human
+
+310
+00:07:58,309 --> 00:07:58,319
+that organ in the body or in the human
+ 
+
+311
+00:07:58,319 --> 00:08:01,850
+that organ in the body or in the human
+person that has the ability to work with
+
+312
+00:08:01,850 --> 00:08:01,860
+person that has the ability to work with
+ 
+
+313
+00:08:01,860 --> 00:08:04,870
+person that has the ability to work with
+the raw data of Sensation that we have
+
+314
+00:08:04,870 --> 00:08:04,880
+the raw data of Sensation that we have
+ 
+
+315
+00:08:04,880 --> 00:08:08,870
+the raw data of Sensation that we have
+to synthesize to synthesize these
+
+316
+00:08:08,870 --> 00:08:08,880
+to synthesize to synthesize these
+ 
+
+317
+00:08:08,880 --> 00:08:12,230
+to synthesize to synthesize these
+Impressions to abstract them to combine
+
+318
+00:08:12,230 --> 00:08:12,240
+Impressions to abstract them to combine
+ 
+
+319
+00:08:12,240 --> 00:08:15,370
+Impressions to abstract them to combine
+them put them together and form
+
+320
+00:08:15,370 --> 00:08:15,380
+them put them together and form
+ 
+
+321
+00:08:15,380 --> 00:08:18,230
+them put them together and form
+intelligible ideas
+
+322
+00:08:18,230 --> 00:08:18,240
+intelligible ideas
+ 
+
+323
+00:08:18,240 --> 00:08:20,629
+intelligible ideas
+now at this point I'm going to give you
+
+324
+00:08:20,629 --> 00:08:20,639
+now at this point I'm going to give you
+ 
+
+325
+00:08:20,639 --> 00:08:23,029
+now at this point I'm going to give you
+another distinction
+
+326
+00:08:23,029 --> 00:08:23,039
+another distinction
+ 
+
+327
+00:08:23,039 --> 00:08:25,790
+another distinction
+and that is this distinction
+
+328
+00:08:25,790 --> 00:08:25,800
+and that is this distinction
+ 
+
+329
+00:08:25,800 --> 00:08:29,629
+and that is this distinction
+that we make in philosophy between
+
+330
+00:08:29,629 --> 00:08:29,639
+that we make in philosophy between
+ 
+
+331
+00:08:29,639 --> 00:08:33,050
+that we make in philosophy between
+realism
+
+332
+00:08:33,050 --> 00:08:33,060
+
+ 
+
+333
+00:08:33,060 --> 00:08:39,170
+
+and nominalism
+
+334
+00:08:39,170 --> 00:08:39,180
+
+ 
+
+335
+00:08:39,180 --> 00:08:40,790
+
+now if you recall when we looked at
+
+336
+00:08:40,790 --> 00:08:40,800
+now if you recall when we looked at
+ 
+
+337
+00:08:40,800 --> 00:08:43,010
+now if you recall when we looked at
+Plato I confused everybody when I said
+
+338
+00:08:43,010 --> 00:08:43,020
+Plato I confused everybody when I said
+ 
+
+339
+00:08:43,020 --> 00:08:46,250
+Plato I confused everybody when I said
+Plato is at the same time a realist and
+
+340
+00:08:46,250 --> 00:08:46,260
+Plato is at the same time a realist and
+ 
+
+341
+00:08:46,260 --> 00:08:47,870
+Plato is at the same time a realist and
+an idealist
+
+342
+00:08:47,870 --> 00:08:47,880
+an idealist
+ 
+
+343
+00:08:47,880 --> 00:08:51,050
+an idealist
+using those terms in this way that for
+
+344
+00:08:51,050 --> 00:08:51,060
+using those terms in this way that for
+ 
+
+345
+00:08:51,060 --> 00:08:54,230
+using those terms in this way that for
+Plato the ideas that we have the ideas
+
+346
+00:08:54,230 --> 00:08:54,240
+Plato the ideas that we have the ideas
+ 
+
+347
+00:08:54,240 --> 00:08:57,650
+Plato the ideas that we have the ideas
+of humanness chairness and so on that
+
+348
+00:08:57,650 --> 00:08:57,660
+of humanness chairness and so on that
+ 
+
+349
+00:08:57,660 --> 00:08:59,269
+of humanness chairness and so on that
+those ideas
+
+350
+00:08:59,269 --> 00:08:59,279
+those ideas
+ 
+
+351
+00:08:59,279 --> 00:09:02,630
+those ideas
+are real entities
+
+352
+00:09:02,630 --> 00:09:02,640
+are real entities
+ 
+
+353
+00:09:02,640 --> 00:09:07,130
+are real entities
+and hence he is called a realist
+
+354
+00:09:07,130 --> 00:09:07,140
+and hence he is called a realist
+ 
+
+355
+00:09:07,140 --> 00:09:09,470
+and hence he is called a realist
+for Aristotle
+
+356
+00:09:09,470 --> 00:09:09,480
+for Aristotle
+ 
+
+357
+00:09:09,480 --> 00:09:12,590
+for Aristotle
+ideas are not
+
+358
+00:09:12,590 --> 00:09:12,600
+ideas are not
+ 
+
+359
+00:09:12,600 --> 00:09:14,030
+ideas are not
+real
+
+360
+00:09:14,030 --> 00:09:14,040
+real
+ 
+
+361
+00:09:14,040 --> 00:09:18,710
+real
+in the sense of having being within them
+
+362
+00:09:18,710 --> 00:09:18,720
+in the sense of having being within them
+ 
+
+363
+00:09:18,720 --> 00:09:21,110
+in the sense of having being within them
+and so the old debate that goes on
+
+364
+00:09:21,110 --> 00:09:21,120
+and so the old debate that goes on
+ 
+
+365
+00:09:21,120 --> 00:09:22,850
+and so the old debate that goes on
+through the Middle Ages and even today
+
+366
+00:09:22,850 --> 00:09:22,860
+through the Middle Ages and even today
+ 
+
+367
+00:09:22,860 --> 00:09:24,829
+through the Middle Ages and even today
+that is called the argument of a realism
+
+368
+00:09:24,829 --> 00:09:24,839
+that is called the argument of a realism
+ 
+
+369
+00:09:24,839 --> 00:09:27,530
+that is called the argument of a realism
+and nominalism goes back to this dispute
+
+370
+00:09:27,530 --> 00:09:27,540
+and nominalism goes back to this dispute
+ 
+
+371
+00:09:27,540 --> 00:09:31,490
+and nominalism goes back to this dispute
+between Plato and his disciple Aristotle
+
+372
+00:09:31,490 --> 00:09:31,500
+between Plato and his disciple Aristotle
+ 
+
+373
+00:09:31,500 --> 00:09:34,730
+between Plato and his disciple Aristotle
+and it goes back to two words not in
+
+374
+00:09:34,730 --> 00:09:34,740
+and it goes back to two words not in
+ 
+
+375
+00:09:34,740 --> 00:09:37,190
+and it goes back to two words not in
+Greek but in Latin
+
+376
+00:09:37,190 --> 00:09:37,200
+Greek but in Latin
+ 
+
+377
+00:09:37,200 --> 00:09:41,810
+Greek but in Latin
+where we have the word race
+
+378
+00:09:41,810 --> 00:09:41,820
+where we have the word race
+ 
+
+379
+00:09:41,820 --> 00:09:44,990
+where we have the word race
+in Latin and every attorney or judge
+
+380
+00:09:44,990 --> 00:09:45,000
+in Latin and every attorney or judge
+ 
+
+381
+00:09:45,000 --> 00:09:47,150
+in Latin and every attorney or judge
+knows what that means
+
+382
+00:09:47,150 --> 00:09:47,160
+knows what that means
+ 
+
+383
+00:09:47,160 --> 00:09:50,750
+knows what that means
+a race in legal terms is the thing
+
+384
+00:09:50,750 --> 00:09:50,760
+a race in legal terms is the thing
+ 
+
+385
+00:09:50,760 --> 00:09:54,530
+a race in legal terms is the thing
+that's that's the matter thing a race is
+
+386
+00:09:54,530 --> 00:09:54,540
+that's that's the matter thing a race is
+ 
+
+387
+00:09:54,540 --> 00:09:58,370
+that's that's the matter thing a race is
+simply the word for thing
+
+388
+00:09:58,370 --> 00:09:58,380
+
+ 
+
+389
+00:09:58,380 --> 00:10:02,509
+
+and the word nomina
+
+390
+00:10:02,509 --> 00:10:02,519
+and the word nomina
+ 
+
+391
+00:10:02,519 --> 00:10:04,370
+and the word nomina
+nomina
+
+392
+00:10:04,370 --> 00:10:04,380
+nomina
+ 
+
+393
+00:10:04,380 --> 00:10:07,730
+nomina
+in Latin means
+
+394
+00:10:07,730 --> 00:10:07,740
+in Latin means
+ 
+
+395
+00:10:07,740 --> 00:10:10,490
+in Latin means
+name
+
+396
+00:10:10,490 --> 00:10:10,500
+
+ 
+
+397
+00:10:10,500 --> 00:10:12,410
+
+we say that some people are nominal
+
+398
+00:10:12,410 --> 00:10:12,420
+we say that some people are nominal
+ 
+
+399
+00:10:12,420 --> 00:10:15,350
+we say that some people are nominal
+Christians we mean by that they are
+
+400
+00:10:15,350 --> 00:10:15,360
+Christians we mean by that they are
+ 
+
+401
+00:10:15,360 --> 00:10:18,410
+Christians we mean by that they are
+and Christians in name only we talk
+
+402
+00:10:18,410 --> 00:10:18,420
+and Christians in name only we talk
+ 
+
+403
+00:10:18,420 --> 00:10:22,850
+and Christians in name only we talk
+about denominations or nominating you
+
+404
+00:10:22,850 --> 00:10:22,860
+about denominations or nominating you
+ 
+
+405
+00:10:22,860 --> 00:10:26,389
+about denominations or nominating you
+name somebody for a particular office in
+
+406
+00:10:26,389 --> 00:10:26,399
+name somebody for a particular office in
+ 
+
+407
+00:10:26,399 --> 00:10:29,210
+name somebody for a particular office in
+an election that's a nomination putting
+
+408
+00:10:29,210 --> 00:10:29,220
+an election that's a nomination putting
+ 
+
+409
+00:10:29,220 --> 00:10:32,690
+an election that's a nomination putting
+their name up for election and so the
+
+410
+00:10:32,690 --> 00:10:32,700
+their name up for election and so the
+ 
+
+411
+00:10:32,700 --> 00:10:36,889
+their name up for election and so the
+word nomina means name nominalism means
+
+412
+00:10:36,889 --> 00:10:36,899
+word nomina means name nominalism means
+ 
+
+413
+00:10:36,899 --> 00:10:38,750
+word nomina means name nominalism means
+simply
+
+414
+00:10:38,750 --> 00:10:38,760
+simply
+ 
+
+415
+00:10:38,760 --> 00:10:41,930
+simply
+that universals
+
+416
+00:10:41,930 --> 00:10:41,940
+that universals
+ 
+
+417
+00:10:41,940 --> 00:10:45,170
+that universals
+universals
+
+418
+00:10:45,170 --> 00:10:45,180
+
+ 
+
+419
+00:10:45,180 --> 00:10:47,569
+
+which in this case are
+
+420
+00:10:47,569 --> 00:10:47,579
+which in this case are
+ 
+
+421
+00:10:47,579 --> 00:10:52,930
+which in this case are
+generic ideas tree Ness elephant-ness
+
+422
+00:10:52,930 --> 00:10:52,940
+generic ideas tree Ness elephant-ness
+ 
+
+423
+00:10:52,940 --> 00:10:57,829
+generic ideas tree Ness elephant-ness
+humanness all these ideas that we have
+
+424
+00:10:57,829 --> 00:10:57,839
+humanness all these ideas that we have
+ 
+
+425
+00:10:57,839 --> 00:11:00,290
+humanness all these ideas that we have
+that we universalize
+
+426
+00:11:00,290 --> 00:11:00,300
+that we universalize
+ 
+
+427
+00:11:00,300 --> 00:11:01,630
+that we universalize
+for
+
+428
+00:11:01,630 --> 00:11:01,640
+for
+ 
+
+429
+00:11:01,640 --> 00:11:03,290
+for
+Aristotle
+
+430
+00:11:03,290 --> 00:11:03,300
+Aristotle
+ 
+
+431
+00:11:03,300 --> 00:11:06,470
+Aristotle
+are not things
+
+432
+00:11:06,470 --> 00:11:06,480
+are not things
+ 
+
+433
+00:11:06,480 --> 00:11:08,930
+are not things
+but they're names
+
+434
+00:11:08,930 --> 00:11:08,940
+but they're names
+ 
+
+435
+00:11:08,940 --> 00:11:11,090
+but they're names
+I had a chair up here when I talked
+
+436
+00:11:11,090 --> 00:11:11,100
+I had a chair up here when I talked
+ 
+
+437
+00:11:11,100 --> 00:11:13,130
+I had a chair up here when I talked
+about Plato and I said how do you
+
+438
+00:11:13,130 --> 00:11:13,140
+about Plato and I said how do you
+ 
+
+439
+00:11:13,140 --> 00:11:15,829
+about Plato and I said how do you
+recognize that this chair is a chair
+
+440
+00:11:15,829 --> 00:11:15,839
+recognize that this chair is a chair
+ 
+
+441
+00:11:15,839 --> 00:11:20,290
+recognize that this chair is a chair
+and how can we call so many different uh
+
+442
+00:11:20,290 --> 00:11:20,300
+and how can we call so many different uh
+ 
+
+443
+00:11:20,300 --> 00:11:24,829
+and how can we call so many different uh
+entities by the same name chair
+
+444
+00:11:24,829 --> 00:11:24,839
+entities by the same name chair
+ 
+
+445
+00:11:24,839 --> 00:11:27,410
+entities by the same name chair
+well for Plato Plato says well in the
+
+446
+00:11:27,410 --> 00:11:27,420
+well for Plato Plato says well in the
+ 
+
+447
+00:11:27,420 --> 00:11:29,569
+well for Plato Plato says well in the
+Eternal world there's this pure chernus
+
+448
+00:11:29,569 --> 00:11:29,579
+Eternal world there's this pure chernus
+ 
+
+449
+00:11:29,579 --> 00:11:31,970
+Eternal world there's this pure chernus
+this pure idea of chareness and when we
+
+450
+00:11:31,970 --> 00:11:31,980
+this pure idea of chareness and when we
+ 
+
+451
+00:11:31,980 --> 00:11:34,370
+this pure idea of chareness and when we
+see a close approximation of it an
+
+452
+00:11:34,370 --> 00:11:34,380
+see a close approximation of it an
+ 
+
+453
+00:11:34,380 --> 00:11:36,590
+see a close approximation of it an
+imperfect copy of it in the material
+
+454
+00:11:36,590 --> 00:11:36,600
+imperfect copy of it in the material
+ 
+
+455
+00:11:36,600 --> 00:11:38,690
+imperfect copy of it in the material
+world we say aha I'm getting a
+
+456
+00:11:38,690 --> 00:11:38,700
+world we say aha I'm getting a
+ 
+
+457
+00:11:38,700 --> 00:11:41,449
+world we say aha I'm getting a
+recollection of that idea of chair Ness
+
+458
+00:11:41,449 --> 00:11:41,459
+recollection of that idea of chair Ness
+ 
+
+459
+00:11:41,459 --> 00:11:45,670
+recollection of that idea of chair Ness
+and so I identify this object as a chair
+
+460
+00:11:45,670 --> 00:11:45,680
+and so I identify this object as a chair
+ 
+
+461
+00:11:45,680 --> 00:11:47,990
+and so I identify this object as a chair
+Aristotle says no he says that's not how
+
+462
+00:11:47,990 --> 00:11:48,000
+Aristotle says no he says that's not how
+ 
+
+463
+00:11:48,000 --> 00:11:50,569
+Aristotle says no he says that's not how
+it works he said we we start to learn
+
+464
+00:11:50,569 --> 00:11:50,579
+it works he said we we start to learn
+ 
+
+465
+00:11:50,579 --> 00:11:53,210
+it works he said we we start to learn
+and we perceive an object in our mommy
+
+466
+00:11:53,210 --> 00:11:53,220
+and we perceive an object in our mommy
+ 
+
+467
+00:11:53,220 --> 00:11:54,829
+and we perceive an object in our mommy
+we say what's that and you say well
+
+468
+00:11:54,829 --> 00:11:54,839
+we say what's that and you say well
+ 
+
+469
+00:11:54,839 --> 00:11:56,930
+we say what's that and you say well
+that's a chair and then you see another
+
+470
+00:11:56,930 --> 00:11:56,940
+that's a chair and then you see another
+ 
+
+471
+00:11:56,940 --> 00:11:59,150
+that's a chair and then you see another
+object and your mother tells you that's
+
+472
+00:11:59,150 --> 00:11:59,160
+object and your mother tells you that's
+ 
+
+473
+00:11:59,160 --> 00:12:00,850
+object and your mother tells you that's
+a chair too even though it differs
+
+474
+00:12:00,850 --> 00:12:00,860
+a chair too even though it differs
+ 
+
+475
+00:12:00,860 --> 00:12:03,650
+a chair too even though it differs
+significantly from the first chair that
+
+476
+00:12:03,650 --> 00:12:03,660
+significantly from the first chair that
+ 
+
+477
+00:12:03,660 --> 00:12:05,750
+significantly from the first chair that
+your mind has the ability to have all
+
+478
+00:12:05,750 --> 00:12:05,760
+your mind has the ability to have all
+ 
+
+479
+00:12:05,760 --> 00:12:07,690
+your mind has the ability to have all
+these Sensations and all these images
+
+480
+00:12:07,690 --> 00:12:07,700
+these Sensations and all these images
+ 
+
+481
+00:12:07,700 --> 00:12:11,210
+these Sensations and all these images
+and to put them together an abstract
+
+482
+00:12:11,210 --> 00:12:11,220
+and to put them together an abstract
+ 
+
+483
+00:12:11,220 --> 00:12:14,210
+and to put them together an abstract
+combine and relate these experience and
+
+484
+00:12:14,210 --> 00:12:14,220
+combine and relate these experience and
+ 
+
+485
+00:12:14,220 --> 00:12:17,509
+combine and relate these experience and
+come up with a generic concept of
+
+486
+00:12:17,509 --> 00:12:17,519
+come up with a generic concept of
+ 
+
+487
+00:12:17,519 --> 00:12:19,069
+come up with a generic concept of
+chair-ness
+
+488
+00:12:19,069 --> 00:12:19,079
+chair-ness
+ 
+
+489
+00:12:19,079 --> 00:12:20,930
+chair-ness
+doesn't mean there really is such a
+
+490
+00:12:20,930 --> 00:12:20,940
+doesn't mean there really is such a
+ 
+
+491
+00:12:20,940 --> 00:12:23,090
+doesn't mean there really is such a
+thing as chairness there's just this
+
+492
+00:12:23,090 --> 00:12:23,100
+thing as chairness there's just this
+ 
+
+493
+00:12:23,100 --> 00:12:26,690
+thing as chairness there's just this
+Universal idea that is a construction of
+
+494
+00:12:26,690 --> 00:12:26,700
+Universal idea that is a construction of
+ 
+
+495
+00:12:26,700 --> 00:12:28,069
+Universal idea that is a construction of
+the Mind
+
+496
+00:12:28,069 --> 00:12:28,079
+the Mind
+ 
+
+497
+00:12:28,079 --> 00:12:31,310
+the Mind
+it's a name and that's all it is is a
+
+498
+00:12:31,310 --> 00:12:31,320
+it's a name and that's all it is is a
+ 
+
+499
+00:12:31,320 --> 00:12:32,569
+it's a name and that's all it is is a
+name
+
+500
+00:12:32,569 --> 00:12:32,579
+name
+ 
+
+501
+00:12:32,579 --> 00:12:36,110
+name
+that we assign to Universal General
+
+502
+00:12:36,110 --> 00:12:36,120
+that we assign to Universal General
+ 
+
+503
+00:12:36,120 --> 00:12:38,030
+that we assign to Universal General
+categories
+
+504
+00:12:38,030 --> 00:12:38,040
+categories
+ 
+
+505
+00:12:38,040 --> 00:12:41,350
+categories
+and we use that when we apply
+
+506
+00:12:41,350 --> 00:12:41,360
+and we use that when we apply
+ 
+
+507
+00:12:41,360 --> 00:12:45,050
+and we use that when we apply
+particulars into those various uh a
+
+508
+00:12:45,050 --> 00:12:45,060
+particulars into those various uh a
+ 
+
+509
+00:12:45,060 --> 00:12:48,050
+particulars into those various uh a
+different spheres and so we would say
+
+510
+00:12:48,050 --> 00:12:48,060
+different spheres and so we would say
+ 
+
+511
+00:12:48,060 --> 00:12:51,889
+different spheres and so we would say
+that Aristotle was not a realist in the
+
+512
+00:12:51,889 --> 00:12:51,899
+that Aristotle was not a realist in the
+ 
+
+513
+00:12:51,899 --> 00:12:54,050
+that Aristotle was not a realist in the
+sense of believing that Universal ideas
+
+514
+00:12:54,050 --> 00:12:54,060
+sense of believing that Universal ideas
+ 
+
+515
+00:12:54,060 --> 00:12:57,590
+sense of believing that Universal ideas
+had independent reality but he was a
+
+516
+00:12:57,590 --> 00:12:57,600
+had independent reality but he was a
+ 
+
+517
+00:12:57,600 --> 00:13:00,889
+had independent reality but he was a
+nominalist in this so far as he believed
+
+518
+00:13:00,889 --> 00:13:00,899
+nominalist in this so far as he believed
+ 
+
+519
+00:13:00,899 --> 00:13:03,769
+nominalist in this so far as he believed
+that Universal concepts are merely
+
+520
+00:13:03,769 --> 00:13:03,779
+that Universal concepts are merely
+ 
+
+521
+00:13:03,779 --> 00:13:06,050
+that Universal concepts are merely
+mental
+
+522
+00:13:06,050 --> 00:13:06,060
+mental
+ 
+
+523
+00:13:06,060 --> 00:13:07,670
+mental
+names
+
+524
+00:13:07,670 --> 00:13:07,680
+names
+ 
+
+525
+00:13:07,680 --> 00:13:12,110
+names
+that we have conceived by the mind
+
+526
+00:13:12,110 --> 00:13:12,120
+that we have conceived by the mind
+ 
+
+527
+00:13:12,120 --> 00:13:18,250
+that we have conceived by the mind
+he also taught that truth
+
+528
+00:13:18,250 --> 00:13:18,260
+
+ 
+
+529
+00:13:18,260 --> 00:13:19,910
+
+involves
+
+530
+00:13:19,910 --> 00:13:19,920
+involves
+ 
+
+531
+00:13:19,920 --> 00:13:21,710
+involves
+conformity
+
+532
+00:13:21,710 --> 00:13:21,720
+conformity
+ 
+
+533
+00:13:21,720 --> 00:13:24,590
+conformity
+between the mind
+
+534
+00:13:24,590 --> 00:13:24,600
+between the mind
+ 
+
+535
+00:13:24,600 --> 00:13:27,590
+between the mind
+and a thing this is an early form of the
+
+536
+00:13:27,590 --> 00:13:27,600
+and a thing this is an early form of the
+ 
+
+537
+00:13:27,600 --> 00:13:31,069
+and a thing this is an early form of the
+correspondence theory of Truth what he
+
+538
+00:13:31,069 --> 00:13:31,079
+correspondence theory of Truth what he
+ 
+
+539
+00:13:31,079 --> 00:13:33,910
+correspondence theory of Truth what he
+meant by that is when
+
+540
+00:13:33,910 --> 00:13:33,920
+meant by that is when
+ 
+
+541
+00:13:33,920 --> 00:13:37,629
+meant by that is when
+your mental idea
+
+542
+00:13:37,629 --> 00:13:37,639
+your mental idea
+ 
+
+543
+00:13:37,639 --> 00:13:41,090
+your mental idea
+corresponds to the external object that
+
+544
+00:13:41,090 --> 00:13:41,100
+corresponds to the external object that
+ 
+
+545
+00:13:41,100 --> 00:13:43,370
+corresponds to the external object that
+you are seeking to know
+
+546
+00:13:43,370 --> 00:13:43,380
+you are seeking to know
+ 
+
+547
+00:13:43,380 --> 00:13:45,470
+you are seeking to know
+or conforms to it
+
+548
+00:13:45,470 --> 00:13:45,480
+or conforms to it
+ 
+
+549
+00:13:45,480 --> 00:13:48,829
+or conforms to it
+when your idea of chair of the
+
+550
+00:13:48,829 --> 00:13:48,839
+when your idea of chair of the
+ 
+
+551
+00:13:48,839 --> 00:13:50,710
+when your idea of chair of the
+particular chair that you see
+
+552
+00:13:50,710 --> 00:13:50,720
+particular chair that you see
+ 
+
+553
+00:13:50,720 --> 00:13:53,509
+particular chair that you see
+corresponds to the reality of that chair
+
+554
+00:13:53,509 --> 00:13:53,519
+corresponds to the reality of that chair
+ 
+
+555
+00:13:53,519 --> 00:13:56,090
+corresponds to the reality of that chair
+you have truth
+
+556
+00:13:56,090 --> 00:13:56,100
+you have truth
+ 
+
+557
+00:13:56,100 --> 00:13:59,930
+you have truth
+when your idea does not conform to that
+
+558
+00:13:59,930 --> 00:13:59,940
+when your idea does not conform to that
+ 
+
+559
+00:13:59,940 --> 00:14:03,290
+when your idea does not conform to that
+actual object you have error or you have
+
+560
+00:14:03,290 --> 00:14:03,300
+actual object you have error or you have
+ 
+
+561
+00:14:03,300 --> 00:14:05,389
+actual object you have error or you have
+falsehood and so part of the whole
+
+562
+00:14:05,389 --> 00:14:05,399
+falsehood and so part of the whole
+ 
+
+563
+00:14:05,399 --> 00:14:08,449
+falsehood and so part of the whole
+process of learning is to constantly
+
+564
+00:14:08,449 --> 00:14:08,459
+process of learning is to constantly
+ 
+
+565
+00:14:08,459 --> 00:14:12,410
+process of learning is to constantly
+seek more precision and exactitude in
+
+566
+00:14:12,410 --> 00:14:12,420
+seek more precision and exactitude in
+ 
+
+567
+00:14:12,420 --> 00:14:16,550
+seek more precision and exactitude in
+conforming our ideas or concepts of
+
+568
+00:14:16,550 --> 00:14:16,560
+conforming our ideas or concepts of
+ 
+
+569
+00:14:16,560 --> 00:14:20,750
+conforming our ideas or concepts of
+things to actual entities that exist out
+
+570
+00:14:20,750 --> 00:14:20,760
+things to actual entities that exist out
+ 
+
+571
+00:14:20,760 --> 00:14:21,470
+things to actual entities that exist out
+there
+
+572
+00:14:21,470 --> 00:14:21,480
+there
+ 
+
+573
+00:14:21,480 --> 00:14:23,930
+there
+now
+
+574
+00:14:23,930 --> 00:14:23,940
+now
+ 
+
+575
+00:14:23,940 --> 00:14:27,230
+now
+in all of this
+
+576
+00:14:27,230 --> 00:14:27,240
+in all of this
+ 
+
+577
+00:14:27,240 --> 00:14:29,750
+in all of this
+Aristotle
+
+578
+00:14:29,750 --> 00:14:29,760
+Aristotle
+ 
+
+579
+00:14:29,760 --> 00:14:31,790
+Aristotle
+thought that at the beginning of
+
+580
+00:14:31,790 --> 00:14:31,800
+thought that at the beginning of
+ 
+
+581
+00:14:31,800 --> 00:14:34,009
+thought that at the beginning of
+knowledge
+
+582
+00:14:34,009 --> 00:14:34,019
+knowledge
+ 
+
+583
+00:14:34,019 --> 00:14:37,190
+knowledge
+there have to be certain rules that we
+
+584
+00:14:37,190 --> 00:14:37,200
+there have to be certain rules that we
+ 
+
+585
+00:14:37,200 --> 00:14:38,509
+there have to be certain rules that we
+follow
+
+586
+00:14:38,509 --> 00:14:38,519
+follow
+ 
+
+587
+00:14:38,519 --> 00:14:41,389
+follow
+for science to take place
+
+588
+00:14:41,389 --> 00:14:41,399
+for science to take place
+ 
+
+589
+00:14:41,399 --> 00:14:44,569
+for science to take place
+and he distinguished among all these
+
+590
+00:14:44,569 --> 00:14:44,579
+and he distinguished among all these
+ 
+
+591
+00:14:44,579 --> 00:14:46,910
+and he distinguished among all these
+different disciplines of investig
+
+592
+00:14:46,910 --> 00:14:46,920
+different disciplines of investig
+ 
+
+593
+00:14:46,920 --> 00:14:51,050
+different disciplines of investig
+investigative inquiry as I said physics
+
+594
+00:14:51,050 --> 00:14:51,060
+investigative inquiry as I said physics
+ 
+
+595
+00:14:51,060 --> 00:14:55,150
+investigative inquiry as I said physics
+biology astronomy ethics
+
+596
+00:14:55,150 --> 00:14:55,160
+biology astronomy ethics
+ 
+
+597
+00:14:55,160 --> 00:14:58,490
+biology astronomy ethics
+jurisprudence and Aesthetics and all the
+
+598
+00:14:58,490 --> 00:14:58,500
+jurisprudence and Aesthetics and all the
+ 
+
+599
+00:14:58,500 --> 00:15:00,110
+jurisprudence and Aesthetics and all the
+rest
+
+600
+00:15:00,110 --> 00:15:00,120
+rest
+ 
+
+601
+00:15:00,120 --> 00:15:02,569
+rest
+he said but there are certain principles
+
+602
+00:15:02,569 --> 00:15:02,579
+he said but there are certain principles
+ 
+
+603
+00:15:02,579 --> 00:15:04,610
+he said but there are certain principles
+of knowing
+
+604
+00:15:04,610 --> 00:15:04,620
+of knowing
+ 
+
+605
+00:15:04,620 --> 00:15:07,970
+of knowing
+that have to be applied to all fields of
+
+606
+00:15:07,970 --> 00:15:07,980
+that have to be applied to all fields of
+ 
+
+607
+00:15:07,980 --> 00:15:09,410
+that have to be applied to all fields of
+inquiry
+
+608
+00:15:09,410 --> 00:15:09,420
+inquiry
+ 
+
+609
+00:15:09,420 --> 00:15:13,189
+inquiry
+for science to be possible
+
+610
+00:15:13,189 --> 00:15:13,199
+for science to be possible
+ 
+
+611
+00:15:13,199 --> 00:15:20,629
+for science to be possible
+and so he talked about the role of logic
+
+612
+00:15:20,629 --> 00:15:20,639
+
+ 
+
+613
+00:15:20,639 --> 00:15:23,990
+
+in The Knowing process
+
+614
+00:15:23,990 --> 00:15:24,000
+in The Knowing process
+ 
+
+615
+00:15:24,000 --> 00:15:26,509
+in The Knowing process
+now it's important that Aristotle did
+
+616
+00:15:26,509 --> 00:15:26,519
+now it's important that Aristotle did
+ 
+
+617
+00:15:26,519 --> 00:15:30,170
+now it's important that Aristotle did
+not consider the study of logic a
+
+618
+00:15:30,170 --> 00:15:30,180
+not consider the study of logic a
+ 
+
+619
+00:15:30,180 --> 00:15:34,069
+not consider the study of logic a
+separate independent science from all of
+
+620
+00:15:34,069 --> 00:15:34,079
+separate independent science from all of
+ 
+
+621
+00:15:34,079 --> 00:15:36,410
+separate independent science from all of
+the other sciences that he was engaged
+
+622
+00:15:36,410 --> 00:15:36,420
+the other sciences that he was engaged
+ 
+
+623
+00:15:36,420 --> 00:15:37,550
+the other sciences that he was engaged
+in
+
+624
+00:15:37,550 --> 00:15:37,560
+in
+ 
+
+625
+00:15:37,560 --> 00:15:40,610
+in
+but rather he called logic
+
+626
+00:15:40,610 --> 00:15:40,620
+but rather he called logic
+ 
+
+627
+00:15:40,620 --> 00:15:43,790
+but rather he called logic
+the organon
+
+628
+00:15:43,790 --> 00:15:43,800
+the organon
+ 
+
+629
+00:15:43,800 --> 00:15:47,030
+the organon
+of all science
+
+630
+00:15:47,030 --> 00:15:47,040
+
+ 
+
+631
+00:15:47,040 --> 00:15:50,689
+
+now the word organon simply means
+
+632
+00:15:50,689 --> 00:15:50,699
+now the word organon simply means
+ 
+
+633
+00:15:50,699 --> 00:15:54,230
+now the word organon simply means
+instrument
+
+634
+00:15:54,230 --> 00:15:54,240
+
+ 
+
+635
+00:15:54,240 --> 00:15:56,509
+
+just like musicians have instruments
+
+636
+00:15:56,509 --> 00:15:56,519
+just like musicians have instruments
+ 
+
+637
+00:15:56,519 --> 00:15:59,329
+just like musicians have instruments
+that they need to use to play music
+
+638
+00:15:59,329 --> 00:15:59,339
+that they need to use to play music
+ 
+
+639
+00:15:59,339 --> 00:16:01,189
+that they need to use to play music
+and the sculptor has an instrument
+
+640
+00:16:01,189 --> 00:16:01,199
+and the sculptor has an instrument
+ 
+
+641
+00:16:01,199 --> 00:16:03,949
+and the sculptor has an instrument
+namely the Chisel or the hammer that he
+
+642
+00:16:03,949 --> 00:16:03,959
+namely the Chisel or the hammer that he
+ 
+
+643
+00:16:03,959 --> 00:16:06,650
+namely the Chisel or the hammer that he
+needs to have to make his statue
+
+644
+00:16:06,650 --> 00:16:06,660
+needs to have to make his statue
+ 
+
+645
+00:16:06,660 --> 00:16:10,009
+needs to have to make his statue
+so the instrument that we need in order
+
+646
+00:16:10,009 --> 00:16:10,019
+so the instrument that we need in order
+ 
+
+647
+00:16:10,019 --> 00:16:15,350
+so the instrument that we need in order
+to construct real knowledge is logic
+
+648
+00:16:15,350 --> 00:16:15,360
+
+ 
+
+649
+00:16:15,360 --> 00:16:19,370
+
+and he sees logic as a necessary
+
+650
+00:16:19,370 --> 00:16:19,380
+and he sees logic as a necessary
+ 
+
+651
+00:16:19,380 --> 00:16:23,269
+and he sees logic as a necessary
+instrument for all intelligible
+
+652
+00:16:23,269 --> 00:16:23,279
+instrument for all intelligible
+ 
+
+653
+00:16:23,279 --> 00:16:25,009
+instrument for all intelligible
+discourse
+
+654
+00:16:25,009 --> 00:16:25,019
+discourse
+ 
+
+655
+00:16:25,019 --> 00:16:28,910
+discourse
+I'm going to explain that in a second
+
+656
+00:16:28,910 --> 00:16:28,920
+
+ 
+
+657
+00:16:28,920 --> 00:16:31,430
+
+but first it's important particularly in
+
+658
+00:16:31,430 --> 00:16:31,440
+but first it's important particularly in
+ 
+
+659
+00:16:31,440 --> 00:16:33,290
+but first it's important particularly in
+light of the age in which we live which
+
+660
+00:16:33,290 --> 00:16:33,300
+light of the age in which we live which
+ 
+
+661
+00:16:33,300 --> 00:16:36,230
+light of the age in which we live which
+is one of the most anti-rational periods
+
+662
+00:16:36,230 --> 00:16:36,240
+is one of the most anti-rational periods
+ 
+
+663
+00:16:36,240 --> 00:16:38,449
+is one of the most anti-rational periods
+in the history of Western thought
+
+664
+00:16:38,449 --> 00:16:38,459
+in the history of Western thought
+ 
+
+665
+00:16:38,459 --> 00:16:40,310
+in the history of Western thought
+where people are not only accepting
+
+666
+00:16:40,310 --> 00:16:40,320
+where people are not only accepting
+ 
+
+667
+00:16:40,320 --> 00:16:43,490
+where people are not only accepting
+contradictions and irrationality they're
+
+668
+00:16:43,490 --> 00:16:43,500
+contradictions and irrationality they're
+ 
+
+669
+00:16:43,500 --> 00:16:45,470
+contradictions and irrationality they're
+glorying in it
+
+670
+00:16:45,470 --> 00:16:45,480
+glorying in it
+ 
+
+671
+00:16:45,480 --> 00:16:50,230
+glorying in it
+and we've seen the break up of rational
+
+672
+00:16:50,230 --> 00:16:50,240
+and we've seen the break up of rational
+ 
+
+673
+00:16:50,240 --> 00:16:52,850
+and we've seen the break up of rational
+coherent thought remember Francis
+
+674
+00:16:52,850 --> 00:16:52,860
+coherent thought remember Francis
+ 
+
+675
+00:16:52,860 --> 00:16:54,889
+coherent thought remember Francis
+Schaefer's little book Escape from
+
+676
+00:16:54,889 --> 00:16:54,899
+Schaefer's little book Escape from
+ 
+
+677
+00:16:54,899 --> 00:16:56,230
+Schaefer's little book Escape from
+reason
+
+678
+00:16:56,230 --> 00:16:56,240
+reason
+ 
+
+679
+00:16:56,240 --> 00:16:59,090
+reason
+existentialism has launched a massive
+
+680
+00:16:59,090 --> 00:16:59,100
+existentialism has launched a massive
+ 
+
+681
+00:16:59,100 --> 00:17:03,530
+existentialism has launched a massive
+assault against the rational and so on
+
+682
+00:17:03,530 --> 00:17:03,540
+assault against the rational and so on
+ 
+
+683
+00:17:03,540 --> 00:17:05,870
+assault against the rational and so on
+and we've seen in our own day the
+
+684
+00:17:05,870 --> 00:17:05,880
+and we've seen in our own day the
+ 
+
+685
+00:17:05,880 --> 00:17:08,289
+and we've seen in our own day the
+theater of the Absurd and John Cage's
+
+686
+00:17:08,289 --> 00:17:08,299
+theater of the Absurd and John Cage's
+ 
+
+687
+00:17:08,299 --> 00:17:14,110
+theater of the Absurd and John Cage's
+arbitrary forms of music and so on
+
+688
+00:17:14,110 --> 00:17:14,120
+
+ 
+
+689
+00:17:14,120 --> 00:17:19,250
+
+Aristotle did not invent logic
+
+690
+00:17:19,250 --> 00:17:19,260
+Aristotle did not invent logic
+ 
+
+691
+00:17:19,260 --> 00:17:22,189
+Aristotle did not invent logic
+let me say it again Aristotle did not
+
+692
+00:17:22,189 --> 00:17:22,199
+let me say it again Aristotle did not
+ 
+
+693
+00:17:22,199 --> 00:17:26,150
+let me say it again Aristotle did not
+invent logic anymore than Christopher
+
+694
+00:17:26,150 --> 00:17:26,160
+invent logic anymore than Christopher
+ 
+
+695
+00:17:26,160 --> 00:17:27,130
+invent logic anymore than Christopher
+Columbus
+
+696
+00:17:27,130 --> 00:17:27,140
+Columbus
+ 
+
+697
+00:17:27,140 --> 00:17:30,830
+Columbus
+invented America
+
+698
+00:17:30,830 --> 00:17:30,840
+
+ 
+
+699
+00:17:30,840 --> 00:17:34,549
+
+what Aristotle sought to do was to
+
+700
+00:17:34,549 --> 00:17:34,559
+what Aristotle sought to do was to
+ 
+
+701
+00:17:34,559 --> 00:17:35,930
+what Aristotle sought to do was to
+articulate
+
+702
+00:17:35,930 --> 00:17:35,940
+articulate
+ 
+
+703
+00:17:35,940 --> 00:17:40,789
+articulate
+how logical categories function
+
+704
+00:17:40,789 --> 00:17:40,799
+how logical categories function
+ 
+
+705
+00:17:40,799 --> 00:17:42,590
+how logical categories function
+he didn't think that he was the first
+
+706
+00:17:42,590 --> 00:17:42,600
+he didn't think that he was the first
+ 
+
+707
+00:17:42,600 --> 00:17:44,750
+he didn't think that he was the first
+logical person
+
+708
+00:17:44,750 --> 00:17:44,760
+logical person
+ 
+
+709
+00:17:44,760 --> 00:17:46,789
+logical person
+he didn't think that logic didn't exist
+
+710
+00:17:46,789 --> 00:17:46,799
+he didn't think that logic didn't exist
+ 
+
+711
+00:17:46,799 --> 00:17:48,529
+he didn't think that logic didn't exist
+before him
+
+712
+00:17:48,529 --> 00:17:48,539
+before him
+ 
+
+713
+00:17:48,539 --> 00:17:51,110
+before him
+he's simply asking the question as a
+
+714
+00:17:51,110 --> 00:17:51,120
+he's simply asking the question as a
+ 
+
+715
+00:17:51,120 --> 00:17:54,409
+he's simply asking the question as a
+philosopher what has to be for us to be
+
+716
+00:17:54,409 --> 00:17:54,419
+philosopher what has to be for us to be
+ 
+
+717
+00:17:54,419 --> 00:17:57,770
+philosopher what has to be for us to be
+able to speak intelligibly
+
+718
+00:17:57,770 --> 00:17:57,780
+able to speak intelligibly
+ 
+
+719
+00:17:57,780 --> 00:18:02,390
+able to speak intelligibly
+about biology or astronomy or physics or
+
+720
+00:18:02,390 --> 00:18:02,400
+about biology or astronomy or physics or
+ 
+
+721
+00:18:02,400 --> 00:18:04,250
+about biology or astronomy or physics or
+anything else
+
+722
+00:18:04,250 --> 00:18:04,260
+anything else
+ 
+
+723
+00:18:04,260 --> 00:18:06,789
+anything else
+and he said well there are certain basic
+
+724
+00:18:06,789 --> 00:18:06,799
+and he said well there are certain basic
+ 
+
+725
+00:18:06,799 --> 00:18:09,830
+and he said well there are certain basic
+needs that have to be met for
+
+726
+00:18:09,830 --> 00:18:09,840
+needs that have to be met for
+ 
+
+727
+00:18:09,840 --> 00:18:14,510
+needs that have to be met for
+intelligibility to occur and one is that
+
+728
+00:18:14,510 --> 00:18:14,520
+intelligibility to occur and one is that
+ 
+
+729
+00:18:14,520 --> 00:18:16,549
+intelligibility to occur and one is that
+our statements
+
+730
+00:18:16,549 --> 00:18:16,559
+our statements
+ 
+
+731
+00:18:16,559 --> 00:18:19,810
+our statements
+be logically
+
+732
+00:18:19,810 --> 00:18:19,820
+be logically
+ 
+
+733
+00:18:19,820 --> 00:18:22,730
+be logically
+constructed what he means by that is
+
+734
+00:18:22,730 --> 00:18:22,740
+constructed what he means by that is
+ 
+
+735
+00:18:22,740 --> 00:18:26,330
+constructed what he means by that is
+that they not violate the first law of
+
+736
+00:18:26,330 --> 00:18:26,340
+that they not violate the first law of
+ 
+
+737
+00:18:26,340 --> 00:18:29,390
+that they not violate the first law of
+logic which is the law of
+
+738
+00:18:29,390 --> 00:18:29,400
+logic which is the law of
+ 
+
+739
+00:18:29,400 --> 00:18:31,070
+logic which is the law of
+non-contradiction
+
+740
+00:18:31,070 --> 00:18:31,080
+non-contradiction
+ 
+
+741
+00:18:31,080 --> 00:18:34,130
+non-contradiction
+before I go into that let me just give
+
+742
+00:18:34,130 --> 00:18:34,140
+before I go into that let me just give
+ 
+
+743
+00:18:34,140 --> 00:18:36,169
+before I go into that let me just give
+one other distinction he makes in terms
+
+744
+00:18:36,169 --> 00:18:36,179
+one other distinction he makes in terms
+ 
+
+745
+00:18:36,179 --> 00:18:39,230
+one other distinction he makes in terms
+of his exposition of how logic Works he
+
+746
+00:18:39,230 --> 00:18:39,240
+of his exposition of how logic Works he
+ 
+
+747
+00:18:39,240 --> 00:18:42,529
+of his exposition of how logic Works he
+says that logic and all science depend
+
+748
+00:18:42,529 --> 00:18:42,539
+says that logic and all science depend
+ 
+
+749
+00:18:42,539 --> 00:18:44,630
+says that logic and all science depend
+upon
+
+750
+00:18:44,630 --> 00:18:44,640
+upon
+ 
+
+751
+00:18:44,640 --> 00:18:46,730
+upon
+the relationships
+
+752
+00:18:46,730 --> 00:18:46,740
+the relationships
+ 
+
+753
+00:18:46,740 --> 00:18:49,909
+the relationships
+between the general
+
+754
+00:18:49,909 --> 00:18:49,919
+between the general
+ 
+
+755
+00:18:49,919 --> 00:18:52,970
+between the general
+and the particular
+
+756
+00:18:52,970 --> 00:18:52,980
+and the particular
+ 
+
+757
+00:18:52,980 --> 00:18:58,430
+and the particular
+or what we would say between the subject
+
+758
+00:18:58,430 --> 00:18:58,440
+
+ 
+
+759
+00:18:58,440 --> 00:19:02,990
+
+and the predicate
+
+760
+00:19:02,990 --> 00:19:03,000
+
+ 
+
+761
+00:19:03,000 --> 00:19:06,169
+
+if I'm a biologist and I want to know
+
+762
+00:19:06,169 --> 00:19:06,179
+if I'm a biologist and I want to know
+ 
+
+763
+00:19:06,179 --> 00:19:11,750
+if I'm a biologist and I want to know
+what a an amoeba is I may say an amoeba
+
+764
+00:19:11,750 --> 00:19:11,760
+what a an amoeba is I may say an amoeba
+ 
+
+765
+00:19:11,760 --> 00:19:15,350
+what a an amoeba is I may say an amoeba
+in order to distinguish it from a frog I
+
+766
+00:19:15,350 --> 00:19:15,360
+in order to distinguish it from a frog I
+ 
+
+767
+00:19:15,360 --> 00:19:19,250
+in order to distinguish it from a frog I
+will say an amoeba is
+
+768
+00:19:19,250 --> 00:19:19,260
+will say an amoeba is
+ 
+
+769
+00:19:19,260 --> 00:19:20,570
+will say an amoeba is
+something
+
+770
+00:19:20,570 --> 00:19:20,580
+something
+ 
+
+771
+00:19:20,580 --> 00:19:23,350
+something
+I will predicate
+
+772
+00:19:23,350 --> 00:19:23,360
+I will predicate
+ 
+
+773
+00:19:23,360 --> 00:19:25,070
+I will predicate
+characteristics
+
+774
+00:19:25,070 --> 00:19:25,080
+characteristics
+ 
+
+775
+00:19:25,080 --> 00:19:28,789
+characteristics
+I will mention the particulars that
+
+776
+00:19:28,789 --> 00:19:28,799
+I will mention the particulars that
+ 
+
+777
+00:19:28,799 --> 00:19:29,770
+I will mention the particulars that
+Define
+
+778
+00:19:29,770 --> 00:19:29,780
+Define
+ 
+
+779
+00:19:29,780 --> 00:19:32,270
+Define
+a an amoeba
+
+780
+00:19:32,270 --> 00:19:32,280
+a an amoeba
+ 
+
+781
+00:19:32,280 --> 00:19:34,850
+a an amoeba
+and then contrast it or compare it with
+
+782
+00:19:34,850 --> 00:19:34,860
+and then contrast it or compare it with
+ 
+
+783
+00:19:34,860 --> 00:19:38,450
+and then contrast it or compare it with
+the particulars that Define a fraud
+
+784
+00:19:38,450 --> 00:19:38,460
+the particulars that Define a fraud
+ 
+
+785
+00:19:38,460 --> 00:19:40,130
+the particulars that Define a fraud
+now when you were in junior high school
+
+786
+00:19:40,130 --> 00:19:40,140
+now when you were in junior high school
+ 
+
+787
+00:19:40,140 --> 00:19:42,409
+now when you were in junior high school
+or in grade school you learned about the
+
+788
+00:19:42,409 --> 00:19:42,419
+or in grade school you learned about the
+ 
+
+789
+00:19:42,419 --> 00:19:45,289
+or in grade school you learned about the
+whole process of classification
+
+790
+00:19:45,289 --> 00:19:45,299
+whole process of classification
+ 
+
+791
+00:19:45,299 --> 00:19:48,590
+whole process of classification
+where you have the genus and the species
+
+792
+00:19:48,590 --> 00:19:48,600
+where you have the genus and the species
+ 
+
+793
+00:19:48,600 --> 00:19:51,529
+where you have the genus and the species
+the kingdom and the phylas and so on
+
+794
+00:19:51,529 --> 00:19:51,539
+the kingdom and the phylas and so on
+ 
+
+795
+00:19:51,539 --> 00:19:55,130
+the kingdom and the phylas and so on
+and we say well you know there's the
+
+796
+00:19:55,130 --> 00:19:55,140
+and we say well you know there's the
+ 
+
+797
+00:19:55,140 --> 00:19:56,570
+and we say well you know there's the
+animal kingdom
+
+798
+00:19:56,570 --> 00:19:56,580
+animal kingdom
+ 
+
+799
+00:19:56,580 --> 00:19:59,270
+animal kingdom
+and the plant kingdom
+
+800
+00:19:59,270 --> 00:19:59,280
+and the plant kingdom
+ 
+
+801
+00:19:59,280 --> 00:20:01,190
+and the plant kingdom
+now they're both
+
+802
+00:20:01,190 --> 00:20:01,200
+now they're both
+ 
+
+803
+00:20:01,200 --> 00:20:04,970
+now they're both
+examples of living things
+
+804
+00:20:04,970 --> 00:20:04,980
+examples of living things
+ 
+
+805
+00:20:04,980 --> 00:20:06,470
+examples of living things
+but they're two completely different
+
+806
+00:20:06,470 --> 00:20:06,480
+but they're two completely different
+ 
+
+807
+00:20:06,480 --> 00:20:08,450
+but they're two completely different
+kingdoms
+
+808
+00:20:08,450 --> 00:20:08,460
+kingdoms
+ 
+
+809
+00:20:08,460 --> 00:20:10,490
+kingdoms
+they have one thing in common there's
+
+810
+00:20:10,490 --> 00:20:10,500
+they have one thing in common there's
+ 
+
+811
+00:20:10,500 --> 00:20:11,630
+they have one thing in common there's
+the general
+
+812
+00:20:11,630 --> 00:20:11,640
+the general
+ 
+
+813
+00:20:11,640 --> 00:20:14,029
+the general
+they're both bios they're both alive
+
+814
+00:20:14,029 --> 00:20:14,039
+they're both bios they're both alive
+ 
+
+815
+00:20:14,039 --> 00:20:15,830
+they're both bios they're both alive
+okay
+
+816
+00:20:15,830 --> 00:20:15,840
+okay
+ 
+
+817
+00:20:15,840 --> 00:20:17,510
+okay
+but then we talk about different kinds
+
+818
+00:20:17,510 --> 00:20:17,520
+but then we talk about different kinds
+ 
+
+819
+00:20:17,520 --> 00:20:19,730
+but then we talk about different kinds
+of life to distinguish between animals
+
+820
+00:20:19,730 --> 00:20:19,740
+of life to distinguish between animals
+ 
+
+821
+00:20:19,740 --> 00:20:21,470
+of life to distinguish between animals
+and
+
+822
+00:20:21,470 --> 00:20:21,480
+and
+ 
+
+823
+00:20:21,480 --> 00:20:23,570
+and
+vegetables or
+
+824
+00:20:23,570 --> 00:20:23,580
+vegetables or
+ 
+
+825
+00:20:23,580 --> 00:20:25,730
+vegetables or
+plants
+
+826
+00:20:25,730 --> 00:20:25,740
+plants
+ 
+
+827
+00:20:25,740 --> 00:20:29,750
+plants
+now indefinite defining things you pay
+
+828
+00:20:29,750 --> 00:20:29,760
+now indefinite defining things you pay
+ 
+
+829
+00:20:29,760 --> 00:20:33,409
+now indefinite defining things you pay
+attention both to similarities and
+
+830
+00:20:33,409 --> 00:20:33,419
+attention both to similarities and
+ 
+
+831
+00:20:33,419 --> 00:20:35,210
+attention both to similarities and
+differences
+
+832
+00:20:35,210 --> 00:20:35,220
+differences
+ 
+
+833
+00:20:35,220 --> 00:20:37,970
+differences
+we are all in the animal kingdom
+
+834
+00:20:37,970 --> 00:20:37,980
+we are all in the animal kingdom
+ 
+
+835
+00:20:37,980 --> 00:20:40,250
+we are all in the animal kingdom
+but we're not baboons
+
+836
+00:20:40,250 --> 00:20:40,260
+but we're not baboons
+ 
+
+837
+00:20:40,260 --> 00:20:42,110
+but we're not baboons
+we further differentiate and
+
+838
+00:20:42,110 --> 00:20:42,120
+we further differentiate and
+ 
+
+839
+00:20:42,120 --> 00:20:44,210
+we further differentiate and
+particularize within the animal kingdom
+
+840
+00:20:44,210 --> 00:20:44,220
+particularize within the animal kingdom
+ 
+
+841
+00:20:44,220 --> 00:20:47,450
+particularize within the animal kingdom
+the difference between human beings and
+
+842
+00:20:47,450 --> 00:20:47,460
+the difference between human beings and
+ 
+
+843
+00:20:47,460 --> 00:20:50,270
+the difference between human beings and
+baboons and then we go into further
+
+844
+00:20:50,270 --> 00:20:50,280
+baboons and then we go into further
+ 
+
+845
+00:20:50,280 --> 00:20:52,970
+baboons and then we go into further
+Precision when we talk about male and
+
+846
+00:20:52,970 --> 00:20:52,980
+Precision when we talk about male and
+ 
+
+847
+00:20:52,980 --> 00:20:54,169
+Precision when we talk about male and
+female
+
+848
+00:20:54,169 --> 00:20:54,179
+female
+ 
+
+849
+00:20:54,179 --> 00:20:56,810
+female
+and we further particularize by making
+
+850
+00:20:56,810 --> 00:20:56,820
+and we further particularize by making
+ 
+
+851
+00:20:56,820 --> 00:20:59,230
+and we further particularize by making
+additional predications about
+
+852
+00:20:59,230 --> 00:20:59,240
+additional predications about
+ 
+
+853
+00:20:59,240 --> 00:21:02,150
+additional predications about
+individuals where this man has a name he
+
+854
+00:21:02,150 --> 00:21:02,160
+individuals where this man has a name he
+ 
+
+855
+00:21:02,160 --> 00:21:04,010
+individuals where this man has a name he
+has an age he has a certain height and
+
+856
+00:21:04,010 --> 00:21:04,020
+has an age he has a certain height and
+ 
+
+857
+00:21:04,020 --> 00:21:06,409
+has an age he has a certain height and
+weight and so on where we get more and
+
+858
+00:21:06,409 --> 00:21:06,419
+weight and so on where we get more and
+ 
+
+859
+00:21:06,419 --> 00:21:08,870
+weight and so on where we get more and
+more and more precise
+
+860
+00:21:08,870 --> 00:21:08,880
+more and more precise
+ 
+
+861
+00:21:08,880 --> 00:21:11,150
+more and more precise
+but that's what's necessary for
+
+862
+00:21:11,150 --> 00:21:11,160
+but that's what's necessary for
+ 
+
+863
+00:21:11,160 --> 00:21:13,730
+but that's what's necessary for
+knowledge to take place and for language
+
+864
+00:21:13,730 --> 00:21:13,740
+knowledge to take place and for language
+ 
+
+865
+00:21:13,740 --> 00:21:16,909
+knowledge to take place and for language
+to work you need both the general and
+
+866
+00:21:16,909 --> 00:21:16,919
+to work you need both the general and
+ 
+
+867
+00:21:16,919 --> 00:21:20,090
+to work you need both the general and
+the particular you need the subject and
+
+868
+00:21:20,090 --> 00:21:20,100
+the particular you need the subject and
+ 
+
+869
+00:21:20,100 --> 00:21:23,450
+the particular you need the subject and
+the predicate and they cannot
+
+870
+00:21:23,450 --> 00:21:23,460
+the predicate and they cannot
+ 
+
+871
+00:21:23,460 --> 00:21:27,169
+the predicate and they cannot
+be brought in irreconcilable opposition
+
+872
+00:21:27,169 --> 00:21:27,179
+be brought in irreconcilable opposition
+ 
+
+873
+00:21:27,179 --> 00:21:29,570
+be brought in irreconcilable opposition
+to each other
+
+874
+00:21:29,570 --> 00:21:29,580
+to each other
+ 
+
+875
+00:21:29,580 --> 00:21:32,390
+to each other
+so therefore he postulates the law of
+
+876
+00:21:32,390 --> 00:21:32,400
+so therefore he postulates the law of
+ 
+
+877
+00:21:32,400 --> 00:21:34,130
+so therefore he postulates the law of
+non-contradiction
+
+878
+00:21:34,130 --> 00:21:34,140
+non-contradiction
+ 
+
+879
+00:21:34,140 --> 00:21:39,350
+non-contradiction
+which says that a cannot be a and non-a
+
+880
+00:21:39,350 --> 00:21:39,360
+which says that a cannot be a and non-a
+ 
+
+881
+00:21:39,360 --> 00:21:41,990
+which says that a cannot be a and non-a
+at the same time and in the same
+
+882
+00:21:41,990 --> 00:21:42,000
+at the same time and in the same
+ 
+
+883
+00:21:42,000 --> 00:21:44,270
+at the same time and in the same
+relationship which in simple terms means
+
+884
+00:21:44,270 --> 00:21:44,280
+relationship which in simple terms means
+ 
+
+885
+00:21:44,280 --> 00:21:46,010
+relationship which in simple terms means
+that this piece of chalk
+
+886
+00:21:46,010 --> 00:21:46,020
+that this piece of chalk
+ 
+
+887
+00:21:46,020 --> 00:21:48,529
+that this piece of chalk
+cannot be a piece of chalk and a
+
+888
+00:21:48,529 --> 00:21:48,539
+cannot be a piece of chalk and a
+ 
+
+889
+00:21:48,539 --> 00:21:50,270
+cannot be a piece of chalk and a
+kangaroo
+
+890
+00:21:50,270 --> 00:21:50,280
+kangaroo
+ 
+
+891
+00:21:50,280 --> 00:21:52,669
+kangaroo
+at the same time
+
+892
+00:21:52,669 --> 00:21:52,679
+at the same time
+ 
+
+893
+00:21:52,679 --> 00:21:54,770
+at the same time
+in the same way
+
+894
+00:21:54,770 --> 00:21:54,780
+in the same way
+ 
+
+895
+00:21:54,780 --> 00:21:56,870
+in the same way
+now I can be a father
+
+896
+00:21:56,870 --> 00:21:56,880
+now I can be a father
+ 
+
+897
+00:21:56,880 --> 00:21:58,549
+now I can be a father
+and a son
+
+898
+00:21:58,549 --> 00:21:58,559
+and a son
+ 
+
+899
+00:21:58,559 --> 00:22:00,289
+and a son
+and a brother
+
+900
+00:22:00,289 --> 00:22:00,299
+and a brother
+ 
+
+901
+00:22:00,299 --> 00:22:03,230
+and a brother
+all at the same time we may predicate
+
+902
+00:22:03,230 --> 00:22:03,240
+all at the same time we may predicate
+ 
+
+903
+00:22:03,240 --> 00:22:05,810
+all at the same time we may predicate
+three distinct things about me at the
+
+904
+00:22:05,810 --> 00:22:05,820
+three distinct things about me at the
+ 
+
+905
+00:22:05,820 --> 00:22:08,510
+three distinct things about me at the
+same time but
+
+906
+00:22:08,510 --> 00:22:08,520
+same time but
+ 
+
+907
+00:22:08,520 --> 00:22:11,570
+same time but
+not in the same relationship
+
+908
+00:22:11,570 --> 00:22:11,580
+not in the same relationship
+ 
+
+909
+00:22:11,580 --> 00:22:15,529
+not in the same relationship
+I cannot be a son to my father and have
+
+910
+00:22:15,529 --> 00:22:15,539
+I cannot be a son to my father and have
+ 
+
+911
+00:22:15,539 --> 00:22:16,909
+I cannot be a son to my father and have
+him be
+
+912
+00:22:16,909 --> 00:22:16,919
+him be
+ 
+
+913
+00:22:16,919 --> 00:22:18,529
+him be
+my son
+
+914
+00:22:18,529 --> 00:22:18,539
+my son
+ 
+
+915
+00:22:18,539 --> 00:22:21,049
+my son
+at the same time and in the same
+
+916
+00:22:21,049 --> 00:22:21,059
+at the same time and in the same
+ 
+
+917
+00:22:21,059 --> 00:22:22,370
+at the same time and in the same
+relationship
+
+918
+00:22:22,370 --> 00:22:22,380
+relationship
+ 
+
+919
+00:22:22,380 --> 00:22:25,070
+relationship
+something cannot be what it is and not
+
+920
+00:22:25,070 --> 00:22:25,080
+something cannot be what it is and not
+ 
+
+921
+00:22:25,080 --> 00:22:27,409
+something cannot be what it is and not
+be what it is at the same time in the
+
+922
+00:22:27,409 --> 00:22:27,419
+be what it is at the same time in the
+ 
+
+923
+00:22:27,419 --> 00:22:28,850
+be what it is at the same time in the
+same relationship
+
+924
+00:22:28,850 --> 00:22:28,860
+same relationship
+ 
+
+925
+00:22:28,860 --> 00:22:32,090
+same relationship
+now there can be nothing simpler or more
+
+926
+00:22:32,090 --> 00:22:32,100
+now there can be nothing simpler or more
+ 
+
+927
+00:22:32,100 --> 00:22:33,470
+now there can be nothing simpler or more
+foundational
+
+928
+00:22:33,470 --> 00:22:33,480
+foundational
+ 
+
+929
+00:22:33,480 --> 00:22:36,890
+foundational
+to human intelligibility than that and
+
+930
+00:22:36,890 --> 00:22:36,900
+to human intelligibility than that and
+ 
+
+931
+00:22:36,900 --> 00:22:39,710
+to human intelligibility than that and
+yet in our day we've seen wholesale and
+
+932
+00:22:39,710 --> 00:22:39,720
+yet in our day we've seen wholesale and
+ 
+
+933
+00:22:39,720 --> 00:22:42,169
+yet in our day we've seen wholesale and
+widespread rejection of the most
+
+934
+00:22:42,169 --> 00:22:42,179
+widespread rejection of the most
+ 
+
+935
+00:22:42,179 --> 00:22:44,570
+widespread rejection of the most
+foundational principle that Aristotle
+
+936
+00:22:44,570 --> 00:22:44,580
+foundational principle that Aristotle
+ 
+
+937
+00:22:44,580 --> 00:22:47,630
+foundational principle that Aristotle
+defined for Science and it's not only
+
+938
+00:22:47,630 --> 00:22:47,640
+defined for Science and it's not only
+ 
+
+939
+00:22:47,640 --> 00:22:50,210
+defined for Science and it's not only
+fatal to theology it's fatal to science
+
+940
+00:22:50,210 --> 00:22:50,220
+fatal to theology it's fatal to science
+ 
+
+941
+00:22:50,220 --> 00:22:53,630
+fatal to theology it's fatal to science
+because it removes the necessary
+
+942
+00:22:53,630 --> 00:22:53,640
+because it removes the necessary
+ 
+
+943
+00:22:53,640 --> 00:22:55,450
+because it removes the necessary
+instrument
+
+944
+00:22:55,450 --> 00:22:55,460
+instrument
+ 
+
+945
+00:22:55,460 --> 00:22:57,890
+instrument
+for understanding now there are many
+
+946
+00:22:57,890 --> 00:22:57,900
+for understanding now there are many
+ 
+
+947
+00:22:57,900 --> 00:23:01,610
+for understanding now there are many
+other contributions that Aristotle has
+
+948
+00:23:01,610 --> 00:23:01,620
+other contributions that Aristotle has
+ 
+
+949
+00:23:01,620 --> 00:23:04,310
+other contributions that Aristotle has
+given to the history of philosophy again
+
+950
+00:23:04,310 --> 00:23:04,320
+given to the history of philosophy again
+ 
+
+951
+00:23:04,320 --> 00:23:05,990
+given to the history of philosophy again
+as I said some have said that the whole
+
+952
+00:23:05,990 --> 00:23:06,000
+as I said some have said that the whole
+ 
+
+953
+00:23:06,000 --> 00:23:07,730
+as I said some have said that the whole
+history of theoretical thought is only a
+
+954
+00:23:07,730 --> 00:23:07,740
+history of theoretical thought is only a
+ 
+
+955
+00:23:07,740 --> 00:23:10,850
+history of theoretical thought is only a
+footnote to Plato and Aristotle but
+
+956
+00:23:10,850 --> 00:23:10,860
+footnote to Plato and Aristotle but
+ 
+
+957
+00:23:10,860 --> 00:23:13,370
+footnote to Plato and Aristotle but
+since this is an overview we're going to
+
+958
+00:23:13,370 --> 00:23:13,380
+since this is an overview we're going to
+ 
+
+959
+00:23:13,380 --> 00:23:15,470
+since this is an overview we're going to
+have to leave those other matters for
+
+960
+00:23:15,470 --> 00:23:15,480
+have to leave those other matters for
+ 
+
+961
+00:23:15,480 --> 00:23:19,260
+have to leave those other matters for
+your further research
+

@@ -1,0 +1,4635 @@
+1
+00:00:07,980 --> 00:00:10,790
+
+we've been looking at the Advent of 18th
+
+2
+00:00:10,790 --> 00:00:10,800
+we've been looking at the Advent of 18th
+ 
+
+3
+00:00:10,800 --> 00:00:12,770
+we've been looking at the Advent of 18th
+century empiricism
+
+4
+00:00:12,770 --> 00:00:12,780
+century empiricism
+ 
+
+5
+00:00:12,780 --> 00:00:15,350
+century empiricism
+and I mentioned in passing that the
+
+6
+00:00:15,350 --> 00:00:15,360
+and I mentioned in passing that the
+ 
+
+7
+00:00:15,360 --> 00:00:17,510
+and I mentioned in passing that the
+world in which we live today
+
+8
+00:00:17,510 --> 00:00:17,520
+world in which we live today
+ 
+
+9
+00:00:17,520 --> 00:00:19,970
+world in which we live today
+is filled with people that have a
+
+10
+00:00:19,970 --> 00:00:19,980
+is filled with people that have a
+ 
+
+11
+00:00:19,980 --> 00:00:23,529
+is filled with people that have a
+profound confidence in what can be known
+
+12
+00:00:23,529 --> 00:00:23,539
+profound confidence in what can be known
+ 
+
+13
+00:00:23,539 --> 00:00:26,750
+profound confidence in what can be known
+through the senses it's the show me
+
+14
+00:00:26,750 --> 00:00:26,760
+through the senses it's the show me
+ 
+
+15
+00:00:26,760 --> 00:00:29,269
+through the senses it's the show me
+generation if I can't taste the touch of
+
+16
+00:00:29,269 --> 00:00:29,279
+generation if I can't taste the touch of
+ 
+
+17
+00:00:29,279 --> 00:00:31,189
+generation if I can't taste the touch of
+smells and so on then I'm not going to
+
+18
+00:00:31,189 --> 00:00:31,199
+smells and so on then I'm not going to
+ 
+
+19
+00:00:31,199 --> 00:00:32,690
+smells and so on then I'm not going to
+believe that it exists and as I
+
+20
+00:00:32,690 --> 00:00:32,700
+believe that it exists and as I
+ 
+
+21
+00:00:32,700 --> 00:00:33,950
+believe that it exists and as I
+mentioned
+
+22
+00:00:33,950 --> 00:00:33,960
+mentioned
+ 
+
+23
+00:00:33,960 --> 00:00:37,850
+mentioned
+the disadvantage of empiricism
+
+24
+00:00:37,850 --> 00:00:37,860
+the disadvantage of empiricism
+ 
+
+25
+00:00:37,860 --> 00:00:41,090
+the disadvantage of empiricism
+is that it rests so heavily on the
+
+26
+00:00:41,090 --> 00:00:41,100
+is that it rests so heavily on the
+ 
+
+27
+00:00:41,100 --> 00:00:44,330
+is that it rests so heavily on the
+process of induction that can never
+
+28
+00:00:44,330 --> 00:00:44,340
+process of induction that can never
+ 
+
+29
+00:00:44,340 --> 00:00:49,010
+process of induction that can never
+acquire an exhaustive amount of data
+
+30
+00:00:49,010 --> 00:00:49,020
+acquire an exhaustive amount of data
+ 
+
+31
+00:00:49,020 --> 00:00:52,549
+acquire an exhaustive amount of data
+upon which to make final judgments that
+
+32
+00:00:52,549 --> 00:00:52,559
+upon which to make final judgments that
+ 
+
+33
+00:00:52,559 --> 00:00:55,910
+upon which to make final judgments that
+it has a built-in limitation
+
+34
+00:00:55,910 --> 00:00:55,920
+it has a built-in limitation
+ 
+
+35
+00:00:55,920 --> 00:01:00,830
+it has a built-in limitation
+with respect to philosophical certainty
+
+36
+00:01:00,830 --> 00:01:00,840
+with respect to philosophical certainty
+ 
+
+37
+00:01:00,840 --> 00:01:02,990
+with respect to philosophical certainty
+and though when we look and stand back
+
+38
+00:01:02,990 --> 00:01:03,000
+and though when we look and stand back
+ 
+
+39
+00:01:03,000 --> 00:01:05,090
+and though when we look and stand back
+and look at the 18th century reaction
+
+40
+00:01:05,090 --> 00:01:05,100
+and look at the 18th century reaction
+ 
+
+41
+00:01:05,100 --> 00:01:07,490
+and look at the 18th century reaction
+against the speculative rationalists of
+
+42
+00:01:07,490 --> 00:01:07,500
+against the speculative rationalists of
+ 
+
+43
+00:01:07,500 --> 00:01:10,070
+against the speculative rationalists of
+the 17th century
+
+44
+00:01:10,070 --> 00:01:10,080
+the 17th century
+ 
+
+45
+00:01:10,080 --> 00:01:12,050
+the 17th century
+we have a tendency to think oh finally
+
+46
+00:01:12,050 --> 00:01:12,060
+we have a tendency to think oh finally
+ 
+
+47
+00:01:12,060 --> 00:01:15,649
+we have a tendency to think oh finally
+science wins over all this rational
+
+48
+00:01:15,649 --> 00:01:15,659
+science wins over all this rational
+ 
+
+49
+00:01:15,659 --> 00:01:17,570
+science wins over all this rational
+speculation and we're getting down to
+
+50
+00:01:17,570 --> 00:01:17,580
+speculation and we're getting down to
+ 
+
+51
+00:01:17,580 --> 00:01:21,469
+speculation and we're getting down to
+Common Sense hardcore reality
+
+52
+00:01:21,469 --> 00:01:21,479
+Common Sense hardcore reality
+ 
+
+53
+00:01:21,479 --> 00:01:24,890
+Common Sense hardcore reality
+so that we now can be confident in the
+
+54
+00:01:24,890 --> 00:01:24,900
+so that we now can be confident in the
+ 
+
+55
+00:01:24,900 --> 00:01:27,109
+so that we now can be confident in the
+knowledge that we have what actually was
+
+56
+00:01:27,109 --> 00:01:27,119
+knowledge that we have what actually was
+ 
+
+57
+00:01:27,119 --> 00:01:29,929
+knowledge that we have what actually was
+taking place in the 18th century with
+
+58
+00:01:29,929 --> 00:01:29,939
+taking place in the 18th century with
+ 
+
+59
+00:01:29,939 --> 00:01:34,130
+taking place in the 18th century with
+this beginning of optimism of coming to
+
+60
+00:01:34,130 --> 00:01:34,140
+this beginning of optimism of coming to
+ 
+
+61
+00:01:34,140 --> 00:01:36,230
+this beginning of optimism of coming to
+greater and greater certainty of truth
+
+62
+00:01:36,230 --> 00:01:36,240
+greater and greater certainty of truth
+ 
+
+63
+00:01:36,240 --> 00:01:39,170
+greater and greater certainty of truth
+of the objective world was in many
+
+64
+00:01:39,170 --> 00:01:39,180
+of the objective world was in many
+ 
+
+65
+00:01:39,180 --> 00:01:43,969
+of the objective world was in many
+respects a runaway train of skepticism
+
+66
+00:01:43,969 --> 00:01:43,979
+respects a runaway train of skepticism
+ 
+
+67
+00:01:43,979 --> 00:01:46,850
+respects a runaway train of skepticism
+we will see fairly soon
+
+68
+00:01:46,850 --> 00:01:46,860
+we will see fairly soon
+ 
+
+69
+00:01:46,860 --> 00:01:49,010
+we will see fairly soon
+that in fact what happened
+
+70
+00:01:49,010 --> 00:01:49,020
+that in fact what happened
+ 
+
+71
+00:01:49,020 --> 00:01:52,010
+that in fact what happened
+in the 18th century with this runaway
+
+72
+00:01:52,010 --> 00:01:52,020
+in the 18th century with this runaway
+ 
+
+73
+00:01:52,020 --> 00:01:55,730
+in the 18th century with this runaway
+train that it did end in complete
+
+74
+00:01:55,730 --> 00:01:55,740
+train that it did end in complete
+ 
+
+75
+00:01:55,740 --> 00:01:57,289
+train that it did end in complete
+skepticism
+
+76
+00:01:57,289 --> 00:01:57,299
+skepticism
+ 
+
+77
+00:01:57,299 --> 00:02:01,130
+skepticism
+so that at the end of the of the track
+
+78
+00:02:01,130 --> 00:02:01,140
+so that at the end of the of the track
+ 
+
+79
+00:02:01,140 --> 00:02:03,469
+so that at the end of the of the track
+the question was being asked whether
+
+80
+00:02:03,469 --> 00:02:03,479
+the question was being asked whether
+ 
+
+81
+00:02:03,479 --> 00:02:07,670
+the question was being asked whether
+science was possible at all
+
+82
+00:02:07,670 --> 00:02:07,680
+science was possible at all
+ 
+
+83
+00:02:07,680 --> 00:02:10,430
+science was possible at all
+and this all has to do
+
+84
+00:02:10,430 --> 00:02:10,440
+and this all has to do
+ 
+
+85
+00:02:10,440 --> 00:02:12,770
+and this all has to do
+with this simple little distinction I
+
+86
+00:02:12,770 --> 00:02:12,780
+with this simple little distinction I
+ 
+
+87
+00:02:12,780 --> 00:02:15,110
+with this simple little distinction I
+looked at in our last session
+
+88
+00:02:15,110 --> 00:02:15,120
+looked at in our last session
+ 
+
+89
+00:02:15,120 --> 00:02:19,790
+looked at in our last session
+between primary and secondary qualities
+
+90
+00:02:19,790 --> 00:02:19,800
+between primary and secondary qualities
+ 
+
+91
+00:02:19,800 --> 00:02:21,830
+between primary and secondary qualities
+now Bishop Barkley
+
+92
+00:02:21,830 --> 00:02:21,840
+now Bishop Barkley
+ 
+
+93
+00:02:21,840 --> 00:02:24,470
+now Bishop Barkley
+who I said was concerned
+
+94
+00:02:24,470 --> 00:02:24,480
+who I said was concerned
+ 
+
+95
+00:02:24,480 --> 00:02:28,550
+who I said was concerned
+to leave room for God in the universe
+
+96
+00:02:28,550 --> 00:02:28,560
+to leave room for God in the universe
+ 
+
+97
+00:02:28,560 --> 00:02:32,570
+to leave room for God in the universe
+and who sometimes is ridiculed in our
+
+98
+00:02:32,570 --> 00:02:32,580
+and who sometimes is ridiculed in our
+ 
+
+99
+00:02:32,580 --> 00:02:37,670
+and who sometimes is ridiculed in our
+age as being extreme in his views of
+
+100
+00:02:37,670 --> 00:02:37,680
+age as being extreme in his views of
+ 
+
+101
+00:02:37,680 --> 00:02:38,809
+age as being extreme in his views of
+things
+
+102
+00:02:38,809 --> 00:02:38,819
+things
+ 
+
+103
+00:02:38,819 --> 00:02:41,150
+things
+is the one who
+
+104
+00:02:41,150 --> 00:02:41,160
+is the one who
+ 
+
+105
+00:02:41,160 --> 00:02:44,270
+is the one who
+first really made popular an expression
+
+106
+00:02:44,270 --> 00:02:44,280
+first really made popular an expression
+ 
+
+107
+00:02:44,280 --> 00:02:46,190
+first really made popular an expression
+that if you've never heard of Barkley
+
+108
+00:02:46,190 --> 00:02:46,200
+that if you've never heard of Barkley
+ 
+
+109
+00:02:46,200 --> 00:02:48,530
+that if you've never heard of Barkley
+and never heard of his idealism or his
+
+110
+00:02:48,530 --> 00:02:48,540
+and never heard of his idealism or his
+ 
+
+111
+00:02:48,540 --> 00:02:50,390
+and never heard of his idealism or his
+form of empiricism
+
+112
+00:02:50,390 --> 00:02:50,400
+form of empiricism
+ 
+
+113
+00:02:50,400 --> 00:02:52,670
+form of empiricism
+you still would have heard this idea
+
+114
+00:02:52,670 --> 00:02:52,680
+you still would have heard this idea
+ 
+
+115
+00:02:52,680 --> 00:02:55,729
+you still would have heard this idea
+when you were children in school the
+
+116
+00:02:55,729 --> 00:02:55,739
+when you were children in school the
+ 
+
+117
+00:02:55,739 --> 00:02:57,949
+when you were children in school the
+question was posed before you
+
+118
+00:02:57,949 --> 00:02:57,959
+question was posed before you
+ 
+
+119
+00:02:57,959 --> 00:03:02,690
+question was posed before you
+if a tree falls in the forest
+
+120
+00:03:02,690 --> 00:03:02,700
+if a tree falls in the forest
+ 
+
+121
+00:03:02,700 --> 00:03:08,210
+if a tree falls in the forest
+and nobody is there to hear it fall
+
+122
+00:03:08,210 --> 00:03:08,220
+
+ 
+
+123
+00:03:08,220 --> 00:03:10,250
+
+doesn't make any noise
+
+124
+00:03:10,250 --> 00:03:10,260
+doesn't make any noise
+ 
+
+125
+00:03:10,260 --> 00:03:12,649
+doesn't make any noise
+does it make any sound did you hear that
+
+126
+00:03:12,649 --> 00:03:12,659
+does it make any sound did you hear that
+ 
+
+127
+00:03:12,659 --> 00:03:14,710
+does it make any sound did you hear that
+poser when you're school man modern day
+
+128
+00:03:14,710 --> 00:03:14,720
+poser when you're school man modern day
+ 
+
+129
+00:03:14,720 --> 00:03:18,530
+poser when you're school man modern day
+contemporary version of that is that if
+
+130
+00:03:18,530 --> 00:03:18,540
+contemporary version of that is that if
+ 
+
+131
+00:03:18,540 --> 00:03:21,710
+contemporary version of that is that if
+a man speaks
+
+132
+00:03:21,710 --> 00:03:21,720
+a man speaks
+ 
+
+133
+00:03:21,720 --> 00:03:23,570
+a man speaks
+in a room
+
+134
+00:03:23,570 --> 00:03:23,580
+in a room
+ 
+
+135
+00:03:23,580 --> 00:03:26,990
+in a room
+and a woman is not there to hear him is
+
+136
+00:03:26,990 --> 00:03:27,000
+and a woman is not there to hear him is
+ 
+
+137
+00:03:27,000 --> 00:03:30,110
+and a woman is not there to hear him is
+he still wrong that's that's the modern
+
+138
+00:03:30,110 --> 00:03:30,120
+he still wrong that's that's the modern
+ 
+
+139
+00:03:30,120 --> 00:03:32,509
+he still wrong that's that's the modern
+version but you get the you get the
+
+140
+00:03:32,509 --> 00:03:32,519
+version but you get the you get the
+ 
+
+141
+00:03:32,519 --> 00:03:35,390
+version but you get the you get the
+picture that if the tree falls in the
+
+142
+00:03:35,390 --> 00:03:35,400
+picture that if the tree falls in the
+ 
+
+143
+00:03:35,400 --> 00:03:38,570
+picture that if the tree falls in the
+forest and no one is there to hear it is
+
+144
+00:03:38,570 --> 00:03:38,580
+forest and no one is there to hear it is
+ 
+
+145
+00:03:38,580 --> 00:03:41,089
+forest and no one is there to hear it is
+there any sound
+
+146
+00:03:41,089 --> 00:03:41,099
+there any sound
+ 
+
+147
+00:03:41,099 --> 00:03:43,729
+there any sound
+now the question that is inherent in
+
+148
+00:03:43,729 --> 00:03:43,739
+now the question that is inherent in
+ 
+
+149
+00:03:43,739 --> 00:03:45,589
+now the question that is inherent in
+that simple poser
+
+150
+00:03:45,589 --> 00:03:45,599
+that simple poser
+ 
+
+151
+00:03:45,599 --> 00:03:49,309
+that simple poser
+is the question is Sound a primary
+
+152
+00:03:49,309 --> 00:03:49,319
+is the question is Sound a primary
+ 
+
+153
+00:03:49,319 --> 00:03:50,690
+is the question is Sound a primary
+quality
+
+154
+00:03:50,690 --> 00:03:50,700
+quality
+ 
+
+155
+00:03:50,700 --> 00:03:53,270
+quality
+or a secondary quality
+
+156
+00:03:53,270 --> 00:03:53,280
+or a secondary quality
+ 
+
+157
+00:03:53,280 --> 00:03:56,869
+or a secondary quality
+it sounds something that exists apart
+
+158
+00:03:56,869 --> 00:03:56,879
+it sounds something that exists apart
+ 
+
+159
+00:03:56,879 --> 00:03:57,910
+it sounds something that exists apart
+from
+
+160
+00:03:57,910 --> 00:03:57,920
+from
+ 
+
+161
+00:03:57,920 --> 00:04:00,410
+from
+someone's hearing it
+
+162
+00:04:00,410 --> 00:04:00,420
+someone's hearing it
+ 
+
+163
+00:04:00,420 --> 00:04:01,789
+someone's hearing it
+or
+
+164
+00:04:01,789 --> 00:04:01,799
+or
+ 
+
+165
+00:04:01,799 --> 00:04:05,089
+or
+is sound just as important upon the ear
+
+166
+00:04:05,089 --> 00:04:05,099
+is sound just as important upon the ear
+ 
+
+167
+00:04:05,099 --> 00:04:09,350
+is sound just as important upon the ear
+as color is upon the eye
+
+168
+00:04:09,350 --> 00:04:09,360
+as color is upon the eye
+ 
+
+169
+00:04:09,360 --> 00:04:11,690
+as color is upon the eye
+to be real
+
+170
+00:04:11,690 --> 00:04:11,700
+to be real
+ 
+
+171
+00:04:11,700 --> 00:04:14,030
+to be real
+of course in modern days we measure
+
+172
+00:04:14,030 --> 00:04:14,040
+of course in modern days we measure
+ 
+
+173
+00:04:14,040 --> 00:04:18,909
+of course in modern days we measure
+sound by physically measuring the
+
+174
+00:04:18,909 --> 00:04:18,919
+sound by physically measuring the
+ 
+
+175
+00:04:18,919 --> 00:04:21,890
+sound by physically measuring the
+wavelengths that are there and we could
+
+176
+00:04:21,890 --> 00:04:21,900
+wavelengths that are there and we could
+ 
+
+177
+00:04:21,900 --> 00:04:24,409
+wavelengths that are there and we could
+say that in all probability the
+
+178
+00:04:24,409 --> 00:04:24,419
+say that in all probability the
+ 
+
+179
+00:04:24,419 --> 00:04:26,749
+say that in all probability the
+wavelengths would still be set in motion
+
+180
+00:04:26,749 --> 00:04:26,759
+wavelengths would still be set in motion
+ 
+
+181
+00:04:26,759 --> 00:04:29,090
+wavelengths would still be set in motion
+by the falling of the tree whether
+
+182
+00:04:29,090 --> 00:04:29,100
+by the falling of the tree whether
+ 
+
+183
+00:04:29,100 --> 00:04:31,249
+by the falling of the tree whether
+anybody's there to hear it or not but
+
+184
+00:04:31,249 --> 00:04:31,259
+anybody's there to hear it or not but
+ 
+
+185
+00:04:31,259 --> 00:04:32,810
+anybody's there to hear it or not but
+we're not looking at this Through The
+
+186
+00:04:32,810 --> 00:04:32,820
+we're not looking at this Through The
+ 
+
+187
+00:04:32,820 --> 00:04:35,390
+we're not looking at this Through The
+Eyes now of 20th century physicists
+
+188
+00:04:35,390 --> 00:04:35,400
+Eyes now of 20th century physicists
+ 
+
+189
+00:04:35,400 --> 00:04:38,210
+Eyes now of 20th century physicists
+we're looking at it through the eyes and
+
+190
+00:04:38,210 --> 00:04:38,220
+we're looking at it through the eyes and
+ 
+
+191
+00:04:38,220 --> 00:04:43,310
+we're looking at it through the eyes and
+the ears of 18th century philosophers
+
+192
+00:04:43,310 --> 00:04:43,320
+the ears of 18th century philosophers
+ 
+
+193
+00:04:43,320 --> 00:04:46,850
+the ears of 18th century philosophers
+well it was Bishop Barkley who coined a
+
+194
+00:04:46,850 --> 00:04:46,860
+well it was Bishop Barkley who coined a
+ 
+
+195
+00:04:46,860 --> 00:04:48,890
+well it was Bishop Barkley who coined a
+Latin phrase that has become important
+
+196
+00:04:48,890 --> 00:04:48,900
+Latin phrase that has become important
+ 
+
+197
+00:04:48,900 --> 00:04:51,230
+Latin phrase that has become important
+in the history of philosophy
+
+198
+00:04:51,230 --> 00:04:51,240
+in the history of philosophy
+ 
+
+199
+00:04:51,240 --> 00:04:54,290
+in the history of philosophy
+and that is the phrase Essie
+
+200
+00:04:54,290 --> 00:04:54,300
+and that is the phrase Essie
+ 
+
+201
+00:04:54,300 --> 00:04:56,510
+and that is the phrase Essie
+asked
+
+202
+00:04:56,510 --> 00:04:56,520
+asked
+ 
+
+203
+00:04:56,520 --> 00:05:00,830
+asked
+perkipi
+
+204
+00:05:00,830 --> 00:05:00,840
+
+ 
+
+205
+00:05:00,840 --> 00:05:03,830
+
+SC s perkipi
+
+206
+00:05:03,830 --> 00:05:03,840
+SC s perkipi
+ 
+
+207
+00:05:03,840 --> 00:05:07,550
+SC s perkipi
+which means in translation
+
+208
+00:05:07,550 --> 00:05:07,560
+which means in translation
+ 
+
+209
+00:05:07,560 --> 00:05:13,370
+which means in translation
+to be
+
+210
+00:05:13,370 --> 00:05:13,380
+
+ 
+
+211
+00:05:13,380 --> 00:05:16,850
+
+is to be
+
+212
+00:05:16,850 --> 00:05:16,860
+is to be
+ 
+
+213
+00:05:16,860 --> 00:05:22,249
+is to be
+perceived
+
+214
+00:05:22,249 --> 00:05:22,259
+
+ 
+
+215
+00:05:22,259 --> 00:05:25,430
+
+to be is to be perceived
+
+216
+00:05:25,430 --> 00:05:25,440
+to be is to be perceived
+ 
+
+217
+00:05:25,440 --> 00:05:29,210
+to be is to be perceived
+so if you would say to Bishop Barkley is
+
+218
+00:05:29,210 --> 00:05:29,220
+so if you would say to Bishop Barkley is
+ 
+
+219
+00:05:29,220 --> 00:05:31,969
+so if you would say to Bishop Barkley is
+there a sound in the forest
+
+220
+00:05:31,969 --> 00:05:31,979
+there a sound in the forest
+ 
+
+221
+00:05:31,979 --> 00:05:34,909
+there a sound in the forest
+if there is no one there to hear the
+
+222
+00:05:34,909 --> 00:05:34,919
+if there is no one there to hear the
+ 
+
+223
+00:05:34,919 --> 00:05:37,010
+if there is no one there to hear the
+tree fall
+
+224
+00:05:37,010 --> 00:05:37,020
+tree fall
+ 
+
+225
+00:05:37,020 --> 00:05:39,610
+tree fall
+well he would answer that question
+
+226
+00:05:39,610 --> 00:05:39,620
+well he would answer that question
+ 
+
+227
+00:05:39,620 --> 00:05:42,230
+well he would answer that question
+two different ways
+
+228
+00:05:42,230 --> 00:05:42,240
+two different ways
+ 
+
+229
+00:05:42,240 --> 00:05:44,629
+two different ways
+on the one hand
+
+230
+00:05:44,629 --> 00:05:44,639
+on the one hand
+ 
+
+231
+00:05:44,639 --> 00:05:46,550
+on the one hand
+he would say
+
+232
+00:05:46,550 --> 00:05:46,560
+he would say
+ 
+
+233
+00:05:46,560 --> 00:05:49,490
+he would say
+that if there is absolutely no one
+
+234
+00:05:49,490 --> 00:05:49,500
+that if there is absolutely no one
+ 
+
+235
+00:05:49,500 --> 00:05:53,150
+that if there is absolutely no one
+who perceives that tree falling
+
+236
+00:05:53,150 --> 00:05:53,160
+who perceives that tree falling
+ 
+
+237
+00:05:53,160 --> 00:05:56,210
+who perceives that tree falling
+there would not be a sound
+
+238
+00:05:56,210 --> 00:05:56,220
+there would not be a sound
+ 
+
+239
+00:05:56,220 --> 00:05:59,930
+there would not be a sound
+in fact there wouldn't even be a tree
+
+240
+00:05:59,930 --> 00:05:59,940
+in fact there wouldn't even be a tree
+ 
+
+241
+00:05:59,940 --> 00:06:04,010
+in fact there wouldn't even be a tree
+if we take this principle to its fullest
+
+242
+00:06:04,010 --> 00:06:04,020
+if we take this principle to its fullest
+ 
+
+243
+00:06:04,020 --> 00:06:05,090
+if we take this principle to its fullest
+conclusion
+
+244
+00:06:05,090 --> 00:06:05,100
+conclusion
+ 
+
+245
+00:06:05,100 --> 00:06:08,930
+conclusion
+if to even be is to be perceived that
+
+246
+00:06:08,930 --> 00:06:08,940
+if to even be is to be perceived that
+ 
+
+247
+00:06:08,940 --> 00:06:11,689
+if to even be is to be perceived that
+means that if it's not perceived
+
+248
+00:06:11,689 --> 00:06:11,699
+means that if it's not perceived
+ 
+
+249
+00:06:11,699 --> 00:06:15,290
+means that if it's not perceived
+it doesn't exist not only the sound
+
+250
+00:06:15,290 --> 00:06:15,300
+it doesn't exist not only the sound
+ 
+
+251
+00:06:15,300 --> 00:06:17,450
+it doesn't exist not only the sound
+would disappear but the tree would
+
+252
+00:06:17,450 --> 00:06:17,460
+would disappear but the tree would
+ 
+
+253
+00:06:17,460 --> 00:06:19,310
+would disappear but the tree would
+disappear and if there were no one there
+
+254
+00:06:19,310 --> 00:06:19,320
+disappear and if there were no one there
+ 
+
+255
+00:06:19,320 --> 00:06:21,710
+disappear and if there were no one there
+to perceive the forest the forest would
+
+256
+00:06:21,710 --> 00:06:21,720
+to perceive the forest the forest would
+ 
+
+257
+00:06:21,720 --> 00:06:23,330
+to perceive the forest the forest would
+disappear
+
+258
+00:06:23,330 --> 00:06:23,340
+disappear
+ 
+
+259
+00:06:23,340 --> 00:06:28,370
+disappear
+or to take it to its ultimate conclusion
+
+260
+00:06:28,370 --> 00:06:28,380
+
+ 
+
+261
+00:06:28,380 --> 00:06:32,210
+
+not only the consequences of material
+
+262
+00:06:32,210 --> 00:06:32,220
+not only the consequences of material
+ 
+
+263
+00:06:32,220 --> 00:06:35,450
+not only the consequences of material
+things would disappear
+
+264
+00:06:35,450 --> 00:06:35,460
+things would disappear
+ 
+
+265
+00:06:35,460 --> 00:06:39,350
+things would disappear
+but matter itself would disappear
+
+266
+00:06:39,350 --> 00:06:39,360
+but matter itself would disappear
+ 
+
+267
+00:06:39,360 --> 00:06:43,749
+but matter itself would disappear
+because matter itself is dependent upon
+
+268
+00:06:43,749 --> 00:06:43,759
+because matter itself is dependent upon
+ 
+
+269
+00:06:43,759 --> 00:06:49,969
+because matter itself is dependent upon
+someone's perception for its very being
+
+270
+00:06:49,969 --> 00:06:49,979
+someone's perception for its very being
+ 
+
+271
+00:06:49,979 --> 00:06:51,710
+someone's perception for its very being
+aha
+
+272
+00:06:51,710 --> 00:06:51,720
+aha
+ 
+
+273
+00:06:51,720 --> 00:06:53,749
+aha
+we're saying that what this man is
+
+274
+00:06:53,749 --> 00:06:53,759
+we're saying that what this man is
+ 
+
+275
+00:06:53,759 --> 00:06:55,189
+we're saying that what this man is
+concerned about
+
+276
+00:06:55,189 --> 00:06:55,199
+concerned about
+ 
+
+277
+00:06:55,199 --> 00:06:58,370
+concerned about
+is to stop the tide of materialism and
+
+278
+00:06:58,370 --> 00:06:58,380
+is to stop the tide of materialism and
+ 
+
+279
+00:06:58,380 --> 00:07:01,249
+is to stop the tide of materialism and
+to stop the tide of atheism now some
+
+280
+00:07:01,249 --> 00:07:01,259
+to stop the tide of atheism now some
+ 
+
+281
+00:07:01,259 --> 00:07:04,430
+to stop the tide of atheism now some
+people assume that therefore what
+
+282
+00:07:04,430 --> 00:07:04,440
+people assume that therefore what
+ 
+
+283
+00:07:04,440 --> 00:07:07,129
+people assume that therefore what
+Barclay was saying was that matter
+
+284
+00:07:07,129 --> 00:07:07,139
+Barclay was saying was that matter
+ 
+
+285
+00:07:07,139 --> 00:07:10,370
+Barclay was saying was that matter
+doesn't exist at all
+
+286
+00:07:10,370 --> 00:07:10,380
+doesn't exist at all
+ 
+
+287
+00:07:10,380 --> 00:07:12,230
+doesn't exist at all
+the tree doesn't exist the sound doesn't
+
+288
+00:07:12,230 --> 00:07:12,240
+the tree doesn't exist the sound doesn't
+ 
+
+289
+00:07:12,240 --> 00:07:15,050
+the tree doesn't exist the sound doesn't
+exist you don't exist
+
+290
+00:07:15,050 --> 00:07:15,060
+exist you don't exist
+ 
+
+291
+00:07:15,060 --> 00:07:18,770
+exist you don't exist
+nothing exists and everything is an
+
+292
+00:07:18,770 --> 00:07:18,780
+nothing exists and everything is an
+ 
+
+293
+00:07:18,780 --> 00:07:19,730
+nothing exists and everything is an
+illusion
+
+294
+00:07:19,730 --> 00:07:19,740
+illusion
+ 
+
+295
+00:07:19,740 --> 00:07:22,909
+illusion
+now there are those popular readers of
+
+296
+00:07:22,909 --> 00:07:22,919
+now there are those popular readers of
+ 
+
+297
+00:07:22,919 --> 00:07:24,589
+now there are those popular readers of
+Barkley who have come to the conclusion
+
+298
+00:07:24,589 --> 00:07:24,599
+Barkley who have come to the conclusion
+ 
+
+299
+00:07:24,599 --> 00:07:26,150
+Barkley who have come to the conclusion
+that this guy was just spinning out
+
+300
+00:07:26,150 --> 00:07:26,160
+that this guy was just spinning out
+ 
+
+301
+00:07:26,160 --> 00:07:29,330
+that this guy was just spinning out
+nonsense and talking about everything is
+
+302
+00:07:29,330 --> 00:07:29,340
+nonsense and talking about everything is
+ 
+
+303
+00:07:29,340 --> 00:07:33,290
+nonsense and talking about everything is
+an illusion no no no Barclay believed in
+
+304
+00:07:33,290 --> 00:07:33,300
+an illusion no no no Barclay believed in
+ 
+
+305
+00:07:33,300 --> 00:07:35,210
+an illusion no no no Barclay believed in
+real trees
+
+306
+00:07:35,210 --> 00:07:35,220
+real trees
+ 
+
+307
+00:07:35,220 --> 00:07:39,469
+real trees
+and Barkley believed in real sound
+
+308
+00:07:39,469 --> 00:07:39,479
+and Barkley believed in real sound
+ 
+
+309
+00:07:39,479 --> 00:07:42,529
+and Barkley believed in real sound
+but he said there can't be
+
+310
+00:07:42,529 --> 00:07:42,539
+but he said there can't be
+ 
+
+311
+00:07:42,539 --> 00:07:46,129
+but he said there can't be
+being without perception
+
+312
+00:07:46,129 --> 00:07:46,139
+being without perception
+ 
+
+313
+00:07:46,139 --> 00:07:47,990
+being without perception
+remember I said that he would answer the
+
+314
+00:07:47,990 --> 00:07:48,000
+remember I said that he would answer the
+ 
+
+315
+00:07:48,000 --> 00:07:48,950
+remember I said that he would answer the
+question
+
+316
+00:07:48,950 --> 00:07:48,960
+question
+ 
+
+317
+00:07:48,960 --> 00:07:51,170
+question
+about the sound in the forest two
+
+318
+00:07:51,170 --> 00:07:51,180
+about the sound in the forest two
+ 
+
+319
+00:07:51,180 --> 00:07:53,330
+about the sound in the forest two
+different ways on the one hand if you
+
+320
+00:07:53,330 --> 00:07:53,340
+different ways on the one hand if you
+ 
+
+321
+00:07:53,340 --> 00:07:55,490
+different ways on the one hand if you
+would say to him if no one perceives the
+
+322
+00:07:55,490 --> 00:07:55,500
+would say to him if no one perceives the
+ 
+
+323
+00:07:55,500 --> 00:07:57,170
+would say to him if no one perceives the
+sound would there be any sound he'd say
+
+324
+00:07:57,170 --> 00:07:57,180
+sound would there be any sound he'd say
+ 
+
+325
+00:07:57,180 --> 00:07:59,330
+sound would there be any sound he'd say
+no
+
+326
+00:07:59,330 --> 00:07:59,340
+no
+ 
+
+327
+00:07:59,340 --> 00:08:02,089
+no
+but on the other hand he would say
+
+328
+00:08:02,089 --> 00:08:02,099
+but on the other hand he would say
+ 
+
+329
+00:08:02,099 --> 00:08:04,909
+but on the other hand he would say
+if you aren't there and I am not there
+
+330
+00:08:04,909 --> 00:08:04,919
+if you aren't there and I am not there
+ 
+
+331
+00:08:04,919 --> 00:08:06,950
+if you aren't there and I am not there
+and nobody else in this world is there
+
+332
+00:08:06,950 --> 00:08:06,960
+and nobody else in this world is there
+ 
+
+333
+00:08:06,960 --> 00:08:09,890
+and nobody else in this world is there
+to hear that sound there would still be
+
+334
+00:08:09,890 --> 00:08:09,900
+to hear that sound there would still be
+ 
+
+335
+00:08:09,900 --> 00:08:11,089
+to hear that sound there would still be
+sound
+
+336
+00:08:11,089 --> 00:08:11,099
+sound
+ 
+
+337
+00:08:11,099 --> 00:08:16,029
+sound
+because it would be heard by God
+
+338
+00:08:16,029 --> 00:08:16,039
+
+ 
+
+339
+00:08:16,039 --> 00:08:20,629
+
+in this case in simple terms could be
+
+340
+00:08:20,629 --> 00:08:20,639
+in this case in simple terms could be
+ 
+
+341
+00:08:20,639 --> 00:08:22,850
+in this case in simple terms could be
+called the Great
+
+342
+00:08:22,850 --> 00:08:22,860
+called the Great
+ 
+
+343
+00:08:22,860 --> 00:08:25,129
+called the Great
+perceiver
+
+344
+00:08:25,129 --> 00:08:25,139
+perceiver
+ 
+
+345
+00:08:25,139 --> 00:08:29,210
+perceiver
+by whose perception
+
+346
+00:08:29,210 --> 00:08:29,220
+by whose perception
+ 
+
+347
+00:08:29,220 --> 00:08:32,990
+by whose perception
+reality holds together
+
+348
+00:08:32,990 --> 00:08:33,000
+reality holds together
+ 
+
+349
+00:08:33,000 --> 00:08:36,709
+reality holds together
+and without his knowledge
+
+350
+00:08:36,709 --> 00:08:36,719
+and without his knowledge
+ 
+
+351
+00:08:36,719 --> 00:08:41,089
+and without his knowledge
+the idea of things actually being in the
+
+352
+00:08:41,089 --> 00:08:41,099
+the idea of things actually being in the
+ 
+
+353
+00:08:41,099 --> 00:08:43,250
+the idea of things actually being in the
+mind of God
+
+354
+00:08:43,250 --> 00:08:43,260
+mind of God
+ 
+
+355
+00:08:43,260 --> 00:08:47,329
+mind of God
+nothing would possibly or could possibly
+
+356
+00:08:47,329 --> 00:08:47,339
+nothing would possibly or could possibly
+ 
+
+357
+00:08:47,339 --> 00:08:49,130
+nothing would possibly or could possibly
+be
+
+358
+00:08:49,130 --> 00:08:49,140
+be
+ 
+
+359
+00:08:49,140 --> 00:08:53,150
+be
+now he is not a rationalist with respect
+
+360
+00:08:53,150 --> 00:08:53,160
+now he is not a rationalist with respect
+ 
+
+361
+00:08:53,160 --> 00:08:56,210
+now he is not a rationalist with respect
+to how we approach the external world
+
+362
+00:08:56,210 --> 00:08:56,220
+to how we approach the external world
+ 
+
+363
+00:08:56,220 --> 00:08:58,190
+to how we approach the external world
+and that's why he's usually considered
+
+364
+00:08:58,190 --> 00:08:58,200
+and that's why he's usually considered
+ 
+
+365
+00:08:58,200 --> 00:09:01,130
+and that's why he's usually considered
+one of the 18th century empiricists but
+
+366
+00:09:01,130 --> 00:09:01,140
+one of the 18th century empiricists but
+ 
+
+367
+00:09:01,140 --> 00:09:03,769
+one of the 18th century empiricists but
+he's an empiricist of a very different
+
+368
+00:09:03,769 --> 00:09:03,779
+he's an empiricist of a very different
+ 
+
+369
+00:09:03,779 --> 00:09:04,970
+he's an empiricist of a very different
+stripe
+
+370
+00:09:04,970 --> 00:09:04,980
+stripe
+ 
+
+371
+00:09:04,980 --> 00:09:07,790
+stripe
+he's a throwback if you will to Clayton
+
+372
+00:09:07,790 --> 00:09:07,800
+he's a throwback if you will to Clayton
+ 
+
+373
+00:09:07,800 --> 00:09:09,290
+he's a throwback if you will to Clayton
+to Plato
+
+374
+00:09:09,290 --> 00:09:09,300
+to Plato
+ 
+
+375
+00:09:09,300 --> 00:09:14,269
+to Plato
+and to Augustine where reality
+
+376
+00:09:14,269 --> 00:09:14,279
+and to Augustine where reality
+ 
+
+377
+00:09:14,279 --> 00:09:17,210
+and to Augustine where reality
+is ultimately
+
+378
+00:09:17,210 --> 00:09:17,220
+is ultimately
+ 
+
+379
+00:09:17,220 --> 00:09:20,389
+is ultimately
+in the mind of God
+
+380
+00:09:20,389 --> 00:09:20,399
+in the mind of God
+ 
+
+381
+00:09:20,399 --> 00:09:22,850
+in the mind of God
+because nothing can be
+
+382
+00:09:22,850 --> 00:09:22,860
+because nothing can be
+ 
+
+383
+00:09:22,860 --> 00:09:26,930
+because nothing can be
+apart from God's idea of things
+
+384
+00:09:26,930 --> 00:09:26,940
+apart from God's idea of things
+ 
+
+385
+00:09:26,940 --> 00:09:29,630
+apart from God's idea of things
+so if God would quit thinking about you
+
+386
+00:09:29,630 --> 00:09:29,640
+so if God would quit thinking about you
+ 
+
+387
+00:09:29,640 --> 00:09:33,470
+so if God would quit thinking about you
+you would disappear if God would stop
+
+388
+00:09:33,470 --> 00:09:33,480
+you would disappear if God would stop
+ 
+
+389
+00:09:33,480 --> 00:09:36,710
+you would disappear if God would stop
+thinking about trees in the forest they
+
+390
+00:09:36,710 --> 00:09:36,720
+thinking about trees in the forest they
+ 
+
+391
+00:09:36,720 --> 00:09:38,990
+thinking about trees in the forest they
+would evaporate you see what he's doing
+
+392
+00:09:38,990 --> 00:09:39,000
+would evaporate you see what he's doing
+ 
+
+393
+00:09:39,000 --> 00:09:42,829
+would evaporate you see what he's doing
+in an 18th century way is going back to
+
+394
+00:09:42,829 --> 00:09:42,839
+in an 18th century way is going back to
+ 
+
+395
+00:09:42,839 --> 00:09:46,730
+in an 18th century way is going back to
+the biblical principle in him we live
+
+396
+00:09:46,730 --> 00:09:46,740
+the biblical principle in him we live
+ 
+
+397
+00:09:46,740 --> 00:09:49,810
+the biblical principle in him we live
+and move and have
+
+398
+00:09:49,810 --> 00:09:49,820
+and move and have
+ 
+
+399
+00:09:49,820 --> 00:09:53,750
+and move and have
+our being
+
+400
+00:09:53,750 --> 00:09:53,760
+
+ 
+
+401
+00:09:53,760 --> 00:09:56,150
+
+so that unless God
+
+402
+00:09:56,150 --> 00:09:56,160
+so that unless God
+ 
+
+403
+00:09:56,160 --> 00:09:59,509
+so that unless God
+is sustaining his creation
+
+404
+00:09:59,509 --> 00:09:59,519
+is sustaining his creation
+ 
+
+405
+00:09:59,519 --> 00:10:02,990
+is sustaining his creation
+by his knowledge of the creation
+
+406
+00:10:02,990 --> 00:10:03,000
+by his knowledge of the creation
+ 
+
+407
+00:10:03,000 --> 00:10:06,410
+by his knowledge of the creation
+the creation would pass out of existence
+
+408
+00:10:06,410 --> 00:10:06,420
+the creation would pass out of existence
+ 
+
+409
+00:10:06,420 --> 00:10:10,310
+the creation would pass out of existence
+so what's going on here is
+
+410
+00:10:10,310 --> 00:10:10,320
+so what's going on here is
+ 
+
+411
+00:10:10,320 --> 00:10:14,090
+so what's going on here is
+that he is trying to get away from any
+
+412
+00:10:14,090 --> 00:10:14,100
+that he is trying to get away from any
+ 
+
+413
+00:10:14,100 --> 00:10:17,630
+that he is trying to get away from any
+view of matter or of the universe or of
+
+414
+00:10:17,630 --> 00:10:17,640
+view of matter or of the universe or of
+ 
+
+415
+00:10:17,640 --> 00:10:21,530
+view of matter or of the universe or of
+the world that sees the world in
+
+416
+00:10:21,530 --> 00:10:21,540
+the world that sees the world in
+ 
+
+417
+00:10:21,540 --> 00:10:22,990
+the world that sees the world in
+existing
+
+418
+00:10:22,990 --> 00:10:23,000
+existing
+ 
+
+419
+00:10:23,000 --> 00:10:26,509
+existing
+independent from God
+
+420
+00:10:26,509 --> 00:10:26,519
+independent from God
+ 
+
+421
+00:10:26,519 --> 00:10:29,329
+independent from God
+not only is the universe according to
+
+422
+00:10:29,329 --> 00:10:29,339
+not only is the universe according to
+ 
+
+423
+00:10:29,339 --> 00:10:33,889
+not only is the universe according to
+Barclay dependent upon the work of God's
+
+424
+00:10:33,889 --> 00:10:33,899
+Barclay dependent upon the work of God's
+ 
+
+425
+00:10:33,899 --> 00:10:36,590
+Barclay dependent upon the work of God's
+creation for its existence
+
+426
+00:10:36,590 --> 00:10:36,600
+creation for its existence
+ 
+
+427
+00:10:36,600 --> 00:10:40,430
+creation for its existence
+but it is dependent upon God for its
+
+428
+00:10:40,430 --> 00:10:40,440
+but it is dependent upon God for its
+ 
+
+429
+00:10:40,440 --> 00:10:46,370
+but it is dependent upon God for its
+Moment by moment continuity of existence
+
+430
+00:10:46,370 --> 00:10:46,380
+Moment by moment continuity of existence
+ 
+
+431
+00:10:46,380 --> 00:10:48,470
+Moment by moment continuity of existence
+which is consistent with the classical
+
+432
+00:10:48,470 --> 00:10:48,480
+which is consistent with the classical
+ 
+
+433
+00:10:48,480 --> 00:10:50,870
+which is consistent with the classical
+biblical doctrine of the Providence of
+
+434
+00:10:50,870 --> 00:10:50,880
+biblical doctrine of the Providence of
+ 
+
+435
+00:10:50,880 --> 00:10:53,569
+biblical doctrine of the Providence of
+God that says that not only does God
+
+436
+00:10:53,569 --> 00:10:53,579
+God that says that not only does God
+ 
+
+437
+00:10:53,579 --> 00:10:57,530
+God that says that not only does God
+create the world but by the power of his
+
+438
+00:10:57,530 --> 00:10:57,540
+create the world but by the power of his
+ 
+
+439
+00:10:57,540 --> 00:11:01,430
+create the world but by the power of his
+own being he sustains the world and
+
+440
+00:11:01,430 --> 00:11:01,440
+own being he sustains the world and
+ 
+
+441
+00:11:01,440 --> 00:11:05,569
+own being he sustains the world and
+without his sustaining it it would pass
+
+442
+00:11:05,569 --> 00:11:05,579
+without his sustaining it it would pass
+ 
+
+443
+00:11:05,579 --> 00:11:09,110
+without his sustaining it it would pass
+out of existence
+
+444
+00:11:09,110 --> 00:11:09,120
+out of existence
+ 
+
+445
+00:11:09,120 --> 00:11:13,130
+out of existence
+so now God is not just simply important
+
+446
+00:11:13,130 --> 00:11:13,140
+so now God is not just simply important
+ 
+
+447
+00:11:13,140 --> 00:11:17,630
+so now God is not just simply important
+to science and important to reality
+
+448
+00:11:17,630 --> 00:11:17,640
+to science and important to reality
+ 
+
+449
+00:11:17,640 --> 00:11:21,370
+to science and important to reality
+he's absolutely essential and necessary
+
+450
+00:11:21,370 --> 00:11:21,380
+he's absolutely essential and necessary
+ 
+
+451
+00:11:21,380 --> 00:11:23,870
+he's absolutely essential and necessary
+to reality
+
+452
+00:11:23,870 --> 00:11:23,880
+to reality
+ 
+
+453
+00:11:23,880 --> 00:11:28,069
+to reality
+so when he comes to the question of
+
+454
+00:11:28,069 --> 00:11:28,079
+so when he comes to the question of
+ 
+
+455
+00:11:28,079 --> 00:11:30,530
+so when he comes to the question of
+defining truth remember to be is to be
+
+456
+00:11:30,530 --> 00:11:30,540
+defining truth remember to be is to be
+ 
+
+457
+00:11:30,540 --> 00:11:31,970
+defining truth remember to be is to be
+perceived
+
+458
+00:11:31,970 --> 00:11:31,980
+perceived
+ 
+
+459
+00:11:31,980 --> 00:11:34,850
+perceived
+you recall
+
+460
+00:11:34,850 --> 00:11:34,860
+you recall
+ 
+
+461
+00:11:34,860 --> 00:11:37,490
+you recall
+that John Locke gave us the
+
+462
+00:11:37,490 --> 00:11:37,500
+that John Locke gave us the
+ 
+
+463
+00:11:37,500 --> 00:11:44,030
+that John Locke gave us the
+correspondence theory of Truth
+
+464
+00:11:44,030 --> 00:11:44,040
+
+ 
+
+465
+00:11:44,040 --> 00:11:46,670
+
+remember truth is defined by that which
+
+466
+00:11:46,670 --> 00:11:46,680
+remember truth is defined by that which
+ 
+
+467
+00:11:46,680 --> 00:11:49,910
+remember truth is defined by that which
+corresponds to reality
+
+468
+00:11:49,910 --> 00:11:49,920
+corresponds to reality
+ 
+
+469
+00:11:49,920 --> 00:11:52,790
+corresponds to reality
+now Barkley says
+
+470
+00:11:52,790 --> 00:11:52,800
+now Barkley says
+ 
+
+471
+00:11:52,800 --> 00:11:57,710
+now Barkley says
+according to whose perception of reality
+
+472
+00:11:57,710 --> 00:11:57,720
+
+ 
+
+473
+00:11:57,720 --> 00:12:01,310
+
+Locke said that all things
+
+474
+00:12:01,310 --> 00:12:01,320
+Locke said that all things
+ 
+
+475
+00:12:01,320 --> 00:12:02,990
+Locke said that all things
+have
+
+476
+00:12:02,990 --> 00:12:03,000
+have
+ 
+
+477
+00:12:03,000 --> 00:12:04,670
+have
+primary
+
+478
+00:12:04,670 --> 00:12:04,680
+primary
+ 
+
+479
+00:12:04,680 --> 00:12:07,490
+primary
+and secondary qualities and the
+
+480
+00:12:07,490 --> 00:12:07,500
+and secondary qualities and the
+ 
+
+481
+00:12:07,500 --> 00:12:10,550
+and secondary qualities and the
+secondary qualities are those ones added
+
+482
+00:12:10,550 --> 00:12:10,560
+secondary qualities are those ones added
+ 
+
+483
+00:12:10,560 --> 00:12:12,650
+secondary qualities are those ones added
+by the perceiver
+
+484
+00:12:12,650 --> 00:12:12,660
+by the perceiver
+ 
+
+485
+00:12:12,660 --> 00:12:16,430
+by the perceiver
+and are not inherent in the objective
+
+486
+00:12:16,430 --> 00:12:16,440
+and are not inherent in the objective
+ 
+
+487
+00:12:16,440 --> 00:12:22,910
+and are not inherent in the objective
+world like the blueness in Roger's shirt
+
+488
+00:12:22,910 --> 00:12:22,920
+
+ 
+
+489
+00:12:22,920 --> 00:12:25,790
+
+now it's that distinction in lock that
+
+490
+00:12:25,790 --> 00:12:25,800
+now it's that distinction in lock that
+ 
+
+491
+00:12:25,800 --> 00:12:28,190
+now it's that distinction in lock that
+Barclay challenges
+
+492
+00:12:28,190 --> 00:12:28,200
+Barclay challenges
+ 
+
+493
+00:12:28,200 --> 00:12:30,050
+Barclay challenges
+he says
+
+494
+00:12:30,050 --> 00:12:30,060
+he says
+ 
+
+495
+00:12:30,060 --> 00:12:33,230
+he says
+that all qualities
+
+496
+00:12:33,230 --> 00:12:33,240
+that all qualities
+ 
+
+497
+00:12:33,240 --> 00:12:35,210
+that all qualities
+of matter
+
+498
+00:12:35,210 --> 00:12:35,220
+of matter
+ 
+
+499
+00:12:35,220 --> 00:12:38,569
+of matter
+are secondary
+
+500
+00:12:38,569 --> 00:12:38,579
+
+ 
+
+501
+00:12:38,579 --> 00:12:43,190
+
+even extension itself
+
+502
+00:12:43,190 --> 00:12:43,200
+
+ 
+
+503
+00:12:43,200 --> 00:12:45,949
+
+is a secondary quality
+
+504
+00:12:45,949 --> 00:12:45,959
+is a secondary quality
+ 
+
+505
+00:12:45,959 --> 00:12:51,110
+is a secondary quality
+that requires a perceiver for it to be
+
+506
+00:12:51,110 --> 00:12:51,120
+that requires a perceiver for it to be
+ 
+
+507
+00:12:51,120 --> 00:12:54,050
+that requires a perceiver for it to be
+and the problem that we have is that no
+
+508
+00:12:54,050 --> 00:12:54,060
+and the problem that we have is that no
+ 
+
+509
+00:12:54,060 --> 00:12:59,870
+and the problem that we have is that no
+one has ever perceived matter
+
+510
+00:12:59,870 --> 00:12:59,880
+
+ 
+
+511
+00:12:59,880 --> 00:13:05,030
+
+you perceive the qualities of matter
+
+512
+00:13:05,030 --> 00:13:05,040
+you perceive the qualities of matter
+ 
+
+513
+00:13:05,040 --> 00:13:08,030
+you perceive the qualities of matter
+and we have deduced from these external
+
+514
+00:13:08,030 --> 00:13:08,040
+and we have deduced from these external
+ 
+
+515
+00:13:08,040 --> 00:13:10,810
+and we have deduced from these external
+qualities that there is something
+
+516
+00:13:10,810 --> 00:13:10,820
+qualities that there is something
+ 
+
+517
+00:13:10,820 --> 00:13:14,690
+qualities that there is something
+producing these external qualities and
+
+518
+00:13:14,690 --> 00:13:14,700
+producing these external qualities and
+ 
+
+519
+00:13:14,700 --> 00:13:17,090
+producing these external qualities and
+those external qualities are produced by
+
+520
+00:13:17,090 --> 00:13:17,100
+those external qualities are produced by
+ 
+
+521
+00:13:17,100 --> 00:13:21,110
+those external qualities are produced by
+this mysterious substratum that we call
+
+522
+00:13:21,110 --> 00:13:21,120
+this mysterious substratum that we call
+ 
+
+523
+00:13:21,120 --> 00:13:23,629
+this mysterious substratum that we call
+matter
+
+524
+00:13:23,629 --> 00:13:23,639
+matter
+ 
+
+525
+00:13:23,639 --> 00:13:25,430
+matter
+but what's the matter
+
+526
+00:13:25,430 --> 00:13:25,440
+but what's the matter
+ 
+
+527
+00:13:25,440 --> 00:13:29,569
+but what's the matter
+with matter here if you're an empiricist
+
+528
+00:13:29,569 --> 00:13:29,579
+with matter here if you're an empiricist
+ 
+
+529
+00:13:29,579 --> 00:13:31,490
+with matter here if you're an empiricist
+well remember
+
+530
+00:13:31,490 --> 00:13:31,500
+well remember
+ 
+
+531
+00:13:31,500 --> 00:13:35,930
+well remember
+your perceptions are only limited to
+
+532
+00:13:35,930 --> 00:13:35,940
+your perceptions are only limited to
+ 
+
+533
+00:13:35,940 --> 00:13:38,509
+your perceptions are only limited to
+outward appearances
+
+534
+00:13:38,509 --> 00:13:38,519
+outward appearances
+ 
+
+535
+00:13:38,519 --> 00:13:41,769
+outward appearances
+and with our naked powers of perception
+
+536
+00:13:41,769 --> 00:13:41,779
+and with our naked powers of perception
+ 
+
+537
+00:13:41,779 --> 00:13:46,190
+and with our naked powers of perception
+we never penetrate to the very essence
+
+538
+00:13:46,190 --> 00:13:46,200
+we never penetrate to the very essence
+ 
+
+539
+00:13:46,200 --> 00:13:47,509
+we never penetrate to the very essence
+of things
+
+540
+00:13:47,509 --> 00:13:47,519
+of things
+ 
+
+541
+00:13:47,519 --> 00:13:51,290
+of things
+we never get beyond the accidents of
+
+542
+00:13:51,290 --> 00:13:51,300
+we never get beyond the accidents of
+ 
+
+543
+00:13:51,300 --> 00:13:55,670
+we never get beyond the accidents of
+Saint Thomas's substance and penetrate
+
+544
+00:13:55,670 --> 00:13:55,680
+Saint Thomas's substance and penetrate
+ 
+
+545
+00:13:55,680 --> 00:13:59,930
+Saint Thomas's substance and penetrate
+to substance that is to say
+
+546
+00:13:59,930 --> 00:13:59,940
+to substance that is to say
+ 
+
+547
+00:13:59,940 --> 00:14:03,710
+to substance that is to say
+we never have a direct perception of
+
+548
+00:14:03,710 --> 00:14:03,720
+we never have a direct perception of
+ 
+
+549
+00:14:03,720 --> 00:14:05,810
+we never have a direct perception of
+essences
+
+550
+00:14:05,810 --> 00:14:05,820
+essences
+ 
+
+551
+00:14:05,820 --> 00:14:08,750
+essences
+for a being
+
+552
+00:14:08,750 --> 00:14:08,760
+for a being
+ 
+
+553
+00:14:08,760 --> 00:14:11,990
+for a being
+all that we know we know through
+
+554
+00:14:11,990 --> 00:14:12,000
+all that we know we know through
+ 
+
+555
+00:14:12,000 --> 00:14:16,329
+all that we know we know through
+external stimuli external Sensations
+
+556
+00:14:16,329 --> 00:14:16,339
+external stimuli external Sensations
+ 
+
+557
+00:14:16,339 --> 00:14:20,449
+external stimuli external Sensations
+external perceptions even the very idea
+
+558
+00:14:20,449 --> 00:14:20,459
+external perceptions even the very idea
+ 
+
+559
+00:14:20,459 --> 00:14:25,069
+external perceptions even the very idea
+of extension is an idea that we have in
+
+560
+00:14:25,069 --> 00:14:25,079
+of extension is an idea that we have in
+ 
+
+561
+00:14:25,079 --> 00:14:27,650
+of extension is an idea that we have in
+our minds as we observe something and we
+
+562
+00:14:27,650 --> 00:14:27,660
+our minds as we observe something and we
+ 
+
+563
+00:14:27,660 --> 00:14:31,250
+our minds as we observe something and we
+see that it has shape and size and so on
+
+564
+00:14:31,250 --> 00:14:31,260
+see that it has shape and size and so on
+ 
+
+565
+00:14:31,260 --> 00:14:33,829
+see that it has shape and size and so on
+texture
+
+566
+00:14:33,829 --> 00:14:33,839
+texture
+ 
+
+567
+00:14:33,839 --> 00:14:37,370
+texture
+he would say that's secondary too
+
+568
+00:14:37,370 --> 00:14:37,380
+he would say that's secondary too
+ 
+
+569
+00:14:37,380 --> 00:14:41,030
+he would say that's secondary too
+that's still external to the essence of
+
+570
+00:14:41,030 --> 00:14:41,040
+that's still external to the essence of
+ 
+
+571
+00:14:41,040 --> 00:14:43,550
+that's still external to the essence of
+things itself in other words in simple
+
+572
+00:14:43,550 --> 00:14:43,560
+things itself in other words in simple
+ 
+
+573
+00:14:43,560 --> 00:14:47,150
+things itself in other words in simple
+terms what he's simply doing here is
+
+574
+00:14:47,150 --> 00:14:47,160
+terms what he's simply doing here is
+ 
+
+575
+00:14:47,160 --> 00:14:50,389
+terms what he's simply doing here is
+reminding us of the difference between
+
+576
+00:14:50,389 --> 00:14:50,399
+reminding us of the difference between
+ 
+
+577
+00:14:50,399 --> 00:14:53,150
+reminding us of the difference between
+meta physics
+
+578
+00:14:53,150 --> 00:14:53,160
+meta physics
+ 
+
+579
+00:14:53,160 --> 00:14:56,210
+meta physics
+and physics
+
+580
+00:14:56,210 --> 00:14:56,220
+and physics
+ 
+
+581
+00:14:56,220 --> 00:14:59,930
+and physics
+through the senses the only realm we can
+
+582
+00:14:59,930 --> 00:14:59,940
+through the senses the only realm we can
+ 
+
+583
+00:14:59,940 --> 00:15:03,949
+through the senses the only realm we can
+grasp is the Physical Realm
+
+584
+00:15:03,949 --> 00:15:03,959
+grasp is the Physical Realm
+ 
+
+585
+00:15:03,959 --> 00:15:07,069
+grasp is the Physical Realm
+that which lies under it
+
+586
+00:15:07,069 --> 00:15:07,079
+that which lies under it
+ 
+
+587
+00:15:07,079 --> 00:15:11,710
+that which lies under it
+or behind it or Beyond it is something
+
+588
+00:15:11,710 --> 00:15:11,720
+or behind it or Beyond it is something
+ 
+
+589
+00:15:11,720 --> 00:15:17,269
+or behind it or Beyond it is something
+we never directly perceive
+
+590
+00:15:17,269 --> 00:15:17,279
+we never directly perceive
+ 
+
+591
+00:15:17,279 --> 00:15:22,370
+we never directly perceive
+we don't perceive the essence of a thing
+
+592
+00:15:22,370 --> 00:15:22,380
+we don't perceive the essence of a thing
+ 
+
+593
+00:15:22,380 --> 00:15:25,490
+we don't perceive the essence of a thing
+only the external qualities
+
+594
+00:15:25,490 --> 00:15:25,500
+only the external qualities
+ 
+
+595
+00:15:25,500 --> 00:15:29,030
+only the external qualities
+from which we deduce or using locks
+
+596
+00:15:29,030 --> 00:15:29,040
+from which we deduce or using locks
+ 
+
+597
+00:15:29,040 --> 00:15:32,210
+from which we deduce or using locks
+terminology abstract combine and relate
+
+598
+00:15:32,210 --> 00:15:32,220
+terminology abstract combine and relate
+ 
+
+599
+00:15:32,220 --> 00:15:35,210
+terminology abstract combine and relate
+these ideas that we have that have been
+
+600
+00:15:35,210 --> 00:15:35,220
+these ideas that we have that have been
+ 
+
+601
+00:15:35,220 --> 00:15:37,850
+these ideas that we have that have been
+given rise to by our perceptions of
+
+602
+00:15:37,850 --> 00:15:37,860
+given rise to by our perceptions of
+ 
+
+603
+00:15:37,860 --> 00:15:40,850
+given rise to by our perceptions of
+these various qualities we see the blue
+
+604
+00:15:40,850 --> 00:15:40,860
+these various qualities we see the blue
+ 
+
+605
+00:15:40,860 --> 00:15:43,730
+these various qualities we see the blue
+we see the material we see this shape
+
+606
+00:15:43,730 --> 00:15:43,740
+we see the material we see this shape
+ 
+
+607
+00:15:43,740 --> 00:15:46,670
+we see the material we see this shape
+and the texture of a shirt and we come
+
+608
+00:15:46,670 --> 00:15:46,680
+and the texture of a shirt and we come
+ 
+
+609
+00:15:46,680 --> 00:15:49,189
+and the texture of a shirt and we come
+up with an idea of shortness but
+
+610
+00:15:49,189 --> 00:15:49,199
+up with an idea of shortness but
+ 
+
+611
+00:15:49,199 --> 00:15:53,030
+up with an idea of shortness but
+nobody's ever perceived shirtless
+
+612
+00:15:53,030 --> 00:15:53,040
+nobody's ever perceived shirtless
+ 
+
+613
+00:15:53,040 --> 00:15:55,790
+nobody's ever perceived shirtless
+the senses cannot get
+
+614
+00:15:55,790 --> 00:15:55,800
+the senses cannot get
+ 
+
+615
+00:15:55,800 --> 00:16:00,410
+the senses cannot get
+beyond the external realm of physics
+
+616
+00:16:00,410 --> 00:16:00,420
+beyond the external realm of physics
+ 
+
+617
+00:16:00,420 --> 00:16:02,449
+beyond the external realm of physics
+to probe metaphysics and that's one of
+
+618
+00:16:02,449 --> 00:16:02,459
+to probe metaphysics and that's one of
+ 
+
+619
+00:16:02,459 --> 00:16:05,410
+to probe metaphysics and that's one of
+the reasons in modern uh
+
+620
+00:16:05,410 --> 00:16:05,420
+the reasons in modern uh
+ 
+
+621
+00:16:05,420 --> 00:16:07,850
+the reasons in modern uh
+theoretical thought people want to keep
+
+622
+00:16:07,850 --> 00:16:07,860
+theoretical thought people want to keep
+ 
+
+623
+00:16:07,860 --> 00:16:10,310
+theoretical thought people want to keep
+the Departments of theology or
+
+624
+00:16:10,310 --> 00:16:10,320
+the Departments of theology or
+ 
+
+625
+00:16:10,320 --> 00:16:11,650
+the Departments of theology or
+philosophy
+
+626
+00:16:11,650 --> 00:16:11,660
+philosophy
+ 
+
+627
+00:16:11,660 --> 00:16:15,650
+philosophy
+distantly removed from science
+
+628
+00:16:15,650 --> 00:16:15,660
+distantly removed from science
+ 
+
+629
+00:16:15,660 --> 00:16:19,370
+distantly removed from science
+and says science is restricted in its
+
+630
+00:16:19,370 --> 00:16:19,380
+and says science is restricted in its
+ 
+
+631
+00:16:19,380 --> 00:16:22,670
+and says science is restricted in its
+theater or sphere of Investigation
+
+632
+00:16:22,670 --> 00:16:22,680
+theater or sphere of Investigation
+ 
+
+633
+00:16:22,680 --> 00:16:24,710
+theater or sphere of Investigation
+back to what Plato said
+
+634
+00:16:24,710 --> 00:16:24,720
+back to what Plato said
+ 
+
+635
+00:16:24,720 --> 00:16:26,930
+back to what Plato said
+to the phenomena
+
+636
+00:16:26,930 --> 00:16:26,940
+to the phenomena
+ 
+
+637
+00:16:26,940 --> 00:16:28,730
+to the phenomena
+and what are the phenomena
+
+638
+00:16:28,730 --> 00:16:28,740
+and what are the phenomena
+ 
+
+639
+00:16:28,740 --> 00:16:32,629
+and what are the phenomena
+the outward appearances of things
+
+640
+00:16:32,629 --> 00:16:32,639
+the outward appearances of things
+ 
+
+641
+00:16:32,639 --> 00:16:35,509
+the outward appearances of things
+and even if you get a telescope that
+
+642
+00:16:35,509 --> 00:16:35,519
+and even if you get a telescope that
+ 
+
+643
+00:16:35,519 --> 00:16:38,449
+and even if you get a telescope that
+magnifies your perceptive power of
+
+644
+00:16:38,449 --> 00:16:38,459
+magnifies your perceptive power of
+ 
+
+645
+00:16:38,459 --> 00:16:42,230
+magnifies your perceptive power of
+distances a million times
+
+646
+00:16:42,230 --> 00:16:42,240
+distances a million times
+ 
+
+647
+00:16:42,240 --> 00:16:45,410
+distances a million times
+or a microscope that magnifies your
+
+648
+00:16:45,410 --> 00:16:45,420
+or a microscope that magnifies your
+ 
+
+649
+00:16:45,420 --> 00:16:47,990
+or a microscope that magnifies your
+perception of small things a million
+
+650
+00:16:47,990 --> 00:16:48,000
+perception of small things a million
+ 
+
+651
+00:16:48,000 --> 00:16:49,850
+perception of small things a million
+times
+
+652
+00:16:49,850 --> 00:16:49,860
+times
+ 
+
+653
+00:16:49,860 --> 00:16:52,310
+times
+you still haven't got beyond the realm
+
+654
+00:16:52,310 --> 00:16:52,320
+you still haven't got beyond the realm
+ 
+
+655
+00:16:52,320 --> 00:16:53,870
+you still haven't got beyond the realm
+of perceptions
+
+656
+00:16:53,870 --> 00:16:53,880
+of perceptions
+ 
+
+657
+00:16:53,880 --> 00:16:56,569
+of perceptions
+the perceptions are just that more
+
+658
+00:16:56,569 --> 00:16:56,579
+the perceptions are just that more
+ 
+
+659
+00:16:56,579 --> 00:16:58,069
+the perceptions are just that more
+discreet
+
+660
+00:16:58,069 --> 00:16:58,079
+discreet
+ 
+
+661
+00:16:58,079 --> 00:17:00,590
+discreet
+and more Discerning than what you had
+
+662
+00:17:00,590 --> 00:17:00,600
+and more Discerning than what you had
+ 
+
+663
+00:17:00,600 --> 00:17:03,650
+and more Discerning than what you had
+before let me see if it's like stripping
+
+664
+00:17:03,650 --> 00:17:03,660
+before let me see if it's like stripping
+ 
+
+665
+00:17:03,660 --> 00:17:09,470
+before let me see if it's like stripping
+off the levels or the layers of an onion
+
+666
+00:17:09,470 --> 00:17:09,480
+off the levels or the layers of an onion
+ 
+
+667
+00:17:09,480 --> 00:17:11,750
+off the levels or the layers of an onion
+you know you strip off the top level and
+
+668
+00:17:11,750 --> 00:17:11,760
+you know you strip off the top level and
+ 
+
+669
+00:17:11,760 --> 00:17:13,069
+you know you strip off the top level and
+you say oh there's more to this onion
+
+670
+00:17:13,069 --> 00:17:13,079
+you say oh there's more to this onion
+ 
+
+671
+00:17:13,079 --> 00:17:14,929
+you say oh there's more to this onion
+than I saw before I strip the first
+
+672
+00:17:14,929 --> 00:17:14,939
+than I saw before I strip the first
+ 
+
+673
+00:17:14,939 --> 00:17:17,510
+than I saw before I strip the first
+lighter off now I can see to the second
+
+674
+00:17:17,510 --> 00:17:17,520
+lighter off now I can see to the second
+ 
+
+675
+00:17:17,520 --> 00:17:18,590
+lighter off now I can see to the second
+layer
+
+676
+00:17:18,590 --> 00:17:18,600
+layer
+ 
+
+677
+00:17:18,600 --> 00:17:20,510
+layer
+but how do I know that the second layer
+
+678
+00:17:20,510 --> 00:17:20,520
+but how do I know that the second layer
+ 
+
+679
+00:17:20,520 --> 00:17:21,710
+but how do I know that the second layer
+is there
+
+680
+00:17:21,710 --> 00:17:21,720
+is there
+ 
+
+681
+00:17:21,720 --> 00:17:23,689
+is there
+the same way I knew the first layer was
+
+682
+00:17:23,689 --> 00:17:23,699
+the same way I knew the first layer was
+ 
+
+683
+00:17:23,699 --> 00:17:26,449
+the same way I knew the first layer was
+there by perceiving it then I strip that
+
+684
+00:17:26,449 --> 00:17:26,459
+there by perceiving it then I strip that
+ 
+
+685
+00:17:26,459 --> 00:17:29,450
+there by perceiving it then I strip that
+away or I get a more powerful microscope
+
+686
+00:17:29,450 --> 00:17:29,460
+away or I get a more powerful microscope
+ 
+
+687
+00:17:29,460 --> 00:17:31,490
+away or I get a more powerful microscope
+that takes me dial to the third layer of
+
+688
+00:17:31,490 --> 00:17:31,500
+that takes me dial to the third layer of
+ 
+
+689
+00:17:31,500 --> 00:17:32,690
+that takes me dial to the third layer of
+the onion
+
+690
+00:17:32,690 --> 00:17:32,700
+the onion
+ 
+
+691
+00:17:32,700 --> 00:17:34,310
+the onion
+but I'm still
+
+692
+00:17:34,310 --> 00:17:34,320
+but I'm still
+ 
+
+693
+00:17:34,320 --> 00:17:37,070
+but I'm still
+perceiving something it's just smaller
+
+694
+00:17:37,070 --> 00:17:37,080
+perceiving something it's just smaller
+ 
+
+695
+00:17:37,080 --> 00:17:40,310
+perceiving something it's just smaller
+or deeper behind what I had seen
+
+696
+00:17:40,310 --> 00:17:40,320
+or deeper behind what I had seen
+ 
+
+697
+00:17:40,320 --> 00:17:43,370
+or deeper behind what I had seen
+initially but there's no point at which
+
+698
+00:17:43,370 --> 00:17:43,380
+initially but there's no point at which
+ 
+
+699
+00:17:43,380 --> 00:17:45,230
+initially but there's no point at which
+I get Beyond
+
+700
+00:17:45,230 --> 00:17:45,240
+I get Beyond
+ 
+
+701
+00:17:45,240 --> 00:17:47,990
+I get Beyond
+my perceptions
+
+702
+00:17:47,990 --> 00:17:48,000
+my perceptions
+ 
+
+703
+00:17:48,000 --> 00:17:50,690
+my perceptions
+and so that's what Barclays critique of
+
+704
+00:17:50,690 --> 00:17:50,700
+and so that's what Barclays critique of
+ 
+
+705
+00:17:50,700 --> 00:17:52,370
+and so that's what Barclays critique of
+Locke was
+
+706
+00:17:52,370 --> 00:17:52,380
+Locke was
+ 
+
+707
+00:17:52,380 --> 00:17:54,650
+Locke was
+he said all qualities in the file
+
+708
+00:17:54,650 --> 00:17:54,660
+he said all qualities in the file
+ 
+
+709
+00:17:54,660 --> 00:18:00,590
+he said all qualities in the file
+analysis are secondary
+
+710
+00:18:00,590 --> 00:18:00,600
+
+ 
+
+711
+00:18:00,600 --> 00:18:03,770
+
+and so in a sense he exploded this very
+
+712
+00:18:03,770 --> 00:18:03,780
+and so in a sense he exploded this very
+ 
+
+713
+00:18:03,780 --> 00:18:05,450
+and so in a sense he exploded this very
+important distinction that Locke made
+
+714
+00:18:05,450 --> 00:18:05,460
+important distinction that Locke made
+ 
+
+715
+00:18:05,460 --> 00:18:08,210
+important distinction that Locke made
+between primary and secondary causality
+
+716
+00:18:08,210 --> 00:18:08,220
+between primary and secondary causality
+ 
+
+717
+00:18:08,220 --> 00:18:11,870
+between primary and secondary causality
+are qualities because Barkley is trying
+
+718
+00:18:11,870 --> 00:18:11,880
+are qualities because Barkley is trying
+ 
+
+719
+00:18:11,880 --> 00:18:13,070
+are qualities because Barkley is trying
+to say
+
+720
+00:18:13,070 --> 00:18:13,080
+to say
+ 
+
+721
+00:18:13,080 --> 00:18:16,130
+to say
+that we're Limited
+
+722
+00:18:16,130 --> 00:18:16,140
+that we're Limited
+ 
+
+723
+00:18:16,140 --> 00:18:20,270
+that we're Limited
+simply to the external qualities
+
+724
+00:18:20,270 --> 00:18:20,280
+simply to the external qualities
+ 
+
+725
+00:18:20,280 --> 00:18:23,630
+simply to the external qualities
+and if the essence is going to be there
+
+726
+00:18:23,630 --> 00:18:23,640
+and if the essence is going to be there
+ 
+
+727
+00:18:23,640 --> 00:18:26,270
+and if the essence is going to be there
+and I can't perceive it
+
+728
+00:18:26,270 --> 00:18:26,280
+and I can't perceive it
+ 
+
+729
+00:18:26,280 --> 00:18:29,029
+and I can't perceive it
+then either it isn't there and it's an
+
+730
+00:18:29,029 --> 00:18:29,039
+then either it isn't there and it's an
+ 
+
+731
+00:18:29,039 --> 00:18:30,529
+then either it isn't there and it's an
+illusion
+
+732
+00:18:30,529 --> 00:18:30,539
+illusion
+ 
+
+733
+00:18:30,539 --> 00:18:33,830
+illusion
+or somebody can perceive it
+
+734
+00:18:33,830 --> 00:18:33,840
+or somebody can perceive it
+ 
+
+735
+00:18:33,840 --> 00:18:36,950
+or somebody can perceive it
+can perceive more than I can perceive
+
+736
+00:18:36,950 --> 00:18:36,960
+can perceive more than I can perceive
+ 
+
+737
+00:18:36,960 --> 00:18:39,890
+can perceive more than I can perceive
+namely God
+
+738
+00:18:39,890 --> 00:18:39,900
+namely God
+ 
+
+739
+00:18:39,900 --> 00:18:43,610
+namely God
+and so God the mind of God the
+
+740
+00:18:43,610 --> 00:18:43,620
+and so God the mind of God the
+ 
+
+741
+00:18:43,620 --> 00:18:46,610
+and so God the mind of God the
+Transcendent being of God becomes a
+
+742
+00:18:46,610 --> 00:18:46,620
+Transcendent being of God becomes a
+ 
+
+743
+00:18:46,620 --> 00:18:50,930
+Transcendent being of God becomes a
+philosophical necessity not only for
+
+744
+00:18:50,930 --> 00:18:50,940
+philosophical necessity not only for
+ 
+
+745
+00:18:50,940 --> 00:18:54,710
+philosophical necessity not only for
+the existence of ideas
+
+746
+00:18:54,710 --> 00:18:54,720
+the existence of ideas
+ 
+
+747
+00:18:54,720 --> 00:18:57,710
+the existence of ideas
+but for the existence of matter itself
+
+748
+00:18:57,710 --> 00:18:57,720
+but for the existence of matter itself
+ 
+
+749
+00:18:57,720 --> 00:19:00,590
+but for the existence of matter itself
+for the existence of anything itself
+
+750
+00:19:00,590 --> 00:19:00,600
+for the existence of anything itself
+ 
+
+751
+00:19:00,600 --> 00:19:04,789
+for the existence of anything itself
+there has to be a substratum but that
+
+752
+00:19:04,789 --> 00:19:04,799
+there has to be a substratum but that
+ 
+
+753
+00:19:04,799 --> 00:19:08,090
+there has to be a substratum but that
+substratum we can't perceive
+
+754
+00:19:08,090 --> 00:19:08,100
+substratum we can't perceive
+ 
+
+755
+00:19:08,100 --> 00:19:11,270
+substratum we can't perceive
+and if knowledge is all based upon sense
+
+756
+00:19:11,270 --> 00:19:11,280
+and if knowledge is all based upon sense
+ 
+
+757
+00:19:11,280 --> 00:19:12,529
+and if knowledge is all based upon sense
+perception
+
+758
+00:19:12,529 --> 00:19:12,539
+perception
+ 
+
+759
+00:19:12,539 --> 00:19:16,610
+perception
+then that drives us relentlessly to the
+
+760
+00:19:16,610 --> 00:19:16,620
+then that drives us relentlessly to the
+ 
+
+761
+00:19:16,620 --> 00:19:17,990
+then that drives us relentlessly to the
+skepticism
+
+762
+00:19:17,990 --> 00:19:18,000
+skepticism
+ 
+
+763
+00:19:18,000 --> 00:19:19,250
+skepticism
+that
+
+764
+00:19:19,250 --> 00:19:19,260
+that
+ 
+
+765
+00:19:19,260 --> 00:19:21,230
+that
+we're left with if all we have are the
+
+766
+00:19:21,230 --> 00:19:21,240
+we're left with if all we have are the
+ 
+
+767
+00:19:21,240 --> 00:19:23,750
+we're left with if all we have are the
+senses and the senses can't penetrate
+
+768
+00:19:23,750 --> 00:19:23,760
+senses and the senses can't penetrate
+ 
+
+769
+00:19:23,760 --> 00:19:25,370
+senses and the senses can't penetrate
+essences
+
+770
+00:19:25,370 --> 00:19:25,380
+essences
+ 
+
+771
+00:19:25,380 --> 00:19:28,010
+essences
+that all we have are appearances
+
+772
+00:19:28,010 --> 00:19:28,020
+that all we have are appearances
+ 
+
+773
+00:19:28,020 --> 00:19:30,710
+that all we have are appearances
+and the scientists as well as the
+
+774
+00:19:30,710 --> 00:19:30,720
+and the scientists as well as the
+ 
+
+775
+00:19:30,720 --> 00:19:33,950
+and the scientists as well as the
+philosopher is now rudely ushered right
+
+776
+00:19:33,950 --> 00:19:33,960
+philosopher is now rudely ushered right
+ 
+
+777
+00:19:33,960 --> 00:19:41,690
+philosopher is now rudely ushered right
+back into the depths of Plato's Cave now
+
+778
+00:19:41,690 --> 00:19:41,700
+
+ 
+
+779
+00:19:41,700 --> 00:19:45,470
+
+I said that for John Locke
+
+780
+00:19:45,470 --> 00:19:45,480
+I said that for John Locke
+ 
+
+781
+00:19:45,480 --> 00:19:48,470
+I said that for John Locke
+the the definition of truth is truth is
+
+782
+00:19:48,470 --> 00:19:48,480
+the the definition of truth is truth is
+ 
+
+783
+00:19:48,480 --> 00:19:52,010
+the the definition of truth is truth is
+that which corresponds to reality
+
+784
+00:19:52,010 --> 00:19:52,020
+that which corresponds to reality
+ 
+
+785
+00:19:52,020 --> 00:19:54,950
+that which corresponds to reality
+but if you perceive reality reality
+
+786
+00:19:54,950 --> 00:19:54,960
+but if you perceive reality reality
+ 
+
+787
+00:19:54,960 --> 00:19:58,190
+but if you perceive reality reality
+different from how I perceive reality
+
+788
+00:19:58,190 --> 00:19:58,200
+different from how I perceive reality
+ 
+
+789
+00:19:58,200 --> 00:20:00,350
+different from how I perceive reality
+can there be such a thing as objective
+
+790
+00:20:00,350 --> 00:20:00,360
+can there be such a thing as objective
+ 
+
+791
+00:20:00,360 --> 00:20:02,390
+can there be such a thing as objective
+reality
+
+792
+00:20:02,390 --> 00:20:02,400
+reality
+ 
+
+793
+00:20:02,400 --> 00:20:05,450
+reality
+if what is real is dependent upon my
+
+794
+00:20:05,450 --> 00:20:05,460
+if what is real is dependent upon my
+ 
+
+795
+00:20:05,460 --> 00:20:07,909
+if what is real is dependent upon my
+perception of it or your perception of
+
+796
+00:20:07,909 --> 00:20:07,919
+perception of it or your perception of
+ 
+
+797
+00:20:07,919 --> 00:20:09,890
+perception of it or your perception of
+it and those perceptions are different
+
+798
+00:20:09,890 --> 00:20:09,900
+it and those perceptions are different
+ 
+
+799
+00:20:09,900 --> 00:20:12,289
+it and those perceptions are different
+we can't really talk anymore about
+
+800
+00:20:12,289 --> 00:20:12,299
+we can't really talk anymore about
+ 
+
+801
+00:20:12,299 --> 00:20:15,169
+we can't really talk anymore about
+objective reality we're now forced to
+
+802
+00:20:15,169 --> 00:20:15,179
+objective reality we're now forced to
+ 
+
+803
+00:20:15,179 --> 00:20:18,230
+objective reality we're now forced to
+the subjectivism and relativism that is
+
+804
+00:20:18,230 --> 00:20:18,240
+the subjectivism and relativism that is
+ 
+
+805
+00:20:18,240 --> 00:20:22,250
+the subjectivism and relativism that is
+so pervasive in our culture today
+
+806
+00:20:22,250 --> 00:20:22,260
+so pervasive in our culture today
+ 
+
+807
+00:20:22,260 --> 00:20:24,289
+so pervasive in our culture today
+and so
+
+808
+00:20:24,289 --> 00:20:24,299
+and so
+ 
+
+809
+00:20:24,299 --> 00:20:27,169
+and so
+Barkley makes a modification to the
+
+810
+00:20:27,169 --> 00:20:27,179
+Barkley makes a modification to the
+ 
+
+811
+00:20:27,179 --> 00:20:29,510
+Barkley makes a modification to the
+correspondence theory of law
+
+812
+00:20:29,510 --> 00:20:29,520
+correspondence theory of law
+ 
+
+813
+00:20:29,520 --> 00:20:32,750
+correspondence theory of law
+his definition of truth is truth is that
+
+814
+00:20:32,750 --> 00:20:32,760
+his definition of truth is truth is that
+ 
+
+815
+00:20:32,760 --> 00:20:35,810
+his definition of truth is truth is that
+which corresponds to reality
+
+816
+00:20:35,810 --> 00:20:35,820
+which corresponds to reality
+ 
+
+817
+00:20:35,820 --> 00:20:44,029
+which corresponds to reality
+as it is perceived by God
+
+818
+00:20:44,029 --> 00:20:44,039
+
+ 
+
+819
+00:20:44,039 --> 00:20:46,430
+
+truth is that which is perceived which
+
+820
+00:20:46,430 --> 00:20:46,440
+truth is that which is perceived which
+ 
+
+821
+00:20:46,440 --> 00:20:48,409
+truth is that which is perceived which
+corresponds to reality as it is
+
+822
+00:20:48,409 --> 00:20:48,419
+corresponds to reality as it is
+ 
+
+823
+00:20:48,419 --> 00:20:50,570
+corresponds to reality as it is
+perceived by God remember I said God is
+
+824
+00:20:50,570 --> 00:20:50,580
+perceived by God remember I said God is
+ 
+
+825
+00:20:50,580 --> 00:20:52,610
+perceived by God remember I said God is
+the Great perceiver
+
+826
+00:20:52,610 --> 00:20:52,620
+the Great perceiver
+ 
+
+827
+00:20:52,620 --> 00:20:56,090
+the Great perceiver
+and his perception of reality is
+
+828
+00:20:56,090 --> 00:20:56,100
+and his perception of reality is
+ 
+
+829
+00:20:56,100 --> 00:20:59,810
+and his perception of reality is
+absolutely perfect
+
+830
+00:20:59,810 --> 00:20:59,820
+
+ 
+
+831
+00:20:59,820 --> 00:21:02,690
+
+because he is the author of it
+
+832
+00:21:02,690 --> 00:21:02,700
+because he is the author of it
+ 
+
+833
+00:21:02,700 --> 00:21:05,570
+because he is the author of it
+he is the creator of it and everything
+
+834
+00:21:05,570 --> 00:21:05,580
+he is the creator of it and everything
+ 
+
+835
+00:21:05,580 --> 00:21:08,870
+he is the creator of it and everything
+that is out there is a manifestation
+
+836
+00:21:08,870 --> 00:21:08,880
+that is out there is a manifestation
+ 
+
+837
+00:21:08,880 --> 00:21:12,710
+that is out there is a manifestation
+of something that first is an idea in
+
+838
+00:21:12,710 --> 00:21:12,720
+of something that first is an idea in
+ 
+
+839
+00:21:12,720 --> 00:21:14,390
+of something that first is an idea in
+the mind of God
+
+840
+00:21:14,390 --> 00:21:14,400
+the mind of God
+ 
+
+841
+00:21:14,400 --> 00:21:17,450
+the mind of God
+and without God's understanding of it it
+
+842
+00:21:17,450 --> 00:21:17,460
+and without God's understanding of it it
+ 
+
+843
+00:21:17,460 --> 00:21:20,330
+and without God's understanding of it it
+couldn't be at all
+
+844
+00:21:20,330 --> 00:21:20,340
+couldn't be at all
+ 
+
+845
+00:21:20,340 --> 00:21:22,850
+couldn't be at all
+so do you see how this empiricist is
+
+846
+00:21:22,850 --> 00:21:22,860
+so do you see how this empiricist is
+ 
+
+847
+00:21:22,860 --> 00:21:26,890
+so do you see how this empiricist is
+driving us back to a new kind of realism
+
+848
+00:21:26,890 --> 00:21:26,900
+driving us back to a new kind of realism
+ 
+
+849
+00:21:26,900 --> 00:21:31,130
+driving us back to a new kind of realism
+that sees the physical world
+
+850
+00:21:31,130 --> 00:21:31,140
+that sees the physical world
+ 
+
+851
+00:21:31,140 --> 00:21:33,470
+that sees the physical world
+as an extension
+
+852
+00:21:33,470 --> 00:21:33,480
+as an extension
+ 
+
+853
+00:21:33,480 --> 00:21:37,669
+as an extension
+of God's Own thought
+
+854
+00:21:37,669 --> 00:21:37,679
+of God's Own thought
+ 
+
+855
+00:21:37,679 --> 00:21:39,409
+of God's Own thought
+without which
+
+856
+00:21:39,409 --> 00:21:39,419
+without which
+ 
+
+857
+00:21:39,419 --> 00:21:42,590
+without which
+it couldn't possibly be
+
+858
+00:21:42,590 --> 00:21:42,600
+it couldn't possibly be
+ 
+
+859
+00:21:42,600 --> 00:21:44,690
+it couldn't possibly be
+so to try to construct
+
+860
+00:21:44,690 --> 00:21:44,700
+so to try to construct
+ 
+
+861
+00:21:44,700 --> 00:21:47,930
+so to try to construct
+a science of the universe without God
+
+862
+00:21:47,930 --> 00:21:47,940
+a science of the universe without God
+ 
+
+863
+00:21:47,940 --> 00:21:52,730
+a science of the universe without God
+according to Barclay is a Fool's errand
+
+864
+00:21:52,730 --> 00:21:52,740
+according to Barclay is a Fool's errand
+ 
+
+865
+00:21:52,740 --> 00:21:56,029
+according to Barclay is a Fool's errand
+because without the god hypothesis all
+
+866
+00:21:56,029 --> 00:21:56,039
+because without the god hypothesis all
+ 
+
+867
+00:21:56,039 --> 00:21:59,649
+because without the god hypothesis all
+science will end in illusion
+
+868
+00:21:59,649 --> 00:21:59,659
+science will end in illusion
+ 
+
+869
+00:21:59,659 --> 00:22:02,990
+science will end in illusion
+and or skepticism
+
+870
+00:22:02,990 --> 00:22:03,000
+and or skepticism
+ 
+
+871
+00:22:03,000 --> 00:22:06,350
+and or skepticism
+because science can never take us
+
+872
+00:22:06,350 --> 00:22:06,360
+because science can never take us
+ 
+
+873
+00:22:06,360 --> 00:22:10,190
+because science can never take us
+to the level of Ultimate Reality and if
+
+874
+00:22:10,190 --> 00:22:10,200
+to the level of Ultimate Reality and if
+ 
+
+875
+00:22:10,200 --> 00:22:11,990
+to the level of Ultimate Reality and if
+we can't get in the door of Ultimate
+
+876
+00:22:11,990 --> 00:22:12,000
+we can't get in the door of Ultimate
+ 
+
+877
+00:22:12,000 --> 00:22:15,049
+we can't get in the door of Ultimate
+Reality we can't get to the level of
+
+878
+00:22:15,049 --> 00:22:15,059
+Reality we can't get to the level of
+ 
+
+879
+00:22:15,059 --> 00:22:16,789
+Reality we can't get to the level of
+objective truth
+
+880
+00:22:16,789 --> 00:22:16,799
+objective truth
+ 
+
+881
+00:22:16,799 --> 00:22:19,190
+objective truth
+and if you can't get to object of Truth
+
+882
+00:22:19,190 --> 00:22:19,200
+and if you can't get to object of Truth
+ 
+
+883
+00:22:19,200 --> 00:22:20,990
+and if you can't get to object of Truth
+the only option
+
+884
+00:22:20,990 --> 00:22:21,000
+the only option
+ 
+
+885
+00:22:21,000 --> 00:22:23,990
+the only option
+is subjectivism
+
+886
+00:22:23,990 --> 00:22:24,000
+is subjectivism
+ 
+
+887
+00:22:24,000 --> 00:22:26,090
+is subjectivism
+and relativism
+
+888
+00:22:26,090 --> 00:22:26,100
+and relativism
+ 
+
+889
+00:22:26,100 --> 00:22:28,730
+and relativism
+and skepticism
+
+890
+00:22:28,730 --> 00:22:28,740
+and skepticism
+ 
+
+891
+00:22:28,740 --> 00:22:30,710
+and skepticism
+now as I said
+
+892
+00:22:30,710 --> 00:22:30,720
+now as I said
+ 
+
+893
+00:22:30,720 --> 00:22:33,409
+now as I said
+Barkley jumps in the cab of the
+
+894
+00:22:33,409 --> 00:22:33,419
+Barkley jumps in the cab of the
+ 
+
+895
+00:22:33,419 --> 00:22:35,750
+Barkley jumps in the cab of the
+skepticism of the earlier type of
+
+896
+00:22:35,750 --> 00:22:35,760
+skepticism of the earlier type of
+ 
+
+897
+00:22:35,760 --> 00:22:38,029
+skepticism of the earlier type of
+empiricism and starts at going down the
+
+898
+00:22:38,029 --> 00:22:38,039
+empiricism and starts at going down the
+ 
+
+899
+00:22:38,039 --> 00:22:39,049
+empiricism and starts at going down the
+track
+
+900
+00:22:39,049 --> 00:22:39,059
+track
+ 
+
+901
+00:22:39,059 --> 00:22:42,169
+track
+and I said the Train's a runaway train
+
+902
+00:22:42,169 --> 00:22:42,179
+and I said the Train's a runaway train
+ 
+
+903
+00:22:42,179 --> 00:22:44,330
+and I said the Train's a runaway train
+well it doesn't run away until Barclays
+
+904
+00:22:44,330 --> 00:22:44,340
+well it doesn't run away until Barclays
+ 
+
+905
+00:22:44,340 --> 00:22:46,610
+well it doesn't run away until Barclays
+kept kicked out of the cabin
+
+906
+00:22:46,610 --> 00:22:46,620
+kept kicked out of the cabin
+ 
+
+907
+00:22:46,620 --> 00:22:50,390
+kept kicked out of the cabin
+and the new engineer is David Hume
+
+908
+00:22:50,390 --> 00:22:50,400
+and the new engineer is David Hume
+ 
+
+909
+00:22:50,400 --> 00:22:53,210
+and the new engineer is David Hume
+whom we might call the king of the
+
+910
+00:22:53,210 --> 00:22:53,220
+whom we might call the king of the
+ 
+
+911
+00:22:53,220 --> 00:22:56,450
+whom we might call the king of the
+Skeptics it was hume's critique of his
+
+912
+00:22:56,450 --> 00:22:56,460
+Skeptics it was hume's critique of his
+ 
+
+913
+00:22:56,460 --> 00:22:59,690
+Skeptics it was hume's critique of his
+predecessors that took empiricism to
+
+914
+00:22:59,690 --> 00:22:59,700
+predecessors that took empiricism to
+ 
+
+915
+00:22:59,700 --> 00:23:02,510
+predecessors that took empiricism to
+what is called its graveyard
+
+916
+00:23:02,510 --> 00:23:02,520
+what is called its graveyard
+ 
+
+917
+00:23:02,520 --> 00:23:04,970
+what is called its graveyard
+and brought a supreme crisis of
+
+918
+00:23:04,970 --> 00:23:04,980
+and brought a supreme crisis of
+ 
+
+919
+00:23:04,980 --> 00:23:07,789
+and brought a supreme crisis of
+knowledge philosophical and scientific
+
+920
+00:23:07,789 --> 00:23:07,799
+knowledge philosophical and scientific
+ 
+
+921
+00:23:07,799 --> 00:23:10,610
+knowledge philosophical and scientific
+when Hume was done the question was can
+
+922
+00:23:10,610 --> 00:23:10,620
+when Hume was done the question was can
+ 
+
+923
+00:23:10,620 --> 00:23:14,270
+when Hume was done the question was can
+we know anything at all about anything
+
+924
+00:23:14,270 --> 00:23:14,280
+we know anything at all about anything
+ 
+
+925
+00:23:14,280 --> 00:23:16,909
+we know anything at all about anything
+and that's what we'll take up in our
+
+926
+00:23:16,909 --> 00:23:16,919
+and that's what we'll take up in our
+ 
+
+927
+00:23:16,919 --> 00:23:19,940
+and that's what we'll take up in our
+next lecture
+

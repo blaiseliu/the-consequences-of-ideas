@@ -1,0 +1,5505 @@
+1
+00:00:07,919 --> 00:00:10,669
+
+in our last session we noted that David
+
+2
+00:00:10,669 --> 00:00:10,679
+in our last session we noted that David
+ 
+
+3
+00:00:10,679 --> 00:00:13,669
+in our last session we noted that David
+Hume raised serious questions about the
+
+4
+00:00:13,669 --> 00:00:13,679
+Hume raised serious questions about the
+ 
+
+5
+00:00:13,679 --> 00:00:16,730
+Hume raised serious questions about the
+whole experience that we have
+
+6
+00:00:16,730 --> 00:00:16,740
+whole experience that we have
+ 
+
+7
+00:00:16,740 --> 00:00:20,150
+whole experience that we have
+of causality and if you recall
+
+8
+00:00:20,150 --> 00:00:20,160
+of causality and if you recall
+ 
+
+9
+00:00:20,160 --> 00:00:21,890
+of causality and if you recall
+I pointed out
+
+10
+00:00:21,890 --> 00:00:21,900
+I pointed out
+ 
+
+11
+00:00:21,900 --> 00:00:24,170
+I pointed out
+that there is a difference according to
+
+12
+00:00:24,170 --> 00:00:24,180
+that there is a difference according to
+ 
+
+13
+00:00:24,180 --> 00:00:28,189
+that there is a difference according to
+Hume between a customary connection
+
+14
+00:00:28,189 --> 00:00:28,199
+Hume between a customary connection
+ 
+
+15
+00:00:28,199 --> 00:00:29,630
+Hume between a customary connection
+or
+
+16
+00:00:29,630 --> 00:00:29,640
+or
+ 
+
+17
+00:00:29,640 --> 00:00:33,830
+or
+and a necessary connection
+
+18
+00:00:33,830 --> 00:00:33,840
+and a necessary connection
+ 
+
+19
+00:00:33,840 --> 00:00:36,650
+and a necessary connection
+now his favorite illustration to talk
+
+20
+00:00:36,650 --> 00:00:36,660
+now his favorite illustration to talk
+ 
+
+21
+00:00:36,660 --> 00:00:39,410
+now his favorite illustration to talk
+about this problem is what we call the
+
+22
+00:00:39,410 --> 00:00:39,420
+about this problem is what we call the
+ 
+
+23
+00:00:39,420 --> 00:00:42,049
+about this problem is what we call the
+pool ball illustration we've used it in
+
+24
+00:00:42,049 --> 00:00:42,059
+pool ball illustration we've used it in
+ 
+
+25
+00:00:42,059 --> 00:00:43,970
+pool ball illustration we've used it in
+other occasions but we're going to focus
+
+26
+00:00:43,970 --> 00:00:43,980
+other occasions but we're going to focus
+ 
+
+27
+00:00:43,980 --> 00:00:46,369
+other occasions but we're going to focus
+more carefully now on it from hume's
+
+28
+00:00:46,369 --> 00:00:46,379
+more carefully now on it from hume's
+ 
+
+29
+00:00:46,379 --> 00:00:47,569
+more carefully now on it from hume's
+perspective
+
+30
+00:00:47,569 --> 00:00:47,579
+perspective
+ 
+
+31
+00:00:47,579 --> 00:00:50,090
+perspective
+so we envisioned before us
+
+32
+00:00:50,090 --> 00:00:50,100
+so we envisioned before us
+ 
+
+33
+00:00:50,100 --> 00:00:52,970
+so we envisioned before us
+a simple pool table
+
+34
+00:00:52,970 --> 00:00:52,980
+a simple pool table
+ 
+
+35
+00:00:52,980 --> 00:00:56,630
+a simple pool table
+and on the table there is a cue ball
+
+36
+00:00:56,630 --> 00:00:56,640
+and on the table there is a cue ball
+ 
+
+37
+00:00:56,640 --> 00:00:59,029
+and on the table there is a cue ball
+and then further down the table there is
+
+38
+00:00:59,029 --> 00:00:59,039
+and then further down the table there is
+ 
+
+39
+00:00:59,039 --> 00:01:01,130
+and then further down the table there is
+an object ball we'll call it the eight
+
+40
+00:01:01,130 --> 00:01:01,140
+an object ball we'll call it the eight
+ 
+
+41
+00:01:01,140 --> 00:01:03,529
+an object ball we'll call it the eight
+ball if you will now at the end of the
+
+42
+00:01:03,529 --> 00:01:03,539
+ball if you will now at the end of the
+ 
+
+43
+00:01:03,539 --> 00:01:06,350
+ball if you will now at the end of the
+table there's a pocket
+
+44
+00:01:06,350 --> 00:01:06,360
+table there's a pocket
+ 
+
+45
+00:01:06,360 --> 00:01:07,570
+table there's a pocket
+now
+
+46
+00:01:07,570 --> 00:01:07,580
+now
+ 
+
+47
+00:01:07,580 --> 00:01:11,090
+now
+the pool player wants to shoot the cue
+
+48
+00:01:11,090 --> 00:01:11,100
+the pool player wants to shoot the cue
+ 
+
+49
+00:01:11,100 --> 00:01:14,210
+the pool player wants to shoot the cue
+ball into the eight ball and knock the
+
+50
+00:01:14,210 --> 00:01:14,220
+ball into the eight ball and knock the
+ 
+
+51
+00:01:14,220 --> 00:01:17,030
+ball into the eight ball and knock the
+eight ball in this case into the corner
+
+52
+00:01:17,030 --> 00:01:17,040
+eight ball in this case into the corner
+ 
+
+53
+00:01:17,040 --> 00:01:18,050
+eight ball in this case into the corner
+pocket
+
+54
+00:01:18,050 --> 00:01:18,060
+pocket
+ 
+
+55
+00:01:18,060 --> 00:01:20,149
+pocket
+I was a series
+
+56
+00:01:20,149 --> 00:01:20,159
+I was a series
+ 
+
+57
+00:01:20,159 --> 00:01:23,990
+I was a series
+of things that takes place first of all
+
+58
+00:01:23,990 --> 00:01:24,000
+of things that takes place first of all
+ 
+
+59
+00:01:24,000 --> 00:01:27,050
+of things that takes place first of all
+you have the pool player he selects his
+
+60
+00:01:27,050 --> 00:01:27,060
+you have the pool player he selects his
+ 
+
+61
+00:01:27,060 --> 00:01:27,950
+you have the pool player he selects his
+cue
+
+62
+00:01:27,950 --> 00:01:27,960
+cue
+ 
+
+63
+00:01:27,960 --> 00:01:30,050
+cue
+he puts his chalk on the end of the tip
+
+64
+00:01:30,050 --> 00:01:30,060
+he puts his chalk on the end of the tip
+ 
+
+65
+00:01:30,060 --> 00:01:32,630
+he puts his chalk on the end of the tip
+he takes his position at the end of the
+
+66
+00:01:32,630 --> 00:01:32,640
+he takes his position at the end of the
+ 
+
+67
+00:01:32,640 --> 00:01:35,330
+he takes his position at the end of the
+table he sites down his line of sight he
+
+68
+00:01:35,330 --> 00:01:35,340
+table he sites down his line of sight he
+ 
+
+69
+00:01:35,340 --> 00:01:37,490
+table he sites down his line of sight he
+has his cue stick in his hand
+
+70
+00:01:37,490 --> 00:01:37,500
+has his cue stick in his hand
+ 
+
+71
+00:01:37,500 --> 00:01:40,429
+has his cue stick in his hand
+he moves his arm
+
+72
+00:01:40,429 --> 00:01:40,439
+he moves his arm
+ 
+
+73
+00:01:40,439 --> 00:01:43,550
+he moves his arm
+which initiates the stroke
+
+74
+00:01:43,550 --> 00:01:43,560
+which initiates the stroke
+ 
+
+75
+00:01:43,560 --> 00:01:46,490
+which initiates the stroke
+because when he moves his arm
+
+76
+00:01:46,490 --> 00:01:46,500
+because when he moves his arm
+ 
+
+77
+00:01:46,500 --> 00:01:50,749
+because when he moves his arm
+the movement of his arm causes
+
+78
+00:01:50,749 --> 00:01:50,759
+the movement of his arm causes
+ 
+
+79
+00:01:50,759 --> 00:01:54,670
+the movement of his arm causes
+the cue stick to move in the direction
+
+80
+00:01:54,670 --> 00:01:54,680
+the cue stick to move in the direction
+ 
+
+81
+00:01:54,680 --> 00:01:57,050
+the cue stick to move in the direction
+of the cue ball
+
+82
+00:01:57,050 --> 00:01:57,060
+of the cue ball
+ 
+
+83
+00:01:57,060 --> 00:02:00,350
+of the cue ball
+and the cue stick now comes and hits the
+
+84
+00:02:00,350 --> 00:02:00,360
+and the cue stick now comes and hits the
+ 
+
+85
+00:02:00,360 --> 00:02:01,490
+and the cue stick now comes and hits the
+cue ball
+
+86
+00:02:01,490 --> 00:02:01,500
+cue ball
+ 
+
+87
+00:02:01,500 --> 00:02:03,889
+cue ball
+and when it hits the cue ball
+
+88
+00:02:03,889 --> 00:02:03,899
+and when it hits the cue ball
+ 
+
+89
+00:02:03,899 --> 00:02:05,870
+and when it hits the cue ball
+what happens
+
+90
+00:02:05,870 --> 00:02:05,880
+what happens
+ 
+
+91
+00:02:05,880 --> 00:02:09,529
+what happens
+the cue ball starts to move or roll
+
+92
+00:02:09,529 --> 00:02:09,539
+the cue ball starts to move or roll
+ 
+
+93
+00:02:09,539 --> 00:02:12,410
+the cue ball starts to move or roll
+across the table and we hope if this
+
+94
+00:02:12,410 --> 00:02:12,420
+across the table and we hope if this
+ 
+
+95
+00:02:12,420 --> 00:02:14,990
+across the table and we hope if this
+man's aim has been good that is in the
+
+96
+00:02:14,990 --> 00:02:15,000
+man's aim has been good that is in the
+ 
+
+97
+00:02:15,000 --> 00:02:17,150
+man's aim has been good that is in the
+direction of the eight ball now
+
+98
+00:02:17,150 --> 00:02:17,160
+direction of the eight ball now
+ 
+
+99
+00:02:17,160 --> 00:02:19,550
+direction of the eight ball now
+meanwhile the eight balls just sitting
+
+100
+00:02:19,550 --> 00:02:19,560
+meanwhile the eight balls just sitting
+ 
+
+101
+00:02:19,560 --> 00:02:22,369
+meanwhile the eight balls just sitting
+there in the table at rest it's in a
+
+102
+00:02:22,369 --> 00:02:22,379
+there in the table at rest it's in a
+ 
+
+103
+00:02:22,379 --> 00:02:25,309
+there in the table at rest it's in a
+state of inertia it's been just an eight
+
+104
+00:02:25,309 --> 00:02:25,319
+state of inertia it's been just an eight
+ 
+
+105
+00:02:25,319 --> 00:02:26,210
+state of inertia it's been just an eight
+ball
+
+106
+00:02:26,210 --> 00:02:26,220
+ball
+ 
+
+107
+00:02:26,220 --> 00:02:29,449
+ball
+and the cue ball keeps rolling keeps
+
+108
+00:02:29,449 --> 00:02:29,459
+and the cue ball keeps rolling keeps
+ 
+
+109
+00:02:29,459 --> 00:02:32,210
+and the cue ball keeps rolling keeps
+rolling and it strikes the eight ball
+
+110
+00:02:32,210 --> 00:02:32,220
+rolling and it strikes the eight ball
+ 
+
+111
+00:02:32,220 --> 00:02:33,650
+rolling and it strikes the eight ball
+boom
+
+112
+00:02:33,650 --> 00:02:33,660
+boom
+ 
+
+113
+00:02:33,660 --> 00:02:36,170
+boom
+and as soon as the cue ball strikes the
+
+114
+00:02:36,170 --> 00:02:36,180
+and as soon as the cue ball strikes the
+ 
+
+115
+00:02:36,180 --> 00:02:38,990
+and as soon as the cue ball strikes the
+eight ball what happens the eight ball
+
+116
+00:02:38,990 --> 00:02:39,000
+eight ball what happens the eight ball
+ 
+
+117
+00:02:39,000 --> 00:02:41,750
+eight ball what happens the eight ball
+starts to move
+
+118
+00:02:41,750 --> 00:02:41,760
+starts to move
+ 
+
+119
+00:02:41,760 --> 00:02:44,630
+starts to move
+and it moves in the direction of the
+
+120
+00:02:44,630 --> 00:02:44,640
+and it moves in the direction of the
+ 
+
+121
+00:02:44,640 --> 00:02:48,710
+and it moves in the direction of the
+pocket and hopefully will then drop into
+
+122
+00:02:48,710 --> 00:02:48,720
+pocket and hopefully will then drop into
+ 
+
+123
+00:02:48,720 --> 00:02:52,070
+pocket and hopefully will then drop into
+the corner pocket and the shot has been
+
+124
+00:02:52,070 --> 00:02:52,080
+the corner pocket and the shot has been
+ 
+
+125
+00:02:52,080 --> 00:02:56,030
+the corner pocket and the shot has been
+executed according to plan
+
+126
+00:02:56,030 --> 00:02:56,040
+executed according to plan
+ 
+
+127
+00:02:56,040 --> 00:02:58,250
+executed according to plan
+now Hume is saying we're standing here
+
+128
+00:02:58,250 --> 00:02:58,260
+now Hume is saying we're standing here
+ 
+
+129
+00:02:58,260 --> 00:03:01,070
+now Hume is saying we're standing here
+watching this we're observing these
+
+130
+00:03:01,070 --> 00:03:01,080
+watching this we're observing these
+ 
+
+131
+00:03:01,080 --> 00:03:02,449
+watching this we're observing these
+things take place
+
+132
+00:03:02,449 --> 00:03:02,459
+things take place
+ 
+
+133
+00:03:02,459 --> 00:03:06,170
+things take place
+and we see certain actions
+
+134
+00:03:06,170 --> 00:03:06,180
+and we see certain actions
+ 
+
+135
+00:03:06,180 --> 00:03:07,690
+and we see certain actions
+follow
+
+136
+00:03:07,690 --> 00:03:07,700
+follow
+ 
+
+137
+00:03:07,700 --> 00:03:12,110
+follow
+upon certain other actions
+
+138
+00:03:12,110 --> 00:03:12,120
+upon certain other actions
+ 
+
+139
+00:03:12,120 --> 00:03:14,410
+upon certain other actions
+that we see
+
+140
+00:03:14,410 --> 00:03:14,420
+that we see
+ 
+
+141
+00:03:14,420 --> 00:03:20,390
+that we see
+contiguous action
+
+142
+00:03:20,390 --> 00:03:20,400
+
+ 
+
+143
+00:03:20,400 --> 00:03:24,410
+
+or actions of contiguity
+
+144
+00:03:24,410 --> 00:03:24,420
+or actions of contiguity
+ 
+
+145
+00:03:24,420 --> 00:03:27,110
+or actions of contiguity
+and that may be a word we don't use
+
+146
+00:03:27,110 --> 00:03:27,120
+and that may be a word we don't use
+ 
+
+147
+00:03:27,120 --> 00:03:28,790
+and that may be a word we don't use
+every day
+
+148
+00:03:28,790 --> 00:03:28,800
+every day
+ 
+
+149
+00:03:28,800 --> 00:03:31,009
+every day
+but if you have a piece of property
+
+150
+00:03:31,009 --> 00:03:31,019
+but if you have a piece of property
+ 
+
+151
+00:03:31,019 --> 00:03:33,050
+but if you have a piece of property
+where you live let's say you have a
+
+152
+00:03:33,050 --> 00:03:33,060
+where you live let's say you have a
+ 
+
+153
+00:03:33,060 --> 00:03:34,550
+where you live let's say you have a
+front yard
+
+154
+00:03:34,550 --> 00:03:34,560
+front yard
+ 
+
+155
+00:03:34,560 --> 00:03:39,050
+front yard
+and your front yard has a border to it
+
+156
+00:03:39,050 --> 00:03:39,060
+and your front yard has a border to it
+ 
+
+157
+00:03:39,060 --> 00:03:42,949
+and your front yard has a border to it
+and that's your property line
+
+158
+00:03:42,949 --> 00:03:42,959
+and that's your property line
+ 
+
+159
+00:03:42,959 --> 00:03:45,530
+and that's your property line
+and right next door to you somebody else
+
+160
+00:03:45,530 --> 00:03:45,540
+and right next door to you somebody else
+ 
+
+161
+00:03:45,540 --> 00:03:46,910
+and right next door to you somebody else
+lives
+
+162
+00:03:46,910 --> 00:03:46,920
+lives
+ 
+
+163
+00:03:46,920 --> 00:03:50,809
+lives
+and their property line comes right up
+
+164
+00:03:50,809 --> 00:03:50,819
+and their property line comes right up
+ 
+
+165
+00:03:50,819 --> 00:03:52,910
+and their property line comes right up
+against your property line now these are
+
+166
+00:03:52,910 --> 00:03:52,920
+against your property line now these are
+ 
+
+167
+00:03:52,920 --> 00:03:55,490
+against your property line now these are
+two different properties
+
+168
+00:03:55,490 --> 00:03:55,500
+two different properties
+ 
+
+169
+00:03:55,500 --> 00:03:57,530
+two different properties
+but we would say
+
+170
+00:03:57,530 --> 00:03:57,540
+but we would say
+ 
+
+171
+00:03:57,540 --> 00:03:59,449
+but we would say
+that the first property which we'll call
+
+172
+00:03:59,449 --> 00:03:59,459
+that the first property which we'll call
+ 
+
+173
+00:03:59,459 --> 00:04:01,190
+that the first property which we'll call
+property a
+
+174
+00:04:01,190 --> 00:04:01,200
+property a
+ 
+
+175
+00:04:01,200 --> 00:04:03,649
+property a
+is contiguous
+
+176
+00:04:03,649 --> 00:04:03,659
+is contiguous
+ 
+
+177
+00:04:03,659 --> 00:04:05,570
+is contiguous
+to
+
+178
+00:04:05,570 --> 00:04:05,580
+to
+ 
+
+179
+00:04:05,580 --> 00:04:09,289
+to
+property B that is it is adjacent to it
+
+180
+00:04:09,289 --> 00:04:09,299
+property B that is it is adjacent to it
+ 
+
+181
+00:04:09,299 --> 00:04:12,830
+property B that is it is adjacent to it
+it is right next door
+
+182
+00:04:12,830 --> 00:04:12,840
+it is right next door
+ 
+
+183
+00:04:12,840 --> 00:04:16,430
+it is right next door
+that's what we mean by contiguity
+
+184
+00:04:16,430 --> 00:04:16,440
+that's what we mean by contiguity
+ 
+
+185
+00:04:16,440 --> 00:04:19,069
+that's what we mean by contiguity
+now going back to our pool ball
+
+186
+00:04:19,069 --> 00:04:19,079
+now going back to our pool ball
+ 
+
+187
+00:04:19,079 --> 00:04:20,810
+now going back to our pool ball
+illustration
+
+188
+00:04:20,810 --> 00:04:20,820
+illustration
+ 
+
+189
+00:04:20,820 --> 00:04:24,830
+illustration
+we see actions that are contiguous
+
+190
+00:04:24,830 --> 00:04:24,840
+we see actions that are contiguous
+ 
+
+191
+00:04:24,840 --> 00:04:28,070
+we see actions that are contiguous
+actions that take place next to each
+
+192
+00:04:28,070 --> 00:04:28,080
+actions that take place next to each
+ 
+
+193
+00:04:28,080 --> 00:04:31,969
+actions that take place next to each
+other or after one another
+
+194
+00:04:31,969 --> 00:04:31,979
+other or after one another
+ 
+
+195
+00:04:31,979 --> 00:04:35,450
+other or after one another
+and we assume
+
+196
+00:04:35,450 --> 00:04:35,460
+and we assume
+ 
+
+197
+00:04:35,460 --> 00:04:38,990
+and we assume
+that we are perceiving
+
+198
+00:04:38,990 --> 00:04:39,000
+that we are perceiving
+ 
+
+199
+00:04:39,000 --> 00:04:42,950
+that we are perceiving
+the cause of certain changes
+
+200
+00:04:42,950 --> 00:04:42,960
+the cause of certain changes
+ 
+
+201
+00:04:42,960 --> 00:04:45,890
+the cause of certain changes
+we say oh well what caused the pool ball
+
+202
+00:04:45,890 --> 00:04:45,900
+we say oh well what caused the pool ball
+ 
+
+203
+00:04:45,900 --> 00:04:46,909
+we say oh well what caused the pool ball
+to move
+
+204
+00:04:46,909 --> 00:04:46,919
+to move
+ 
+
+205
+00:04:46,919 --> 00:04:49,010
+to move
+well obviously that which caused the
+
+206
+00:04:49,010 --> 00:04:49,020
+well obviously that which caused the
+ 
+
+207
+00:04:49,020 --> 00:04:51,110
+well obviously that which caused the
+pool ball to move was the Striking of
+
+208
+00:04:51,110 --> 00:04:51,120
+pool ball to move was the Striking of
+ 
+
+209
+00:04:51,120 --> 00:04:53,990
+pool ball to move was the Striking of
+the cue ball with the cue stick
+
+210
+00:04:53,990 --> 00:04:54,000
+the cue ball with the cue stick
+ 
+
+211
+00:04:54,000 --> 00:04:56,570
+the cue ball with the cue stick
+well what makes the eight ball move
+
+212
+00:04:56,570 --> 00:04:56,580
+well what makes the eight ball move
+ 
+
+213
+00:04:56,580 --> 00:04:58,730
+well what makes the eight ball move
+well it's the action of the cue ball
+
+214
+00:04:58,730 --> 00:04:58,740
+well it's the action of the cue ball
+ 
+
+215
+00:04:58,740 --> 00:05:01,430
+well it's the action of the cue ball
+hitting the eight ball which now imparts
+
+216
+00:05:01,430 --> 00:05:01,440
+hitting the eight ball which now imparts
+ 
+
+217
+00:05:01,440 --> 00:05:03,590
+hitting the eight ball which now imparts
+Force to the eight ball and the eight
+
+218
+00:05:03,590 --> 00:05:03,600
+Force to the eight ball and the eight
+ 
+
+219
+00:05:03,600 --> 00:05:06,409
+Force to the eight ball and the eight
+ball starts to move across the table
+
+220
+00:05:06,409 --> 00:05:06,419
+ball starts to move across the table
+ 
+
+221
+00:05:06,419 --> 00:05:08,689
+ball starts to move across the table
+well why does it drop into the corner
+
+222
+00:05:08,689 --> 00:05:08,699
+well why does it drop into the corner
+ 
+
+223
+00:05:08,699 --> 00:05:10,070
+well why does it drop into the corner
+pocket
+
+224
+00:05:10,070 --> 00:05:10,080
+pocket
+ 
+
+225
+00:05:10,080 --> 00:05:14,270
+pocket
+well once it gets in the right position
+
+226
+00:05:14,270 --> 00:05:14,280
+well once it gets in the right position
+ 
+
+227
+00:05:14,280 --> 00:05:16,249
+well once it gets in the right position
+all it takes for it to fall into the
+
+228
+00:05:16,249 --> 00:05:16,259
+all it takes for it to fall into the
+ 
+
+229
+00:05:16,259 --> 00:05:19,610
+all it takes for it to fall into the
+corner pocket is gravity to cause it to
+
+230
+00:05:19,610 --> 00:05:19,620
+corner pocket is gravity to cause it to
+ 
+
+231
+00:05:19,620 --> 00:05:20,510
+corner pocket is gravity to cause it to
+fall
+
+232
+00:05:20,510 --> 00:05:20,520
+fall
+ 
+
+233
+00:05:20,520 --> 00:05:22,189
+fall
+because there's nothing there to support
+
+234
+00:05:22,189 --> 00:05:22,199
+because there's nothing there to support
+ 
+
+235
+00:05:22,199 --> 00:05:23,510
+because there's nothing there to support
+it
+
+236
+00:05:23,510 --> 00:05:23,520
+it
+ 
+
+237
+00:05:23,520 --> 00:05:27,230
+it
+do you see the gravity
+
+238
+00:05:27,230 --> 00:05:27,240
+
+ 
+
+239
+00:05:27,240 --> 00:05:30,950
+
+do you perceive the force
+
+240
+00:05:30,950 --> 00:05:30,960
+do you perceive the force
+ 
+
+241
+00:05:30,960 --> 00:05:34,790
+do you perceive the force
+do you have a sensation a visual
+
+242
+00:05:34,790 --> 00:05:34,800
+do you have a sensation a visual
+ 
+
+243
+00:05:34,800 --> 00:05:38,510
+do you have a sensation a visual
+sensation of the actual energy that is
+
+244
+00:05:38,510 --> 00:05:38,520
+sensation of the actual energy that is
+ 
+
+245
+00:05:38,520 --> 00:05:41,510
+sensation of the actual energy that is
+being transferred from one ball to the
+
+246
+00:05:41,510 --> 00:05:41,520
+being transferred from one ball to the
+ 
+
+247
+00:05:41,520 --> 00:05:43,610
+being transferred from one ball to the
+next at the impact
+
+248
+00:05:43,610 --> 00:05:43,620
+next at the impact
+ 
+
+249
+00:05:43,620 --> 00:05:47,029
+next at the impact
+what is Hume saying here no
+
+250
+00:05:47,029 --> 00:05:47,039
+what is Hume saying here no
+ 
+
+251
+00:05:47,039 --> 00:05:52,029
+what is Hume saying here no
+you don't perceive the actual cause
+
+252
+00:05:52,029 --> 00:05:52,039
+you don't perceive the actual cause
+ 
+
+253
+00:05:52,039 --> 00:05:54,890
+you don't perceive the actual cause
+taking place
+
+254
+00:05:54,890 --> 00:05:54,900
+taking place
+ 
+
+255
+00:05:54,900 --> 00:05:57,830
+taking place
+all you see is
+
+256
+00:05:57,830 --> 00:05:57,840
+all you see is
+ 
+
+257
+00:05:57,840 --> 00:06:02,510
+all you see is
+a contiguous relationship between events
+
+258
+00:06:02,510 --> 00:06:02,520
+a contiguous relationship between events
+ 
+
+259
+00:06:02,520 --> 00:06:04,550
+a contiguous relationship between events
+or again
+
+260
+00:06:04,550 --> 00:06:04,560
+or again
+ 
+
+261
+00:06:04,560 --> 00:06:08,210
+or again
+a customary connection
+
+262
+00:06:08,210 --> 00:06:08,220
+a customary connection
+ 
+
+263
+00:06:08,220 --> 00:06:09,770
+a customary connection
+because it's not that we've only
+
+264
+00:06:09,770 --> 00:06:09,780
+because it's not that we've only
+ 
+
+265
+00:06:09,780 --> 00:06:12,710
+because it's not that we've only
+observed one cue ball in our lives
+
+266
+00:06:12,710 --> 00:06:12,720
+observed one cue ball in our lives
+ 
+
+267
+00:06:12,720 --> 00:06:14,870
+observed one cue ball in our lives
+striking one eight ball in our life but
+
+268
+00:06:14,870 --> 00:06:14,880
+striking one eight ball in our life but
+ 
+
+269
+00:06:14,880 --> 00:06:18,590
+striking one eight ball in our life but
+we've seen it over and over again and
+
+270
+00:06:18,590 --> 00:06:18,600
+we've seen it over and over again and
+ 
+
+271
+00:06:18,600 --> 00:06:20,270
+we've seen it over and over again and
+though the shot may be missed from time
+
+272
+00:06:20,270 --> 00:06:20,280
+though the shot may be missed from time
+ 
+
+273
+00:06:20,280 --> 00:06:24,529
+though the shot may be missed from time
+to time the basic activity is is the
+
+274
+00:06:24,529 --> 00:06:24,539
+to time the basic activity is is the
+ 
+
+275
+00:06:24,539 --> 00:06:26,870
+to time the basic activity is is the
+same that is every time one ball hits
+
+276
+00:06:26,870 --> 00:06:26,880
+same that is every time one ball hits
+ 
+
+277
+00:06:26,880 --> 00:06:30,230
+same that is every time one ball hits
+another ball that second ball moves may
+
+278
+00:06:30,230 --> 00:06:30,240
+another ball that second ball moves may
+ 
+
+279
+00:06:30,240 --> 00:06:31,790
+another ball that second ball moves may
+not move in the direction you want it to
+
+280
+00:06:31,790 --> 00:06:31,800
+not move in the direction you want it to
+ 
+
+281
+00:06:31,800 --> 00:06:34,010
+not move in the direction you want it to
+move or the speed you want it to move
+
+282
+00:06:34,010 --> 00:06:34,020
+move or the speed you want it to move
+ 
+
+283
+00:06:34,020 --> 00:06:38,170
+move or the speed you want it to move
+but it moves and we assume a causal
+
+284
+00:06:38,170 --> 00:06:38,180
+but it moves and we assume a causal
+ 
+
+285
+00:06:38,180 --> 00:06:40,550
+but it moves and we assume a causal
+necessary connection
+
+286
+00:06:40,550 --> 00:06:40,560
+necessary connection
+ 
+
+287
+00:06:40,560 --> 00:06:41,749
+necessary connection
+now
+
+288
+00:06:41,749 --> 00:06:41,759
+now
+ 
+
+289
+00:06:41,759 --> 00:06:44,990
+now
+the point of all of this is simple
+
+290
+00:06:44,990 --> 00:06:45,000
+the point of all of this is simple
+ 
+
+291
+00:06:45,000 --> 00:06:47,749
+the point of all of this is simple
+Hume is an empiricist
+
+292
+00:06:47,749 --> 00:06:47,759
+Hume is an empiricist
+ 
+
+293
+00:06:47,759 --> 00:06:51,469
+Hume is an empiricist
+and he says that all of our knowledge
+
+294
+00:06:51,469 --> 00:06:51,479
+and he says that all of our knowledge
+ 
+
+295
+00:06:51,479 --> 00:06:54,409
+and he says that all of our knowledge
+is based upon what
+
+296
+00:06:54,409 --> 00:06:54,419
+is based upon what
+ 
+
+297
+00:06:54,419 --> 00:06:56,809
+is based upon what
+sense perceptions
+
+298
+00:06:56,809 --> 00:06:56,819
+sense perceptions
+ 
+
+299
+00:06:56,819 --> 00:06:59,629
+sense perceptions
+Sensations that we have
+
+300
+00:06:59,629 --> 00:06:59,639
+Sensations that we have
+ 
+
+301
+00:06:59,639 --> 00:07:02,689
+Sensations that we have
+with the five senses
+
+302
+00:07:02,689 --> 00:07:02,699
+with the five senses
+ 
+
+303
+00:07:02,699 --> 00:07:04,730
+with the five senses
+but we don't have
+
+304
+00:07:04,730 --> 00:07:04,740
+but we don't have
+ 
+
+305
+00:07:04,740 --> 00:07:06,590
+but we don't have
+a perception
+
+306
+00:07:06,590 --> 00:07:06,600
+a perception
+ 
+
+307
+00:07:06,600 --> 00:07:08,870
+a perception
+or a sensation
+
+308
+00:07:08,870 --> 00:07:08,880
+or a sensation
+ 
+
+309
+00:07:08,880 --> 00:07:11,990
+or a sensation
+of cause itself
+
+310
+00:07:11,990 --> 00:07:12,000
+of cause itself
+ 
+
+311
+00:07:12,000 --> 00:07:14,330
+of cause itself
+all we see
+
+312
+00:07:14,330 --> 00:07:14,340
+all we see
+ 
+
+313
+00:07:14,340 --> 00:07:18,230
+all we see
+the relative actions of the objects
+
+314
+00:07:18,230 --> 00:07:18,240
+the relative actions of the objects
+ 
+
+315
+00:07:18,240 --> 00:07:21,950
+the relative actions of the objects
+and we fill in the blanks
+
+316
+00:07:21,950 --> 00:07:21,960
+and we fill in the blanks
+ 
+
+317
+00:07:21,960 --> 00:07:25,930
+and we fill in the blanks
+I remember when I took my first lesson
+
+318
+00:07:25,930 --> 00:07:25,940
+I remember when I took my first lesson
+ 
+
+319
+00:07:25,940 --> 00:07:30,650
+I remember when I took my first lesson
+at drawing for purposes of Art
+
+320
+00:07:30,650 --> 00:07:30,660
+at drawing for purposes of Art
+ 
+
+321
+00:07:30,660 --> 00:07:33,170
+at drawing for purposes of Art
+and I tried to draw a portrait and I had
+
+322
+00:07:33,170 --> 00:07:33,180
+and I tried to draw a portrait and I had
+ 
+
+323
+00:07:33,180 --> 00:07:34,670
+and I tried to draw a portrait and I had
+a friend of mine who was an artist and
+
+324
+00:07:34,670 --> 00:07:34,680
+a friend of mine who was an artist and
+ 
+
+325
+00:07:34,680 --> 00:07:36,830
+a friend of mine who was an artist and
+he was trying to give me the some hints
+
+326
+00:07:36,830 --> 00:07:36,840
+he was trying to give me the some hints
+ 
+
+327
+00:07:36,840 --> 00:07:38,689
+he was trying to give me the some hints
+on how to draw portraits by using
+
+328
+00:07:38,689 --> 00:07:38,699
+on how to draw portraits by using
+ 
+
+329
+00:07:38,699 --> 00:07:41,150
+on how to draw portraits by using
+different shapes and circles and
+
+330
+00:07:41,150 --> 00:07:41,160
+different shapes and circles and
+ 
+
+331
+00:07:41,160 --> 00:07:43,070
+different shapes and circles and
+triangles and all of that and filling in
+
+332
+00:07:43,070 --> 00:07:43,080
+triangles and all of that and filling in
+ 
+
+333
+00:07:43,080 --> 00:07:45,890
+triangles and all of that and filling in
+the lines and I would try to draw a
+
+334
+00:07:45,890 --> 00:07:45,900
+the lines and I would try to draw a
+ 
+
+335
+00:07:45,900 --> 00:07:49,249
+the lines and I would try to draw a
+portrait of somebody and every line that
+
+336
+00:07:49,249 --> 00:07:49,259
+portrait of somebody and every line that
+ 
+
+337
+00:07:49,259 --> 00:07:51,409
+portrait of somebody and every line that
+I could see with my eye
+
+338
+00:07:51,409 --> 00:07:51,419
+I could see with my eye
+ 
+
+339
+00:07:51,419 --> 00:07:54,170
+I could see with my eye
+on the real face of the person whose
+
+340
+00:07:54,170 --> 00:07:54,180
+on the real face of the person whose
+ 
+
+341
+00:07:54,180 --> 00:07:56,150
+on the real face of the person whose
+portrait I was trying to draw
+
+342
+00:07:56,150 --> 00:07:56,160
+portrait I was trying to draw
+ 
+
+343
+00:07:56,160 --> 00:07:59,390
+portrait I was trying to draw
+I would then try to reproduce on the
+
+344
+00:07:59,390 --> 00:07:59,400
+I would then try to reproduce on the
+ 
+
+345
+00:07:59,400 --> 00:08:02,749
+I would then try to reproduce on the
+paper
+
+346
+00:08:02,749 --> 00:08:02,759
+
+ 
+
+347
+00:08:02,759 --> 00:08:05,689
+
+and my teacher said to me says that's
+
+348
+00:08:05,689 --> 00:08:05,699
+and my teacher said to me says that's
+ 
+
+349
+00:08:05,699 --> 00:08:07,670
+and my teacher said to me says that's
+not how you do it
+
+350
+00:08:07,670 --> 00:08:07,680
+not how you do it
+ 
+
+351
+00:08:07,680 --> 00:08:09,469
+not how you do it
+I said what do you mean I said here's
+
+352
+00:08:09,469 --> 00:08:09,479
+I said what do you mean I said here's
+ 
+
+353
+00:08:09,479 --> 00:08:11,689
+I said what do you mean I said here's
+here's a nose here and there's a line
+
+354
+00:08:11,689 --> 00:08:11,699
+here's a nose here and there's a line
+ 
+
+355
+00:08:11,699 --> 00:08:13,309
+here's a nose here and there's a line
+there and there's a line here and
+
+356
+00:08:13,309 --> 00:08:13,319
+there and there's a line here and
+ 
+
+357
+00:08:13,319 --> 00:08:14,870
+there and there's a line here and
+there's a line here and there's a line
+
+358
+00:08:14,870 --> 00:08:14,880
+there's a line here and there's a line
+ 
+
+359
+00:08:14,880 --> 00:08:16,550
+there's a line here and there's a line
+here and there's a line here and there's
+
+360
+00:08:16,550 --> 00:08:16,560
+here and there's a line here and there's
+ 
+
+361
+00:08:16,560 --> 00:08:18,830
+here and there's a line here and there's
+a line here and there's a line here a
+
+362
+00:08:18,830 --> 00:08:18,840
+a line here and there's a line here a
+ 
+
+363
+00:08:18,840 --> 00:08:22,430
+a line here and there's a line here a
+line here I'm trying to draw this nose
+
+364
+00:08:22,430 --> 00:08:22,440
+line here I'm trying to draw this nose
+ 
+
+365
+00:08:22,440 --> 00:08:24,110
+line here I'm trying to draw this nose
+he says no that's not how you do it I
+
+366
+00:08:24,110 --> 00:08:24,120
+he says no that's not how you do it I
+ 
+
+367
+00:08:24,120 --> 00:08:26,089
+he says no that's not how you do it I
+saw how do you do it he said you just
+
+368
+00:08:26,089 --> 00:08:26,099
+saw how do you do it he said you just
+ 
+
+369
+00:08:26,099 --> 00:08:29,150
+saw how do you do it he said you just
+shade this side here in a little bit and
+
+370
+00:08:29,150 --> 00:08:29,160
+shade this side here in a little bit and
+ 
+
+371
+00:08:29,160 --> 00:08:31,070
+shade this side here in a little bit and
+maybe some shading down here
+
+372
+00:08:31,070 --> 00:08:31,080
+maybe some shading down here
+ 
+
+373
+00:08:31,080 --> 00:08:34,790
+maybe some shading down here
+and you leave it alone
+
+374
+00:08:34,790 --> 00:08:34,800
+
+ 
+
+375
+00:08:34,800 --> 00:08:37,550
+
+I said but that's not a nose he says
+
+376
+00:08:37,550 --> 00:08:37,560
+I said but that's not a nose he says
+ 
+
+377
+00:08:37,560 --> 00:08:40,730
+I said but that's not a nose he says
+yes it is because the human eye
+
+378
+00:08:40,730 --> 00:08:40,740
+yes it is because the human eye
+ 
+
+379
+00:08:40,740 --> 00:08:43,969
+yes it is because the human eye
+will fill in the details
+
+380
+00:08:43,969 --> 00:08:43,979
+will fill in the details
+ 
+
+381
+00:08:43,979 --> 00:08:45,829
+will fill in the details
+and he said you're making the mistake of
+
+382
+00:08:45,829 --> 00:08:45,839
+and he said you're making the mistake of
+ 
+
+383
+00:08:45,839 --> 00:08:49,190
+and he said you're making the mistake of
+every amateur trying to reproduce the
+
+384
+00:08:49,190 --> 00:08:49,200
+every amateur trying to reproduce the
+ 
+
+385
+00:08:49,200 --> 00:08:51,829
+every amateur trying to reproduce the
+thing with every detail and it looks
+
+386
+00:08:51,829 --> 00:08:51,839
+thing with every detail and it looks
+ 
+
+387
+00:08:51,839 --> 00:08:54,530
+thing with every detail and it looks
+wooden it looks artificial same thing
+
+388
+00:08:54,530 --> 00:08:54,540
+wooden it looks artificial same thing
+ 
+
+389
+00:08:54,540 --> 00:08:57,650
+wooden it looks artificial same thing
+with writing wrote a novel and I was in
+
+390
+00:08:57,650 --> 00:08:57,660
+with writing wrote a novel and I was in
+ 
+
+391
+00:08:57,660 --> 00:09:00,590
+with writing wrote a novel and I was in
+that novel I was trying to describe this
+
+392
+00:09:00,590 --> 00:09:00,600
+that novel I was trying to describe this
+ 
+
+393
+00:09:00,600 --> 00:09:03,170
+that novel I was trying to describe this
+seedy bar that one of the characters
+
+394
+00:09:03,170 --> 00:09:03,180
+seedy bar that one of the characters
+ 
+
+395
+00:09:03,180 --> 00:09:04,790
+seedy bar that one of the characters
+entered
+
+396
+00:09:04,790 --> 00:09:04,800
+entered
+ 
+
+397
+00:09:04,800 --> 00:09:07,009
+entered
+and I thought now how should I describe
+
+398
+00:09:07,009 --> 00:09:07,019
+and I thought now how should I describe
+ 
+
+399
+00:09:07,019 --> 00:09:08,930
+and I thought now how should I describe
+this bar
+
+400
+00:09:08,930 --> 00:09:08,940
+this bar
+ 
+
+401
+00:09:08,940 --> 00:09:10,730
+this bar
+should I start with the front door and
+
+402
+00:09:10,730 --> 00:09:10,740
+should I start with the front door and
+ 
+
+403
+00:09:10,740 --> 00:09:12,050
+should I start with the front door and
+talk about what kind of woods on the
+
+404
+00:09:12,050 --> 00:09:12,060
+talk about what kind of woods on the
+ 
+
+405
+00:09:12,060 --> 00:09:13,730
+talk about what kind of woods on the
+front door and tell how big the rooms
+
+406
+00:09:13,730 --> 00:09:13,740
+front door and tell how big the rooms
+ 
+
+407
+00:09:13,740 --> 00:09:15,350
+front door and tell how big the rooms
+are give the dimensions like I would to
+
+408
+00:09:15,350 --> 00:09:15,360
+are give the dimensions like I would to
+ 
+
+409
+00:09:15,360 --> 00:09:17,630
+are give the dimensions like I would to
+an architect and tell how many tables
+
+410
+00:09:17,630 --> 00:09:17,640
+an architect and tell how many tables
+ 
+
+411
+00:09:17,640 --> 00:09:19,070
+an architect and tell how many tables
+are there how many stools are by the
+
+412
+00:09:19,070 --> 00:09:19,080
+are there how many stools are by the
+ 
+
+413
+00:09:19,080 --> 00:09:20,690
+are there how many stools are by the
+board you know no you can go on
+
+414
+00:09:20,690 --> 00:09:20,700
+board you know no you can go on
+ 
+
+415
+00:09:20,700 --> 00:09:23,210
+board you know no you can go on
+describing it forever
+
+416
+00:09:23,210 --> 00:09:23,220
+describing it forever
+ 
+
+417
+00:09:23,220 --> 00:09:25,070
+describing it forever
+and I've decided to do it this way the
+
+418
+00:09:25,070 --> 00:09:25,080
+and I've decided to do it this way the
+ 
+
+419
+00:09:25,080 --> 00:09:27,889
+and I've decided to do it this way the
+guy goes in he sits at the bar and he's
+
+420
+00:09:27,889 --> 00:09:27,899
+guy goes in he sits at the bar and he's
+ 
+
+421
+00:09:27,899 --> 00:09:31,009
+guy goes in he sits at the bar and he's
+sitting there alone and he looks up and
+
+422
+00:09:31,009 --> 00:09:31,019
+sitting there alone and he looks up and
+ 
+
+423
+00:09:31,019 --> 00:09:35,690
+sitting there alone and he looks up and
+he sees a fan an exhaust fan
+
+424
+00:09:35,690 --> 00:09:35,700
+he sees a fan an exhaust fan
+ 
+
+425
+00:09:35,700 --> 00:09:38,090
+he sees a fan an exhaust fan
+by the kitchen
+
+426
+00:09:38,090 --> 00:09:38,100
+by the kitchen
+ 
+
+427
+00:09:38,100 --> 00:09:41,870
+by the kitchen
+and he notices that the exhaust fan
+
+428
+00:09:41,870 --> 00:09:41,880
+and he notices that the exhaust fan
+ 
+
+429
+00:09:41,880 --> 00:09:45,290
+and he notices that the exhaust fan
+is so thickly covered with grease that
+
+430
+00:09:45,290 --> 00:09:45,300
+is so thickly covered with grease that
+ 
+
+431
+00:09:45,300 --> 00:09:46,790
+is so thickly covered with grease that
+he wonders
+
+432
+00:09:46,790 --> 00:09:46,800
+he wonders
+ 
+
+433
+00:09:46,800 --> 00:09:49,190
+he wonders
+how the blades of the fan
+
+434
+00:09:49,190 --> 00:09:49,200
+how the blades of the fan
+ 
+
+435
+00:09:49,200 --> 00:09:53,030
+how the blades of the fan
+can even turn at all
+
+436
+00:09:53,030 --> 00:09:53,040
+can even turn at all
+ 
+
+437
+00:09:53,040 --> 00:09:56,750
+can even turn at all
+that's the only description I give of
+
+438
+00:09:56,750 --> 00:09:56,760
+that's the only description I give of
+ 
+
+439
+00:09:56,760 --> 00:09:58,370
+that's the only description I give of
+the bar
+
+440
+00:09:58,370 --> 00:09:58,380
+the bar
+ 
+
+441
+00:09:58,380 --> 00:10:00,470
+the bar
+can you imagine it
+
+442
+00:10:00,470 --> 00:10:00,480
+can you imagine it
+ 
+
+443
+00:10:00,480 --> 00:10:04,250
+can you imagine it
+do you have in your mind an idea of what
+
+444
+00:10:04,250 --> 00:10:04,260
+do you have in your mind an idea of what
+ 
+
+445
+00:10:04,260 --> 00:10:07,130
+do you have in your mind an idea of what
+that bar in its fullness looked like if
+
+446
+00:10:07,130 --> 00:10:07,140
+that bar in its fullness looked like if
+ 
+
+447
+00:10:07,140 --> 00:10:08,630
+that bar in its fullness looked like if
+he can it's going to look different in
+
+448
+00:10:08,630 --> 00:10:08,640
+he can it's going to look different in
+ 
+
+449
+00:10:08,640 --> 00:10:10,790
+he can it's going to look different in
+your different minds but you know it's
+
+450
+00:10:10,790 --> 00:10:10,800
+your different minds but you know it's
+ 
+
+451
+00:10:10,800 --> 00:10:14,030
+your different minds but you know it's
+not an upscale cocktail out
+
+452
+00:10:14,030 --> 00:10:14,040
+not an upscale cocktail out
+ 
+
+453
+00:10:14,040 --> 00:10:18,110
+not an upscale cocktail out
+you know it's a ratty joint because of
+
+454
+00:10:18,110 --> 00:10:18,120
+you know it's a ratty joint because of
+ 
+
+455
+00:10:18,120 --> 00:10:20,690
+you know it's a ratty joint because of
+the fan in other words I highlighted
+
+456
+00:10:20,690 --> 00:10:20,700
+the fan in other words I highlighted
+ 
+
+457
+00:10:20,700 --> 00:10:24,530
+the fan in other words I highlighted
+lighted one detail and let the reader's
+
+458
+00:10:24,530 --> 00:10:24,540
+lighted one detail and let the reader's
+ 
+
+459
+00:10:24,540 --> 00:10:26,509
+lighted one detail and let the reader's
+imagination
+
+460
+00:10:26,509 --> 00:10:26,519
+imagination
+ 
+
+461
+00:10:26,519 --> 00:10:28,790
+imagination
+fill in the rest
+
+462
+00:10:28,790 --> 00:10:28,800
+fill in the rest
+ 
+
+463
+00:10:28,800 --> 00:10:31,310
+fill in the rest
+now what Hume is saying is that we don't
+
+464
+00:10:31,310 --> 00:10:31,320
+now what Hume is saying is that we don't
+ 
+
+465
+00:10:31,320 --> 00:10:33,410
+now what Hume is saying is that we don't
+just do that with music
+
+466
+00:10:33,410 --> 00:10:33,420
+just do that with music
+ 
+
+467
+00:10:33,420 --> 00:10:36,530
+just do that with music
+or with art
+
+468
+00:10:36,530 --> 00:10:36,540
+or with art
+ 
+
+469
+00:10:36,540 --> 00:10:39,410
+or with art
+or with literature
+
+470
+00:10:39,410 --> 00:10:39,420
+or with literature
+ 
+
+471
+00:10:39,420 --> 00:10:41,990
+or with literature
+but we do it philosophically
+
+472
+00:10:41,990 --> 00:10:42,000
+but we do it philosophically
+ 
+
+473
+00:10:42,000 --> 00:10:46,190
+but we do it philosophically
+we Supply things with the mind
+
+474
+00:10:46,190 --> 00:10:46,200
+we Supply things with the mind
+ 
+
+475
+00:10:46,200 --> 00:10:48,829
+we Supply things with the mind
+that we don't perceive
+
+476
+00:10:48,829 --> 00:10:48,839
+that we don't perceive
+ 
+
+477
+00:10:48,839 --> 00:10:51,050
+that we don't perceive
+and the big one that we're supplying
+
+478
+00:10:51,050 --> 00:10:51,060
+and the big one that we're supplying
+ 
+
+479
+00:10:51,060 --> 00:10:51,829
+and the big one that we're supplying
+here
+
+480
+00:10:51,829 --> 00:10:51,839
+here
+ 
+
+481
+00:10:51,839 --> 00:10:55,190
+here
+is causality
+
+482
+00:10:55,190 --> 00:10:55,200
+is causality
+ 
+
+483
+00:10:55,200 --> 00:10:58,430
+is causality
+so what he does is he shows
+
+484
+00:10:58,430 --> 00:10:58,440
+so what he does is he shows
+ 
+
+485
+00:10:58,440 --> 00:11:02,389
+so what he does is he shows
+that we have no perception of actual
+
+486
+00:11:02,389 --> 00:11:02,399
+that we have no perception of actual
+ 
+
+487
+00:11:02,399 --> 00:11:03,949
+that we have no perception of actual
+causality
+
+488
+00:11:03,949 --> 00:11:03,959
+causality
+ 
+
+489
+00:11:03,959 --> 00:11:06,530
+causality
+now that raises the question does that
+
+490
+00:11:06,530 --> 00:11:06,540
+now that raises the question does that
+ 
+
+491
+00:11:06,540 --> 00:11:08,810
+now that raises the question does that
+mean then
+
+492
+00:11:08,810 --> 00:11:08,820
+mean then
+ 
+
+493
+00:11:08,820 --> 00:11:11,930
+mean then
+that once and for all David Hume
+
+494
+00:11:11,930 --> 00:11:11,940
+that once and for all David Hume
+ 
+
+495
+00:11:11,940 --> 00:11:17,690
+that once and for all David Hume
+has destroyed the very idea of causality
+
+496
+00:11:17,690 --> 00:11:17,700
+has destroyed the very idea of causality
+ 
+
+497
+00:11:17,700 --> 00:11:21,530
+has destroyed the very idea of causality
+and must we now discard causality as a
+
+498
+00:11:21,530 --> 00:11:21,540
+and must we now discard causality as a
+ 
+
+499
+00:11:21,540 --> 00:11:22,730
+and must we now discard causality as a
+law
+
+500
+00:11:22,730 --> 00:11:22,740
+law
+ 
+
+501
+00:11:22,740 --> 00:11:24,590
+law
+remember we've talked about this law
+
+502
+00:11:24,590 --> 00:11:24,600
+remember we've talked about this law
+ 
+
+503
+00:11:24,600 --> 00:11:27,530
+remember we've talked about this law
+that the law of causality says that
+
+504
+00:11:27,530 --> 00:11:27,540
+that the law of causality says that
+ 
+
+505
+00:11:27,540 --> 00:11:31,190
+that the law of causality says that
+every effect must have an antecedent
+
+506
+00:11:31,190 --> 00:11:31,200
+every effect must have an antecedent
+ 
+
+507
+00:11:31,200 --> 00:11:32,389
+every effect must have an antecedent
+cause
+
+508
+00:11:32,389 --> 00:11:32,399
+cause
+ 
+
+509
+00:11:32,399 --> 00:11:35,630
+cause
+and at that time I mentioned to you that
+
+510
+00:11:35,630 --> 00:11:35,640
+and at that time I mentioned to you that
+ 
+
+511
+00:11:35,640 --> 00:11:38,329
+and at that time I mentioned to you that
+that definition of the law of cause and
+
+512
+00:11:38,329 --> 00:11:38,339
+that definition of the law of cause and
+ 
+
+513
+00:11:38,339 --> 00:11:42,590
+that definition of the law of cause and
+effect is a formal definition
+
+514
+00:11:42,590 --> 00:11:42,600
+effect is a formal definition
+ 
+
+515
+00:11:42,600 --> 00:11:45,710
+effect is a formal definition
+it is an analytical definition
+
+516
+00:11:45,710 --> 00:11:45,720
+it is an analytical definition
+ 
+
+517
+00:11:45,720 --> 00:11:51,530
+it is an analytical definition
+and it is true by logical necessity
+
+518
+00:11:51,530 --> 00:11:51,540
+and it is true by logical necessity
+ 
+
+519
+00:11:51,540 --> 00:11:57,110
+and it is true by logical necessity
+why because the word effect means
+
+520
+00:11:57,110 --> 00:11:57,120
+why because the word effect means
+ 
+
+521
+00:11:57,120 --> 00:12:00,410
+why because the word effect means
+something that has been brought about
+
+522
+00:12:00,410 --> 00:12:00,420
+something that has been brought about
+ 
+
+523
+00:12:00,420 --> 00:12:04,730
+something that has been brought about
+by something else
+
+524
+00:12:04,730 --> 00:12:04,740
+
+ 
+
+525
+00:12:04,740 --> 00:12:07,310
+
+and so when I say here here's what
+
+526
+00:12:07,310 --> 00:12:07,320
+and so when I say here here's what
+ 
+
+527
+00:12:07,320 --> 00:12:09,170
+and so when I say here here's what
+causality means that for every effect
+
+528
+00:12:09,170 --> 00:12:09,180
+causality means that for every effect
+ 
+
+529
+00:12:09,180 --> 00:12:11,750
+causality means that for every effect
+there is an antecedent cause that's the
+
+530
+00:12:11,750 --> 00:12:11,760
+there is an antecedent cause that's the
+ 
+
+531
+00:12:11,760 --> 00:12:13,970
+there is an antecedent cause that's the
+concept is
+
+532
+00:12:13,970 --> 00:12:13,980
+concept is
+ 
+
+533
+00:12:13,980 --> 00:12:18,050
+concept is
+analytically true it's like saying two
+
+534
+00:12:18,050 --> 00:12:18,060
+analytically true it's like saying two
+ 
+
+535
+00:12:18,060 --> 00:12:21,889
+analytically true it's like saying two
+plus two or four or a triangle has three
+
+536
+00:12:21,889 --> 00:12:21,899
+plus two or four or a triangle has three
+ 
+
+537
+00:12:21,899 --> 00:12:23,329
+plus two or four or a triangle has three
+sides maybe there aren't any real
+
+538
+00:12:23,329 --> 00:12:23,339
+sides maybe there aren't any real
+ 
+
+539
+00:12:23,339 --> 00:12:25,670
+sides maybe there aren't any real
+triangles out there but in the formal
+
+540
+00:12:25,670 --> 00:12:25,680
+triangles out there but in the formal
+ 
+
+541
+00:12:25,680 --> 00:12:28,550
+triangles out there but in the formal
+intellectual rational Arena
+
+542
+00:12:28,550 --> 00:12:28,560
+intellectual rational Arena
+ 
+
+543
+00:12:28,560 --> 00:12:32,750
+intellectual rational Arena
+it is logically necessary to say of a
+
+544
+00:12:32,750 --> 00:12:32,760
+it is logically necessary to say of a
+ 
+
+545
+00:12:32,760 --> 00:12:35,870
+it is logically necessary to say of a
+triangle that it has three sides
+
+546
+00:12:35,870 --> 00:12:35,880
+triangle that it has three sides
+ 
+
+547
+00:12:35,880 --> 00:12:37,610
+triangle that it has three sides
+because if it doesn't have three sides
+
+548
+00:12:37,610 --> 00:12:37,620
+because if it doesn't have three sides
+ 
+
+549
+00:12:37,620 --> 00:12:39,350
+because if it doesn't have three sides
+it's not what
+
+550
+00:12:39,350 --> 00:12:39,360
+it's not what
+ 
+
+551
+00:12:39,360 --> 00:12:40,910
+it's not what
+a triangle
+
+552
+00:12:40,910 --> 00:12:40,920
+a triangle
+ 
+
+553
+00:12:40,920 --> 00:12:43,670
+a triangle
+so if something doesn't have a cause
+
+554
+00:12:43,670 --> 00:12:43,680
+so if something doesn't have a cause
+ 
+
+555
+00:12:43,680 --> 00:12:47,269
+so if something doesn't have a cause
+then it would be improper to call it
+
+556
+00:12:47,269 --> 00:12:47,279
+then it would be improper to call it
+ 
+
+557
+00:12:47,279 --> 00:12:49,190
+then it would be improper to call it
+an effect
+
+558
+00:12:49,190 --> 00:12:49,200
+an effect
+ 
+
+559
+00:12:49,200 --> 00:12:50,690
+an effect
+say it again
+
+560
+00:12:50,690 --> 00:12:50,700
+say it again
+ 
+
+561
+00:12:50,700 --> 00:12:53,509
+say it again
+if something does not have a Cause
+
+562
+00:12:53,509 --> 00:12:53,519
+if something does not have a Cause
+ 
+
+563
+00:12:53,519 --> 00:12:56,509
+if something does not have a Cause
+then it would be improper to call it an
+
+564
+00:12:56,509 --> 00:12:56,519
+then it would be improper to call it an
+ 
+
+565
+00:12:56,519 --> 00:13:00,050
+then it would be improper to call it an
+effect is God an effect
+
+566
+00:13:00,050 --> 00:13:00,060
+effect is God an effect
+ 
+
+567
+00:13:00,060 --> 00:13:01,190
+effect is God an effect
+no
+
+568
+00:13:01,190 --> 00:13:01,200
+no
+ 
+
+569
+00:13:01,200 --> 00:13:03,290
+no
+why because he doesn't have a cause
+
+570
+00:13:03,290 --> 00:13:03,300
+why because he doesn't have a cause
+ 
+
+571
+00:13:03,300 --> 00:13:06,769
+why because he doesn't have a cause
+there's no antecedent cause for God
+
+572
+00:13:06,769 --> 00:13:06,779
+there's no antecedent cause for God
+ 
+
+573
+00:13:06,779 --> 00:13:11,329
+there's no antecedent cause for God
+all right now because so much science
+
+574
+00:13:11,329 --> 00:13:11,339
+all right now because so much science
+ 
+
+575
+00:13:11,339 --> 00:13:14,389
+all right now because so much science
+and so much philosophy and so much
+
+576
+00:13:14,389 --> 00:13:14,399
+and so much philosophy and so much
+ 
+
+577
+00:13:14,399 --> 00:13:18,230
+and so much philosophy and so much
+theology rests upon the formal principle
+
+578
+00:13:18,230 --> 00:13:18,240
+theology rests upon the formal principle
+ 
+
+579
+00:13:18,240 --> 00:13:22,190
+theology rests upon the formal principle
+of the law of cause and effect
+
+580
+00:13:22,190 --> 00:13:22,200
+of the law of cause and effect
+ 
+
+581
+00:13:22,200 --> 00:13:25,610
+of the law of cause and effect
+our reasoning in medicine our diagnostic
+
+582
+00:13:25,610 --> 00:13:25,620
+our reasoning in medicine our diagnostic
+ 
+
+583
+00:13:25,620 --> 00:13:28,610
+our reasoning in medicine our diagnostic
+programs if you have a stomachache
+
+584
+00:13:28,610 --> 00:13:28,620
+programs if you have a stomachache
+ 
+
+585
+00:13:28,620 --> 00:13:30,710
+programs if you have a stomachache
+that's an effect you go to the doctor
+
+586
+00:13:30,710 --> 00:13:30,720
+that's an effect you go to the doctor
+ 
+
+587
+00:13:30,720 --> 00:13:33,889
+that's an effect you go to the doctor
+and you want to know what what causes my
+
+588
+00:13:33,889 --> 00:13:33,899
+and you want to know what what causes my
+ 
+
+589
+00:13:33,899 --> 00:13:37,430
+and you want to know what what causes my
+stomachache is it something I ate or
+
+590
+00:13:37,430 --> 00:13:37,440
+stomachache is it something I ate or
+ 
+
+591
+00:13:37,440 --> 00:13:41,090
+stomachache is it something I ate or
+have I had an invasion of some
+
+592
+00:13:41,090 --> 00:13:41,100
+have I had an invasion of some
+ 
+
+593
+00:13:41,100 --> 00:13:44,690
+have I had an invasion of some
+micro sub microscopic organism that's
+
+594
+00:13:44,690 --> 00:13:44,700
+micro sub microscopic organism that's
+ 
+
+595
+00:13:44,700 --> 00:13:47,210
+micro sub microscopic organism that's
+threatening my life
+
+596
+00:13:47,210 --> 00:13:47,220
+threatening my life
+ 
+
+597
+00:13:47,220 --> 00:13:48,889
+threatening my life
+you want to know what's causing your
+
+598
+00:13:48,889 --> 00:13:48,899
+you want to know what's causing your
+ 
+
+599
+00:13:48,899 --> 00:13:52,310
+you want to know what's causing your
+stomach
+
+600
+00:13:52,310 --> 00:13:52,320
+
+ 
+
+601
+00:13:52,320 --> 00:13:55,370
+
+but here humans raised questions
+
+602
+00:13:55,370 --> 00:13:55,380
+but here humans raised questions
+ 
+
+603
+00:13:55,380 --> 00:13:57,949
+but here humans raised questions
+about causality itself
+
+604
+00:13:57,949 --> 00:13:57,959
+about causality itself
+ 
+
+605
+00:13:57,959 --> 00:14:00,290
+about causality itself
+or has he
+
+606
+00:14:00,290 --> 00:14:00,300
+or has he
+ 
+
+607
+00:14:00,300 --> 00:14:03,590
+or has he
+now what has happened since Hume
+
+608
+00:14:03,590 --> 00:14:03,600
+now what has happened since Hume
+ 
+
+609
+00:14:03,600 --> 00:14:06,050
+now what has happened since Hume
+is that many philosophers and certainly
+
+610
+00:14:06,050 --> 00:14:06,060
+is that many philosophers and certainly
+ 
+
+611
+00:14:06,060 --> 00:14:09,530
+is that many philosophers and certainly
+many students have drawn the conclusion
+
+612
+00:14:09,530 --> 00:14:09,540
+many students have drawn the conclusion
+ 
+
+613
+00:14:09,540 --> 00:14:12,590
+many students have drawn the conclusion
+that what Hume did in his critique of
+
+614
+00:14:12,590 --> 00:14:12,600
+that what Hume did in his critique of
+ 
+
+615
+00:14:12,600 --> 00:14:16,509
+that what Hume did in his critique of
+causality is so cut the rug underneath
+
+616
+00:14:16,509 --> 00:14:16,519
+causality is so cut the rug underneath
+ 
+
+617
+00:14:16,519 --> 00:14:20,290
+causality is so cut the rug underneath
+causality that he has disproven
+
+618
+00:14:20,290 --> 00:14:20,300
+causality that he has disproven
+ 
+
+619
+00:14:20,300 --> 00:14:23,090
+causality that he has disproven
+causality itself
+
+620
+00:14:23,090 --> 00:14:23,100
+causality itself
+ 
+
+621
+00:14:23,100 --> 00:14:25,430
+causality itself
+now there's an ongoing debate as to
+
+622
+00:14:25,430 --> 00:14:25,440
+now there's an ongoing debate as to
+ 
+
+623
+00:14:25,440 --> 00:14:26,329
+now there's an ongoing debate as to
+whether
+
+624
+00:14:26,329 --> 00:14:26,339
+whether
+ 
+
+625
+00:14:26,339 --> 00:14:29,569
+whether
+Hume thought that's what he was doing I
+
+626
+00:14:29,569 --> 00:14:29,579
+Hume thought that's what he was doing I
+ 
+
+627
+00:14:29,579 --> 00:14:32,509
+Hume thought that's what he was doing I
+personally side with those who say that
+
+628
+00:14:32,509 --> 00:14:32,519
+personally side with those who say that
+ 
+
+629
+00:14:32,519 --> 00:14:35,449
+personally side with those who say that
+Hume did not think he was destroying the
+
+630
+00:14:35,449 --> 00:14:35,459
+Hume did not think he was destroying the
+ 
+
+631
+00:14:35,459 --> 00:14:37,790
+Hume did not think he was destroying the
+law of causality I don't think that was
+
+632
+00:14:37,790 --> 00:14:37,800
+law of causality I don't think that was
+ 
+
+633
+00:14:37,800 --> 00:14:39,230
+law of causality I don't think that was
+his point
+
+634
+00:14:39,230 --> 00:14:39,240
+his point
+ 
+
+635
+00:14:39,240 --> 00:14:41,030
+his point
+because he makes some very revealing
+
+636
+00:14:41,030 --> 00:14:41,040
+because he makes some very revealing
+ 
+
+637
+00:14:41,040 --> 00:14:43,610
+because he makes some very revealing
+statements in his inquiry like well we
+
+638
+00:14:43,610 --> 00:14:43,620
+statements in his inquiry like well we
+ 
+
+639
+00:14:43,620 --> 00:14:47,210
+statements in his inquiry like well we
+don't know what causes one thing to
+
+640
+00:14:47,210 --> 00:14:47,220
+don't know what causes one thing to
+ 
+
+641
+00:14:47,220 --> 00:14:49,310
+don't know what causes one thing to
+happen anything
+
+642
+00:14:49,310 --> 00:14:49,320
+happen anything
+ 
+
+643
+00:14:49,320 --> 00:14:51,829
+happen anything
+can produce anything that's his
+
+644
+00:14:51,829 --> 00:14:51,839
+can produce anything that's his
+ 
+
+645
+00:14:51,839 --> 00:14:53,150
+can produce anything that's his
+statement
+
+646
+00:14:53,150 --> 00:14:53,160
+statement
+ 
+
+647
+00:14:53,160 --> 00:14:55,370
+statement
+well if he's changing the word cause to
+
+648
+00:14:55,370 --> 00:14:55,380
+well if he's changing the word cause to
+ 
+
+649
+00:14:55,380 --> 00:14:57,050
+well if he's changing the word cause to
+production I'm not going to quibble with
+
+650
+00:14:57,050 --> 00:14:57,060
+production I'm not going to quibble with
+ 
+
+651
+00:14:57,060 --> 00:14:57,889
+production I'm not going to quibble with
+that
+
+652
+00:14:57,889 --> 00:14:57,899
+that
+ 
+
+653
+00:14:57,899 --> 00:15:01,550
+that
+what he is being skeptical about is our
+
+654
+00:15:01,550 --> 00:15:01,560
+what he is being skeptical about is our
+ 
+
+655
+00:15:01,560 --> 00:15:08,030
+what he is being skeptical about is our
+ability to perceive the exact cause of a
+
+656
+00:15:08,030 --> 00:15:08,040
+ability to perceive the exact cause of a
+ 
+
+657
+00:15:08,040 --> 00:15:09,769
+ability to perceive the exact cause of a
+certain action
+
+658
+00:15:09,769 --> 00:15:09,779
+certain action
+ 
+
+659
+00:15:09,779 --> 00:15:12,829
+certain action
+now note the difference between saying I
+
+660
+00:15:12,829 --> 00:15:12,839
+now note the difference between saying I
+ 
+
+661
+00:15:12,839 --> 00:15:15,710
+now note the difference between saying I
+don't know what causes that pool ball to
+
+662
+00:15:15,710 --> 00:15:15,720
+don't know what causes that pool ball to
+ 
+
+663
+00:15:15,720 --> 00:15:17,810
+don't know what causes that pool ball to
+move
+
+664
+00:15:17,810 --> 00:15:17,820
+move
+ 
+
+665
+00:15:17,820 --> 00:15:20,990
+move
+and saying
+
+666
+00:15:20,990 --> 00:15:21,000
+and saying
+ 
+
+667
+00:15:21,000 --> 00:15:22,189
+and saying
+nothing
+
+668
+00:15:22,189 --> 00:15:22,199
+nothing
+ 
+
+669
+00:15:22,199 --> 00:15:26,569
+nothing
+is causing the pool ball to move
+
+670
+00:15:26,569 --> 00:15:26,579
+is causing the pool ball to move
+ 
+
+671
+00:15:26,579 --> 00:15:30,290
+is causing the pool ball to move
+if I say I don't know what the cause is
+
+672
+00:15:30,290 --> 00:15:30,300
+if I say I don't know what the cause is
+ 
+
+673
+00:15:30,300 --> 00:15:34,189
+if I say I don't know what the cause is
+I'm being skeptical about my ability to
+
+674
+00:15:34,189 --> 00:15:34,199
+I'm being skeptical about my ability to
+ 
+
+675
+00:15:34,199 --> 00:15:37,370
+I'm being skeptical about my ability to
+have a direct and immediate experience
+
+676
+00:15:37,370 --> 00:15:37,380
+have a direct and immediate experience
+ 
+
+677
+00:15:37,380 --> 00:15:41,030
+have a direct and immediate experience
+of perceiving the actual cause nothing
+
+678
+00:15:41,030 --> 00:15:41,040
+of perceiving the actual cause nothing
+ 
+
+679
+00:15:41,040 --> 00:15:43,189
+of perceiving the actual cause nothing
+new there this was what the debate in
+
+680
+00:15:43,189 --> 00:15:43,199
+new there this was what the debate in
+ 
+
+681
+00:15:43,199 --> 00:15:45,110
+new there this was what the debate in
+the 17th century was all about as I've
+
+682
+00:15:45,110 --> 00:15:45,120
+the 17th century was all about as I've
+ 
+
+683
+00:15:45,120 --> 00:15:47,449
+the 17th century was all about as I've
+mentioned
+
+684
+00:15:47,449 --> 00:15:47,459
+mentioned
+ 
+
+685
+00:15:47,459 --> 00:15:49,490
+mentioned
+it's one thing to be skeptical with
+
+686
+00:15:49,490 --> 00:15:49,500
+it's one thing to be skeptical with
+ 
+
+687
+00:15:49,500 --> 00:15:52,610
+it's one thing to be skeptical with
+respect to pinpointing the exact cause
+
+688
+00:15:52,610 --> 00:15:52,620
+respect to pinpointing the exact cause
+ 
+
+689
+00:15:52,620 --> 00:15:54,829
+respect to pinpointing the exact cause
+it's another thing by going whole hog
+
+690
+00:15:54,829 --> 00:15:54,839
+it's another thing by going whole hog
+ 
+
+691
+00:15:54,839 --> 00:15:58,310
+it's another thing by going whole hog
+and saying there is no cause
+
+692
+00:15:58,310 --> 00:15:58,320
+and saying there is no cause
+ 
+
+693
+00:15:58,320 --> 00:16:02,210
+and saying there is no cause
+if we say there is no cause
+
+694
+00:16:02,210 --> 00:16:02,220
+if we say there is no cause
+ 
+
+695
+00:16:02,220 --> 00:16:03,650
+if we say there is no cause
+for an effect
+
+696
+00:16:03,650 --> 00:16:03,660
+for an effect
+ 
+
+697
+00:16:03,660 --> 00:16:07,250
+for an effect
+now we have made a nonsense statement
+
+698
+00:16:07,250 --> 00:16:07,260
+now we have made a nonsense statement
+ 
+
+699
+00:16:07,260 --> 00:16:09,769
+now we have made a nonsense statement
+at the rational level
+
+700
+00:16:09,769 --> 00:16:09,779
+at the rational level
+ 
+
+701
+00:16:09,779 --> 00:16:13,790
+at the rational level
+and our argument would be falsified
+
+702
+00:16:13,790 --> 00:16:13,800
+and our argument would be falsified
+ 
+
+703
+00:16:13,800 --> 00:16:16,970
+and our argument would be falsified
+so I think Hume has been given way too
+
+704
+00:16:16,970 --> 00:16:16,980
+so I think Hume has been given way too
+ 
+
+705
+00:16:16,980 --> 00:16:19,790
+so I think Hume has been given way too
+much credit or discredit for destroying
+
+706
+00:16:19,790 --> 00:16:19,800
+much credit or discredit for destroying
+ 
+
+707
+00:16:19,800 --> 00:16:23,090
+much credit or discredit for destroying
+causality what he did was destroyed our
+
+708
+00:16:23,090 --> 00:16:23,100
+causality what he did was destroyed our
+ 
+
+709
+00:16:23,100 --> 00:16:26,870
+causality what he did was destroyed our
+certainty about particular individual
+
+710
+00:16:26,870 --> 00:16:26,880
+certainty about particular individual
+ 
+
+711
+00:16:26,880 --> 00:16:30,769
+certainty about particular individual
+causes he's right we don't know that the
+
+712
+00:16:30,769 --> 00:16:30,779
+causes he's right we don't know that the
+ 
+
+713
+00:16:30,779 --> 00:16:34,790
+causes he's right we don't know that the
+grass gets wet because it rained
+
+714
+00:16:34,790 --> 00:16:34,800
+grass gets wet because it rained
+ 
+
+715
+00:16:34,800 --> 00:16:37,670
+grass gets wet because it rained
+because we have no direct perception of
+
+716
+00:16:37,670 --> 00:16:37,680
+because we have no direct perception of
+ 
+
+717
+00:16:37,680 --> 00:16:39,350
+because we have no direct perception of
+that cause
+
+718
+00:16:39,350 --> 00:16:39,360
+that cause
+ 
+
+719
+00:16:39,360 --> 00:16:41,749
+that cause
+but we do know this
+
+720
+00:16:41,749 --> 00:16:41,759
+but we do know this
+ 
+
+721
+00:16:41,759 --> 00:16:45,230
+but we do know this
+that if the wetness of the grass is in
+
+722
+00:16:45,230 --> 00:16:45,240
+that if the wetness of the grass is in
+ 
+
+723
+00:16:45,240 --> 00:16:47,810
+that if the wetness of the grass is in
+effect
+
+724
+00:16:47,810 --> 00:16:47,820
+
+ 
+
+725
+00:16:47,820 --> 00:16:49,430
+
+something
+
+726
+00:16:49,430 --> 00:16:49,440
+something
+ 
+
+727
+00:16:49,440 --> 00:16:51,050
+something
+has caused it
+
+728
+00:16:51,050 --> 00:16:51,060
+has caused it
+ 
+
+729
+00:16:51,060 --> 00:16:53,629
+has caused it
+and that becomes very important when we
+
+730
+00:16:53,629 --> 00:16:53,639
+and that becomes very important when we
+ 
+
+731
+00:16:53,639 --> 00:16:56,629
+and that becomes very important when we
+get back later on to Arguments for the
+
+732
+00:16:56,629 --> 00:16:56,639
+get back later on to Arguments for the
+ 
+
+733
+00:16:56,639 --> 00:16:58,370
+get back later on to Arguments for the
+existence of God
+
+734
+00:16:58,370 --> 00:16:58,380
+existence of God
+ 
+
+735
+00:16:58,380 --> 00:17:00,590
+existence of God
+because it's one thing for me to say I
+
+736
+00:17:00,590 --> 00:17:00,600
+because it's one thing for me to say I
+ 
+
+737
+00:17:00,600 --> 00:17:03,949
+because it's one thing for me to say I
+didn't perceive creation
+
+738
+00:17:03,949 --> 00:17:03,959
+didn't perceive creation
+ 
+
+739
+00:17:03,959 --> 00:17:07,730
+didn't perceive creation
+that doesn't mean there wasn't one
+
+740
+00:17:07,730 --> 00:17:07,740
+that doesn't mean there wasn't one
+ 
+
+741
+00:17:07,740 --> 00:17:10,189
+that doesn't mean there wasn't one
+I may not know how that effect was
+
+742
+00:17:10,189 --> 00:17:10,199
+I may not know how that effect was
+ 
+
+743
+00:17:10,199 --> 00:17:12,230
+I may not know how that effect was
+brought to pass
+
+744
+00:17:12,230 --> 00:17:12,240
+brought to pass
+ 
+
+745
+00:17:12,240 --> 00:17:15,409
+brought to pass
+but if it is in effect it has to have a
+
+746
+00:17:15,409 --> 00:17:15,419
+but if it is in effect it has to have a
+ 
+
+747
+00:17:15,419 --> 00:17:18,909
+but if it is in effect it has to have a
+cause that remains absolutely
+
+748
+00:17:18,909 --> 00:17:18,919
+cause that remains absolutely
+ 
+
+749
+00:17:18,919 --> 00:17:22,370
+cause that remains absolutely
+intellectually necessary but I'll save
+
+750
+00:17:22,370 --> 00:17:22,380
+intellectually necessary but I'll save
+ 
+
+751
+00:17:22,380 --> 00:17:24,710
+intellectually necessary but I'll save
+that for when we get to con now
+
+752
+00:17:24,710 --> 00:17:24,720
+that for when we get to con now
+ 
+
+753
+00:17:24,720 --> 00:17:26,809
+that for when we get to con now
+and the time that we have left for Hume
+
+754
+00:17:26,809 --> 00:17:26,819
+and the time that we have left for Hume
+ 
+
+755
+00:17:26,819 --> 00:17:30,470
+and the time that we have left for Hume
+I want to mention how his dialogue
+
+756
+00:17:30,470 --> 00:17:30,480
+I want to mention how his dialogue
+ 
+
+757
+00:17:30,480 --> 00:17:32,150
+I want to mention how his dialogue
+concerning natural
+
+758
+00:17:32,150 --> 00:17:32,160
+concerning natural
+ 
+
+759
+00:17:32,160 --> 00:17:33,710
+concerning natural
+uh
+
+760
+00:17:33,710 --> 00:17:33,720
+uh
+ 
+
+761
+00:17:33,720 --> 00:17:35,330
+uh
+religion
+
+762
+00:17:35,330 --> 00:17:35,340
+religion
+ 
+
+763
+00:17:35,340 --> 00:17:38,650
+religion
+has also been a forcible
+
+764
+00:17:38,650 --> 00:17:38,660
+has also been a forcible
+ 
+
+765
+00:17:38,660 --> 00:17:42,409
+has also been a forcible
+problem for Christians who argue for
+
+766
+00:17:42,409 --> 00:17:42,419
+problem for Christians who argue for
+ 
+
+767
+00:17:42,419 --> 00:17:44,029
+problem for Christians who argue for
+miracles
+
+768
+00:17:44,029 --> 00:17:44,039
+miracles
+ 
+
+769
+00:17:44,039 --> 00:17:46,730
+miracles
+you can't pick up the Bible and read the
+
+770
+00:17:46,730 --> 00:17:46,740
+you can't pick up the Bible and read the
+ 
+
+771
+00:17:46,740 --> 00:17:47,690
+you can't pick up the Bible and read the
+Bible
+
+772
+00:17:47,690 --> 00:17:47,700
+Bible
+ 
+
+773
+00:17:47,700 --> 00:17:51,710
+Bible
+without encountering claims of
+
+774
+00:17:51,710 --> 00:17:51,720
+without encountering claims of
+ 
+
+775
+00:17:51,720 --> 00:17:53,690
+without encountering claims of
+miraculous Deeds
+
+776
+00:17:53,690 --> 00:17:53,700
+miraculous Deeds
+ 
+
+777
+00:17:53,700 --> 00:17:56,150
+miraculous Deeds
+both in the Old Testament and in the New
+
+778
+00:17:56,150 --> 00:17:56,160
+both in the Old Testament and in the New
+ 
+
+779
+00:17:56,160 --> 00:17:58,490
+both in the Old Testament and in the New
+Testament the New Testament record of
+
+780
+00:17:58,490 --> 00:17:58,500
+Testament the New Testament record of
+ 
+
+781
+00:17:58,500 --> 00:18:02,810
+Testament the New Testament record of
+Jesus is the record of a miracle worker
+
+782
+00:18:02,810 --> 00:18:02,820
+Jesus is the record of a miracle worker
+ 
+
+783
+00:18:02,820 --> 00:18:06,529
+Jesus is the record of a miracle worker
+who finally is raised from the dead
+
+784
+00:18:06,529 --> 00:18:06,539
+who finally is raised from the dead
+ 
+
+785
+00:18:06,539 --> 00:18:09,650
+who finally is raised from the dead
+as a miraculous thing
+
+786
+00:18:09,650 --> 00:18:09,660
+as a miraculous thing
+ 
+
+787
+00:18:09,660 --> 00:18:12,890
+as a miraculous thing
+now Hume critiques miracles
+
+788
+00:18:12,890 --> 00:18:12,900
+now Hume critiques miracles
+ 
+
+789
+00:18:12,900 --> 00:18:15,650
+now Hume critiques miracles
+and in for the sake of time I'm going to
+
+790
+00:18:15,650 --> 00:18:15,660
+and in for the sake of time I'm going to
+ 
+
+791
+00:18:15,660 --> 00:18:18,230
+and in for the sake of time I'm going to
+get very simple about this basically
+
+792
+00:18:18,230 --> 00:18:18,240
+get very simple about this basically
+ 
+
+793
+00:18:18,240 --> 00:18:21,590
+get very simple about this basically
+what he is saying is this
+
+794
+00:18:21,590 --> 00:18:21,600
+
+ 
+
+795
+00:18:21,600 --> 00:18:24,650
+
+that any time there is an allegation or
+
+796
+00:18:24,650 --> 00:18:24,660
+that any time there is an allegation or
+ 
+
+797
+00:18:24,660 --> 00:18:25,850
+that any time there is an allegation or
+claim
+
+798
+00:18:25,850 --> 00:18:25,860
+claim
+ 
+
+799
+00:18:25,860 --> 00:18:29,330
+claim
+of a miracle
+
+800
+00:18:29,330 --> 00:18:29,340
+
+ 
+
+801
+00:18:29,340 --> 00:18:33,470
+
+a natural explanation for the miracle
+
+802
+00:18:33,470 --> 00:18:33,480
+a natural explanation for the miracle
+ 
+
+803
+00:18:33,480 --> 00:18:37,130
+a natural explanation for the miracle
+is much more reasonable
+
+804
+00:18:37,130 --> 00:18:37,140
+is much more reasonable
+ 
+
+805
+00:18:37,140 --> 00:18:41,570
+is much more reasonable
+than to believe the miracle claim itself
+
+806
+00:18:41,570 --> 00:18:41,580
+than to believe the miracle claim itself
+ 
+
+807
+00:18:41,580 --> 00:18:43,610
+than to believe the miracle claim itself
+let me say it again anytime there is an
+
+808
+00:18:43,610 --> 00:18:43,620
+let me say it again anytime there is an
+ 
+
+809
+00:18:43,620 --> 00:18:46,370
+let me say it again anytime there is an
+allegation or claim for a miracle a
+
+810
+00:18:46,370 --> 00:18:46,380
+allegation or claim for a miracle a
+ 
+
+811
+00:18:46,380 --> 00:18:50,330
+allegation or claim for a miracle a
+natural explanation for the event
+
+812
+00:18:50,330 --> 00:18:50,340
+natural explanation for the event
+ 
+
+813
+00:18:50,340 --> 00:18:52,909
+natural explanation for the event
+is always more reasonable
+
+814
+00:18:52,909 --> 00:18:52,919
+is always more reasonable
+ 
+
+815
+00:18:52,919 --> 00:18:54,230
+is always more reasonable
+than
+
+816
+00:18:54,230 --> 00:18:54,240
+than
+ 
+
+817
+00:18:54,240 --> 00:18:58,730
+than
+claiming Supernatural intervention
+
+818
+00:18:58,730 --> 00:18:58,740
+claiming Supernatural intervention
+ 
+
+819
+00:18:58,740 --> 00:19:01,070
+claiming Supernatural intervention
+because
+
+820
+00:19:01,070 --> 00:19:01,080
+because
+ 
+
+821
+00:19:01,080 --> 00:19:02,510
+because
+of
+
+822
+00:19:02,510 --> 00:19:02,520
+of
+ 
+
+823
+00:19:02,520 --> 00:19:07,789
+of
+the ordinary behavior of nature
+
+824
+00:19:07,789 --> 00:19:07,799
+the ordinary behavior of nature
+ 
+
+825
+00:19:07,799 --> 00:19:11,090
+the ordinary behavior of nature
+because of the customary relationships
+
+826
+00:19:11,090 --> 00:19:11,100
+because of the customary relationships
+ 
+
+827
+00:19:11,100 --> 00:19:13,970
+because of the customary relationships
+of nature for example the New Testament
+
+828
+00:19:13,970 --> 00:19:13,980
+of nature for example the New Testament
+ 
+
+829
+00:19:13,980 --> 00:19:16,850
+of nature for example the New Testament
+claims that Jesus died and rose again
+
+830
+00:19:16,850 --> 00:19:16,860
+claims that Jesus died and rose again
+ 
+
+831
+00:19:16,860 --> 00:19:19,010
+claims that Jesus died and rose again
+from the dead
+
+832
+00:19:19,010 --> 00:19:19,020
+from the dead
+ 
+
+833
+00:19:19,020 --> 00:19:21,830
+from the dead
+so what the miracle is claiming is
+
+834
+00:19:21,830 --> 00:19:21,840
+so what the miracle is claiming is
+ 
+
+835
+00:19:21,840 --> 00:19:26,150
+so what the miracle is claiming is
+something extraordinary
+
+836
+00:19:26,150 --> 00:19:26,160
+
+ 
+
+837
+00:19:26,160 --> 00:19:29,029
+
+in the literal sense extra
+
+838
+00:19:29,029 --> 00:19:29,039
+in the literal sense extra
+ 
+
+839
+00:19:29,039 --> 00:19:32,390
+in the literal sense extra
+ordinary why because what is the
+
+840
+00:19:32,390 --> 00:19:32,400
+ordinary why because what is the
+ 
+
+841
+00:19:32,400 --> 00:19:36,289
+ordinary why because what is the
+ordinary result of death
+
+842
+00:19:36,289 --> 00:19:36,299
+ordinary result of death
+ 
+
+843
+00:19:36,299 --> 00:19:41,930
+ordinary result of death
+people who die ordinarily stay dead
+
+844
+00:19:41,930 --> 00:19:41,940
+people who die ordinarily stay dead
+ 
+
+845
+00:19:41,940 --> 00:19:44,870
+people who die ordinarily stay dead
+and so he looks at this in terms of
+
+846
+00:19:44,870 --> 00:19:44,880
+and so he looks at this in terms of
+ 
+
+847
+00:19:44,880 --> 00:19:48,470
+and so he looks at this in terms of
+empirical analysis and he said we have
+
+848
+00:19:48,470 --> 00:19:48,480
+empirical analysis and he said we have
+ 
+
+849
+00:19:48,480 --> 00:19:51,350
+empirical analysis and he said we have
+not just thousands and not even just
+
+850
+00:19:51,350 --> 00:19:51,360
+not just thousands and not even just
+ 
+
+851
+00:19:51,360 --> 00:19:55,070
+not just thousands and not even just
+Millions but multi-millions of cases
+
+852
+00:19:55,070 --> 00:19:55,080
+Millions but multi-millions of cases
+ 
+
+853
+00:19:55,080 --> 00:20:00,110
+Millions but multi-millions of cases
+where people die and they stay dead
+
+854
+00:20:00,110 --> 00:20:00,120
+where people die and they stay dead
+ 
+
+855
+00:20:00,120 --> 00:20:03,590
+where people die and they stay dead
+so that the customary relationship of
+
+856
+00:20:03,590 --> 00:20:03,600
+so that the customary relationship of
+ 
+
+857
+00:20:03,600 --> 00:20:07,909
+so that the customary relationship of
+staying deadness following dying
+
+858
+00:20:07,909 --> 00:20:07,919
+staying deadness following dying
+ 
+
+859
+00:20:07,919 --> 00:20:12,049
+staying deadness following dying
+that customary relationship is
+
+860
+00:20:12,049 --> 00:20:12,059
+that customary relationship is
+ 
+
+861
+00:20:12,059 --> 00:20:14,450
+that customary relationship is
+astronomical
+
+862
+00:20:14,450 --> 00:20:14,460
+astronomical
+ 
+
+863
+00:20:14,460 --> 00:20:16,070
+astronomical
+in terms
+
+864
+00:20:16,070 --> 00:20:16,080
+in terms
+ 
+
+865
+00:20:16,080 --> 00:20:19,610
+in terms
+of its mathematical occurrence
+
+866
+00:20:19,610 --> 00:20:19,620
+of its mathematical occurrence
+ 
+
+867
+00:20:19,620 --> 00:20:23,110
+of its mathematical occurrence
+and so Hume applies what he calls the
+
+868
+00:20:23,110 --> 00:20:23,120
+and so Hume applies what he calls the
+ 
+
+869
+00:20:23,120 --> 00:20:27,470
+and so Hume applies what he calls the
+probability quotient
+
+870
+00:20:27,470 --> 00:20:27,480
+
+ 
+
+871
+00:20:27,480 --> 00:20:29,210
+
+to every
+
+872
+00:20:29,210 --> 00:20:29,220
+to every
+ 
+
+873
+00:20:29,220 --> 00:20:32,810
+to every
+particular claim for a miracle
+
+874
+00:20:32,810 --> 00:20:32,820
+particular claim for a miracle
+ 
+
+875
+00:20:32,820 --> 00:20:34,970
+particular claim for a miracle
+in simple language a probability
+
+876
+00:20:34,970 --> 00:20:34,980
+in simple language a probability
+ 
+
+877
+00:20:34,980 --> 00:20:38,210
+in simple language a probability
+quotient is the odds
+
+878
+00:20:38,210 --> 00:20:38,220
+quotient is the odds
+ 
+
+879
+00:20:38,220 --> 00:20:41,090
+quotient is the odds
+so here we have a book that tells us
+
+880
+00:20:41,090 --> 00:20:41,100
+so here we have a book that tells us
+ 
+
+881
+00:20:41,100 --> 00:20:45,470
+so here we have a book that tells us
+that this man lived and he died and he
+
+882
+00:20:45,470 --> 00:20:45,480
+that this man lived and he died and he
+ 
+
+883
+00:20:45,480 --> 00:20:47,450
+that this man lived and he died and he
+came back from the dead what are the
+
+884
+00:20:47,450 --> 00:20:47,460
+came back from the dead what are the
+ 
+
+885
+00:20:47,460 --> 00:20:49,370
+came back from the dead what are the
+odds
+
+886
+00:20:49,370 --> 00:20:49,380
+odds
+ 
+
+887
+00:20:49,380 --> 00:20:52,669
+odds
+the probability quotient given the
+
+888
+00:20:52,669 --> 00:20:52,679
+the probability quotient given the
+ 
+
+889
+00:20:52,679 --> 00:20:55,370
+the probability quotient given the
+customary relationships of the
+
+890
+00:20:55,370 --> 00:20:55,380
+customary relationships of the
+ 
+
+891
+00:20:55,380 --> 00:20:58,909
+customary relationships of the
+contiguous events of death and so on
+
+892
+00:20:58,909 --> 00:20:58,919
+contiguous events of death and so on
+ 
+
+893
+00:20:58,919 --> 00:21:02,029
+contiguous events of death and so on
+are astronomical in the probability
+
+894
+00:21:02,029 --> 00:21:02,039
+are astronomical in the probability
+ 
+
+895
+00:21:02,039 --> 00:21:04,549
+are astronomical in the probability
+quotient that such and such a thing
+
+896
+00:21:04,549 --> 00:21:04,559
+quotient that such and such a thing
+ 
+
+897
+00:21:04,559 --> 00:21:07,610
+quotient that such and such a thing
+really never took place
+
+898
+00:21:07,610 --> 00:21:07,620
+really never took place
+ 
+
+899
+00:21:07,620 --> 00:21:10,130
+really never took place
+now I have heard apologists for
+
+900
+00:21:10,130 --> 00:21:10,140
+now I have heard apologists for
+ 
+
+901
+00:21:10,140 --> 00:21:14,090
+now I have heard apologists for
+Christianity use arguments like this
+
+902
+00:21:14,090 --> 00:21:14,100
+Christianity use arguments like this
+ 
+
+903
+00:21:14,100 --> 00:21:15,529
+Christianity use arguments like this
+that
+
+904
+00:21:15,529 --> 00:21:15,539
+that
+ 
+
+905
+00:21:15,539 --> 00:21:17,810
+that
+the death of Jesus and his resurrected
+
+906
+00:21:17,810 --> 00:21:17,820
+the death of Jesus and his resurrected
+ 
+
+907
+00:21:17,820 --> 00:21:21,470
+the death of Jesus and his resurrected
+is reported by people
+
+908
+00:21:21,470 --> 00:21:21,480
+is reported by people
+ 
+
+909
+00:21:21,480 --> 00:21:24,289
+is reported by people
+who
+
+910
+00:21:24,289 --> 00:21:24,299
+
+ 
+
+911
+00:21:24,299 --> 00:21:28,310
+
+gave their lives
+
+912
+00:21:28,310 --> 00:21:28,320
+
+ 
+
+913
+00:21:28,320 --> 00:21:30,470
+
+for their conviction that he really rose
+
+914
+00:21:30,470 --> 00:21:30,480
+for their conviction that he really rose
+ 
+
+915
+00:21:30,480 --> 00:21:32,270
+for their conviction that he really rose
+from the dead
+
+916
+00:21:32,270 --> 00:21:32,280
+from the dead
+ 
+
+917
+00:21:32,280 --> 00:21:34,669
+from the dead
+or you'll hear this argument Jesus was
+
+918
+00:21:34,669 --> 00:21:34,679
+or you'll hear this argument Jesus was
+ 
+
+919
+00:21:34,679 --> 00:21:35,750
+or you'll hear this argument Jesus was
+either
+
+920
+00:21:35,750 --> 00:21:35,760
+either
+ 
+
+921
+00:21:35,760 --> 00:21:37,490
+either
+a liar
+
+922
+00:21:37,490 --> 00:21:37,500
+a liar
+ 
+
+923
+00:21:37,500 --> 00:21:39,169
+a liar
+he was deluded
+
+924
+00:21:39,169 --> 00:21:39,179
+he was deluded
+ 
+
+925
+00:21:39,179 --> 00:21:41,990
+he was deluded
+or he was who he said he was
+
+926
+00:21:41,990 --> 00:21:42,000
+or he was who he said he was
+ 
+
+927
+00:21:42,000 --> 00:21:43,789
+or he was who he said he was
+and then they'll go on and start
+
+928
+00:21:43,789 --> 00:21:43,799
+and then they'll go on and start
+ 
+
+929
+00:21:43,799 --> 00:21:46,430
+and then they'll go on and start
+eliminating all of the options until he
+
+930
+00:21:46,430 --> 00:21:46,440
+eliminating all of the options until he
+ 
+
+931
+00:21:46,440 --> 00:21:48,950
+eliminating all of the options until he
+was the way who he said he was and they
+
+932
+00:21:48,950 --> 00:21:48,960
+was the way who he said he was and they
+ 
+
+933
+00:21:48,960 --> 00:21:51,549
+was the way who he said he was and they
+eliminate the you know the idea of how
+
+934
+00:21:51,549 --> 00:21:51,559
+eliminate the you know the idea of how
+ 
+
+935
+00:21:51,559 --> 00:21:53,750
+eliminate the you know the idea of how
+incredible would be that these people
+
+936
+00:21:53,750 --> 00:21:53,760
+incredible would be that these people
+ 
+
+937
+00:21:53,760 --> 00:21:56,029
+incredible would be that these people
+would claim these Miracles and believe
+
+938
+00:21:56,029 --> 00:21:56,039
+would claim these Miracles and believe
+ 
+
+939
+00:21:56,039 --> 00:21:58,250
+would claim these Miracles and believe
+them at the risk of their life and limb
+
+940
+00:21:58,250 --> 00:21:58,260
+them at the risk of their life and limb
+ 
+
+941
+00:21:58,260 --> 00:22:02,390
+them at the risk of their life and limb
+and die as Martyrs and defense them well
+
+942
+00:22:02,390 --> 00:22:02,400
+and die as Martyrs and defense them well
+ 
+
+943
+00:22:02,400 --> 00:22:03,610
+and die as Martyrs and defense them well
+certainly
+
+944
+00:22:03,610 --> 00:22:03,620
+certainly
+ 
+
+945
+00:22:03,620 --> 00:22:06,950
+certainly
+uh that's an extraordinary thing
+
+946
+00:22:06,950 --> 00:22:06,960
+uh that's an extraordinary thing
+ 
+
+947
+00:22:06,960 --> 00:22:08,990
+uh that's an extraordinary thing
+to find people with the magnitude of
+
+948
+00:22:08,990 --> 00:22:09,000
+to find people with the magnitude of
+ 
+
+949
+00:22:09,000 --> 00:22:11,330
+to find people with the magnitude of
+faith and consistency of life that we
+
+950
+00:22:11,330 --> 00:22:11,340
+faith and consistency of life that we
+ 
+
+951
+00:22:11,340 --> 00:22:13,549
+faith and consistency of life that we
+find in the new possible in the New
+
+952
+00:22:13,549 --> 00:22:13,559
+find in the new possible in the New
+ 
+
+953
+00:22:13,559 --> 00:22:15,470
+find in the new possible in the New
+Testament records
+
+954
+00:22:15,470 --> 00:22:15,480
+Testament records
+ 
+
+955
+00:22:15,480 --> 00:22:17,990
+Testament records
+but beloved
+
+956
+00:22:17,990 --> 00:22:18,000
+but beloved
+ 
+
+957
+00:22:18,000 --> 00:22:22,370
+but beloved
+which is more extraordinary
+
+958
+00:22:22,370 --> 00:22:22,380
+
+ 
+
+959
+00:22:22,380 --> 00:22:24,950
+
+that somebody should die for a
+
+960
+00:22:24,950 --> 00:22:24,960
+that somebody should die for a
+ 
+
+961
+00:22:24,960 --> 00:22:27,110
+that somebody should die for a
+conviction
+
+962
+00:22:27,110 --> 00:22:27,120
+conviction
+ 
+
+963
+00:22:27,120 --> 00:22:29,270
+conviction
+or that somebody should come back from
+
+964
+00:22:29,270 --> 00:22:29,280
+or that somebody should come back from
+ 
+
+965
+00:22:29,280 --> 00:22:31,490
+or that somebody should come back from
+the dead
+
+966
+00:22:31,490 --> 00:22:31,500
+the dead
+ 
+
+967
+00:22:31,500 --> 00:22:34,490
+the dead
+which is more regular
+
+968
+00:22:34,490 --> 00:22:34,500
+which is more regular
+ 
+
+969
+00:22:34,500 --> 00:22:37,010
+which is more regular
+that a person who claims to be God
+
+970
+00:22:37,010 --> 00:22:37,020
+that a person who claims to be God
+ 
+
+971
+00:22:37,020 --> 00:22:38,330
+that a person who claims to be God
+incarnate
+
+972
+00:22:38,330 --> 00:22:38,340
+incarnate
+ 
+
+973
+00:22:38,340 --> 00:22:41,510
+incarnate
+is nuts or a liar
+
+974
+00:22:41,510 --> 00:22:41,520
+is nuts or a liar
+ 
+
+975
+00:22:41,520 --> 00:22:43,630
+is nuts or a liar
+or that he really is
+
+976
+00:22:43,630 --> 00:22:43,640
+or that he really is
+ 
+
+977
+00:22:43,640 --> 00:22:46,190
+or that he really is
+if you really want to weigh these things
+
+978
+00:22:46,190 --> 00:22:46,200
+if you really want to weigh these things
+ 
+
+979
+00:22:46,200 --> 00:22:49,310
+if you really want to weigh these things
+on the basis of probability quotients
+
+980
+00:22:49,310 --> 00:22:49,320
+on the basis of probability quotients
+ 
+
+981
+00:22:49,320 --> 00:22:53,090
+on the basis of probability quotients
+against normalcy these arguments fall
+
+982
+00:22:53,090 --> 00:22:53,100
+against normalcy these arguments fall
+ 
+
+983
+00:22:53,100 --> 00:22:56,570
+against normalcy these arguments fall
+dead by their own weight
+
+984
+00:22:56,570 --> 00:22:56,580
+dead by their own weight
+ 
+
+985
+00:22:56,580 --> 00:22:57,830
+dead by their own weight
+now
+
+986
+00:22:57,830 --> 00:22:57,840
+now
+ 
+
+987
+00:22:57,840 --> 00:23:00,110
+now
+the problem that the human gets himself
+
+988
+00:23:00,110 --> 00:23:00,120
+the problem that the human gets himself
+ 
+
+989
+00:23:00,120 --> 00:23:02,330
+the problem that the human gets himself
+into is that one of his chief critiques
+
+990
+00:23:02,330 --> 00:23:02,340
+into is that one of his chief critiques
+ 
+
+991
+00:23:02,340 --> 00:23:05,450
+into is that one of his chief critiques
+of Miracles is that a miracle cannot
+
+992
+00:23:05,450 --> 00:23:05,460
+of Miracles is that a miracle cannot
+ 
+
+993
+00:23:05,460 --> 00:23:08,270
+of Miracles is that a miracle cannot
+believe be believed because it
+
+994
+00:23:08,270 --> 00:23:08,280
+believe be believed because it
+ 
+
+995
+00:23:08,280 --> 00:23:11,630
+believe be believed because it
+postulates a unique event
+
+996
+00:23:11,630 --> 00:23:11,640
+postulates a unique event
+ 
+
+997
+00:23:11,640 --> 00:23:15,250
+postulates a unique event
+a unique event that is different from
+
+998
+00:23:15,250 --> 00:23:15,260
+a unique event that is different from
+ 
+
+999
+00:23:15,260 --> 00:23:18,710
+a unique event that is different from
+all these repeated occurrences of
+
+1000
+00:23:18,710 --> 00:23:18,720
+all these repeated occurrences of
+ 
+
+1001
+00:23:18,720 --> 00:23:20,930
+all these repeated occurrences of
+customary relationships
+
+1002
+00:23:20,930 --> 00:23:20,940
+customary relationships
+ 
+
+1003
+00:23:20,940 --> 00:23:23,149
+customary relationships
+again if it happens 10 billion times
+
+1004
+00:23:23,149 --> 00:23:23,159
+again if it happens 10 billion times
+ 
+
+1005
+00:23:23,159 --> 00:23:26,390
+again if it happens 10 billion times
+that a person dies then they stay dead
+
+1006
+00:23:26,390 --> 00:23:26,400
+that a person dies then they stay dead
+ 
+
+1007
+00:23:26,400 --> 00:23:28,730
+that a person dies then they stay dead
+and then all of a sudden somebody claims
+
+1008
+00:23:28,730 --> 00:23:28,740
+and then all of a sudden somebody claims
+ 
+
+1009
+00:23:28,740 --> 00:23:30,950
+and then all of a sudden somebody claims
+to have come back from the dead that
+
+1010
+00:23:30,950 --> 00:23:30,960
+to have come back from the dead that
+ 
+
+1011
+00:23:30,960 --> 00:23:33,110
+to have come back from the dead that
+would be a unique event and anything
+
+1012
+00:23:33,110 --> 00:23:33,120
+would be a unique event and anything
+ 
+
+1013
+00:23:33,120 --> 00:23:35,690
+would be a unique event and anything
+that claims to be a unique event is out
+
+1014
+00:23:35,690 --> 00:23:35,700
+that claims to be a unique event is out
+ 
+
+1015
+00:23:35,700 --> 00:23:38,570
+that claims to be a unique event is out
+of here has to be dismissed
+
+1016
+00:23:38,570 --> 00:23:38,580
+of here has to be dismissed
+ 
+
+1017
+00:23:38,580 --> 00:23:41,870
+of here has to be dismissed
+as being astronomically improbable
+
+1018
+00:23:41,870 --> 00:23:41,880
+as being astronomically improbable
+ 
+
+1019
+00:23:41,880 --> 00:23:44,390
+as being astronomically improbable
+what's wrong with that
+
+1020
+00:23:44,390 --> 00:23:44,400
+what's wrong with that
+ 
+
+1021
+00:23:44,400 --> 00:23:46,789
+what's wrong with that
+well we would isolate that or recognize
+
+1022
+00:23:46,789 --> 00:23:46,799
+well we would isolate that or recognize
+ 
+
+1023
+00:23:46,799 --> 00:23:50,450
+well we would isolate that or recognize
+it as an ice as a unique event
+
+1024
+00:23:50,450 --> 00:23:50,460
+it as an ice as a unique event
+ 
+
+1025
+00:23:50,460 --> 00:23:56,930
+it as an ice as a unique event
+on the basis of say a hundred million
+
+1026
+00:23:56,930 --> 00:23:56,940
+
+ 
+
+1027
+00:23:56,940 --> 00:23:59,149
+
+similar events
+
+1028
+00:23:59,149 --> 00:23:59,159
+similar events
+ 
+
+1029
+00:23:59,159 --> 00:24:02,090
+similar events
+that would differ from this one
+
+1030
+00:24:02,090 --> 00:24:02,100
+that would differ from this one
+ 
+
+1031
+00:24:02,100 --> 00:24:04,310
+that would differ from this one
+well how do you get 100 million
+
+1032
+00:24:04,310 --> 00:24:04,320
+well how do you get 100 million
+ 
+
+1033
+00:24:04,320 --> 00:24:07,430
+well how do you get 100 million
+similar events
+
+1034
+00:24:07,430 --> 00:24:07,440
+
+ 
+
+1035
+00:24:07,440 --> 00:24:10,070
+
+how do you get from one
+
+1036
+00:24:10,070 --> 00:24:10,080
+how do you get from one
+ 
+
+1037
+00:24:10,080 --> 00:24:13,789
+how do you get from one
+to 100 million
+
+1038
+00:24:13,789 --> 00:24:13,799
+
+ 
+
+1039
+00:24:13,799 --> 00:24:15,289
+
+you have to count
+
+1040
+00:24:15,289 --> 00:24:15,299
+you have to count
+ 
+
+1041
+00:24:15,299 --> 00:24:18,470
+you have to count
+you have to add them up right
+
+1042
+00:24:18,470 --> 00:24:18,480
+you have to add them up right
+ 
+
+1043
+00:24:18,480 --> 00:24:21,470
+you have to add them up right
+so the first guy in the world that lives
+
+1044
+00:24:21,470 --> 00:24:21,480
+so the first guy in the world that lives
+ 
+
+1045
+00:24:21,480 --> 00:24:24,590
+so the first guy in the world that lives
+and dies and stay dead that's example
+
+1046
+00:24:24,590 --> 00:24:24,600
+and dies and stay dead that's example
+ 
+
+1047
+00:24:24,600 --> 00:24:27,350
+and dies and stay dead that's example
+number one that's exhibit a
+
+1048
+00:24:27,350 --> 00:24:27,360
+number one that's exhibit a
+ 
+
+1049
+00:24:27,360 --> 00:24:29,930
+number one that's exhibit a
+the second guy that dies is the second
+
+1050
+00:24:29,930 --> 00:24:29,940
+the second guy that dies is the second
+ 
+
+1051
+00:24:29,940 --> 00:24:31,610
+the second guy that dies is the second
+one and you do that all the way up to
+
+1052
+00:24:31,610 --> 00:24:31,620
+one and you do that all the way up to
+ 
+
+1053
+00:24:31,620 --> 00:24:34,310
+one and you do that all the way up to
+100 million what's wrong with this
+
+1054
+00:24:34,310 --> 00:24:34,320
+100 million what's wrong with this
+ 
+
+1055
+00:24:34,320 --> 00:24:38,029
+100 million what's wrong with this
+well remember the first guy that died
+
+1056
+00:24:38,029 --> 00:24:38,039
+well remember the first guy that died
+ 
+
+1057
+00:24:38,039 --> 00:24:40,610
+well remember the first guy that died
+was a unique event
+
+1058
+00:24:40,610 --> 00:24:40,620
+was a unique event
+ 
+
+1059
+00:24:40,620 --> 00:24:43,610
+was a unique event
+and so we can't count it
+
+1060
+00:24:43,610 --> 00:24:43,620
+and so we can't count it
+ 
+
+1061
+00:24:43,620 --> 00:24:46,130
+and so we can't count it
+doesn't count
+
+1062
+00:24:46,130 --> 00:24:46,140
+doesn't count
+ 
+
+1063
+00:24:46,140 --> 00:24:48,230
+doesn't count
+because it's Unique
+
+1064
+00:24:48,230 --> 00:24:48,240
+because it's Unique
+ 
+
+1065
+00:24:48,240 --> 00:24:51,169
+because it's Unique
+now the second guy dies
+
+1066
+00:24:51,169 --> 00:24:51,179
+now the second guy dies
+ 
+
+1067
+00:24:51,179 --> 00:24:52,909
+now the second guy dies
+well
+
+1068
+00:24:52,909 --> 00:24:52,919
+well
+ 
+
+1069
+00:24:52,919 --> 00:24:56,330
+well
+what about now it's not unique is it yes
+
+1070
+00:24:56,330 --> 00:24:56,340
+what about now it's not unique is it yes
+ 
+
+1071
+00:24:56,340 --> 00:24:58,430
+what about now it's not unique is it yes
+it is because the first one has already
+
+1072
+00:24:58,430 --> 00:24:58,440
+it is because the first one has already
+ 
+
+1073
+00:24:58,440 --> 00:24:59,810
+it is because the first one has already
+been discounted
+
+1074
+00:24:59,810 --> 00:24:59,820
+been discounted
+ 
+
+1075
+00:24:59,820 --> 00:25:04,190
+been discounted
+so the second death is a new unique
+
+1076
+00:25:04,190 --> 00:25:04,200
+so the second death is a new unique
+ 
+
+1077
+00:25:04,200 --> 00:25:05,029
+so the second death is a new unique
+event
+
+1078
+00:25:05,029 --> 00:25:05,039
+event
+ 
+
+1079
+00:25:05,039 --> 00:25:07,070
+event
+so that can't you can't have number two
+
+1080
+00:25:07,070 --> 00:25:07,080
+so that can't you can't have number two
+ 
+
+1081
+00:25:07,080 --> 00:25:09,110
+so that can't you can't have number two
+and following this Lodge you can't have
+
+1082
+00:25:09,110 --> 00:25:09,120
+and following this Lodge you can't have
+ 
+
+1083
+00:25:09,120 --> 00:25:10,909
+and following this Lodge you can't have
+three four five six seven eight all the
+
+1084
+00:25:10,909 --> 00:25:10,919
+three four five six seven eight all the
+ 
+
+1085
+00:25:10,919 --> 00:25:12,649
+three four five six seven eight all the
+way up to 100 million
+
+1086
+00:25:12,649 --> 00:25:12,659
+way up to 100 million
+ 
+
+1087
+00:25:12,659 --> 00:25:15,649
+way up to 100 million
+what this does simply is rule out of
+
+1088
+00:25:15,649 --> 00:25:15,659
+what this does simply is rule out of
+ 
+
+1089
+00:25:15,659 --> 00:25:18,470
+what this does simply is rule out of
+possibility all events
+
+1090
+00:25:18,470 --> 00:25:18,480
+possibility all events
+ 
+
+1091
+00:25:18,480 --> 00:25:20,830
+possibility all events
+because all events in a certain sense
+
+1092
+00:25:20,830 --> 00:25:20,840
+because all events in a certain sense
+ 
+
+1093
+00:25:20,840 --> 00:25:24,769
+because all events in a certain sense
+are unique well our time is up I'll talk
+
+1094
+00:25:24,769 --> 00:25:24,779
+are unique well our time is up I'll talk
+ 
+
+1095
+00:25:24,779 --> 00:25:26,750
+are unique well our time is up I'll talk
+just a little bit more about this in our
+
+1096
+00:25:26,750 --> 00:25:26,760
+just a little bit more about this in our
+ 
+
+1097
+00:25:26,760 --> 00:25:29,690
+just a little bit more about this in our
+next session as we introduce the most
+
+1098
+00:25:29,690 --> 00:25:29,700
+next session as we introduce the most
+ 
+
+1099
+00:25:29,700 --> 00:25:32,269
+next session as we introduce the most
+pivotal character of this whole period
+
+1100
+00:25:32,269 --> 00:25:32,279
+pivotal character of this whole period
+ 
+
+1101
+00:25:32,279 --> 00:25:35,360
+pivotal character of this whole period
+Emmanuel Kant
+
